@@ -412,3 +412,79 @@ feeds:
     url: "https://mvsusports.com/rss.aspx?path=wsoc"
     category: "Sports"
     enabled: true
+
+  # Alcorn State University Braves Feeds
+  - name: "Alcorn Baseball"
+    url: "https://alcornsports.com/rss.aspx?path=baseball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Alcorn Men's Basketball"
+    url: "https://alcornsports.com/rss.aspx?path=mbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Alcorn Women's Basketball"
+    url: "https://alcornsports.com/rss.aspx?path=wbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Alcorn Football"
+    url: "https://alcornsports.com/rss.aspx?path=football"
+    category: "Sports"
+    enabled: true
+
+  - name: "Alcorn Men's Golf"
+    url: "https://alcornsports.com/rss.aspx?path=mgolf"
+    category: "Sports"
+    enabled: true
+
+  - name: "Alcorn Women's Golf"
+    url: "https://alcornsports.com/rss.aspx?path=wgolf"
+    category: "Sports"
+    enabled: true
+
+  - name: "Alcorn Women's Soccer"
+    url: "https://alcornsports.com/rss.aspx?path=wsoc"
+    category: "Sports"
+    enabled: true
+
+  - name: "Alcorn Softball"
+    url: "https://alcornsports.com/rss.aspx?path=softball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Alcorn Men's Tennis"
+    url: "https://alcornsports.com/rss.aspx?path=mten"
+    category: "Sports"
+    enabled: true
+
+  - name: "Alcorn Women's Tennis"
+    url: "https://alcornsports.com/rss.aspx?path=wten"
+    category: "Sports"
+    enabled: true
+
+  - name: "Alcorn Men's Track & Field"
+    url: "https://alcornsports.com/rss.aspx?path=mtrack"
+    category: "Sports"
+    enabled: true
+
+  - name: "Alcorn Women's Track & Field"
+    url: "https://alcornsports.com/rss.aspx?path=wtrack"
+    category: "Sports"
+    enabled: true
+
+  - name: "Alcorn Volleyball"
+    url: "https://alcornsports.com/rss.aspx?path=wvball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Alcorn Men's Cross Country"
+    url: "https://alcornsports.com/rss.aspx?path=mcross"
+    category: "Sports"
+    enabled: true
+
+  - name: "Alcorn Women's Cross Country"
+    url: "https://alcornsports.com/rss.aspx?path=wcross"
+    category: "Sports"
+    enabled: true
