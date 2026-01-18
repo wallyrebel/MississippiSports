@@ -407,7 +407,8 @@ def process_entry(
                 image_alt = title[:100]
 
     # Fallback to stock photos
-    if not image_url:
+    # Fallback to stock photos only if no image found yet
+    if not image_result:
         fallback = find_fallback_image(
             title=title,
             feed_name=feed_config.name,
@@ -418,13 +419,16 @@ def process_entry(
             logger.info("using_fallback_image", source=fallback["source"])
             image_result = download_image(fallback["url"])
             if image_result:
-                image_bytes, filename, _ = image_result
                 image_alt = fallback["alt_text"]
             else:
                 fallback = None
 
         if not fallback:
             logger.warning("no_image_available", title=title[:50])
+
+    # Unpack image result for upload
+    if image_result:
+        image_bytes, filename, _ = image_result
 
     # Upload image to WordPress
     if not dry_run and wp_client and image_result:
