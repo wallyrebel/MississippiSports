@@ -420,10 +420,18 @@ def process_entry(
     if not dry_run and wp_client and feed_config.default_category:
         category_id = wp_client.get_or_create_category(feed_config.default_category)
 
-    # Get/create tags
+    # Get/create tags - prefer AI-generated tags, fall back to defaults
     tag_ids = []
-    if not dry_run and wp_client and feed_config.default_tags:
-        tag_ids = wp_client.get_or_create_tags(feed_config.default_tags)
+    if not dry_run and wp_client:
+        # Use AI-generated tags from the rewritten content
+        ai_tags = rewritten.get("tags", [])
+        if ai_tags and isinstance(ai_tags, list):
+            # Combine AI tags with any default tags
+            all_tags = list(set(ai_tags + (feed_config.default_tags or [])))
+            tag_ids = wp_client.get_or_create_tags(all_tags)
+            logger.info("using_ai_generated_tags", tags=all_tags)
+        elif feed_config.default_tags:
+            tag_ids = wp_client.get_or_create_tags(feed_config.default_tags)
 
     # Create post
     if dry_run:

@@ -33,8 +33,16 @@ You must respond with valid JSON in this exact format:
 {
     "headline": "Short, compelling headline in AP style",
     "excerpt": "One to two sentence summary for preview",
-    "body": "Full article body in HTML format with <p> tags for paragraphs"
+    "body": "Full article body in HTML format with <p> tags for paragraphs",
+    "tags": ["tag1", "tag2", "tag3"]
 }
+
+TAG RULES:
+- Generate 3-5 relevant tags based on the article content
+- Include: team names, sport type, player names mentioned, event type
+- Examples: "William Carey", "Basketball", "Women's Basketball", "SSAC", player names
+- Tags should be capitalized properly
+- Do NOT include generic tags like "sports" or "news"
 
 IMPORTANT:
 - The body should be 3-6 paragraphs
@@ -212,6 +220,7 @@ Remember to respond with valid JSON containing headline, excerpt, and body."""
                 "headline": data["headline"].strip(),
                 "excerpt": data.get("excerpt", "").strip(),
                 "body": data["body"].strip(),
+                "tags": data.get("tags", []),  # Article-specific tags from AI
             }
 
         except json.JSONDecodeError as e:
