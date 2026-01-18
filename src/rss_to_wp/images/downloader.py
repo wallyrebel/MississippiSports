@@ -91,28 +91,51 @@ def _extract_filename(url: str, content_type: str) -> str:
     Returns:
         Filename string.
     """
-    # Try to get from URL path
+    valid_exts = {".jpg", ".jpeg", ".png", ".gif", ".webp", ".bmp"}
+    
     parsed = urlparse(url)
+    
+    # 1. Try to get from URL path if it has a valid image extension
     path = parsed.path
-
-    # Get the last path component
     if path:
-        filename = path.split("/")[-1]
-        # Clean up query strings etc
-        filename = filename.split("?")[0]
+        filename = path.split("/")[-1].split("?")[0]
         if filename and "." in filename:
-            return filename
+            ext = "." + filename.rsplit(".", 1)[-1].lower()
+            if ext in valid_exts:
+                return filename
 
-    # Generate based on content type
+    # 2. Try to find extension in query string (e.g., image_path=...jpg)
+    if parsed.query:
+        # Look for common patterns like .jpg in the query
+        for part in parsed.query.split("&"):
+            if "=" in part:
+                value = part.split("=", 1)[1]
+                # If value is a path/url, get the end
+                if "/" in value:
+                    value = value.split("/")[-1]
+                
+                if "." in value:
+                    ext = "." + value.rsplit(".", 1)[-1].lower()
+                    if ext in valid_exts:
+                        return value
+
+    # 3. Generate based on content type
     ext_map = {
         "image/jpeg": ".jpg",
         "image/png": ".png",
         "image/gif": ".gif",
         "image/webp": ".webp",
+        "image/bmp": ".bmp",
     }
+    # Clean content type (remove charset etc)
+    content_type = content_type.split(";")[0].strip().lower()
     ext = ext_map.get(content_type, ".jpg")
 
-    return f"featured-image{ext}"
+    # Use a hash of the URL to ensure uniqueness but consistency
+    import hashlib
+    url_hash = hashlib.md5(url.encode()).hexdigest()[:10]
+    return f"featured-image-{url_hash}{ext}"
+
 
 
 def extract_keywords(text: str, max_words: int = 5) -> str:
