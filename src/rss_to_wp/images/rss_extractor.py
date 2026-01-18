@@ -25,9 +25,123 @@ IMAGE_MIME_TYPES = {
     "image/bmp",
 }
 
+# BLOCKED domains - never use images from these (ads, adult, tracking, etc.)
+BLOCKED_IMAGE_DOMAINS = {
+    # Ad networks
+    "doubleclick.net",
+    "googlesyndication.com",
+    "googleadservices.com",
+    "adnxs.com",
+    "adsrvr.org",
+    "amazon-adsystem.com",
+    "advertising.com",
+    "pubmatic.com",
+    "rubiconproject.com",
+    "criteo.com",
+    "taboola.com",
+    "outbrain.com",
+    # Tracking
+    "facebook.com",
+    "facebook.net",
+    "twitter.com",
+    "analytics",
+    "pixel",
+    "beacon",
+    "tracking",
+    # Adult/inappropriate
+    "adult",
+    "xxx",
+    "porn",
+    "nsfw",
+    # Generic ad patterns
+    "ads.",
+    "ad.",
+    "banner",
+    "sponsor",
+    # Stock photo sites (we'll use Pexels directly for fallback)
+    "shutterstock",
+    "istockphoto",
+    "gettyimages",
+}
+
+
+def is_image_domain_blocked(url: str) -> bool:
+    """Check if image URL is from a blocked domain.
+    
+    Args:
+        url: URL to check.
+        
+    Returns:
+        True if domain is blocked, False if safe.
+    """
+    if not url:
+        return True
+    
+    try:
+        url_lower = url.lower()
+        for blocked in BLOCKED_IMAGE_DOMAINS:
+            if blocked in url_lower:
+                logger.debug("blocked_image_domain", url=url, blocked_pattern=blocked)
+                return True
+        return False
+    except Exception:
+        return True
+
+
+def is_same_domain(source_url: str, image_url: str) -> bool:
+    """Check if image URL is from the same domain as source.
+    
+    Args:
+        source_url: The article source URL.
+        image_url: The image URL to validate.
+        
+    Returns:
+        True if same domain or trusted subdomain.
+    """
+    if not source_url or not image_url:
+        return False
+        
+    try:
+        source_parsed = urlparse(source_url)
+        image_parsed = urlparse(image_url)
+        
+        source_domain = source_parsed.netloc.lower()
+        image_domain = image_parsed.netloc.lower()
+        
+        # Remove www. prefix for comparison
+        source_domain = source_domain.replace("www.", "")
+        image_domain = image_domain.replace("www.", "")
+        
+        # Exact match
+        if source_domain == image_domain:
+            return True
+        
+        # Allow subdomains (e.g., images.example.com for example.com)
+        if image_domain.endswith("." + source_domain):
+            return True
+        
+        # Allow CDN patterns for known athletics sites
+        trusted_cdn_patterns = [
+            ("careyathletics.com", "sidearm"),  # Sidearm Sports CDN
+            ("careyathletics.com", "sidearmsports"),
+            ("careyathletics.com", "prestosports"),
+        ]
+        
+        for site, cdn_pattern in trusted_cdn_patterns:
+            if site in source_domain and cdn_pattern in image_domain:
+                return True
+        
+        return False
+        
+    except Exception:
+        return False
+
 
 def scrape_image_from_url(url: str) -> Optional[str]:
     """Scrape the main image from a source article URL.
+    
+    SAFETY: Only returns images from the SAME DOMAIN as the article.
+    This prevents pulling ad images or inappropriate content from other domains.
     
     Checks og:image meta tags and common image patterns.
     
@@ -59,28 +173,32 @@ def scrape_image_from_url(url: str) -> Optional[str]:
         og_image = soup.find("meta", property="og:image")
         if og_image and og_image.get("content"):
             image_url = og_image["content"]
-            if is_valid_image_url(image_url):
+            # Validate: same domain and not blocked
+            if is_valid_image_url(image_url) and is_same_domain(url, image_url) and not is_image_domain_blocked(image_url):
                 logger.info("found_og_image", url=image_url)
                 return image_url
+            else:
+                logger.debug("og_image_rejected", image_url=image_url, reason="domain mismatch or blocked")
         
         # 2. Check twitter:image meta tag
         twitter_image = soup.find("meta", attrs={"name": "twitter:image"})
         if twitter_image and twitter_image.get("content"):
             image_url = twitter_image["content"]
-            if is_valid_image_url(image_url):
+            if is_valid_image_url(image_url) and is_same_domain(url, image_url) and not is_image_domain_blocked(image_url):
                 logger.info("found_twitter_image", url=image_url)
                 return image_url
         
         # 3. Look for featured/hero images in common athletics site patterns
+        # Only from same domain
         hero_selectors = [
             ".hero-image img",
             ".featured-image img",
             ".article-image img",
             ".story-image img",
-            "article img",
             ".post-thumbnail img",
             ".wp-post-image",
             "figure img",
+            "article img",
         ]
         
         for selector in hero_selectors:
@@ -91,11 +209,13 @@ def scrape_image_from_url(url: str) -> Optional[str]:
                     # Resolve relative URLs
                     if not src.startswith(("http://", "https://")):
                         src = urljoin(url, src)
-                    if is_valid_image_url(src):
+                    
+                    # Validate: same domain and not blocked
+                    if is_valid_image_url(src) and is_same_domain(url, src) and not is_image_domain_blocked(src):
                         logger.info("found_hero_image", url=src, selector=selector)
                         return src
         
-        logger.debug("no_image_found_in_source", url=url)
+        logger.debug("no_safe_image_found_in_source", url=url)
         return None
         
     except requests.RequestException as e:

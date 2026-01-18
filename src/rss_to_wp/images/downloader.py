@@ -163,6 +163,7 @@ def find_fallback_image(
 ) -> Optional[dict]:
     """Find a fallback image from stock photo providers.
 
+    Uses sport-specific search terms for athletics content.
     Tries Pexels first, then Unsplash.
 
     Args:
@@ -178,13 +179,44 @@ def find_fallback_image(
         logger.warning("no_fallback_providers_configured")
         return None
 
-    # Build search query from title and feed name
-    query = extract_keywords(f"{title} {feed_name}")
-
-    if not query:
-        query = "news"  # Fallback to generic news
-
-    logger.info("fallback_image_search", query=query)
+    # Detect sport from title and feed name for better search
+    combined_text = f"{title} {feed_name}".lower()
+    
+    # Sport-specific keywords mapping
+    sport_queries = {
+        "basketball": ["basketball", "mbball", "wbball", "hoops"],
+        "baseball": ["baseball"],
+        "softball": ["softball"],
+        "football": ["football"],
+        "soccer": ["soccer", "msoc", "wsoc"],
+        "volleyball": ["volleyball", "vball"],
+        "tennis": ["tennis", "mten", "wten"],
+        "golf": ["golf", "mgolf", "wgolf"],
+        "track": ["track", "mtrack", "wtrack", "cross country", "mcross", "wcross"],
+        "swimming": ["swimming", "swim"],
+    }
+    
+    # Find matching sport
+    detected_sport = None
+    for sport, keywords in sport_queries.items():
+        for keyword in keywords:
+            if keyword in combined_text:
+                detected_sport = sport
+                break
+        if detected_sport:
+            break
+    
+    # Build search query based on detected sport
+    if detected_sport:
+        # Use sport-specific search for cleaner results
+        query = f"college {detected_sport} sport"
+        logger.info("fallback_image_sport_search", query=query, detected_sport=detected_sport)
+    else:
+        # Fall back to generic sports or extracted keywords
+        query = extract_keywords(f"{title} {feed_name}")
+        if not query:
+            query = "college sports athletics"
+        logger.info("fallback_image_search", query=query)
 
     # Try Pexels first (more generous rate limit)
     if pexels_key:
@@ -208,3 +240,4 @@ def find_fallback_image(
 
     logger.warning("no_fallback_image_found", query=query)
     return None
+
