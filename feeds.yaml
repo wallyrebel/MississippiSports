@@ -249,44 +249,53 @@ feeds:
   - name: "NEMCC All Sports"
     url: "https://www.nemccathletics.com/landing/headlines-featured?feed=rss_2.0"
     category: "Sports"
+    default_image: "assets/nemcc_logo.jpg"
     enabled: true
 
   - name: "NEMCC Baseball"
     url: "https://www.nemccathletics.com/sports/bsb/headlines-featured?feed=rss_2.0"
     category: "Sports"
+    default_image: "assets/nemcc_logo.jpg"
     enabled: true
 
   - name: "NEMCC Men's Basketball"
     url: "https://www.nemccathletics.com/sports/mbkb/headlines-featured?feed=rss_2.0"
     category: "Sports"
+    default_image: "assets/nemcc_logo.jpg"
     enabled: true
 
   - name: "NEMCC Women's Basketball"
     url: "https://www.nemccathletics.com/sports/wbkb/headlines-featured?feed=rss_2.0"
     category: "Sports"
+    default_image: "assets/nemcc_logo.jpg"
     enabled: true
 
   - name: "NEMCC Football"
     url: "https://www.nemccathletics.com/sports/fball/headlines-featured?feed=rss_2.0"
     category: "Sports"
+    default_image: "assets/nemcc_logo.jpg"
     enabled: true
 
   - name: "NEMCC Men's Golf"
     url: "https://www.nemccathletics.com/sports/mgolf/headlines-featured?feed=rss_2.0"
     category: "Sports"
+    default_image: "assets/nemcc_logo.jpg"
     enabled: true
 
   - name: "NEMCC Men's Tennis"
     url: "https://www.nemccathletics.com/sports/mten/headlines-featured?feed=rss_2.0"
     category: "Sports"
+    default_image: "assets/nemcc_logo.jpg"
     enabled: true
 
   - name: "NEMCC Women's Tennis"
     url: "https://www.nemccathletics.com/sports/wten/headlines-featured?feed=rss_2.0"
     category: "Sports"
+    default_image: "assets/nemcc_logo.jpg"
     enabled: true
 
   - name: "NEMCC Softball"
     url: "https://www.nemccathletics.com/sports/sball/headlines-featured?feed=rss_2.0"
     category: "Sports"
+    default_image: "assets/nemcc_logo.jpg"
     enabled: true

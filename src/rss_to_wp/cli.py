@@ -169,6 +169,7 @@ def run(
                 dry_run=dry_run,
                 hours=hours,
                 logger=logger,
+                config_path=config,
                 published_articles=published_articles,  # Pass for tracking
             )
             total_processed += processed
@@ -233,6 +234,7 @@ def process_feed(
     dry_run: bool,
     hours: int,
     logger,
+    config_path: str = "",
     published_articles: Optional[list[dict]] = None,
 ) -> tuple[int, int, int]:
     """Process a single feed.
@@ -290,6 +292,7 @@ def process_feed(
                 wp_client=wp_client,
                 dry_run=dry_run,
                 logger=logger,
+                config_path=config_path,
             )
 
             if result:
@@ -337,6 +340,7 @@ def process_entry(
     wp_client: Optional[WordPressClient],
     dry_run: bool,
     logger,
+    config_path: str = "",
 ) -> Optional[dict]:
     """Process a single RSS entry.
 
@@ -362,19 +366,34 @@ def process_entry(
 
     # Find image
     featured_media_id = None
+    image_result = None
+    image_alt = title[:100]
 
-    # Try RSS image first
-    image_url = find_rss_image(entry, base_url=link or "")
-    image_alt = ""
-
-    if image_url:
-        logger.info("using_rss_image", url=image_url)
-        image_result = download_image(image_url)
-        if image_result:
-            image_bytes, filename, _ = image_result
-            image_alt = title[:100]  # Use title as alt for RSS images
+    # Check for feed-specific default image first (e.g., NEMCC logo)
+    if feed_config.default_image:
+        from pathlib import Path
+        # Resolve path relative to config file directory
+        config_dir = Path(config_path).parent if config_path else Path(".")
+        image_path = config_dir / feed_config.default_image
+        if image_path.exists():
+            logger.info("using_default_feed_image", path=str(image_path))
+            with open(image_path, "rb") as f:
+                image_bytes = f.read()
+            filename = image_path.name
+            image_result = (image_bytes, filename, "image/jpeg")
         else:
-            image_url = None
+            logger.warning("default_image_not_found", path=str(image_path))
+
+    # Try RSS image if no default image set or found
+    image_url = None
+    if not image_result:
+        image_url = find_rss_image(entry, base_url=link or "")
+
+        if image_url:
+            logger.info("using_rss_image", url=image_url)
+            image_result = download_image(image_url)
+            if not image_result:
+                image_url = None
 
     # Try scraping image from source URL if RSS image not found
     if not image_url and link:

@@ -17,10 +17,12 @@ class FeedConfig(BaseModel):
 
     name: str
     url: str
-    default_category: Optional[str] = None
+    default_category: Optional[str] = Field(default=None, alias="category")
     default_tags: list[str] = Field(default_factory=list)
     max_per_run: int = 5
     use_original_title: bool = False
+    default_image: Optional[str] = None  # Path to default image file for this feed
+    enabled: bool = True
 
     @field_validator("url")
     @classmethod
