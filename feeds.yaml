@@ -168,3 +168,79 @@ feeds:
     url: "https://bmcusports.com/rss.aspx?path=powerlifting"
     category: "Sports"
     enabled: true
+
+  # Northwest Mississippi Community College Rangers Feeds
+  - name: "NWCC Baseball"
+    url: "https://nwccrangers.com/rss.aspx?path=baseball"
+    category: "Sports"
+    enabled: true
+
+  - name: "NWCC Men's Basketball"
+    url: "https://nwccrangers.com/rss.aspx?path=mbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "NWCC Women's Basketball"
+    url: "https://nwccrangers.com/rss.aspx?path=wbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "NWCC Football"
+    url: "https://nwccrangers.com/rss.aspx?path=football"
+    category: "Sports"
+    enabled: true
+
+  - name: "NWCC Men's Golf"
+    url: "https://nwccrangers.com/rss.aspx?path=mgolf"
+    category: "Sports"
+    enabled: true
+
+  - name: "NWCC Women's Golf"
+    url: "https://nwccrangers.com/rss.aspx?path=wgolf"
+    category: "Sports"
+    enabled: true
+
+  - name: "NWCC Rodeo"
+    url: "https://nwccrangers.com/rss.aspx?path=mrodeo"
+    category: "Sports"
+    enabled: true
+
+  - name: "NWCC Men's Soccer"
+    url: "https://nwccrangers.com/rss.aspx?path=msoc"
+    category: "Sports"
+    enabled: true
+
+  - name: "NWCC Women's Soccer"
+    url: "https://nwccrangers.com/rss.aspx?path=wsoc"
+    category: "Sports"
+    enabled: true
+
+  - name: "NWCC Softball"
+    url: "https://nwccrangers.com/rss.aspx?path=softball"
+    category: "Sports"
+    enabled: true
+
+  - name: "NWCC Men's Tennis"
+    url: "https://nwccrangers.com/rss.aspx?path=mten"
+    category: "Sports"
+    enabled: true
+
+  - name: "NWCC Women's Tennis"
+    url: "https://nwccrangers.com/rss.aspx?path=wten"
+    category: "Sports"
+    enabled: true
+
+  - name: "NWCC Volleyball"
+    url: "https://nwccrangers.com/rss.aspx?path=vball"
+    category: "Sports"
+    enabled: true
+
+  - name: "NWCC Cheerleading"
+    url: "https://nwccrangers.com/rss.aspx?path=cheer"
+    category: "Sports"
+    enabled: true
+
+  - name: "NWCC Dance"
+    url: "https://nwccrangers.com/rss.aspx?path=dance"
+    category: "Sports"
+    enabled: true

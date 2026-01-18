@@ -311,6 +311,7 @@ def is_valid_image_url(url: str) -> bool:
             "prestosports",  # Presto Sports CDN
             "bmcusports.com",  # Blue Mountain Christian athletics
             "careyathletics.com",  # William Carey athletics
+            "nwccrangers.com",  # Northwest Mississippi CC athletics
         ]
         for host in known_image_hosts:
             if host in parsed.netloc.lower():
