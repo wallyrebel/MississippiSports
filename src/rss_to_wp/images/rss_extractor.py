@@ -141,12 +141,10 @@ def scrape_image_from_url(url: str) -> Optional[str]:
     """Scrape the main image from a source article URL.
     
     PRIORITY ORDER:
-    1. og:image meta tag (trusted - from source page meta)
-    2. twitter:image meta tag (trusted - from source page meta)
-    3. Hero/article images (must be from same domain)
-    
-    og:image and twitter:image are trusted because they're curated by the source site.
-    Regular img tags require same-domain validation to avoid ads.
+    1. <picture><source srcset> tags (responsive images - used by athletics sites)
+    2. og:image meta tag (trusted - from source page meta)
+    3. twitter:image meta tag (trusted - from source page meta)  
+    4. Hero/article <img> tags (must be from same domain)
     
     Args:
         url: URL of the article to scrape.
@@ -172,8 +170,36 @@ def scrape_image_from_url(url: str) -> Optional[str]:
         
         soup = BeautifulSoup(response.content, "html.parser")
         
-        # 1. Check og:image meta tag (TRUSTED - from source page meta)
-        # Only check blocklist, not domain match (og:image often uses CDNs)
+        # 1. Check <picture><source srcset> tags (HIGHEST PRIORITY)
+        # Athletics sites like careyathletics.com use responsive images
+        # Example: <source media="(min-width:768px)" srcset="/images/2026/1/15/DSC_3570.jpg?width=647...">
+        picture_selectors = [
+            "article picture source",
+            ".article-content picture source",
+            ".story-content picture source", 
+            ".hero-image picture source",
+            ".featured-image picture source",
+            "picture source",
+        ]
+        
+        for selector in picture_selectors:
+            sources = soup.select(selector)
+            for source in sources:
+                srcset = source.get("srcset")
+                if srcset:
+                    # Parse srcset - take the first URL (before any space/descriptor)
+                    # Example: "/images/2026/1/15/DSC_3570.jpg?width=647&quality=80 1x, /images/... 2x"
+                    first_src = srcset.split(",")[0].strip().split()[0]
+                    if first_src:
+                        # Resolve relative URLs
+                        if not first_src.startswith(("http://", "https://")):
+                            first_src = urljoin(url, first_src)
+                        
+                        if is_valid_image_url(first_src) and not is_image_domain_blocked(first_src):
+                            logger.info("found_srcset_image", url=first_src, selector=selector)
+                            return first_src
+        
+        # 2. Check og:image meta tag (TRUSTED - from source page meta)
         og_image = soup.find("meta", property="og:image")
         if og_image and og_image.get("content"):
             image_url = og_image["content"]
@@ -181,9 +207,9 @@ def scrape_image_from_url(url: str) -> Optional[str]:
                 logger.info("found_og_image", url=image_url)
                 return image_url
             else:
-                logger.debug("og_image_rejected", image_url=image_url, reason="blocked domain")
+                logger.debug("og_image_rejected", image_url=image_url, reason="blocked or invalid")
         
-        # 2. Check twitter:image meta tag (TRUSTED - from source page meta)
+        # 3. Check twitter:image meta tag (TRUSTED - from source page meta)
         twitter_image = soup.find("meta", attrs={"name": "twitter:image"})
         if twitter_image and twitter_image.get("content"):
             image_url = twitter_image["content"]
@@ -191,9 +217,12 @@ def scrape_image_from_url(url: str) -> Optional[str]:
                 logger.info("found_twitter_image", url=image_url)
                 return image_url
         
-        # 3. Look for featured/hero images in common athletics site patterns
+        # 4. Look for featured/hero <img> tags
         # These require same-domain validation (more likely to be ads)
         hero_selectors = [
+            "article img",
+            ".article-content img",
+            ".story-content img",
             ".hero-image img",
             ".featured-image img",
             ".article-image img",
@@ -201,7 +230,6 @@ def scrape_image_from_url(url: str) -> Optional[str]:
             ".post-thumbnail img",
             ".wp-post-image",
             "figure img",
-            "article img",
         ]
         
         for selector in hero_selectors:
@@ -245,23 +273,39 @@ def is_valid_image_url(url: str) -> bool:
         if not parsed.scheme or not parsed.netloc:
             return False
 
-        # Check extension
+        # Check extension - handle query strings by looking at path only
+        # Example: /images/DSC_3570.jpg?width=647 -> check .jpg
         path_lower = parsed.path.lower()
-        for ext in IMAGE_EXTENSIONS:
-            if path_lower.endswith(ext):
-                return True
+        
+        # Split off any trailing slashes and check file extension
+        path_parts = path_lower.rstrip('/').split('/')
+        if path_parts:
+            filename = path_parts[-1]
+            for ext in IMAGE_EXTENSIONS:
+                if ext in filename:  # Use 'in' to catch .jpg?... patterns
+                    return True
+        
+        # Check query params for format indicators (used by image CDNs)
+        # Example: ?format=jpg or ?type=jpeg
+        query_lower = parsed.query.lower()
+        if "format=jpg" in query_lower or "format=jpeg" in query_lower or "format=png" in query_lower:
+            return True
+        if "type=jpg" in query_lower or "type=jpeg" in query_lower or "type=png" in query_lower:
+            return True
 
         # Some CDN URLs don't have extensions but are still valid
         # Allow URLs from known image CDNs
         known_image_hosts = [
             "pexels.com",
-            "unsplash.com",
+            "unsplash.com", 
             "cloudinary.com",
             "imgix.net",
             "wp.com",
             "wordpress.com",
             "flickr.com",
             "staticflickr.com",
+            "sidearm",  # Sidearm Sports CDN used by athletics sites
+            "prestosports",  # Presto Sports CDN
         ]
         for host in known_image_hosts:
             if host in parsed.netloc.lower():
@@ -271,6 +315,7 @@ def is_valid_image_url(url: str) -> bool:
 
     except Exception:
         return False
+
 
 
 def find_rss_image(entry: dict[str, Any], base_url: str = "") -> Optional[str]:
