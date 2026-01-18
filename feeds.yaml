@@ -280,3 +280,69 @@ feeds:
     url: "https://coahomasports.com/rss.aspx?path=cheer"
     category: "Sports"
     enabled: true
+
+  # Delta State University Statesmen Feeds
+  - name: "Delta State Baseball"
+    url: "https://gostatesmen.com/rss.aspx?path=baseball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Delta State Men's Basketball"
+    url: "https://gostatesmen.com/rss.aspx?path=mbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Delta State Women's Basketball"
+    url: "https://gostatesmen.com/rss.aspx?path=wbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Delta State Football"
+    url: "https://gostatesmen.com/rss.aspx?path=football"
+    category: "Sports"
+    enabled: true
+
+  - name: "Delta State Men's Golf"
+    url: "https://gostatesmen.com/rss.aspx?path=mgolf"
+    category: "Sports"
+    enabled: true
+
+  - name: "Delta State Men's Soccer"
+    url: "https://gostatesmen.com/rss.aspx?path=msoc"
+    category: "Sports"
+    enabled: true
+
+  - name: "Delta State Women's Soccer"
+    url: "https://gostatesmen.com/rss.aspx?path=wsoc"
+    category: "Sports"
+    enabled: true
+
+  - name: "Delta State M/W Swimming"
+    url: "https://gostatesmen.com/rss.aspx?path=mswim"
+    category: "Sports"
+    enabled: true
+
+  - name: "Delta State Men's Tennis"
+    url: "https://gostatesmen.com/rss.aspx?path=mten"
+    category: "Sports"
+    enabled: true
+
+  - name: "Delta State Women's Tennis"
+    url: "https://gostatesmen.com/rss.aspx?path=wten"
+    category: "Sports"
+    enabled: true
+
+  - name: "Delta State Cross Country"
+    url: "https://gostatesmen.com/rss.aspx?path=wxc"
+    category: "Sports"
+    enabled: true
+
+  - name: "Delta State Softball"
+    url: "https://gostatesmen.com/rss.aspx?path=softball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Delta State Cheerleading"
+    url: "https://gostatesmen.com/rss.aspx?path=cheer"
+    category: "Sports"
+    enabled: true
