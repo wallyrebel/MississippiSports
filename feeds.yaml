@@ -696,3 +696,74 @@ feeds:
     url: "https://hailstate.com/rss?path=track"
     category: "Sports"
     enabled: true
+
+  # Ole Miss Rebels Feeds
+  - name: "Ole Miss Baseball"
+    url: "https://olemisssports.com/rss?path=baseball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Ole Miss Men's Basketball"
+    url: "https://olemisssports.com/rss?path=mbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Ole Miss Women's Basketball"
+    url: "https://olemisssports.com/rss?path=wbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Ole Miss Football"
+    url: "https://olemisssports.com/rss?path=football"
+    category: "Sports"
+    enabled: true
+
+  - name: "Ole Miss Men's Golf"
+    url: "https://olemisssports.com/rss?path=mgolf"
+    category: "Sports"
+    enabled: true
+
+  - name: "Ole Miss Women's Golf"
+    url: "https://olemisssports.com/rss?path=wgolf"
+    category: "Sports"
+    enabled: true
+
+  - name: "Ole Miss Rifle"
+    url: "https://olemisssports.com/rss?path=wrifle"
+    category: "Sports"
+    enabled: true
+
+  - name: "Ole Miss Women's Soccer"
+    url: "https://olemisssports.com/rss?path=wsoc"
+    category: "Sports"
+    enabled: true
+
+  - name: "Ole Miss Softball"
+    url: "https://olemisssports.com/rss?path=softball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Ole Miss Men's Tennis"
+    url: "https://olemisssports.com/rss?path=mten"
+    category: "Sports"
+    enabled: true
+
+  - name: "Ole Miss Women's Tennis"
+    url: "https://olemisssports.com/rss?path=wten"
+    category: "Sports"
+    enabled: true
+
+  - name: "Ole Miss Volleyball"
+    url: "https://olemisssports.com/rss?path=wvball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Ole Miss Cross Country"
+    url: "https://olemisssports.com/rss?path=cross"
+    category: "Sports"
+    enabled: true
+
+  - name: "Ole Miss Track & Field"
+    url: "https://olemisssports.com/rss?path=track"
+    category: "Sports"
+    enabled: true
