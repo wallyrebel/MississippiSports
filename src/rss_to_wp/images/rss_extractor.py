@@ -286,15 +286,18 @@ def is_valid_image_url(url: str) -> bool:
                     return True
         
         # Check query params for format indicators (used by image CDNs)
-        # Example: ?format=jpg or ?type=jpeg
+        # Example: ?format=jpg or ?type=jpeg or ?image_path=...jpg
         query_lower = parsed.query.lower()
         if "format=jpg" in query_lower or "format=jpeg" in query_lower or "format=png" in query_lower:
             return True
         if "type=jpg" in query_lower or "type=jpeg" in query_lower or "type=png" in query_lower:
             return True
+        # BMCU/Sidearm uses image_path=/images/...jpg format
+        if "image_path=" in query_lower and (".jpg" in query_lower or ".jpeg" in query_lower or ".png" in query_lower):
+            return True
 
         # Some CDN URLs don't have extensions but are still valid
-        # Allow URLs from known image CDNs
+        # Allow URLs from known image CDNs and athletics sites
         known_image_hosts = [
             "pexels.com",
             "unsplash.com", 
@@ -306,6 +309,8 @@ def is_valid_image_url(url: str) -> bool:
             "staticflickr.com",
             "sidearm",  # Sidearm Sports CDN used by athletics sites
             "prestosports",  # Presto Sports CDN
+            "bmcusports.com",  # Blue Mountain Christian athletics
+            "careyathletics.com",  # William Carey athletics
         ]
         for host in known_image_hosts:
             if host in parsed.netloc.lower():
