@@ -244,3 +244,39 @@ feeds:
     url: "https://nwccrangers.com/rss.aspx?path=dance"
     category: "Sports"
     enabled: true
+
+  # Coahoma Community College Tigers Feeds
+  - name: "Coahoma Baseball"
+    url: "https://coahomasports.com/rss.aspx?path=baseball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Coahoma Men's Basketball"
+    url: "https://coahomasports.com/rss.aspx?path=mbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Coahoma Women's Basketball"
+    url: "https://coahomasports.com/rss.aspx?path=wbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Coahoma Football"
+    url: "https://coahomasports.com/rss.aspx?path=football"
+    category: "Sports"
+    enabled: true
+
+  - name: "Coahoma Softball"
+    url: "https://coahomasports.com/rss.aspx?path=softball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Coahoma Track & Field"
+    url: "https://coahomasports.com/rss.aspx?path=track"
+    category: "Sports"
+    enabled: true
+
+  - name: "Coahoma Cheerleading"
+    url: "https://coahomasports.com/rss.aspx?path=cheer"
+    category: "Sports"
+    enabled: true
