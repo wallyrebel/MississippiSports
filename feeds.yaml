@@ -488,3 +488,79 @@ feeds:
     url: "https://alcornsports.com/rss.aspx?path=wcross"
     category: "Sports"
     enabled: true
+
+  # Jackson State University Tigers Feeds
+  - name: "JSU Baseball"
+    url: "https://gojsutigers.com/rss.aspx?path=baseball"
+    category: "Sports"
+    enabled: true
+
+  - name: "JSU Men's Basketball"
+    url: "https://gojsutigers.com/rss.aspx?path=mbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "JSU Women's Basketball"
+    url: "https://gojsutigers.com/rss.aspx?path=wbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "JSU Football"
+    url: "https://gojsutigers.com/rss.aspx?path=football"
+    category: "Sports"
+    enabled: true
+
+  - name: "JSU Men's Cross Country"
+    url: "https://gojsutigers.com/rss.aspx?path=mcross"
+    category: "Sports"
+    enabled: true
+
+  - name: "JSU Women's Cross Country"
+    url: "https://gojsutigers.com/rss.aspx?path=wcross"
+    category: "Sports"
+    enabled: true
+
+  - name: "JSU Men's Track & Field"
+    url: "https://gojsutigers.com/rss.aspx?path=mtrack"
+    category: "Sports"
+    enabled: true
+
+  - name: "JSU Women's Track & Field"
+    url: "https://gojsutigers.com/rss.aspx?path=wtrack"
+    category: "Sports"
+    enabled: true
+
+  - name: "JSU Softball"
+    url: "https://gojsutigers.com/rss.aspx?path=softball"
+    category: "Sports"
+    enabled: true
+
+  - name: "JSU Men's Tennis"
+    url: "https://gojsutigers.com/rss.aspx?path=mten"
+    category: "Sports"
+    enabled: true
+
+  - name: "JSU Women's Tennis"
+    url: "https://gojsutigers.com/rss.aspx?path=wten"
+    category: "Sports"
+    enabled: true
+
+  - name: "JSU Volleyball"
+    url: "https://gojsutigers.com/rss.aspx?path=wvball"
+    category: "Sports"
+    enabled: true
+
+  - name: "JSU Women's Soccer"
+    url: "https://gojsutigers.com/rss.aspx?path=wsoc"
+    category: "Sports"
+    enabled: true
+
+  - name: "JSU Women's Bowling"
+    url: "https://gojsutigers.com/rss.aspx?path=wbowl"
+    category: "Sports"
+    enabled: true
+
+  - name: "JSU Men's Golf"
+    url: "https://gojsutigers.com/rss.aspx?path=mgolf"
+    category: "Sports"
+    enabled: true
