@@ -317,6 +317,7 @@ def is_valid_image_url(url: str) -> bool:
             "mvsusports.com",  # Mississippi Valley State athletics
             "alcornsports.com",  # Alcorn State athletics
             "gojsutigers.com",  # Jackson State athletics
+            "southernmiss.com",  # Southern Miss athletics
         ]
         for host in known_image_hosts:
             if host in parsed.netloc.lower():

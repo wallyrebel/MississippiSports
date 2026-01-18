@@ -564,3 +564,69 @@ feeds:
     url: "https://gojsutigers.com/rss.aspx?path=mgolf"
     category: "Sports"
     enabled: true
+
+  # Southern Miss Golden Eagles Feeds
+  - name: "USM Baseball"
+    url: "https://southernmiss.com/rss.aspx?path=baseball"
+    category: "Sports"
+    enabled: true
+
+  - name: "USM Men's Basketball"
+    url: "https://southernmiss.com/rss.aspx?path=mbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "USM Women's Basketball"
+    url: "https://southernmiss.com/rss.aspx?path=wbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "USM Football"
+    url: "https://southernmiss.com/rss.aspx?path=football"
+    category: "Sports"
+    enabled: true
+
+  - name: "USM Men's Golf"
+    url: "https://southernmiss.com/rss.aspx?path=mgolf"
+    category: "Sports"
+    enabled: true
+
+  - name: "USM Women's Golf"
+    url: "https://southernmiss.com/rss.aspx?path=wgolf"
+    category: "Sports"
+    enabled: true
+
+  - name: "USM Men's Tennis"
+    url: "https://southernmiss.com/rss.aspx?path=mten"
+    category: "Sports"
+    enabled: true
+
+  - name: "USM Women's Tennis"
+    url: "https://southernmiss.com/rss.aspx?path=wten"
+    category: "Sports"
+    enabled: true
+
+  - name: "USM Women's Soccer"
+    url: "https://southernmiss.com/rss.aspx?path=wsoc"
+    category: "Sports"
+    enabled: true
+
+  - name: "USM Softball"
+    url: "https://southernmiss.com/rss.aspx?path=softball"
+    category: "Sports"
+    enabled: true
+
+  - name: "USM Volleyball"
+    url: "https://southernmiss.com/rss.aspx?path=wvball"
+    category: "Sports"
+    enabled: true
+
+  - name: "USM Beach Volleyball"
+    url: "https://southernmiss.com/rss.aspx?path=bvb"
+    category: "Sports"
+    enabled: true
+
+  - name: "USM Track & Field"
+    url: "https://southernmiss.com/rss.aspx?path=track"
+    category: "Sports"
+    enabled: true
