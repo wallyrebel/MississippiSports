@@ -630,3 +630,69 @@ feeds:
     url: "https://southernmiss.com/rss?path=track"
     category: "Sports"
     enabled: true
+
+  # Mississippi State Bulldogs Feeds
+  - name: "MSU Baseball"
+    url: "https://hailstate.com/rss?path=baseball"
+    category: "Sports"
+    enabled: true
+
+  - name: "MSU Men's Basketball"
+    url: "https://hailstate.com/rss?path=mbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "MSU Women's Basketball"
+    url: "https://hailstate.com/rss?path=wbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "MSU Football"
+    url: "https://hailstate.com/rss?path=football"
+    category: "Sports"
+    enabled: true
+
+  - name: "MSU Men's Golf"
+    url: "https://hailstate.com/rss?path=mgolf"
+    category: "Sports"
+    enabled: true
+
+  - name: "MSU Women's Golf"
+    url: "https://hailstate.com/rss?path=wgolf"
+    category: "Sports"
+    enabled: true
+
+  - name: "MSU Men's Tennis"
+    url: "https://hailstate.com/rss?path=mten"
+    category: "Sports"
+    enabled: true
+
+  - name: "MSU Women's Tennis"
+    url: "https://hailstate.com/rss?path=wten"
+    category: "Sports"
+    enabled: true
+
+  - name: "MSU Women's Soccer"
+    url: "https://hailstate.com/rss?path=wsoc"
+    category: "Sports"
+    enabled: true
+
+  - name: "MSU Softball"
+    url: "https://hailstate.com/rss?path=softball"
+    category: "Sports"
+    enabled: true
+
+  - name: "MSU Volleyball"
+    url: "https://hailstate.com/rss?path=wvball"
+    category: "Sports"
+    enabled: true
+
+  - name: "MSU Cross Country"
+    url: "https://hailstate.com/rss?path=cross"
+    category: "Sports"
+    enabled: true
+
+  - name: "MSU Track & Field"
+    url: "https://hailstate.com/rss?path=track"
+    category: "Sports"
+    enabled: true
