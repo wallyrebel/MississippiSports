@@ -838,3 +838,79 @@ feeds:
     url: "https://www.gochoctaws.com/rss.aspx?path=wvball"
     category: "Sports"
     enabled: true
+
+  # Belhaven University Blazers Feeds
+  - name: "Belhaven Baseball"
+    url: "https://blazers.belhaven.edu/rss.aspx?path=baseball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Belhaven Men's Basketball"
+    url: "https://blazers.belhaven.edu/rss.aspx?path=mbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Belhaven Women's Basketball"
+    url: "https://blazers.belhaven.edu/rss.aspx?path=wbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Belhaven Football"
+    url: "https://blazers.belhaven.edu/rss.aspx?path=football"
+    category: "Sports"
+    enabled: true
+
+  - name: "Belhaven Men's Golf"
+    url: "https://blazers.belhaven.edu/rss.aspx?path=mgolf"
+    category: "Sports"
+    enabled: true
+
+  - name: "Belhaven Men's Soccer"
+    url: "https://blazers.belhaven.edu/rss.aspx?path=msoc"
+    category: "Sports"
+    enabled: true
+
+  - name: "Belhaven Women's Soccer"
+    url: "https://blazers.belhaven.edu/rss.aspx?path=wsoc"
+    category: "Sports"
+    enabled: true
+
+  - name: "Belhaven Softball"
+    url: "https://blazers.belhaven.edu/rss.aspx?path=softball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Belhaven Men's Tennis"
+    url: "https://blazers.belhaven.edu/rss.aspx?path=mten"
+    category: "Sports"
+    enabled: true
+
+  - name: "Belhaven Women's Tennis"
+    url: "https://blazers.belhaven.edu/rss.aspx?path=wten"
+    category: "Sports"
+    enabled: true
+
+  - name: "Belhaven Men's Track & Field"
+    url: "https://blazers.belhaven.edu/rss.aspx?path=mtrack"
+    category: "Sports"
+    enabled: true
+
+  - name: "Belhaven Women's Track & Field"
+    url: "https://blazers.belhaven.edu/rss.aspx?path=wtrack"
+    category: "Sports"
+    enabled: true
+
+  - name: "Belhaven Men's Cross Country"
+    url: "https://blazers.belhaven.edu/rss.aspx?path=mcross"
+    category: "Sports"
+    enabled: true
+
+  - name: "Belhaven Women's Cross Country"
+    url: "https://blazers.belhaven.edu/rss.aspx?path=wcross"
+    category: "Sports"
+    enabled: true
+
+  - name: "Belhaven Volleyball"
+    url: "https://blazers.belhaven.edu/rss.aspx?path=wvball"
+    category: "Sports"
+    enabled: true
