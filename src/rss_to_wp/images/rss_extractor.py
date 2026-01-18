@@ -140,10 +140,13 @@ def is_same_domain(source_url: str, image_url: str) -> bool:
 def scrape_image_from_url(url: str) -> Optional[str]:
     """Scrape the main image from a source article URL.
     
-    SAFETY: Only returns images from the SAME DOMAIN as the article.
-    This prevents pulling ad images or inappropriate content from other domains.
+    PRIORITY ORDER:
+    1. og:image meta tag (trusted - from source page meta)
+    2. twitter:image meta tag (trusted - from source page meta)
+    3. Hero/article images (must be from same domain)
     
-    Checks og:image meta tags and common image patterns.
+    og:image and twitter:image are trusted because they're curated by the source site.
+    Regular img tags require same-domain validation to avoid ads.
     
     Args:
         url: URL of the article to scrape.
@@ -169,27 +172,27 @@ def scrape_image_from_url(url: str) -> Optional[str]:
         
         soup = BeautifulSoup(response.content, "html.parser")
         
-        # 1. Check og:image meta tag (highest priority)
+        # 1. Check og:image meta tag (TRUSTED - from source page meta)
+        # Only check blocklist, not domain match (og:image often uses CDNs)
         og_image = soup.find("meta", property="og:image")
         if og_image and og_image.get("content"):
             image_url = og_image["content"]
-            # Validate: same domain and not blocked
-            if is_valid_image_url(image_url) and is_same_domain(url, image_url) and not is_image_domain_blocked(image_url):
+            if is_valid_image_url(image_url) and not is_image_domain_blocked(image_url):
                 logger.info("found_og_image", url=image_url)
                 return image_url
             else:
-                logger.debug("og_image_rejected", image_url=image_url, reason="domain mismatch or blocked")
+                logger.debug("og_image_rejected", image_url=image_url, reason="blocked domain")
         
-        # 2. Check twitter:image meta tag
+        # 2. Check twitter:image meta tag (TRUSTED - from source page meta)
         twitter_image = soup.find("meta", attrs={"name": "twitter:image"})
         if twitter_image and twitter_image.get("content"):
             image_url = twitter_image["content"]
-            if is_valid_image_url(image_url) and is_same_domain(url, image_url) and not is_image_domain_blocked(image_url):
+            if is_valid_image_url(image_url) and not is_image_domain_blocked(image_url):
                 logger.info("found_twitter_image", url=image_url)
                 return image_url
         
         # 3. Look for featured/hero images in common athletics site patterns
-        # Only from same domain
+        # These require same-domain validation (more likely to be ads)
         hero_selectors = [
             ".hero-image img",
             ".featured-image img",
@@ -210,7 +213,7 @@ def scrape_image_from_url(url: str) -> Optional[str]:
                     if not src.startswith(("http://", "https://")):
                         src = urljoin(url, src)
                     
-                    # Validate: same domain and not blocked
+                    # Strict validation for scraped img tags (same domain + not blocked)
                     if is_valid_image_url(src) and is_same_domain(url, src) and not is_image_domain_blocked(src):
                         logger.info("found_hero_image", url=src, selector=selector)
                         return src
