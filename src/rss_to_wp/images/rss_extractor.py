@@ -1,4 +1,4 @@
-"""Extract images from RSS entries."""
+"""Extract images from RSS entries and source URLs."""
 
 from __future__ import annotations
 
@@ -6,6 +6,7 @@ import re
 from typing import Any, Optional
 from urllib.parse import urljoin, urlparse
 
+import requests
 from bs4 import BeautifulSoup
 
 from rss_to_wp.utils import get_logger
@@ -24,6 +25,85 @@ IMAGE_MIME_TYPES = {
     "image/bmp",
 }
 
+
+def scrape_image_from_url(url: str) -> Optional[str]:
+    """Scrape the main image from a source article URL.
+    
+    Checks og:image meta tags and common image patterns.
+    
+    Args:
+        url: URL of the article to scrape.
+        
+    Returns:
+        Image URL or None.
+    """
+    if not url:
+        return None
+    
+    logger.info("scraping_image_from_url", url=url)
+    
+    try:
+        response = requests.get(
+            url,
+            timeout=(10, 30),
+            headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            }
+        )
+        response.raise_for_status()
+        
+        soup = BeautifulSoup(response.content, "html.parser")
+        
+        # 1. Check og:image meta tag (highest priority)
+        og_image = soup.find("meta", property="og:image")
+        if og_image and og_image.get("content"):
+            image_url = og_image["content"]
+            if is_valid_image_url(image_url):
+                logger.info("found_og_image", url=image_url)
+                return image_url
+        
+        # 2. Check twitter:image meta tag
+        twitter_image = soup.find("meta", attrs={"name": "twitter:image"})
+        if twitter_image and twitter_image.get("content"):
+            image_url = twitter_image["content"]
+            if is_valid_image_url(image_url):
+                logger.info("found_twitter_image", url=image_url)
+                return image_url
+        
+        # 3. Look for featured/hero images in common athletics site patterns
+        hero_selectors = [
+            ".hero-image img",
+            ".featured-image img",
+            ".article-image img",
+            ".story-image img",
+            "article img",
+            ".post-thumbnail img",
+            ".wp-post-image",
+            "figure img",
+        ]
+        
+        for selector in hero_selectors:
+            img = soup.select_one(selector)
+            if img:
+                src = img.get("src") or img.get("data-src")
+                if src:
+                    # Resolve relative URLs
+                    if not src.startswith(("http://", "https://")):
+                        src = urljoin(url, src)
+                    if is_valid_image_url(src):
+                        logger.info("found_hero_image", url=src, selector=selector)
+                        return src
+        
+        logger.debug("no_image_found_in_source", url=url)
+        return None
+        
+    except requests.RequestException as e:
+        logger.warning("image_scrape_request_error", url=url, error=str(e))
+        return None
+    except Exception as e:
+        logger.warning("image_scrape_error", url=url, error=str(e))
+        return None
 
 def is_valid_image_url(url: str) -> bool:
     """Check if URL appears to be a valid image.

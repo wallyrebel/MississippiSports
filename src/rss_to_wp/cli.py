@@ -25,7 +25,7 @@ from rss_to_wp.feeds import (
     parse_feed,
     pick_entries,
 )
-from rss_to_wp.images import download_image, find_fallback_image, find_rss_image
+from rss_to_wp.images import download_image, find_fallback_image, find_rss_image, scrape_image_from_url
 from rss_to_wp.rewriter import OpenAIRewriter
 from rss_to_wp.storage import DedupeStore
 from rss_to_wp.utils import get_logger, setup_logging, send_email_notification, build_summary_email
@@ -375,6 +375,17 @@ def process_entry(
             image_alt = title[:100]  # Use title as alt for RSS images
         else:
             image_url = None
+
+    # Try scraping image from source URL if RSS image not found
+    if not image_url and link:
+        scraped_image_url = scrape_image_from_url(link)
+        if scraped_image_url:
+            logger.info("using_scraped_image", url=scraped_image_url)
+            image_result = download_image(scraped_image_url)
+            if image_result:
+                image_bytes, filename, _ = image_result
+                image_url = scraped_image_url
+                image_alt = title[:100]
 
     # Fallback to stock photos
     if not image_url:

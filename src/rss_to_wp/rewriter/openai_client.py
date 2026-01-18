@@ -50,18 +50,21 @@ class OpenAIRewriter:
     def __init__(
         self,
         api_key: str,
-        model: str = "gpt-4.1-nano",
+        model: str = "gpt-5-mini",
+        fallback_model: str = "gpt-4.1-nano",
         max_tokens: int = 2000,
     ):
         """Initialize OpenAI rewriter.
 
         Args:
             api_key: OpenAI API key.
-            model: Model to use (default: gpt-4.1-nano).
+            model: Primary model to use (default: gpt-5-mini).
+            fallback_model: Fallback model if primary fails (default: gpt-4.1-nano).
             max_tokens: Maximum tokens in response.
         """
         self.client = OpenAI(api_key=api_key)
         self.model = model
+        self.fallback_model = fallback_model
         self.max_tokens = max_tokens
         self._last_request_time = 0.0
 
@@ -129,9 +132,9 @@ Remember to respond with valid JSON containing headline, excerpt, and body."""
                 "temperature": 0.7,
             }
             
-            # Newer models (gpt-4.1, gpt-4o, etc.) use max_completion_tokens
+            # Newer models (gpt-5, gpt-4.1, gpt-4o, etc.) use max_completion_tokens
             # Older models use max_tokens
-            if any(x in self.model.lower() for x in ["4.1", "4o", "o1", "o3", "o4"]):
+            if any(x in self.model.lower() for x in ["5", "4.1", "4o", "o1", "o3", "o4"]):
                 api_params["max_completion_tokens"] = self.max_tokens
             else:
                 api_params["max_tokens"] = self.max_tokens
@@ -162,7 +165,30 @@ Remember to respond with valid JSON containing headline, excerpt, and body."""
             return None
 
         except Exception as e:
-            logger.error("openai_rewrite_error", error=str(e))
+            logger.error("openai_rewrite_error", error=str(e), model=self.model)
+            
+            # Try fallback model if primary fails
+            if self.fallback_model and self.model != self.fallback_model:
+                logger.info("trying_fallback_model", fallback=self.fallback_model)
+                try:
+                    api_params["model"] = self.fallback_model
+                    # Update token param for fallback model
+                    if "5" in self.fallback_model or "4.1" in self.fallback_model:
+                        api_params.pop("max_tokens", None)
+                        api_params["max_completion_tokens"] = self.max_tokens
+                    
+                    response = self.client.chat.completions.create(**api_params)
+                    response_text = response.choices[0].message.content
+                    result = self._parse_response(response_text)
+                    
+                    if result:
+                        if use_original_title:
+                            result["headline"] = original_title
+                        logger.info("fallback_rewrite_complete", headline=result["headline"][:50])
+                        return result
+                except Exception as fallback_error:
+                    logger.error("fallback_rewrite_error", error=str(fallback_error))
+            
             return None
 
     def _parse_response(self, response_text: str) -> Optional[dict]:
@@ -252,7 +278,8 @@ def rewrite_with_openai(
     content: str,
     original_title: str,
     api_key: str,
-    model: str = "gpt-4.1-nano",
+    model: str = "gpt-5-mini",
+    fallback_model: str = "gpt-4.1-nano",
     use_original_title: bool = False,
 ) -> Optional[dict]:
     """Convenience function to rewrite content.
