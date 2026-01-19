@@ -297,14 +297,16 @@ def process_feed(
 
             if result:
                 # Mark as processed
-                dedupe_store.mark_processed(
-                    entry_key=entry_key,
-                    feed_url=feed_config.url,
-                    entry_title=get_entry_title(entry),
-                    entry_link=get_entry_link(entry) or "",
-                    wp_post_id=result.get("id"),
-                    wp_post_url=result.get("link"),
-                )
+                # Mark as processed only if not a dry run
+                if not dry_run:
+                    dedupe_store.mark_processed(
+                        entry_key=entry_key,
+                        feed_url=feed_config.url,
+                        entry_title=get_entry_title(entry),
+                        entry_link=get_entry_link(entry) or "",
+                        wp_post_id=result.get("id"),
+                        wp_post_url=result.get("link"),
+                    )
                 processed += 1
                 
                 # Track for email notification
