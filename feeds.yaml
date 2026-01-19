@@ -1091,3 +1091,74 @@ feeds:
     url: "https://owlsathletics.com/rss.aspx?path=wvball"
     category: "Sports"
     enabled: true
+
+  # Hinds Community College Eagles Feeds
+  - name: "Hinds Baseball"
+    url: "https://sports.hindscc.edu/rss.aspx?path=baseball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Hinds Men's Basketball"
+    url: "https://sports.hindscc.edu/rss.aspx?path=mbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Hinds Women's Basketball"
+    url: "https://sports.hindscc.edu/rss.aspx?path=wbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Hinds Football"
+    url: "https://sports.hindscc.edu/rss.aspx?path=football"
+    category: "Sports"
+    enabled: true
+
+  - name: "Hinds Men's Golf"
+    url: "https://sports.hindscc.edu/rss.aspx?path=mgolf"
+    category: "Sports"
+    enabled: true
+
+  - name: "Hinds Women's Golf"
+    url: "https://sports.hindscc.edu/rss.aspx?path=wgolf"
+    category: "Sports"
+    enabled: true
+
+  - name: "Hinds Men's Soccer"
+    url: "https://sports.hindscc.edu/rss.aspx?path=msoc"
+    category: "Sports"
+    enabled: true
+
+  - name: "Hinds Women's Soccer"
+    url: "https://sports.hindscc.edu/rss.aspx?path=wsoc"
+    category: "Sports"
+    enabled: true
+
+  - name: "Hinds Softball"
+    url: "https://sports.hindscc.edu/rss.aspx?path=softball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Hinds Men's Tennis"
+    url: "https://sports.hindscc.edu/rss.aspx?path=mten"
+    category: "Sports"
+    enabled: true
+
+  - name: "Hinds Women's Tennis"
+    url: "https://sports.hindscc.edu/rss.aspx?path=wten"
+    category: "Sports"
+    enabled: true
+
+  - name: "Hinds Men's Track & Field"
+    url: "https://sports.hindscc.edu/rss.aspx?path=mtrack"
+    category: "Sports"
+    enabled: true
+
+  - name: "Hinds Women's Track & Field"
+    url: "https://sports.hindscc.edu/rss.aspx?path=wtrack"
+    category: "Sports"
+    enabled: true
+
+  - name: "Hinds eSports"
+    url: "https://sports.hindscc.edu/rss.aspx?path=esports"
+    category: "Sports"
+    enabled: true
