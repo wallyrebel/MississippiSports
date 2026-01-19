@@ -327,6 +327,7 @@ def is_valid_image_url(url: str) -> bool:
             "sports.hindscc.edu",  # Hinds Community College athletics
             "jcbobcats.com",  # Jones College athletics
             "southwestbearathletics.com",  # Southwest Mississippi Community College athletics
+            "www.mdcctrojans.com",  # Mississippi Delta Community College athletics
         ]
         for host in known_image_hosts:
             if host in parsed.netloc.lower():

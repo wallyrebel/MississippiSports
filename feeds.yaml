@@ -1284,3 +1284,34 @@ feeds:
     url: "https://southwestbearathletics.com/rss.aspx?path=cheer"
     category: "Sports"
     enabled: true
+
+  # Mississippi Delta Community College Trojans Feeds (PrestoSports)
+  - name: "MDCC Baseball"
+    url: "https://www.mdcctrojans.com/sports/bsb/2025-26/news?print=rss"
+    category: "Sports"
+    enabled: true
+
+  - name: "MDCC Men's Basketball"
+    url: "https://www.mdcctrojans.com/sports/mbkb/2025-26/news?print=rss"
+    category: "Sports"
+    enabled: true
+
+  - name: "MDCC Women's Basketball"
+    url: "https://www.mdcctrojans.com/sports/wbkb/2025-26/news?print=rss"
+    category: "Sports"
+    enabled: true
+
+  - name: "MDCC Football"
+    url: "https://www.mdcctrojans.com/sports/fball/2025-26/news?print=rss"
+    category: "Sports"
+    enabled: true
+
+  - name: "MDCC Softball"
+    url: "https://www.mdcctrojans.com/sports/sball/2024-25/news?print=rss"
+    category: "Sports"
+    enabled: true
+
+  - name: "MDCC Dance"
+    url: "https://www.mdcctrojans.com/sports/dance/2024-25/news?print=rss"
+    category: "Sports"
+    enabled: true
