@@ -1223,3 +1223,64 @@ feeds:
     url: "https://jcbobcats.com/rss.aspx?path=cheer"
     category: "Sports"
     enabled: true
+
+  # Southwest Mississippi Community College Bears Feeds
+  - name: "SMCC Baseball"
+    url: "https://southwestbearathletics.com/rss.aspx?path=baseball"
+    category: "Sports"
+    enabled: true
+
+  - name: "SMCC Men's Basketball"
+    url: "https://southwestbearathletics.com/rss.aspx?path=mbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "SMCC Women's Basketball"
+    url: "https://southwestbearathletics.com/rss.aspx?path=wbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "SMCC Football"
+    url: "https://southwestbearathletics.com/rss.aspx?path=football"
+    category: "Sports"
+    enabled: true
+
+  - name: "SMCC Men's Golf"
+    url: "https://southwestbearathletics.com/rss.aspx?path=mgolf"
+    category: "Sports"
+    enabled: true
+
+  - name: "SMCC Men's Soccer"
+    url: "https://southwestbearathletics.com/rss.aspx?path=msoc"
+    category: "Sports"
+    enabled: true
+
+  - name: "SMCC Women's Soccer"
+    url: "https://southwestbearathletics.com/rss.aspx?path=wsoc"
+    category: "Sports"
+    enabled: true
+
+  - name: "SMCC Softball"
+    url: "https://southwestbearathletics.com/rss.aspx?path=softball"
+    category: "Sports"
+    enabled: true
+
+  - name: "SMCC Men's Tennis"
+    url: "https://southwestbearathletics.com/rss.aspx?path=mten"
+    category: "Sports"
+    enabled: true
+
+  - name: "SMCC Women's Tennis"
+    url: "https://southwestbearathletics.com/rss.aspx?path=wten"
+    category: "Sports"
+    enabled: true
+
+  - name: "SMCC Volleyball"
+    url: "https://southwestbearathletics.com/rss.aspx?path=vball"
+    category: "Sports"
+    enabled: true
+
+  - name: "SMCC Cheer"
+    url: "https://southwestbearathletics.com/rss.aspx?path=cheer"
+    category: "Sports"
+    enabled: true
