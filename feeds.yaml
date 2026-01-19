@@ -1015,3 +1015,79 @@ feeds:
     url: "https://gomajors.com/rss.aspx?path=wvball"
     category: "Sports"
     enabled: true
+
+  # Mississippi University for Women Owls Feeds
+  - name: "MUW Baseball"
+    url: "https://owlsathletics.com/rss.aspx?path=baseball"
+    category: "Sports"
+    enabled: true
+
+  - name: "MUW Men's Basketball"
+    url: "https://owlsathletics.com/rss.aspx?path=mbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "MUW Women's Basketball"
+    url: "https://owlsathletics.com/rss.aspx?path=wbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "MUW Men's Cross Country"
+    url: "https://owlsathletics.com/rss.aspx?path=mcross"
+    category: "Sports"
+    enabled: true
+
+  - name: "MUW Women's Cross Country"
+    url: "https://owlsathletics.com/rss.aspx?path=wcross"
+    category: "Sports"
+    enabled: true
+
+  - name: "MUW Men's Golf"
+    url: "https://owlsathletics.com/rss.aspx?path=mgolf"
+    category: "Sports"
+    enabled: true
+
+  - name: "MUW Women's Golf"
+    url: "https://owlsathletics.com/rss.aspx?path=wgolf"
+    category: "Sports"
+    enabled: true
+
+  - name: "MUW Men's Soccer"
+    url: "https://owlsathletics.com/rss.aspx?path=msoc"
+    category: "Sports"
+    enabled: true
+
+  - name: "MUW Women's Soccer"
+    url: "https://owlsathletics.com/rss.aspx?path=wsoc"
+    category: "Sports"
+    enabled: true
+
+  - name: "MUW Softball"
+    url: "https://owlsathletics.com/rss.aspx?path=softball"
+    category: "Sports"
+    enabled: true
+
+  - name: "MUW Men's Tennis"
+    url: "https://owlsathletics.com/rss.aspx?path=mten"
+    category: "Sports"
+    enabled: true
+
+  - name: "MUW Women's Tennis"
+    url: "https://owlsathletics.com/rss.aspx?path=wten"
+    category: "Sports"
+    enabled: true
+
+  - name: "MUW Men's Track & Field"
+    url: "https://owlsathletics.com/rss.aspx?path=mtrack"
+    category: "Sports"
+    enabled: true
+
+  - name: "MUW Women's Track & Field"
+    url: "https://owlsathletics.com/rss.aspx?path=wtrack"
+    category: "Sports"
+    enabled: true
+
+  - name: "MUW Volleyball"
+    url: "https://owlsathletics.com/rss.aspx?path=wvball"
+    category: "Sports"
+    enabled: true
