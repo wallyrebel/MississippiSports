@@ -1162,3 +1162,64 @@ feeds:
     url: "https://sports.hindscc.edu/rss.aspx?path=esports"
     category: "Sports"
     enabled: true
+
+  # Jones College Bobcats Feeds
+  - name: "Jones College Baseball"
+    url: "https://jcbobcats.com/rss.aspx?path=baseball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Jones College Men's Basketball"
+    url: "https://jcbobcats.com/rss.aspx?path=mbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Jones College Women's Basketball"
+    url: "https://jcbobcats.com/rss.aspx?path=wbball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Jones College Football"
+    url: "https://jcbobcats.com/rss.aspx?path=football"
+    category: "Sports"
+    enabled: true
+
+  - name: "Jones College Men's Golf"
+    url: "https://jcbobcats.com/rss.aspx?path=mgolf"
+    category: "Sports"
+    enabled: true
+
+  - name: "Jones College Men's Soccer"
+    url: "https://jcbobcats.com/rss.aspx?path=msoc"
+    category: "Sports"
+    enabled: true
+
+  - name: "Jones College Women's Soccer"
+    url: "https://jcbobcats.com/rss.aspx?path=wsoc"
+    category: "Sports"
+    enabled: true
+
+  - name: "Jones College Softball"
+    url: "https://jcbobcats.com/rss.aspx?path=softball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Jones College Men's Tennis"
+    url: "https://jcbobcats.com/rss.aspx?path=mten"
+    category: "Sports"
+    enabled: true
+
+  - name: "Jones College Women's Tennis"
+    url: "https://jcbobcats.com/rss.aspx?path=wten"
+    category: "Sports"
+    enabled: true
+
+  - name: "Jones College Volleyball"
+    url: "https://jcbobcats.com/rss.aspx?path=vball"
+    category: "Sports"
+    enabled: true
+
+  - name: "Jones College Cheer"
+    url: "https://jcbobcats.com/rss.aspx?path=cheer"
+    category: "Sports"
+    enabled: true
