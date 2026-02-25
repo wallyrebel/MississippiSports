@@ -7,10 +7,11 @@ that haven't been processed yet.
 from __future__ import annotations
 
 import re
+import subprocess
+import shutil
 import time
 from typing import Optional
 
-import cloudscraper
 from bs4 import BeautifulSoup
 
 from rss_to_wp.boxscores.config import NEMCC_BASE_URL, SportConfig
@@ -23,31 +24,15 @@ BOXSCORE_URL_PATTERN = re.compile(
     r"/sports/[a-z]+/\d{4}-\d{2}/boxscores/(\d{8})_(\w+)\.xml"
 )
 
-# Shared scraper session — handles Cloudflare challenges automatically
-_scraper = None
-
-
-def _get_scraper():
-    """Get or create a cloudscraper session.
-
-    cloudscraper handles Cloudflare's anti-bot JavaScript challenges,
-    which cause 405 errors with standard requests from GitHub Actions.
-    """
-    global _scraper
-    if _scraper is None:
-        _scraper = cloudscraper.create_scraper(
-            browser={
-                "browser": "chrome",
-                "platform": "windows",
-                "desktop": True,
-            },
-            delay=3,
-        )
-    return _scraper
-
 
 def _fetch_page(url: str) -> Optional[bytes]:
-    """Fetch a page using cloudscraper to bypass Cloudflare protection.
+    """Fetch a page using system curl to bypass Cloudflare TLS fingerprinting.
+
+    GitHub Actions runners have curl installed. curl's native TLS stack
+    has a different fingerprint than Python's ssl module, which helps bypass
+    Cloudflare's bot detection that returns 405 errors for Python clients.
+
+    Falls back to cloudscraper if curl is not available.
 
     Args:
         url: URL to fetch.
@@ -55,11 +40,56 @@ def _fetch_page(url: str) -> Optional[bytes]:
     Returns:
         Page content as bytes, or None on failure.
     """
-    scraper = _get_scraper()
+    # Try curl first (available on Linux/macOS GitHub runners)
+    curl_path = shutil.which("curl")
+    if curl_path:
+        try:
+            result = subprocess.run(
+                [
+                    curl_path,
+                    "-s",               # Silent mode
+                    "-L",               # Follow redirects
+                    "--max-time", "30",  # Timeout
+                    "-H", "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+                    "-H", "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                    "-H", "Accept-Language: en-US,en;q=0.9",
+                    "-H", "Referer: https://www.nemccathletics.com/",
+                    "--compressed",     # Accept gzip/deflate
+                    url,
+                ],
+                capture_output=True,
+                timeout=35,
+            )
 
+            if result.returncode == 0 and result.stdout:
+                # Verify we got HTML content, not an error page
+                content = result.stdout
+                if len(content) > 500:  # Real pages are >500 bytes
+                    logger.info("curl_fetch_success", url=url, size=len(content))
+                    return content
+                else:
+                    logger.warning("curl_response_too_small", url=url, size=len(content))
+            else:
+                stderr_msg = result.stderr.decode("utf-8", errors="replace")[:200]
+                logger.warning(
+                    "curl_fetch_failed",
+                    url=url,
+                    returncode=result.returncode,
+                    stderr=stderr_msg,
+                )
+        except Exception as e:
+            logger.warning("curl_error", url=url, error=str(e))
+
+    # Fallback: try cloudscraper (works on Windows / when curl fails)
     try:
+        import cloudscraper
+
+        scraper = cloudscraper.create_scraper(
+            browser={"browser": "chrome", "platform": "windows", "desktop": True}
+        )
         response = scraper.get(url, timeout=30)
         response.raise_for_status()
+        logger.info("cloudscraper_fetch_success", url=url, size=len(response.content))
         return response.content
     except Exception as e:
         logger.error("page_fetch_error", url=url, error=str(e))
