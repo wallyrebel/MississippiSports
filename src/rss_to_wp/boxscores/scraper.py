@@ -20,16 +20,6 @@ from rss_to_wp.utils import get_logger
 
 logger = get_logger("boxscores.scraper")
 
-# Browser headers to avoid 403s
-BROWSER_HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
-    ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-}
-
 
 @dataclass
 class BoxScoreData:
@@ -176,16 +166,16 @@ def scrape_boxscore(url: str, sport_type: str, sport_name: str) -> Optional[BoxS
     Returns:
         BoxScoreData with extracted stats, or None on failure.
     """
+    from rss_to_wp.boxscores.discovery import _fetch_page
+
     logger.info("scraping_boxscore", url=url, sport=sport_name)
 
-    try:
-        response = requests.get(url, headers=BROWSER_HEADERS, timeout=(10, 30))
-        response.raise_for_status()
-    except requests.RequestException as e:
-        logger.error("boxscore_fetch_error", url=url, error=str(e))
+    content = _fetch_page(url)
+    if content is None:
+        logger.error("boxscore_fetch_error", url=url)
         return None
 
-    soup = BeautifulSoup(response.content, "html.parser")
+    soup = BeautifulSoup(content, "html.parser")
 
     # Extract game date from URL (YYYYMMDD)
     date_match = re.search(r"/(\d{8})_", url)
