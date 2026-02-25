@@ -487,6 +487,71 @@ def process_entry(
 
 
 @app.command()
+def boxscores(
+    dry_run: bool = typer.Option(
+        False,
+        "--dry-run",
+        "-n",
+        help="Process box scores without publishing to WordPress.",
+    ),
+    single_sport: Optional[str] = typer.Option(
+        None,
+        "--single-sport",
+        "-s",
+        help="Process only a specific sport by name (e.g., 'Baseball').",
+    ),
+) -> None:
+    """Process NEMCC box scores and publish game recap articles.
+
+    Scrapes NEMCC athletics schedule pages for new box scores,
+    extracts game stats, rewrites into AP-style articles using AI,
+    and publishes to WordPress with rotating NEMCC tiger logos.
+
+    This command is independent from the RSS feed pipeline.
+    """
+    from rss_to_wp.boxscores.runner import run_boxscores
+
+    # Load settings
+    try:
+        settings = get_app_settings()
+    except Exception as e:
+        typer.echo(f"Error loading settings: {e}", err=True)
+        raise typer.Exit(1)
+
+    # Setup logging
+    logger = setup_logging(
+        level=settings.log_level,
+        log_file=settings.log_file,
+    )
+
+    logger.info(
+        "starting_boxscore_processing",
+        dry_run=dry_run,
+        single_sport=single_sport,
+    )
+
+    # Run the box score pipeline
+    processed, skipped, errors = run_boxscores(
+        settings=settings,
+        dry_run=dry_run,
+        single_sport=single_sport,
+    )
+
+    # Summary
+    logger.info(
+        "boxscore_run_complete",
+        processed=processed,
+        skipped=skipped,
+        errors=errors,
+    )
+
+    typer.echo(f"\nNEMCC Box Scores: {processed} published, {skipped} skipped, {errors} errors")
+
+    if errors > 0 and processed == 0 and skipped == 0:
+        raise typer.Exit(1)
+
+
+@app.command()
 def status() -> None:
     """Show status of processed entries."""
     logger = setup_logging()
