@@ -205,6 +205,33 @@ def _save_cache(boxscores: list[dict]) -> None:
     logger.info("cache_saved", total=len(merged), new=len(new_entries))
 
 
+def _filter_recent(boxscores: list[dict], hours: int = 48) -> list[dict]:
+    """Filter box scores to only include games from the last N hours.
+
+    Args:
+        boxscores: List of box score info dicts with 'game_date' (YYYYMMDD).
+        hours: Maximum age in hours (default 48).
+
+    Returns:
+        Filtered list of recent box scores.
+    """
+    from datetime import datetime, timedelta
+
+    cutoff = datetime.now() - timedelta(hours=hours)
+    cutoff_str = cutoff.strftime("%Y%m%d")
+
+    recent = [bs for bs in boxscores if bs.get("game_date", "") >= cutoff_str]
+
+    logger.info(
+        "filtered_recent_boxscores",
+        total=len(boxscores),
+        recent=len(recent),
+        cutoff_date=cutoff_str,
+    )
+
+    return recent
+
+
 def discover_boxscores(sport: SportConfig) -> list[dict]:
     """Discover box scores for a sport by scraping its schedule page."""
     schedule_url = sport.schedule_url
@@ -252,6 +279,9 @@ def discover_all_boxscores(
     else:
         logger.info("live_discovery_failed_using_cache")
         all_boxscores = _load_cache()
+
+    # Filter to only box scores from the last 48 hours
+    all_boxscores = _filter_recent(all_boxscores, hours=48)
 
     logger.info(
         "total_boxscores_discovered",
