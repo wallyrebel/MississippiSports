@@ -12,5 +12,6 @@ pendulum>=3.0.0
 tenacity>=8.2.0
 structlog>=24.1.0
 beautifulsoup4>=4.12.0
+cloudscraper>=1.2.71
 Pillow>=10.0.0
 PyYAML>=6.0.1
