@@ -45,6 +45,9 @@ jobs:
           pip install -r requirements.txt
           pip install -e .
 
+      - name: Install Playwright browser
+        run: python -m playwright install --with-deps chromium
+
       - name: Create data directory
         run: mkdir -p data
 

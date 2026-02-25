@@ -1,14 +1,12 @@
 """Discover new NEMCC box scores by scraping schedule pages.
 
-Fetches each sport's schedule page and extracts box score URLs
-that haven't been processed yet.
+Uses Playwright headless browser to bypass Cloudflare's JavaScript
+challenge that blocks curl/requests/cloudscraper from GitHub Actions.
 """
 
 from __future__ import annotations
 
 import re
-import subprocess
-import shutil
 import time
 from typing import Optional
 
@@ -25,62 +23,64 @@ BOXSCORE_URL_PATTERN = re.compile(
 )
 
 
-def _fetch_page(url: str) -> Optional[bytes]:
-    """Fetch a page using system curl to bypass Cloudflare TLS fingerprinting.
+def _fetch_page(url: str) -> Optional[str]:
+    """Fetch a page using Playwright headless browser.
 
-    GitHub Actions runners have curl installed. curl's native TLS stack
-    has a different fingerprint than Python's ssl module, which helps bypass
-    Cloudflare's bot detection that returns 405 errors for Python clients.
+    Playwright runs a real Chromium browser that passes Cloudflare's
+    JavaScript challenge and TLS fingerprinting. This is necessary
+    because the NEMCC athletics site (Sidearm/PrestoSports) blocks
+    all Python HTTP libraries from GitHub Actions runners.
 
-    Falls back to cloudscraper if curl is not available.
+    Falls back to cloudscraper for environments where Playwright
+    browsers aren't installed (local dev).
 
     Args:
         url: URL to fetch.
 
     Returns:
-        Page content as bytes, or None on failure.
+        Page HTML as string, or None on failure.
     """
-    # Try curl first (available on Linux/macOS GitHub runners)
-    curl_path = shutil.which("curl")
-    if curl_path:
-        try:
-            result = subprocess.run(
-                [
-                    curl_path,
-                    "-s",               # Silent mode
-                    "-L",               # Follow redirects
-                    "--max-time", "30",  # Timeout
-                    "-H", "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-                    "-H", "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-                    "-H", "Accept-Language: en-US,en;q=0.9",
-                    "-H", "Referer: https://www.nemccathletics.com/",
-                    "--compressed",     # Accept gzip/deflate
-                    url,
-                ],
-                capture_output=True,
-                timeout=35,
+    # Try Playwright first (works on GitHub Actions with chromium installed)
+    try:
+        from playwright.sync_api import sync_playwright
+
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            context = browser.new_context(
+                user_agent=(
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) "
+                    "Chrome/122.0.0.0 Safari/537.36"
+                ),
             )
+            page = context.new_page()
 
-            if result.returncode == 0 and result.stdout:
-                # Verify we got HTML content, not an error page
-                content = result.stdout
-                if len(content) > 500:  # Real pages are >500 bytes
-                    logger.info("curl_fetch_success", url=url, size=len(content))
-                    return content
-                else:
-                    logger.warning("curl_response_too_small", url=url, size=len(content))
-            else:
-                stderr_msg = result.stderr.decode("utf-8", errors="replace")[:200]
-                logger.warning(
-                    "curl_fetch_failed",
+            try:
+                page.goto(url, wait_until="networkidle", timeout=30000)
+                # Wait a moment for any delayed JS rendering
+                page.wait_for_timeout(2000)
+                content = page.content()
+
+                logger.info(
+                    "playwright_fetch_success",
                     url=url,
-                    returncode=result.returncode,
-                    stderr=stderr_msg,
+                    size=len(content),
                 )
-        except Exception as e:
-            logger.warning("curl_error", url=url, error=str(e))
+                return content
 
-    # Fallback: try cloudscraper (works on Windows / when curl fails)
+            except Exception as e:
+                logger.warning("playwright_page_error", url=url, error=str(e))
+                return None
+            finally:
+                context.close()
+                browser.close()
+
+    except ImportError:
+        logger.warning("playwright_not_installed")
+    except Exception as e:
+        logger.warning("playwright_error", url=url, error=str(e))
+
+    # Fallback: try cloudscraper (works on some environments)
     try:
         import cloudscraper
 
@@ -89,8 +89,9 @@ def _fetch_page(url: str) -> Optional[bytes]:
         )
         response = scraper.get(url, timeout=30)
         response.raise_for_status()
-        logger.info("cloudscraper_fetch_success", url=url, size=len(response.content))
-        return response.content
+        content = response.text
+        logger.info("cloudscraper_fetch_success", url=url, size=len(content))
+        return content
     except Exception as e:
         logger.error("page_fetch_error", url=url, error=str(e))
         return None
@@ -108,12 +109,12 @@ def discover_boxscores(sport: SportConfig) -> list[dict]:
     schedule_url = sport.schedule_url
     logger.info("discovering_boxscores", sport=sport.name, url=schedule_url)
 
-    content = _fetch_page(schedule_url)
-    if content is None:
+    html = _fetch_page(schedule_url)
+    if html is None:
         logger.error("schedule_fetch_error", sport=sport.name)
         return []
 
-    soup = BeautifulSoup(content, "html.parser")
+    soup = BeautifulSoup(html, "html.parser")
 
     # Find all links that match the box score URL pattern
     boxscore_urls: dict[str, dict] = {}  # Use dict to deduplicate by URL
