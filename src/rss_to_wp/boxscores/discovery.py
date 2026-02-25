@@ -52,19 +52,38 @@ def _fetch_page(url: str) -> Optional[str]:
                     "AppleWebKit/537.36 (KHTML, like Gecko) "
                     "Chrome/122.0.0.0 Safari/537.36"
                 ),
+                viewport={"width": 1920, "height": 1080},
             )
             page = context.new_page()
 
             try:
-                page.goto(url, wait_until="networkidle", timeout=30000)
-                # Wait a moment for any delayed JS rendering
-                page.wait_for_timeout(2000)
+                # Navigate with longer timeout for Cloudflare challenge
+                page.goto(url, wait_until="domcontentloaded", timeout=60000)
+
+                # Wait for the actual schedule content to load
+                # Sidearm pages use specific selectors for schedule data
+                try:
+                    page.wait_for_selector(
+                        "a[href*='boxscore'], .sidearm-schedule-games, "
+                        ".schedule-table, table, .sidearm-schedule-game",
+                        timeout=15000,
+                    )
+                except Exception:
+                    pass  # Might not have box scores; continue anyway
+
+                # Extra wait for JS rendering after elements appear
+                page.wait_for_timeout(5000)
+
                 content = page.content()
 
+                # Log first part of HTML for debugging
+                preview = content[:300].replace("\n", " ").replace("\r", " ")
                 logger.info(
                     "playwright_fetch_success",
                     url=url,
                     size=len(content),
+                    has_boxscore_links="boxscore" in content.lower(),
+                    preview=preview[:150],
                 )
                 return content
 
