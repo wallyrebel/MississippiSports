@@ -59,12 +59,19 @@ class BoxScoreData:
     raw_text: str = ""
 
     @property
-    def nemcc_won(self) -> bool:
-        """Check if NEMCC won the game."""
+    def game_outcome(self) -> str:
+        """Check the outcome for NEMCC (won, lost, or tied)."""
         try:
-            return int(self.nemcc_score) > int(self.opponent_score)
+            n_score = int(self.nemcc_score)
+            o_score = int(self.opponent_score)
+            if n_score > o_score:
+                return "won"
+            elif n_score < o_score:
+                return "lost"
+            else:
+                return "tied"
         except (ValueError, TypeError):
-            return False
+            return "played"
 
     @property
     def nemcc_score(self) -> str:
@@ -94,12 +101,18 @@ class BoxScoreData:
         lines.append("")
 
         # Score
-        result = "won" if self.nemcc_won else "lost"
-        lines.append(
-            f"Northeast Mississippi Community College (NEMCC) {result} "
-            f"{self.nemcc_score}-{self.opponent_score} "
-            f"against {self.opponent_name}."
-        )
+        outcome = self.game_outcome
+        if outcome == "tied":
+            lines.append(
+                f"Northeast Mississippi Community College (NEMCC) tied {self.opponent_name} "
+                f"with a final score of {self.nemcc_score}-{self.opponent_score}."
+            )
+        else:
+            lines.append(
+                f"Northeast Mississippi Community College (NEMCC) {outcome} "
+                f"{self.nemcc_score}-{self.opponent_score} "
+                f"against {self.opponent_name}."
+            )
         lines.append("")
 
         # Linescore
