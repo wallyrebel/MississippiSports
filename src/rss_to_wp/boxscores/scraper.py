@@ -166,11 +166,41 @@ def scrape_boxscore(url: str, sport_type: str, sport_name: str) -> Optional[BoxS
     Returns:
         BoxScoreData with extracted stats, or None on failure.
     """
-    from rss_to_wp.boxscores.discovery import _fetch_page
-
     logger.info("scraping_boxscore", url=url, sport=sport_name)
 
-    content = _fetch_page(url)
+    content = None
+
+    # Try cloudscraper first
+    try:
+        import cloudscraper
+
+        scraper = cloudscraper.create_scraper(
+            browser={"browser": "chrome", "platform": "windows", "desktop": True}
+        )
+        response = scraper.get(url, timeout=30)
+        response.raise_for_status()
+        content = response.text
+    except Exception:
+        pass
+
+    # Fallback: plain requests with browser headers
+    if content is None:
+        try:
+            headers = {
+                "User-Agent": (
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) "
+                    "Chrome/122.0.0.0 Safari/537.36"
+                ),
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            }
+            response = requests.get(url, headers=headers, timeout=30)
+            response.raise_for_status()
+            content = response.text
+        except requests.RequestException as e:
+            logger.error("boxscore_fetch_error", url=url, error=str(e))
+            return None
+
     if content is None:
         logger.error("boxscore_fetch_error", url=url)
         return None

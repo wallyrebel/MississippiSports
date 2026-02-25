@@ -112,7 +112,7 @@ jobs:
           LOG_LEVEL: ${{ secrets.LOG_LEVEL || 'INFO' }}
           TIMEZONE: ${{ secrets.TIMEZONE || 'UTC' }}
         run: |
-          python -m rss_to_wp boxscores
+          xvfb-run python -m rss_to_wp boxscores
 
       - name: Save database to cache
         uses: actions/cache/save@v4

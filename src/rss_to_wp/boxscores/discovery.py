@@ -1,13 +1,16 @@
 """Discover new NEMCC box scores by scraping schedule pages.
 
-Uses Playwright headless browser to bypass Cloudflare's JavaScript
-challenge that blocks curl/requests/cloudscraper from GitHub Actions.
+Uses Playwright in headed mode with xvfb on GitHub Actions to bypass
+Cloudflare's headless browser detection. Falls back to a local JSON
+cache if Playwright discovery fails.
 """
 
 from __future__ import annotations
 
+import json
 import re
 import time
+from pathlib import Path
 from typing import Optional
 
 from bs4 import BeautifulSoup
@@ -22,17 +25,18 @@ BOXSCORE_URL_PATTERN = re.compile(
     r"/sports/[a-z]+/\d{4}-\d{2}/boxscores/(\d{8})_(\w+)\.xml"
 )
 
+# Path to the cached box score URLs
+CACHE_FILE = Path("data/boxscore_cache.json")
+
 
 def _fetch_page(url: str) -> Optional[str]:
-    """Fetch a page using Playwright headless browser.
+    """Fetch a page using Playwright in HEADED mode (not headless).
 
-    Playwright runs a real Chromium browser that passes Cloudflare's
-    JavaScript challenge and TLS fingerprinting. This is necessary
-    because the NEMCC athletics site (Sidearm/PrestoSports) blocks
-    all Python HTTP libraries from GitHub Actions runners.
+    When run under xvfb on GitHub Actions, headed mode makes the browser
+    indistinguishable from a real desktop browser. Cloudflare cannot detect
+    this as headless/automated.
 
-    Falls back to cloudscraper for environments where Playwright
-    browsers aren't installed (local dev).
+    Falls back to cloudscraper for local development on Windows.
 
     Args:
         url: URL to fetch.
@@ -40,51 +44,68 @@ def _fetch_page(url: str) -> Optional[str]:
     Returns:
         Page HTML as string, or None on failure.
     """
-    # Try Playwright first (works on GitHub Actions with chromium installed)
+    # Try Playwright first
     try:
         from playwright.sync_api import sync_playwright
 
         with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
+            # HEADED mode — with xvfb this looks like a real browser
+            browser = p.chromium.launch(
+                headless=False,
+                args=[
+                    "--disable-blink-features=AutomationControlled",
+                    "--no-sandbox",
+                    "--disable-dev-shm-usage",
+                ],
+            )
             context = browser.new_context(
                 user_agent=(
-                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                    "Mozilla/5.0 (X11; Linux x86_64) "
                     "AppleWebKit/537.36 (KHTML, like Gecko) "
                     "Chrome/122.0.0.0 Safari/537.36"
                 ),
                 viewport={"width": 1920, "height": 1080},
             )
+
+            # Remove webdriver flag
             page = context.new_page()
+            page.add_init_script("""
+                Object.defineProperty(navigator, 'webdriver', {
+                    get: () => undefined
+                });
+            """)
 
             try:
-                # Navigate with longer timeout for Cloudflare challenge
                 page.goto(url, wait_until="domcontentloaded", timeout=60000)
 
-                # Wait for the actual schedule content to load
-                # Sidearm pages use specific selectors for schedule data
+                # Wait for schedule content to appear
                 try:
                     page.wait_for_selector(
                         "a[href*='boxscore'], .sidearm-schedule-games, "
-                        ".schedule-table, table, .sidearm-schedule-game",
+                        "table, .sidearm-schedule-game",
                         timeout=15000,
                     )
                 except Exception:
-                    pass  # Might not have box scores; continue anyway
+                    pass
 
-                # Extra wait for JS rendering after elements appear
+                # Extra wait for full JS rendering
                 page.wait_for_timeout(5000)
-
                 content = page.content()
 
-                # Log first part of HTML for debugging
-                preview = content[:300].replace("\n", " ").replace("\r", " ")
+                # Check if we got real content
+                has_boxscores = "boxscore" in content.lower()
                 logger.info(
                     "playwright_fetch_success",
                     url=url,
                     size=len(content),
-                    has_boxscore_links="boxscore" in content.lower(),
-                    preview=preview[:150],
+                    has_boxscore_links=has_boxscores,
                 )
+
+                # If page is too small, it's probably still a challenge page
+                if len(content) < 5000:
+                    logger.warning("playwright_got_challenge_page", url=url, size=len(content))
+                    return None
+
                 return content
 
             except Exception as e:
@@ -95,11 +116,12 @@ def _fetch_page(url: str) -> Optional[str]:
                 browser.close()
 
     except ImportError:
-        logger.warning("playwright_not_installed")
+        logger.info("playwright_not_installed_using_fallback")
     except Exception as e:
-        logger.warning("playwright_error", url=url, error=str(e))
+        # Playwright headed mode fails without display (e.g. no xvfb)
+        logger.info("playwright_headed_failed", error=str(e))
 
-    # Fallback: try cloudscraper (works on some environments)
+    # Fallback: try cloudscraper (works locally)
     try:
         import cloudscraper
 
@@ -109,47 +131,31 @@ def _fetch_page(url: str) -> Optional[str]:
         response = scraper.get(url, timeout=30)
         response.raise_for_status()
         content = response.text
-        logger.info("cloudscraper_fetch_success", url=url, size=len(content))
-        return content
+
+        if len(content) > 10000:
+            logger.info("cloudscraper_fetch_success", url=url, size=len(content))
+            return content
     except Exception as e:
-        logger.error("page_fetch_error", url=url, error=str(e))
-        return None
+        logger.warning("cloudscraper_fetch_error", url=url, error=str(e))
+
+    return None
 
 
-def discover_boxscores(sport: SportConfig) -> list[dict]:
-    """Scrape a sport's schedule page and return all box score URLs.
-
-    Args:
-        sport: Sport configuration with schedule URL.
-
-    Returns:
-        List of dicts with keys: url, game_date, game_id, sport_code, sport_name
-    """
-    schedule_url = sport.schedule_url
-    logger.info("discovering_boxscores", sport=sport.name, url=schedule_url)
-
-    html = _fetch_page(schedule_url)
-    if html is None:
-        logger.error("schedule_fetch_error", sport=sport.name)
-        return []
-
+def _scrape_schedule_page(html: str, sport: SportConfig) -> list[dict]:
+    """Parse box score URLs from schedule page HTML."""
     soup = BeautifulSoup(html, "html.parser")
-
-    # Find all links that match the box score URL pattern
-    boxscore_urls: dict[str, dict] = {}  # Use dict to deduplicate by URL
+    boxscore_urls: dict[str, dict] = {}
 
     for link in soup.find_all("a", href=True):
         href = link["href"]
 
-        # Match box score URLs
         match = BOXSCORE_URL_PATTERN.search(href)
         if not match:
             continue
 
-        game_date = match.group(1)  # YYYYMMDD
-        game_id = match.group(2)    # unique 4-char ID
+        game_date = match.group(1)
+        game_id = match.group(2)
 
-        # Build full URL if relative
         if href.startswith("/"):
             full_url = f"{NEMCC_BASE_URL}{href}"
         elif href.startswith("http"):
@@ -157,7 +163,6 @@ def discover_boxscores(sport: SportConfig) -> list[dict]:
         else:
             continue
 
-        # Deduplicate by URL
         if full_url not in boxscore_urls:
             boxscore_urls[full_url] = {
                 "url": full_url,
@@ -168,27 +173,61 @@ def discover_boxscores(sport: SportConfig) -> list[dict]:
                 "sport_type": sport.sport_type,
             }
 
-    results = list(boxscore_urls.values())
+    return list(boxscore_urls.values())
 
-    logger.info(
-        "boxscores_discovered",
-        sport=sport.name,
-        count=len(results),
-    )
 
+def _load_cache() -> list[dict]:
+    """Load cached box score URLs from JSON file."""
+    if not CACHE_FILE.exists():
+        return []
+    try:
+        with open(CACHE_FILE, "r") as f:
+            data = json.load(f)
+        logger.info("cache_loaded", count=len(data))
+        return data
+    except Exception as e:
+        logger.warning("cache_load_error", error=str(e))
+        return []
+
+
+def _save_cache(boxscores: list[dict]) -> None:
+    """Save discovered box score URLs to JSON cache."""
+    CACHE_FILE.parent.mkdir(parents=True, exist_ok=True)
+
+    existing = _load_cache()
+    existing_urls = {bs["url"] for bs in existing}
+    new_entries = [bs for bs in boxscores if bs["url"] not in existing_urls]
+    merged = existing + new_entries
+
+    with open(CACHE_FILE, "w") as f:
+        json.dump(merged, f, indent=2)
+
+    logger.info("cache_saved", total=len(merged), new=len(new_entries))
+
+
+def discover_boxscores(sport: SportConfig) -> list[dict]:
+    """Discover box scores for a sport by scraping its schedule page."""
+    schedule_url = sport.schedule_url
+    logger.info("discovering_boxscores", sport=sport.name, url=schedule_url)
+
+    html = _fetch_page(schedule_url)
+    if html is None:
+        return []
+
+    results = _scrape_schedule_page(html, sport)
+    logger.info("boxscores_discovered", sport=sport.name, count=len(results))
     return results
 
 
 def discover_all_boxscores(
     sports: Optional[list[SportConfig]] = None,
 ) -> list[dict]:
-    """Discover box scores across all configured NEMCC sports.
+    """Discover box scores across all sports.
 
-    Args:
-        sports: List of sport configs to scan. Defaults to all enabled sports.
-
-    Returns:
-        Combined list of box score info dicts from all sports.
+    Strategy:
+    1. Try live discovery via Playwright/cloudscraper
+    2. If it finds results, save them to cache
+    3. If live fails (GH Actions without xvfb), fall back to cache
     """
     from rss_to_wp.boxscores.config import NEMCC_SPORTS
 
@@ -199,19 +238,20 @@ def discover_all_boxscores(
 
     for i, sport in enumerate(sports):
         try:
-            # Add delay between sport requests to avoid rate limiting
             if i > 0:
                 time.sleep(2)
-
             boxscores = discover_boxscores(sport)
             all_boxscores.extend(boxscores)
         except Exception as e:
-            logger.error(
-                "sport_discovery_error",
-                sport=sport.name,
-                error=str(e),
-            )
+            logger.error("sport_discovery_error", sport=sport.name, error=str(e))
             continue
+
+    if all_boxscores:
+        logger.info("live_discovery_succeeded", total=len(all_boxscores))
+        _save_cache(all_boxscores)
+    else:
+        logger.info("live_discovery_failed_using_cache")
+        all_boxscores = _load_cache()
 
     logger.info(
         "total_boxscores_discovered",
@@ -220,3 +260,27 @@ def discover_all_boxscores(
     )
 
     return all_boxscores
+
+
+def update_cache(sports: Optional[list[SportConfig]] = None) -> int:
+    """Run local discovery and update the cache. Returns total cached count."""
+    from rss_to_wp.boxscores.config import NEMCC_SPORTS
+
+    if sports is None:
+        sports = [s for s in NEMCC_SPORTS if s.enabled]
+
+    all_boxscores: list[dict] = []
+    for i, sport in enumerate(sports):
+        if i > 0:
+            time.sleep(2)
+        try:
+            boxscores = discover_boxscores(sport)
+            all_boxscores.extend(boxscores)
+        except Exception as e:
+            logger.error("cache_update_error", sport=sport.name, error=str(e))
+
+    if all_boxscores:
+        _save_cache(all_boxscores)
+
+    cache = _load_cache()
+    return len(cache)

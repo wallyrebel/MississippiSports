@@ -551,6 +551,30 @@ def boxscores(
         raise typer.Exit(1)
 
 
+@app.command(name="update-cache")
+def update_cache_cmd() -> None:
+    """Discover NEMCC box score URLs and save to local cache.
+
+    Run this locally to refresh data/boxscore_cache.json.
+    The cache file must be committed and pushed so that
+    GitHub Actions can process the box scores.
+
+    This command ONLY works from your local machine (not GitHub Actions)
+    because Cloudflare blocks server-side access to NEMCC's website.
+    """
+    from rss_to_wp.boxscores.discovery import update_cache
+
+    logger = setup_logging()
+
+    logger.info("updating_boxscore_cache")
+    typer.echo("Discovering NEMCC box scores and updating cache...")
+
+    total = update_cache()
+
+    typer.echo(f"\nCache updated: {total} box score URLs in data/boxscore_cache.json")
+    typer.echo("Commit and push to make them available to GitHub Actions.")
+
+
 @app.command()
 def status() -> None:
     """Show status of processed entries."""
