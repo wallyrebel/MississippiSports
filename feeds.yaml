@@ -6,1281 +6,1534 @@ feeds:
   - name: "Carey Baseball"
     url: "https://careyathletics.com/rss.aspx?path=baseball"
     category: "Sports"
+    additional_categories: ["College","William Carey"]
     enabled: true
 
   - name: "Carey Men's Basketball"
     url: "https://careyathletics.com/rss.aspx?path=mbball"
     category: "Sports"
+    additional_categories: ["College","William Carey"]
     enabled: true
 
   - name: "Carey Men's Cross Country"
     url: "https://careyathletics.com/rss.aspx?path=mcross"
     category: "Sports"
+    additional_categories: ["College","William Carey"]
     enabled: true
 
   - name: "Carey Men's Golf"
     url: "https://careyathletics.com/rss.aspx?path=mgolf"
     category: "Sports"
+    additional_categories: ["College","William Carey"]
     enabled: true
 
   - name: "Carey Men's Soccer"
     url: "https://careyathletics.com/rss.aspx?path=msoc"
     category: "Sports"
+    additional_categories: ["College","William Carey"]
     enabled: true
 
   - name: "Carey Men's Tennis"
     url: "https://careyathletics.com/rss.aspx?path=mten"
     category: "Sports"
+    additional_categories: ["College","William Carey"]
     enabled: true
 
   - name: "Carey Men's Track"
     url: "https://careyathletics.com/rss.aspx?path=mtrack"
     category: "Sports"
+    additional_categories: ["College","William Carey"]
     enabled: true
 
   - name: "Carey Softball"
     url: "https://careyathletics.com/rss.aspx?path=softball"
     category: "Sports"
+    additional_categories: ["College","William Carey"]
     enabled: true
 
   - name: "Carey Women's Basketball"
     url: "https://careyathletics.com/rss.aspx?path=wbball"
     category: "Sports"
+    additional_categories: ["College","William Carey"]
     enabled: true
 
   - name: "Carey Women's Cross Country"
     url: "https://careyathletics.com/rss.aspx?path=wcross"
     category: "Sports"
+    additional_categories: ["College","William Carey"]
     enabled: true
 
   - name: "Carey Women's Golf"
     url: "https://careyathletics.com/rss.aspx?path=wgolf"
     category: "Sports"
+    additional_categories: ["College","William Carey"]
     enabled: true
 
   - name: "Carey Women's Soccer"
     url: "https://careyathletics.com/rss.aspx?path=wsoc"
     category: "Sports"
+    additional_categories: ["College","William Carey"]
     enabled: true
 
   - name: "Carey Women's Tennis"
     url: "https://careyathletics.com/rss.aspx?path=wten"
     category: "Sports"
+    additional_categories: ["College","William Carey"]
     enabled: true
 
   - name: "Carey Women's Track"
     url: "https://careyathletics.com/rss.aspx?path=wtrack"
     category: "Sports"
+    additional_categories: ["College","William Carey"]
     enabled: true
 
   - name: "Carey Volleyball"
     url: "https://careyathletics.com/rss.aspx?path=vball"
     category: "Sports"
+    additional_categories: ["College","William Carey"]
     enabled: true
 
   # Blue Mountain Christian University Sports Feeds
   - name: "BMCU Baseball"
     url: "https://bmcusports.com/rss.aspx?path=baseball"
     category: "Sports"
+    additional_categories: ["College","Blue Mountain Christian"]
     enabled: true
 
   - name: "BMCU Men's Basketball"
     url: "https://bmcusports.com/rss.aspx?path=mbball"
     category: "Sports"
+    additional_categories: ["College","Blue Mountain Christian"]
     enabled: true
 
   - name: "BMCU Women's Basketball"
     url: "https://bmcusports.com/rss.aspx?path=wbball"
     category: "Sports"
+    additional_categories: ["College","Blue Mountain Christian"]
     enabled: true
 
   - name: "BMCU Volleyball"
     url: "https://bmcusports.com/rss.aspx?path=vball"
     category: "Sports"
+    additional_categories: ["College","Blue Mountain Christian"]
     enabled: true
 
   - name: "BMCU Women's Soccer"
     url: "https://bmcusports.com/rss.aspx?path=wsoc"
     category: "Sports"
+    additional_categories: ["College","Blue Mountain Christian"]
     enabled: true
 
   - name: "BMCU Men's Soccer"
     url: "https://bmcusports.com/rss.aspx?path=msoc"
     category: "Sports"
+    additional_categories: ["College","Blue Mountain Christian"]
     enabled: true
 
   - name: "BMCU Men's Cross Country"
     url: "https://bmcusports.com/rss.aspx?path=xcross"
     category: "Sports"
+    additional_categories: ["College","Blue Mountain Christian"]
     enabled: true
 
   - name: "BMCU Women's Cross Country"
     url: "https://bmcusports.com/rss.aspx?path=wxcross"
     category: "Sports"
+    additional_categories: ["College","Blue Mountain Christian"]
     enabled: true
 
   - name: "BMCU Men's Track"
     url: "https://bmcusports.com/rss.aspx?path=mtrack"
     category: "Sports"
+    additional_categories: ["College","Blue Mountain Christian"]
     enabled: true
 
   - name: "BMCU Women's Track"
     url: "https://bmcusports.com/rss.aspx?path=wtrack"
     category: "Sports"
+    additional_categories: ["College","Blue Mountain Christian"]
     enabled: true
 
   - name: "BMCU Golf"
     url: "https://bmcusports.com/rss.aspx?path=golf"
     category: "Sports"
+    additional_categories: ["College","Blue Mountain Christian"]
     enabled: true
 
   - name: "BMCU Tennis"
     url: "https://bmcusports.com/rss.aspx?path=tennis"
     category: "Sports"
+    additional_categories: ["College","Blue Mountain Christian"]
     enabled: true
 
   - name: "BMCU Bowling"
     url: "https://bmcusports.com/rss.aspx?path=bowling"
     category: "Sports"
+    additional_categories: ["College","Blue Mountain Christian"]
     enabled: true
 
   - name: "BMCU Softball"
     url: "https://bmcusports.com/rss.aspx?path=softball"
     category: "Sports"
+    additional_categories: ["College","Blue Mountain Christian"]
     enabled: true
 
   - name: "BMCU Cheer"
     url: "https://bmcusports.com/rss.aspx?path=cheer"
     category: "Sports"
+    additional_categories: ["College","Blue Mountain Christian"]
     enabled: true
 
   - name: "BMCU Archery"
     url: "https://bmcusports.com/rss.aspx?path=archery"
     category: "Sports"
+    additional_categories: ["College","Blue Mountain Christian"]
     enabled: true
 
   - name: "BMCU Bass Fishing"
     url: "https://bmcusports.com/rss.aspx?path=bassfishing"
     category: "Sports"
+    additional_categories: ["College","Blue Mountain Christian"]
     enabled: true
 
   - name: "BMCU Powerlifting"
     url: "https://bmcusports.com/rss.aspx?path=powerlifting"
     category: "Sports"
+    additional_categories: ["College","Blue Mountain Christian"]
     enabled: true
 
   # Northwest Mississippi Community College Rangers Feeds
   - name: "NWCC Baseball"
     url: "https://nwccrangers.com/rss.aspx?path=baseball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Northwest Mississippi"]
     enabled: true
 
   - name: "NWCC Men's Basketball"
     url: "https://nwccrangers.com/rss.aspx?path=mbball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Northwest Mississippi"]
     enabled: true
 
   - name: "NWCC Women's Basketball"
     url: "https://nwccrangers.com/rss.aspx?path=wbball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Northwest Mississippi"]
     enabled: true
 
   - name: "NWCC Football"
     url: "https://nwccrangers.com/rss.aspx?path=football"
     category: "Sports"
+    additional_categories: ["College","Juco News","Northwest Mississippi"]
     enabled: true
 
   - name: "NWCC Men's Golf"
     url: "https://nwccrangers.com/rss.aspx?path=mgolf"
     category: "Sports"
+    additional_categories: ["College","Juco News","Northwest Mississippi"]
     enabled: true
 
   - name: "NWCC Women's Golf"
     url: "https://nwccrangers.com/rss.aspx?path=wgolf"
     category: "Sports"
+    additional_categories: ["College","Juco News","Northwest Mississippi"]
     enabled: true
 
   - name: "NWCC Rodeo"
     url: "https://nwccrangers.com/rss.aspx?path=mrodeo"
     category: "Sports"
+    additional_categories: ["College","Juco News","Northwest Mississippi"]
     enabled: true
 
   - name: "NWCC Men's Soccer"
     url: "https://nwccrangers.com/rss.aspx?path=msoc"
     category: "Sports"
+    additional_categories: ["College","Juco News","Northwest Mississippi"]
     enabled: true
 
   - name: "NWCC Women's Soccer"
     url: "https://nwccrangers.com/rss.aspx?path=wsoc"
     category: "Sports"
+    additional_categories: ["College","Juco News","Northwest Mississippi"]
     enabled: true
 
   - name: "NWCC Softball"
     url: "https://nwccrangers.com/rss.aspx?path=softball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Northwest Mississippi"]
     enabled: true
 
   - name: "NWCC Men's Tennis"
     url: "https://nwccrangers.com/rss.aspx?path=mten"
     category: "Sports"
+    additional_categories: ["College","Juco News","Northwest Mississippi"]
     enabled: true
 
   - name: "NWCC Women's Tennis"
     url: "https://nwccrangers.com/rss.aspx?path=wten"
     category: "Sports"
+    additional_categories: ["College","Juco News","Northwest Mississippi"]
     enabled: true
 
   - name: "NWCC Volleyball"
     url: "https://nwccrangers.com/rss.aspx?path=vball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Northwest Mississippi"]
     enabled: true
 
   - name: "NWCC Cheerleading"
     url: "https://nwccrangers.com/rss.aspx?path=cheer"
     category: "Sports"
+    additional_categories: ["College","Juco News","Northwest Mississippi"]
     enabled: true
 
   - name: "NWCC Dance"
     url: "https://nwccrangers.com/rss.aspx?path=dance"
     category: "Sports"
+    additional_categories: ["College","Juco News","Northwest Mississippi"]
     enabled: true
 
   # Coahoma Community College Tigers Feeds
   - name: "Coahoma Baseball"
     url: "https://coahomasports.com/rss.aspx?path=baseball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Coahoma"]
     enabled: true
 
   - name: "Coahoma Men's Basketball"
     url: "https://coahomasports.com/rss.aspx?path=mbball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Coahoma"]
     enabled: true
 
   - name: "Coahoma Women's Basketball"
     url: "https://coahomasports.com/rss.aspx?path=wbball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Coahoma"]
     enabled: true
 
   - name: "Coahoma Football"
     url: "https://coahomasports.com/rss.aspx?path=football"
     category: "Sports"
+    additional_categories: ["College","Juco News","Coahoma"]
     enabled: true
 
   - name: "Coahoma Softball"
     url: "https://coahomasports.com/rss.aspx?path=softball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Coahoma"]
     enabled: true
 
   - name: "Coahoma Track & Field"
     url: "https://coahomasports.com/rss.aspx?path=track"
     category: "Sports"
+    additional_categories: ["College","Juco News","Coahoma"]
     enabled: true
 
   - name: "Coahoma Cheerleading"
     url: "https://coahomasports.com/rss.aspx?path=cheer"
     category: "Sports"
+    additional_categories: ["College","Juco News","Coahoma"]
     enabled: true
 
   # Delta State University Statesmen Feeds
   - name: "Delta State Baseball"
     url: "https://gostatesmen.com/rss.aspx?path=baseball"
     category: "Sports"
+    additional_categories: ["College","Delta State"]
     enabled: true
 
   - name: "Delta State Men's Basketball"
     url: "https://gostatesmen.com/rss.aspx?path=mbball"
     category: "Sports"
+    additional_categories: ["College","Delta State"]
     enabled: true
 
   - name: "Delta State Women's Basketball"
     url: "https://gostatesmen.com/rss.aspx?path=wbball"
     category: "Sports"
+    additional_categories: ["College","Delta State"]
     enabled: true
 
   - name: "Delta State Football"
     url: "https://gostatesmen.com/rss.aspx?path=football"
     category: "Sports"
+    additional_categories: ["College","Delta State"]
     enabled: true
 
   - name: "Delta State Men's Golf"
     url: "https://gostatesmen.com/rss.aspx?path=mgolf"
     category: "Sports"
+    additional_categories: ["College","Delta State"]
     enabled: true
 
   - name: "Delta State Men's Soccer"
     url: "https://gostatesmen.com/rss.aspx?path=msoc"
     category: "Sports"
+    additional_categories: ["College","Delta State"]
     enabled: true
 
   - name: "Delta State Women's Soccer"
     url: "https://gostatesmen.com/rss.aspx?path=wsoc"
     category: "Sports"
+    additional_categories: ["College","Delta State"]
     enabled: true
 
   - name: "Delta State M/W Swimming"
     url: "https://gostatesmen.com/rss.aspx?path=mswim"
     category: "Sports"
+    additional_categories: ["College","Delta State"]
     enabled: true
 
   - name: "Delta State Men's Tennis"
     url: "https://gostatesmen.com/rss.aspx?path=mten"
     category: "Sports"
+    additional_categories: ["College","Delta State"]
     enabled: true
 
   - name: "Delta State Women's Tennis"
     url: "https://gostatesmen.com/rss.aspx?path=wten"
     category: "Sports"
+    additional_categories: ["College","Delta State"]
     enabled: true
 
   - name: "Delta State Cross Country"
     url: "https://gostatesmen.com/rss.aspx?path=wxc"
     category: "Sports"
+    additional_categories: ["College","Delta State"]
     enabled: true
 
   - name: "Delta State Softball"
     url: "https://gostatesmen.com/rss.aspx?path=softball"
     category: "Sports"
+    additional_categories: ["College","Delta State"]
     enabled: true
 
   - name: "Delta State Cheerleading"
     url: "https://gostatesmen.com/rss.aspx?path=cheer"
     category: "Sports"
+    additional_categories: ["College","Delta State"]
     enabled: true
 
   # Mississippi Valley State University Delta Devils Feeds
   - name: "MVSU Baseball"
     url: "https://mvsusports.com/rss.aspx?path=baseball"
     category: "Sports"
+    additional_categories: ["College","Mississippi Valley State"]
     enabled: true
 
   - name: "MVSU Men's Basketball"
     url: "https://mvsusports.com/rss.aspx?path=mbball"
     category: "Sports"
+    additional_categories: ["College","Mississippi Valley State"]
     enabled: true
 
   - name: "MVSU Women's Basketball"
     url: "https://mvsusports.com/rss.aspx?path=wbball"
     category: "Sports"
+    additional_categories: ["College","Mississippi Valley State"]
     enabled: true
 
   - name: "MVSU Football"
     url: "https://mvsusports.com/rss.aspx?path=football"
     category: "Sports"
+    additional_categories: ["College","Mississippi Valley State"]
     enabled: true
 
   - name: "MVSU Men's Cross Country"
     url: "https://mvsusports.com/rss.aspx?path=mcross"
     category: "Sports"
+    additional_categories: ["College","Mississippi Valley State"]
     enabled: true
 
   - name: "MVSU Women's Cross Country"
     url: "https://mvsusports.com/rss.aspx?path=wcross"
     category: "Sports"
+    additional_categories: ["College","Mississippi Valley State"]
     enabled: true
 
   - name: "MVSU Men's Tennis"
     url: "https://mvsusports.com/rss.aspx?path=mten"
     category: "Sports"
+    additional_categories: ["College","Mississippi Valley State"]
     enabled: true
 
   - name: "MVSU Women's Tennis"
     url: "https://mvsusports.com/rss.aspx?path=wten"
     category: "Sports"
+    additional_categories: ["College","Mississippi Valley State"]
     enabled: true
 
   - name: "MVSU Men's Track & Field"
     url: "https://mvsusports.com/rss.aspx?path=mtrack"
     category: "Sports"
+    additional_categories: ["College","Mississippi Valley State"]
     enabled: true
 
   - name: "MVSU Women's Track & Field"
     url: "https://mvsusports.com/rss.aspx?path=wtrack"
     category: "Sports"
+    additional_categories: ["College","Mississippi Valley State"]
     enabled: true
 
   - name: "MVSU Softball"
     url: "https://mvsusports.com/rss.aspx?path=softball"
     category: "Sports"
+    additional_categories: ["College","Mississippi Valley State"]
     enabled: true
 
   - name: "MVSU Volleyball"
     url: "https://mvsusports.com/rss.aspx?path=wvball"
     category: "Sports"
+    additional_categories: ["College","Mississippi Valley State"]
     enabled: true
 
   - name: "MVSU Women's Soccer"
     url: "https://mvsusports.com/rss.aspx?path=wsoc"
     category: "Sports"
+    additional_categories: ["College","Mississippi Valley State"]
     enabled: true
 
   # Alcorn State University Braves Feeds
   - name: "Alcorn Baseball"
     url: "https://alcornsports.com/rss.aspx?path=baseball"
     category: "Sports"
+    additional_categories: ["College","Alcorn State"]
     enabled: true
 
   - name: "Alcorn Men's Basketball"
     url: "https://alcornsports.com/rss.aspx?path=mbball"
     category: "Sports"
+    additional_categories: ["College","Alcorn State"]
     enabled: true
 
   - name: "Alcorn Women's Basketball"
     url: "https://alcornsports.com/rss.aspx?path=wbball"
     category: "Sports"
+    additional_categories: ["College","Alcorn State"]
     enabled: true
 
   - name: "Alcorn Football"
     url: "https://alcornsports.com/rss.aspx?path=football"
     category: "Sports"
+    additional_categories: ["College","Alcorn State"]
     enabled: true
 
   - name: "Alcorn Men's Golf"
     url: "https://alcornsports.com/rss.aspx?path=mgolf"
     category: "Sports"
+    additional_categories: ["College","Alcorn State"]
     enabled: true
 
   - name: "Alcorn Women's Golf"
     url: "https://alcornsports.com/rss.aspx?path=wgolf"
     category: "Sports"
+    additional_categories: ["College","Alcorn State"]
     enabled: true
 
   - name: "Alcorn Women's Soccer"
     url: "https://alcornsports.com/rss.aspx?path=wsoc"
     category: "Sports"
+    additional_categories: ["College","Alcorn State"]
     enabled: true
 
   - name: "Alcorn Softball"
     url: "https://alcornsports.com/rss.aspx?path=softball"
     category: "Sports"
+    additional_categories: ["College","Alcorn State"]
     enabled: true
 
   - name: "Alcorn Men's Tennis"
     url: "https://alcornsports.com/rss.aspx?path=mten"
     category: "Sports"
+    additional_categories: ["College","Alcorn State"]
     enabled: true
 
   - name: "Alcorn Women's Tennis"
     url: "https://alcornsports.com/rss.aspx?path=wten"
     category: "Sports"
+    additional_categories: ["College","Alcorn State"]
     enabled: true
 
   - name: "Alcorn Men's Track & Field"
     url: "https://alcornsports.com/rss.aspx?path=mtrack"
     category: "Sports"
+    additional_categories: ["College","Alcorn State"]
     enabled: true
 
   - name: "Alcorn Women's Track & Field"
     url: "https://alcornsports.com/rss.aspx?path=wtrack"
     category: "Sports"
+    additional_categories: ["College","Alcorn State"]
     enabled: true
 
   - name: "Alcorn Volleyball"
     url: "https://alcornsports.com/rss.aspx?path=wvball"
     category: "Sports"
+    additional_categories: ["College","Alcorn State"]
     enabled: true
 
   - name: "Alcorn Men's Cross Country"
     url: "https://alcornsports.com/rss.aspx?path=mcross"
     category: "Sports"
+    additional_categories: ["College","Alcorn State"]
     enabled: true
 
   - name: "Alcorn Women's Cross Country"
     url: "https://alcornsports.com/rss.aspx?path=wcross"
     category: "Sports"
+    additional_categories: ["College","Alcorn State"]
     enabled: true
 
   # Jackson State University Tigers Feeds
   - name: "JSU Baseball"
     url: "https://gojsutigers.com/rss.aspx?path=baseball"
     category: "Sports"
+    additional_categories: ["College","Jackson State"]
     enabled: true
 
   - name: "JSU Men's Basketball"
     url: "https://gojsutigers.com/rss.aspx?path=mbball"
     category: "Sports"
+    additional_categories: ["College","Jackson State"]
     enabled: true
 
   - name: "JSU Women's Basketball"
     url: "https://gojsutigers.com/rss.aspx?path=wbball"
     category: "Sports"
+    additional_categories: ["College","Jackson State"]
     enabled: true
 
   - name: "JSU Football"
     url: "https://gojsutigers.com/rss.aspx?path=football"
     category: "Sports"
+    additional_categories: ["College","Jackson State"]
     enabled: true
 
   - name: "JSU Men's Cross Country"
     url: "https://gojsutigers.com/rss.aspx?path=mcross"
     category: "Sports"
+    additional_categories: ["College","Jackson State"]
     enabled: true
 
   - name: "JSU Women's Cross Country"
     url: "https://gojsutigers.com/rss.aspx?path=wcross"
     category: "Sports"
+    additional_categories: ["College","Jackson State"]
     enabled: true
 
   - name: "JSU Men's Track & Field"
     url: "https://gojsutigers.com/rss.aspx?path=mtrack"
     category: "Sports"
+    additional_categories: ["College","Jackson State"]
     enabled: true
 
   - name: "JSU Women's Track & Field"
     url: "https://gojsutigers.com/rss.aspx?path=wtrack"
     category: "Sports"
+    additional_categories: ["College","Jackson State"]
     enabled: true
 
   - name: "JSU Softball"
     url: "https://gojsutigers.com/rss.aspx?path=softball"
     category: "Sports"
+    additional_categories: ["College","Jackson State"]
     enabled: true
 
   - name: "JSU Men's Tennis"
     url: "https://gojsutigers.com/rss.aspx?path=mten"
     category: "Sports"
+    additional_categories: ["College","Jackson State"]
     enabled: true
 
   - name: "JSU Women's Tennis"
     url: "https://gojsutigers.com/rss.aspx?path=wten"
     category: "Sports"
+    additional_categories: ["College","Jackson State"]
     enabled: true
 
   - name: "JSU Volleyball"
     url: "https://gojsutigers.com/rss.aspx?path=wvball"
     category: "Sports"
+    additional_categories: ["College","Jackson State"]
     enabled: true
 
   - name: "JSU Women's Soccer"
     url: "https://gojsutigers.com/rss.aspx?path=wsoc"
     category: "Sports"
+    additional_categories: ["College","Jackson State"]
     enabled: true
 
   - name: "JSU Women's Bowling"
     url: "https://gojsutigers.com/rss.aspx?path=wbowl"
     category: "Sports"
+    additional_categories: ["College","Jackson State"]
     enabled: true
 
   - name: "JSU Men's Golf"
     url: "https://gojsutigers.com/rss.aspx?path=mgolf"
     category: "Sports"
+    additional_categories: ["College","Jackson State"]
     enabled: true
 
   # Southern Miss Golden Eagles Feeds
   - name: "USM Baseball"
     url: "https://southernmiss.com/rss?path=baseball"
     category: "Sports"
+    additional_categories: ["College","Southern Miss"]
     enabled: true
 
   - name: "USM Men's Basketball"
     url: "https://southernmiss.com/rss?path=mbball"
     category: "Sports"
+    additional_categories: ["College","Southern Miss"]
     enabled: true
 
   - name: "USM Women's Basketball"
     url: "https://southernmiss.com/rss?path=wbball"
     category: "Sports"
+    additional_categories: ["College","Southern Miss"]
     enabled: true
 
   - name: "USM Football"
     url: "https://southernmiss.com/rss?path=football"
     category: "Sports"
+    additional_categories: ["College","Southern Miss"]
     enabled: true
 
   - name: "USM Men's Golf"
     url: "https://southernmiss.com/rss?path=mgolf"
     category: "Sports"
+    additional_categories: ["College","Southern Miss"]
     enabled: true
 
   - name: "USM Women's Golf"
     url: "https://southernmiss.com/rss?path=wgolf"
     category: "Sports"
+    additional_categories: ["College","Southern Miss"]
     enabled: true
 
   - name: "USM Men's Tennis"
     url: "https://southernmiss.com/rss?path=mten"
     category: "Sports"
+    additional_categories: ["College","Southern Miss"]
     enabled: true
 
   - name: "USM Women's Tennis"
     url: "https://southernmiss.com/rss?path=wten"
     category: "Sports"
+    additional_categories: ["College","Southern Miss"]
     enabled: true
 
   - name: "USM Women's Soccer"
     url: "https://southernmiss.com/rss?path=wsoc"
     category: "Sports"
+    additional_categories: ["College","Southern Miss"]
     enabled: true
 
   - name: "USM Softball"
     url: "https://southernmiss.com/rss?path=softball"
     category: "Sports"
+    additional_categories: ["College","Southern Miss"]
     enabled: true
 
   - name: "USM Volleyball"
     url: "https://southernmiss.com/rss?path=wvball"
     category: "Sports"
+    additional_categories: ["College","Southern Miss"]
     enabled: true
 
   - name: "USM Beach Volleyball"
     url: "https://southernmiss.com/rss?path=bvb"
     category: "Sports"
+    additional_categories: ["College","Southern Miss"]
     enabled: true
 
   - name: "USM Track & Field"
     url: "https://southernmiss.com/rss?path=track"
     category: "Sports"
+    additional_categories: ["College","Southern Miss"]
     enabled: true
 
   # Mississippi State Bulldogs Feeds
   - name: "MSU Baseball"
     url: "https://hailstate.com/rss?path=baseball"
     category: "Sports"
+    additional_categories: ["College","Mississippi State"]
     enabled: true
 
   - name: "MSU Men's Basketball"
     url: "https://hailstate.com/rss?path=mbball"
     category: "Sports"
+    additional_categories: ["College","Mississippi State"]
     enabled: true
 
   - name: "MSU Women's Basketball"
     url: "https://hailstate.com/rss?path=wbball"
     category: "Sports"
+    additional_categories: ["College","Mississippi State"]
     enabled: true
 
   - name: "MSU Football"
     url: "https://hailstate.com/rss?path=football"
     category: "Sports"
+    additional_categories: ["College","Mississippi State"]
     enabled: true
 
   - name: "MSU Men's Golf"
     url: "https://hailstate.com/rss?path=mgolf"
     category: "Sports"
+    additional_categories: ["College","Mississippi State"]
     enabled: true
 
   - name: "MSU Women's Golf"
     url: "https://hailstate.com/rss?path=wgolf"
     category: "Sports"
+    additional_categories: ["College","Mississippi State"]
     enabled: true
 
   - name: "MSU Men's Tennis"
     url: "https://hailstate.com/rss?path=mten"
     category: "Sports"
+    additional_categories: ["College","Mississippi State"]
     enabled: true
 
   - name: "MSU Women's Tennis"
     url: "https://hailstate.com/rss?path=wten"
     category: "Sports"
+    additional_categories: ["College","Mississippi State"]
     enabled: true
 
   - name: "MSU Women's Soccer"
     url: "https://hailstate.com/rss?path=wsoc"
     category: "Sports"
+    additional_categories: ["College","Mississippi State"]
     enabled: true
 
   - name: "MSU Softball"
     url: "https://hailstate.com/rss?path=softball"
     category: "Sports"
+    additional_categories: ["College","Mississippi State"]
     enabled: true
 
   - name: "MSU Volleyball"
     url: "https://hailstate.com/rss?path=wvball"
     category: "Sports"
+    additional_categories: ["College","Mississippi State"]
     enabled: true
 
   - name: "MSU Cross Country"
     url: "https://hailstate.com/rss?path=cross"
     category: "Sports"
+    additional_categories: ["College","Mississippi State"]
     enabled: true
 
   - name: "MSU Track & Field"
     url: "https://hailstate.com/rss?path=track"
     category: "Sports"
+    additional_categories: ["College","Mississippi State"]
     enabled: true
 
   # Ole Miss Rebels Feeds
   - name: "Ole Miss Baseball"
     url: "https://olemisssports.com/rss?path=baseball"
     category: "Sports"
+    additional_categories: ["College","Ole Miss"]
     enabled: true
 
   - name: "Ole Miss Men's Basketball"
     url: "https://olemisssports.com/rss?path=mbball"
     category: "Sports"
+    additional_categories: ["College","Ole Miss"]
     enabled: true
 
   - name: "Ole Miss Women's Basketball"
     url: "https://olemisssports.com/rss?path=wbball"
     category: "Sports"
+    additional_categories: ["College","Ole Miss"]
     enabled: true
 
   - name: "Ole Miss Football"
     url: "https://olemisssports.com/rss?path=football"
     category: "Sports"
+    additional_categories: ["College","Ole Miss"]
     enabled: true
 
   - name: "Ole Miss Men's Golf"
     url: "https://olemisssports.com/rss?path=mgolf"
     category: "Sports"
+    additional_categories: ["College","Ole Miss"]
     enabled: true
 
   - name: "Ole Miss Women's Golf"
     url: "https://olemisssports.com/rss?path=wgolf"
     category: "Sports"
+    additional_categories: ["College","Ole Miss"]
     enabled: true
 
   - name: "Ole Miss Rifle"
     url: "https://olemisssports.com/rss?path=wrifle"
     category: "Sports"
+    additional_categories: ["College","Ole Miss"]
     enabled: true
 
   - name: "Ole Miss Women's Soccer"
     url: "https://olemisssports.com/rss?path=wsoc"
     category: "Sports"
+    additional_categories: ["College","Ole Miss"]
     enabled: true
 
   - name: "Ole Miss Softball"
     url: "https://olemisssports.com/rss?path=softball"
     category: "Sports"
+    additional_categories: ["College","Ole Miss"]
     enabled: true
 
   - name: "Ole Miss Men's Tennis"
     url: "https://olemisssports.com/rss?path=mten"
     category: "Sports"
+    additional_categories: ["College","Ole Miss"]
     enabled: true
 
   - name: "Ole Miss Women's Tennis"
     url: "https://olemisssports.com/rss?path=wten"
     category: "Sports"
+    additional_categories: ["College","Ole Miss"]
     enabled: true
 
   - name: "Ole Miss Volleyball"
     url: "https://olemisssports.com/rss?path=wvball"
     category: "Sports"
+    additional_categories: ["College","Ole Miss"]
     enabled: true
 
   - name: "Ole Miss Cross Country"
     url: "https://olemisssports.com/rss?path=cross"
     category: "Sports"
+    additional_categories: ["College","Ole Miss"]
     enabled: true
 
   - name: "Ole Miss Track & Field"
     url: "https://olemisssports.com/rss?path=track"
     category: "Sports"
+    additional_categories: ["College","Ole Miss"]
     enabled: true
 
   # Mississippi College Choctaws Feeds
   - name: "MC Baseball"
     url: "https://www.gochoctaws.com/rss.aspx?path=baseball"
     category: "Sports"
+    additional_categories: ["College","Mississippi College"]
     enabled: true
 
   - name: "MC Men's Basketball"
     url: "https://www.gochoctaws.com/rss.aspx?path=mbball"
     category: "Sports"
+    additional_categories: ["College","Mississippi College"]
     enabled: true
 
   - name: "MC Women's Basketball"
     url: "https://www.gochoctaws.com/rss.aspx?path=wbball"
     category: "Sports"
+    additional_categories: ["College","Mississippi College"]
     enabled: true
 
   - name: "MC Football"
     url: "https://www.gochoctaws.com/rss.aspx?path=football"
     category: "Sports"
+    additional_categories: ["College","Mississippi College"]
     enabled: true
 
   - name: "MC Men's Golf"
     url: "https://www.gochoctaws.com/rss.aspx?path=mgolf"
     category: "Sports"
+    additional_categories: ["College","Mississippi College"]
     enabled: true
 
   - name: "MC Women's Golf"
     url: "https://www.gochoctaws.com/rss.aspx?path=wgolf"
     category: "Sports"
+    additional_categories: ["College","Mississippi College"]
     enabled: true
 
   - name: "MC Men's Soccer"
     url: "https://www.gochoctaws.com/rss.aspx?path=msoc"
     category: "Sports"
+    additional_categories: ["College","Mississippi College"]
     enabled: true
 
   - name: "MC Women's Soccer"
     url: "https://www.gochoctaws.com/rss.aspx?path=wsoc"
     category: "Sports"
+    additional_categories: ["College","Mississippi College"]
     enabled: true
 
   - name: "MC Softball"
     url: "https://www.gochoctaws.com/rss.aspx?path=softball"
     category: "Sports"
+    additional_categories: ["College","Mississippi College"]
     enabled: true
 
   - name: "MC Men's Tennis"
     url: "https://www.gochoctaws.com/rss.aspx?path=mten"
     category: "Sports"
+    additional_categories: ["College","Mississippi College"]
     enabled: true
 
   - name: "MC Women's Tennis"
     url: "https://www.gochoctaws.com/rss.aspx?path=wten"
     category: "Sports"
+    additional_categories: ["College","Mississippi College"]
     enabled: true
 
   - name: "MC Men's Track & Field"
     url: "https://www.gochoctaws.com/rss.aspx?path=mtrack"
     category: "Sports"
+    additional_categories: ["College","Mississippi College"]
     enabled: true
 
   - name: "MC Women's Track & Field"
     url: "https://www.gochoctaws.com/rss.aspx?path=wtrack"
     category: "Sports"
+    additional_categories: ["College","Mississippi College"]
     enabled: true
 
   - name: "MC Volleyball"
     url: "https://www.gochoctaws.com/rss.aspx?path=wvball"
     category: "Sports"
+    additional_categories: ["College","Mississippi College"]
     enabled: true
 
   # Belhaven University Blazers Feeds
   - name: "Belhaven Baseball"
     url: "https://blazers.belhaven.edu/rss.aspx?path=baseball"
     category: "Sports"
+    additional_categories: ["College","Belhaven"]
     enabled: true
 
   - name: "Belhaven Men's Basketball"
     url: "https://blazers.belhaven.edu/rss.aspx?path=mbball"
     category: "Sports"
+    additional_categories: ["College","Belhaven"]
     enabled: true
 
   - name: "Belhaven Women's Basketball"
     url: "https://blazers.belhaven.edu/rss.aspx?path=wbball"
     category: "Sports"
+    additional_categories: ["College","Belhaven"]
     enabled: true
 
   - name: "Belhaven Football"
     url: "https://blazers.belhaven.edu/rss.aspx?path=football"
     category: "Sports"
+    additional_categories: ["College","Belhaven"]
     enabled: true
 
   - name: "Belhaven Men's Golf"
     url: "https://blazers.belhaven.edu/rss.aspx?path=mgolf"
     category: "Sports"
+    additional_categories: ["College","Belhaven"]
     enabled: true
 
   - name: "Belhaven Men's Soccer"
     url: "https://blazers.belhaven.edu/rss.aspx?path=msoc"
     category: "Sports"
+    additional_categories: ["College","Belhaven"]
     enabled: true
 
   - name: "Belhaven Women's Soccer"
     url: "https://blazers.belhaven.edu/rss.aspx?path=wsoc"
     category: "Sports"
+    additional_categories: ["College","Belhaven"]
     enabled: true
 
   - name: "Belhaven Softball"
     url: "https://blazers.belhaven.edu/rss.aspx?path=softball"
     category: "Sports"
+    additional_categories: ["College","Belhaven"]
     enabled: true
 
   - name: "Belhaven Men's Tennis"
     url: "https://blazers.belhaven.edu/rss.aspx?path=mten"
     category: "Sports"
+    additional_categories: ["College","Belhaven"]
     enabled: true
 
   - name: "Belhaven Women's Tennis"
     url: "https://blazers.belhaven.edu/rss.aspx?path=wten"
     category: "Sports"
+    additional_categories: ["College","Belhaven"]
     enabled: true
 
   - name: "Belhaven Men's Track & Field"
     url: "https://blazers.belhaven.edu/rss.aspx?path=mtrack"
     category: "Sports"
+    additional_categories: ["College","Belhaven"]
     enabled: true
 
   - name: "Belhaven Women's Track & Field"
     url: "https://blazers.belhaven.edu/rss.aspx?path=wtrack"
     category: "Sports"
+    additional_categories: ["College","Belhaven"]
     enabled: true
 
   - name: "Belhaven Men's Cross Country"
     url: "https://blazers.belhaven.edu/rss.aspx?path=mcross"
     category: "Sports"
+    additional_categories: ["College","Belhaven"]
     enabled: true
 
   - name: "Belhaven Women's Cross Country"
     url: "https://blazers.belhaven.edu/rss.aspx?path=wcross"
     category: "Sports"
+    additional_categories: ["College","Belhaven"]
     enabled: true
 
   - name: "Belhaven Volleyball"
     url: "https://blazers.belhaven.edu/rss.aspx?path=wvball"
     category: "Sports"
+    additional_categories: ["College","Belhaven"]
     enabled: true
 
   # Millsaps College Majors Feeds
   - name: "Millsaps Baseball"
     url: "https://gomajors.com/rss.aspx?path=baseball"
     category: "Sports"
+    additional_categories: ["College","Millsaps"]
     enabled: true
 
   - name: "Millsaps Men's Basketball"
     url: "https://gomajors.com/rss.aspx?path=mbball"
     category: "Sports"
+    additional_categories: ["College","Millsaps"]
     enabled: true
 
   - name: "Millsaps Women's Basketball"
     url: "https://gomajors.com/rss.aspx?path=wbball"
     category: "Sports"
+    additional_categories: ["College","Millsaps"]
     enabled: true
 
   - name: "Millsaps Men's Cross Country"
     url: "https://gomajors.com/rss.aspx?path=mcross"
     category: "Sports"
+    additional_categories: ["College","Millsaps"]
     enabled: true
 
   - name: "Millsaps Women's Cross Country"
     url: "https://gomajors.com/rss.aspx?path=wcross"
     category: "Sports"
+    additional_categories: ["College","Millsaps"]
     enabled: true
 
   - name: "Millsaps Football"
     url: "https://gomajors.com/rss.aspx?path=football"
     category: "Sports"
+    additional_categories: ["College","Millsaps"]
     enabled: true
 
   - name: "Millsaps Men's Golf"
     url: "https://gomajors.com/rss.aspx?path=mgolf"
     category: "Sports"
+    additional_categories: ["College","Millsaps"]
     enabled: true
 
   - name: "Millsaps Women's Golf"
     url: "https://gomajors.com/rss.aspx?path=wgolf"
     category: "Sports"
+    additional_categories: ["College","Millsaps"]
     enabled: true
 
   - name: "Millsaps Men's Lacrosse"
     url: "https://gomajors.com/rss.aspx?path=mlax"
     category: "Sports"
+    additional_categories: ["College","Millsaps"]
     enabled: true
 
   - name: "Millsaps Women's Lacrosse"
     url: "https://gomajors.com/rss.aspx?path=wlax"
     category: "Sports"
+    additional_categories: ["College","Millsaps"]
     enabled: true
 
   - name: "Millsaps Men's Soccer"
     url: "https://gomajors.com/rss.aspx?path=msoc"
     category: "Sports"
+    additional_categories: ["College","Millsaps"]
     enabled: true
 
   - name: "Millsaps Women's Soccer"
     url: "https://gomajors.com/rss.aspx?path=wsoc"
     category: "Sports"
+    additional_categories: ["College","Millsaps"]
     enabled: true
 
   - name: "Millsaps Softball"
     url: "https://gomajors.com/rss.aspx?path=softball"
     category: "Sports"
+    additional_categories: ["College","Millsaps"]
     enabled: true
 
   - name: "Millsaps Men's Swimming & Diving"
     url: "https://gomajors.com/rss.aspx?path=mswim"
     category: "Sports"
+    additional_categories: ["College","Millsaps"]
     enabled: true
 
   - name: "Millsaps Women's Swimming & Diving"
     url: "https://gomajors.com/rss.aspx?path=wswim"
     category: "Sports"
+    additional_categories: ["College","Millsaps"]
     enabled: true
 
   - name: "Millsaps Men's Tennis"
     url: "https://gomajors.com/rss.aspx?path=mten"
     category: "Sports"
+    additional_categories: ["College","Millsaps"]
     enabled: true
 
   - name: "Millsaps Women's Tennis"
     url: "https://gomajors.com/rss.aspx?path=wten"
     category: "Sports"
+    additional_categories: ["College","Millsaps"]
     enabled: true
 
   - name: "Millsaps Men's Track & Field"
     url: "https://gomajors.com/rss.aspx?path=mtrack"
     category: "Sports"
+    additional_categories: ["College","Millsaps"]
     enabled: true
 
   - name: "Millsaps Women's Track & Field"
     url: "https://gomajors.com/rss.aspx?path=wtrack"
     category: "Sports"
+    additional_categories: ["College","Millsaps"]
     enabled: true
 
   - name: "Millsaps Volleyball"
     url: "https://gomajors.com/rss.aspx?path=wvball"
     category: "Sports"
+    additional_categories: ["College","Millsaps"]
     enabled: true
 
   # Mississippi University for Women Owls Feeds
   - name: "MUW Baseball"
     url: "https://owlsathletics.com/rss.aspx?path=baseball"
     category: "Sports"
+    additional_categories: ["College","Mississippi University for Women"]
     enabled: true
 
   - name: "MUW Men's Basketball"
     url: "https://owlsathletics.com/rss.aspx?path=mbball"
     category: "Sports"
+    additional_categories: ["College","Mississippi University for Women"]
     enabled: true
 
   - name: "MUW Women's Basketball"
     url: "https://owlsathletics.com/rss.aspx?path=wbball"
     category: "Sports"
+    additional_categories: ["College","Mississippi University for Women"]
     enabled: true
 
   - name: "MUW Men's Cross Country"
     url: "https://owlsathletics.com/rss.aspx?path=mcross"
     category: "Sports"
+    additional_categories: ["College","Mississippi University for Women"]
     enabled: true
 
   - name: "MUW Women's Cross Country"
     url: "https://owlsathletics.com/rss.aspx?path=wcross"
     category: "Sports"
+    additional_categories: ["College","Mississippi University for Women"]
     enabled: true
 
   - name: "MUW Men's Golf"
     url: "https://owlsathletics.com/rss.aspx?path=mgolf"
     category: "Sports"
+    additional_categories: ["College","Mississippi University for Women"]
     enabled: true
 
   - name: "MUW Women's Golf"
     url: "https://owlsathletics.com/rss.aspx?path=wgolf"
     category: "Sports"
+    additional_categories: ["College","Mississippi University for Women"]
     enabled: true
 
   - name: "MUW Men's Soccer"
     url: "https://owlsathletics.com/rss.aspx?path=msoc"
     category: "Sports"
+    additional_categories: ["College","Mississippi University for Women"]
     enabled: true
 
   - name: "MUW Women's Soccer"
     url: "https://owlsathletics.com/rss.aspx?path=wsoc"
     category: "Sports"
+    additional_categories: ["College","Mississippi University for Women"]
     enabled: true
 
   - name: "MUW Softball"
     url: "https://owlsathletics.com/rss.aspx?path=softball"
     category: "Sports"
+    additional_categories: ["College","Mississippi University for Women"]
     enabled: true
 
   - name: "MUW Men's Tennis"
     url: "https://owlsathletics.com/rss.aspx?path=mten"
     category: "Sports"
+    additional_categories: ["College","Mississippi University for Women"]
     enabled: true
 
   - name: "MUW Women's Tennis"
     url: "https://owlsathletics.com/rss.aspx?path=wten"
     category: "Sports"
+    additional_categories: ["College","Mississippi University for Women"]
     enabled: true
 
   - name: "MUW Men's Track & Field"
     url: "https://owlsathletics.com/rss.aspx?path=mtrack"
     category: "Sports"
+    additional_categories: ["College","Mississippi University for Women"]
     enabled: true
 
   - name: "MUW Women's Track & Field"
     url: "https://owlsathletics.com/rss.aspx?path=wtrack"
     category: "Sports"
+    additional_categories: ["College","Mississippi University for Women"]
     enabled: true
 
   - name: "MUW Volleyball"
     url: "https://owlsathletics.com/rss.aspx?path=wvball"
     category: "Sports"
+    additional_categories: ["College","Mississippi University for Women"]
     enabled: true
 
   # Hinds Community College Eagles Feeds
   - name: "Hinds Baseball"
     url: "https://sports.hindscc.edu/rss.aspx?path=baseball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Hinds"]
     enabled: true
 
   - name: "Hinds Men's Basketball"
     url: "https://sports.hindscc.edu/rss.aspx?path=mbball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Hinds"]
     enabled: true
 
   - name: "Hinds Women's Basketball"
     url: "https://sports.hindscc.edu/rss.aspx?path=wbball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Hinds"]
     enabled: true
 
   - name: "Hinds Football"
     url: "https://sports.hindscc.edu/rss.aspx?path=football"
     category: "Sports"
+    additional_categories: ["College","Juco News","Hinds"]
     enabled: true
 
   - name: "Hinds Men's Golf"
     url: "https://sports.hindscc.edu/rss.aspx?path=mgolf"
     category: "Sports"
+    additional_categories: ["College","Juco News","Hinds"]
     enabled: true
 
   - name: "Hinds Women's Golf"
     url: "https://sports.hindscc.edu/rss.aspx?path=wgolf"
     category: "Sports"
+    additional_categories: ["College","Juco News","Hinds"]
     enabled: true
 
   - name: "Hinds Men's Soccer"
     url: "https://sports.hindscc.edu/rss.aspx?path=msoc"
     category: "Sports"
+    additional_categories: ["College","Juco News","Hinds"]
     enabled: true
 
   - name: "Hinds Women's Soccer"
     url: "https://sports.hindscc.edu/rss.aspx?path=wsoc"
     category: "Sports"
+    additional_categories: ["College","Juco News","Hinds"]
     enabled: true
 
   - name: "Hinds Softball"
     url: "https://sports.hindscc.edu/rss.aspx?path=softball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Hinds"]
     enabled: true
 
   - name: "Hinds Men's Tennis"
     url: "https://sports.hindscc.edu/rss.aspx?path=mten"
     category: "Sports"
+    additional_categories: ["College","Juco News","Hinds"]
     enabled: true
 
   - name: "Hinds Women's Tennis"
     url: "https://sports.hindscc.edu/rss.aspx?path=wten"
     category: "Sports"
+    additional_categories: ["College","Juco News","Hinds"]
     enabled: true
 
   - name: "Hinds Men's Track & Field"
     url: "https://sports.hindscc.edu/rss.aspx?path=mtrack"
     category: "Sports"
+    additional_categories: ["College","Juco News","Hinds"]
     enabled: true
 
   - name: "Hinds Women's Track & Field"
     url: "https://sports.hindscc.edu/rss.aspx?path=wtrack"
     category: "Sports"
+    additional_categories: ["College","Juco News","Hinds"]
     enabled: true
 
   - name: "Hinds eSports"
     url: "https://sports.hindscc.edu/rss.aspx?path=esports"
     category: "Sports"
+    additional_categories: ["College","Juco News","Hinds"]
     enabled: true
 
   # Jones College Bobcats Feeds
   - name: "Jones College Baseball"
     url: "https://jcbobcats.com/rss.aspx?path=baseball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Jones College"]
     enabled: true
 
   - name: "Jones College Men's Basketball"
     url: "https://jcbobcats.com/rss.aspx?path=mbball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Jones College"]
     enabled: true
 
   - name: "Jones College Women's Basketball"
     url: "https://jcbobcats.com/rss.aspx?path=wbball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Jones College"]
     enabled: true
 
   - name: "Jones College Football"
     url: "https://jcbobcats.com/rss.aspx?path=football"
     category: "Sports"
+    additional_categories: ["College","Juco News","Jones College"]
     enabled: true
 
   - name: "Jones College Men's Golf"
     url: "https://jcbobcats.com/rss.aspx?path=mgolf"
     category: "Sports"
+    additional_categories: ["College","Juco News","Jones College"]
     enabled: true
 
   - name: "Jones College Men's Soccer"
     url: "https://jcbobcats.com/rss.aspx?path=msoc"
     category: "Sports"
+    additional_categories: ["College","Juco News","Jones College"]
     enabled: true
 
   - name: "Jones College Women's Soccer"
     url: "https://jcbobcats.com/rss.aspx?path=wsoc"
     category: "Sports"
+    additional_categories: ["College","Juco News","Jones College"]
     enabled: true
 
   - name: "Jones College Softball"
     url: "https://jcbobcats.com/rss.aspx?path=softball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Jones College"]
     enabled: true
 
   - name: "Jones College Men's Tennis"
     url: "https://jcbobcats.com/rss.aspx?path=mten"
     category: "Sports"
+    additional_categories: ["College","Juco News","Jones College"]
     enabled: true
 
   - name: "Jones College Women's Tennis"
     url: "https://jcbobcats.com/rss.aspx?path=wten"
     category: "Sports"
+    additional_categories: ["College","Juco News","Jones College"]
     enabled: true
 
   - name: "Jones College Volleyball"
     url: "https://jcbobcats.com/rss.aspx?path=vball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Jones College"]
     enabled: true
 
   - name: "Jones College Cheer"
     url: "https://jcbobcats.com/rss.aspx?path=cheer"
     category: "Sports"
+    additional_categories: ["College","Juco News","Jones College"]
     enabled: true
 
   # Southwest Mississippi Community College Bears Feeds
   - name: "SMCC Baseball"
     url: "https://southwestbearathletics.com/rss.aspx?path=baseball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Southwest Mississippi"]
     enabled: true
 
   - name: "SMCC Men's Basketball"
     url: "https://southwestbearathletics.com/rss.aspx?path=mbball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Southwest Mississippi"]
     enabled: true
 
   - name: "SMCC Women's Basketball"
     url: "https://southwestbearathletics.com/rss.aspx?path=wbball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Southwest Mississippi"]
     enabled: true
 
   - name: "SMCC Football"
     url: "https://southwestbearathletics.com/rss.aspx?path=football"
     category: "Sports"
+    additional_categories: ["College","Juco News","Southwest Mississippi"]
     enabled: true
 
   - name: "SMCC Men's Golf"
     url: "https://southwestbearathletics.com/rss.aspx?path=mgolf"
     category: "Sports"
+    additional_categories: ["College","Juco News","Southwest Mississippi"]
     enabled: true
 
   - name: "SMCC Men's Soccer"
     url: "https://southwestbearathletics.com/rss.aspx?path=msoc"
     category: "Sports"
+    additional_categories: ["College","Juco News","Southwest Mississippi"]
     enabled: true
 
   - name: "SMCC Women's Soccer"
     url: "https://southwestbearathletics.com/rss.aspx?path=wsoc"
     category: "Sports"
+    additional_categories: ["College","Juco News","Southwest Mississippi"]
     enabled: true
 
   - name: "SMCC Softball"
     url: "https://southwestbearathletics.com/rss.aspx?path=softball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Southwest Mississippi"]
     enabled: true
 
   - name: "SMCC Men's Tennis"
     url: "https://southwestbearathletics.com/rss.aspx?path=mten"
     category: "Sports"
+    additional_categories: ["College","Juco News","Southwest Mississippi"]
     enabled: true
 
   - name: "SMCC Women's Tennis"
     url: "https://southwestbearathletics.com/rss.aspx?path=wten"
     category: "Sports"
+    additional_categories: ["College","Juco News","Southwest Mississippi"]
     enabled: true
 
   - name: "SMCC Volleyball"
     url: "https://southwestbearathletics.com/rss.aspx?path=vball"
     category: "Sports"
+    additional_categories: ["College","Juco News","Southwest Mississippi"]
     enabled: true
 
   - name: "SMCC Cheer"
     url: "https://southwestbearathletics.com/rss.aspx?path=cheer"
     category: "Sports"
+    additional_categories: ["College","Juco News","Southwest Mississippi"]
     enabled: true
