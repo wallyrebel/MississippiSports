@@ -18,11 +18,18 @@ class FeedConfig(BaseModel):
     name: str
     url: str
     default_category: Optional[str] = Field(default=None, alias="category")
+    additional_categories: list[str] = Field(default_factory=list)
     default_tags: list[str] = Field(default_factory=list)
-    max_per_run: int = 5
+    max_per_run: int = Field(default=5, ge=1)
     use_original_title: bool = False
     default_image: Optional[str] = None  # Path to default image file for this feed
     enabled: bool = True
+
+    @property
+    def category_names(self) -> list[str]:
+        """Keep the legacy category while adding deterministic school/college routing."""
+        names = [self.default_category, *self.additional_categories]
+        return list(dict.fromkeys(name.strip() for name in names if name and name.strip()))
 
     @field_validator("url")
     @classmethod

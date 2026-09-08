@@ -125,7 +125,7 @@ def run(
         logger.error("config_load_error", error=str(e))
         raise typer.Exit(1)
 
-    feeds = feeds_config.feeds
+    feeds = [feed for feed in feeds_config.feeds if feed.enabled]
 
     # Filter to single feed if specified
     if single_feed:
@@ -244,6 +244,10 @@ def process_feed(
     """
     logger.info("processing_feed", name=feed_config.name, url=feed_config.url)
 
+    if not feed_config.enabled:
+        logger.info("feed_disabled", name=feed_config.name)
+        return (0, 0, 0)
+
     processed = 0
     skipped = 0
     errors = 0
@@ -257,7 +261,9 @@ def process_feed(
     # Filter entries
     entries = pick_entries(
         entries=feed.entries,
-        max_count=feed_config.max_per_run,
+        # Inspect all recent entries before applying the budget to unseen items.
+        # Otherwise the same five duplicates can starve the rest of a busy feed.
+        max_count=len(feed.entries),
         hours_window=hours,
         timezone=settings.timezone,
     )
@@ -268,6 +274,7 @@ def process_feed(
 
     logger.info("entries_to_process", name=feed_config.name, count=len(entries))
 
+    attempted = 0
     for entry in entries:
         try:
             # Generate unique key
@@ -282,6 +289,10 @@ def process_feed(
                 )
                 skipped += 1
                 continue
+
+            if attempted >= feed_config.max_per_run:
+                break
+            attempted += 1
 
             # Process entry
             result = process_entry(
@@ -440,10 +451,15 @@ def process_entry(
             alt_text=image_alt,
         )
 
-    # Get/create category
-    category_id = None
-    if not dry_run and wp_client and feed_config.default_category:
-        category_id = wp_client.get_or_create_category(feed_config.default_category)
+    # Route by configured school and coverage section, independently of AI tags.
+    category_ids = []
+    if not dry_run and wp_client:
+        for name in feed_config.category_names:
+            category_id = wp_client.get_or_create_category(name)
+            if category_id is None:
+                logger.error("category_resolution_failed", feed=feed_config.name, category=name)
+                return None
+            category_ids.append(category_id)
 
     # Get/create tags - prefer AI-generated tags, fall back to defaults
     tag_ids = []
@@ -466,6 +482,7 @@ def process_entry(
             body_length=len(rewritten["body"]),
             has_image=featured_media_id is not None or image_result is not None,
             category=feed_config.default_category,
+            categories=feed_config.category_names,
             tags=feed_config.default_tags,
         )
         return {"id": 0, "link": "dry-run://not-published"}
@@ -477,7 +494,7 @@ def process_entry(
         title=rewritten["headline"],
         content=rewritten["body"],
         excerpt=rewritten.get("excerpt", ""),
-        category_id=category_id,
+        category_ids=category_ids,
         tag_ids=tag_ids,
         featured_media_id=featured_media_id,
         source_url=link,
