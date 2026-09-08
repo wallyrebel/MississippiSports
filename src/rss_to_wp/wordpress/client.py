@@ -319,6 +319,7 @@ class WordPressClient:
         featured_media_id: Optional[int] = None,
         source_url: Optional[str] = None,
         status: Optional[str] = None,
+        category_ids: Optional[list[int]] = None,
     ) -> Optional[dict]:
         """Create a new WordPress post.
 
@@ -327,6 +328,7 @@ class WordPressClient:
             content: Post content (HTML).
             excerpt: Post excerpt.
             category_id: Category ID.
+            category_ids: Additional category IDs; combined with the legacy category_id.
             tag_ids: List of tag IDs.
             featured_media_id: Featured image media ID.
             source_url: Original source URL for attribution.
@@ -360,8 +362,9 @@ class WordPressClient:
         if excerpt:
             post_data["excerpt"] = excerpt
 
-        if category_id:
-            post_data["categories"] = [category_id]
+        categories = list(dict.fromkeys(([category_id] if category_id else []) + (category_ids or [])))
+        if categories:
+            post_data["categories"] = categories
 
         if tag_ids:
             post_data["tags"] = tag_ids
