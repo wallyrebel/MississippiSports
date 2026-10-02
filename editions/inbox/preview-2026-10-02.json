@@ -1,0 +1,245 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-10-02",
+  "verified_at": "2026-10-02T16:10:00-05:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "volleyball",
+    "cross country",
+    "swimming",
+    "softball",
+    "golf",
+    "soccer"
+  ],
+  "games": [
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-02",
+      "home": "Hartfield Academy",
+      "away": "Tupelo High School",
+      "status": "scheduled",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/hartfield-academy-flowood-vs-tupelo/10-2-2026/?c=8933d84c-b4cf-4672-aca7-8974779d0925",
+        "excerpt": "Tupelo vs Hartfield Academy | Football | 10/02/2026",
+        "date_excerpt": "10/02/2026",
+        "home_name": "Hartfield Academy",
+        "away_name": "Tupelo"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-02",
+      "home": "West Jones High School",
+      "away": "Petal High School",
+      "status": "scheduled",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/petal-vs-west-jones-laurel/10-2-2026/?c=9024f8d6-b3ce-49d9-8b72-2c74ed59a7d8",
+        "excerpt": "Petal vs West Jones | Football | 10/02/2026",
+        "date_excerpt": "10/02/2026",
+        "home_name": "West Jones",
+        "away_name": "Petal"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-02",
+      "home": "Brandon High School",
+      "away": "Northwest Rankin High School",
+      "status": "scheduled",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/brandon-vs-northwest-rankin-brandon/10-2-2026/?c=4273dba1-1599-4a0e-83eb-04ecb712feec",
+        "excerpt": "Northwest Rankin vs Brandon | Football | 10/02/2026",
+        "date_excerpt": "10/02/2026",
+        "home_name": "Brandon",
+        "away_name": "Northwest Rankin"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-02",
+      "home": "Lake Cormorant High School",
+      "away": "South Panola High School",
+      "status": "scheduled",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/lake-cormorant-vs-south-panola-batesville/10-2-2026/?c=8cdbaf0e-2941-4ce5-b993-bc609414cf3e",
+        "excerpt": "South Panola vs Lake Cormorant | Football | 10/02/2026",
+        "date_excerpt": "10/02/2026",
+        "home_name": "Lake Cormorant",
+        "away_name": "South Panola"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-02",
+      "home": "Oxford High School",
+      "away": "Madison Central High School",
+      "status": "scheduled",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/madison-central-vs-oxford/10-2-2026/?c=2a2d31ca-3e6c-4562-8b6e-7dab269ccd8b",
+        "excerpt": "Madison Central vs Oxford | Football | 10/02/2026",
+        "date_excerpt": "10/02/2026",
+        "home_name": "Oxford",
+        "away_name": "Madison Central"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-02",
+      "home": "Kemper County High School",
+      "away": "East Webster High School",
+      "status": "scheduled",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/east-webster-maben-vs-kemper-county-dekalb/10-2-2026/?c=8da1b468-032e-499d-9732-6132e79aec9e",
+        "excerpt": "East Webster vs Kemper County | Football | 10/02/2026",
+        "date_excerpt": "10/02/2026",
+        "home_name": "Kemper County",
+        "away_name": "East Webster"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-02",
+      "home": "Presbyterian Christian High School",
+      "away": "St. Patrick High School",
+      "status": "scheduled",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/presbyterian-christian-hattiesburg-vs-st-patrick-biloxi/10-2-2026/?c=a68e16e9-5303-442e-b13e-2f7be6e2a721",
+        "excerpt": "St. Patrick vs Presbyterian Christian | Football | 10/02/2026",
+        "date_excerpt": "10/02/2026",
+        "home_name": "Presbyterian Christian",
+        "away_name": "St. Patrick"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-02",
+      "home": "Edwards High School (Ruleville)",
+      "away": "O'Bannon High School",
+      "status": "scheduled",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/edwards-ruleville-vs-obannon-greenville/10-2-2026/?c=83c6a4f3-d113-4aa8-8d26-c578fb42119d",
+        "excerpt": "O'Bannon vs Edwards | Football | 10/02/2026",
+        "date_excerpt": "10/02/2026",
+        "home_name": "Edwards",
+        "away_name": "O'Bannon"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-02",
+      "home": "Kossuth High School",
+      "away": "Booneville High School",
+      "status": "scheduled",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/booneville-vs-kossuth/10-2-2026/?c=6169681f-0681-4111-b2d6-b1e430907e71",
+        "excerpt": "Booneville vs Kossuth | Football | 10/02/2026",
+        "date_excerpt": "10/02/2026",
+        "home_name": "Kossuth",
+        "away_name": "Booneville"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-02",
+      "home": "Wesson High School",
+      "away": "Enterprise High School (Brookhaven)",
+      "status": "scheduled",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/enterprise-brookhaven-vs-wesson/10-2-2026/?c=3f9fec30-c2ea-4f5a-93c7-2b429c848904",
+        "excerpt": "Enterprise vs Wesson | Football | 10/02/2026",
+        "date_excerpt": "10/02/2026",
+        "home_name": "Wesson",
+        "away_name": "Enterprise"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-02",
+      "home": "Jackson Prep",
+      "away": "Jackson Academy",
+      "status": "scheduled",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/jackson-academy-vs-jackson-prep/10-2-2026/?c=448d94cc-f28d-440d-b7b0-a4d87bed3e0f",
+        "excerpt": "Jackson Academy vs Jackson Prep | Football | 10/02/2026",
+        "date_excerpt": "10/02/2026",
+        "home_name": "Jackson Prep",
+        "away_name": "Jackson Academy"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-02",
+      "home": "Resurrection Catholic High School",
+      "away": "Richton High School",
+      "status": "scheduled",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/resurrection-catholic-pascagoula-vs-richton/10-2-2026/?c=691694cd-3332-44a6-a9e8-f03c9e27ffe8",
+        "excerpt": "Richton vs Resurrection Catholic | Football | 10/02/2026",
+        "date_excerpt": "10/02/2026",
+        "home_name": "Resurrection Catholic",
+        "away_name": "Richton"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-02",
+      "home": "New Life Christian Academy",
+      "away": "Pine Belt High School",
+      "status": "scheduled",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/new-life-christian-academy-mendenhall-vs-pine-belt-hattiesburg/10-2-2026/?c=54a52678-eeb7-4391-b754-af63ee59d6e4",
+        "excerpt": "Pine Belt vs New Life Christian Academy | Volleyball | 10/02/2026",
+        "date_excerpt": "10/02/2026",
+        "home_name": "New Life Christian Academy",
+        "away_name": "Pine Belt"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/mississippi-sports/ten-games-that-define-mississippis-friday-night/",
+      "title": "September 4 background: Ten Games That Define Mississippi\u2019s Friday Night"
+    }
+  ]
+}
