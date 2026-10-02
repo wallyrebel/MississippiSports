@@ -1,8 +1,8 @@
 """Fail-closed daily edition intake and REST publisher. No source discovery or scheduling.
 
 The researching agent owns semantic verification of games and date evidence. This
-worker rechecks fresh source excerpts, restricts dates, and renders only supplied
-structured facts. It never rewrites stories or infers missing scores/player facts.
+worker rechecks fresh source excerpts, restricts dates, and preserves supplied
+editorial prose with a reviewed fact ledger. It never writes unsupported narrative.
 """
 from __future__ import annotations
 
@@ -21,7 +21,7 @@ from urllib.parse import urlparse
 from zoneinfo import ZoneInfo
 
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Comment, NavigableString
 from PIL import Image, ImageDraw, ImageFont
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
@@ -31,6 +31,7 @@ CENTRAL = ZoneInfo("America/Chicago")
 SOURCE_HOSTS = {
     "maxpreps.com", "alcornsportsms.com", "tippahsports.com",
     "desotocountynews.com", "sportsmississippi.com", "misshsaa.com", "mais.ms",
+    "mississippiscoreboard.com", "wdam.com",
 }
 SPORTS = {
     "football", "volleyball", "basketball", "soccer", "baseball", "softball",
@@ -39,6 +40,9 @@ SPORTS = {
 }
 LABELS = {"scores": "Scores from last Night", "preview": "Games To Watch"}
 STATUSES = "publish,future,draft,pending,private,trash"
+FACT_KINDS = {"record", "stakes", "ranking", "history", "result", "schedule", "context"}
+ARTICLE_TAGS = {"p", "h2", "h3", "strong", "em", "a", "ul", "ol", "li", "blockquote", "br"}
+FACT_ID = re.compile(r"[a-z][a-z0-9-]{0,63}\Z")
 
 
 class EditionError(RuntimeError):
@@ -183,7 +187,169 @@ def validate(data, now):
     for link in links:
         safe_url(link["url"], {"sportsmississippi.com"})
         text_field(link["title"], "internal link title")
+    if "article" in data:
+        validate_article(data)
+    if "revision" in data:
+        revision = data["revision"]
+        require(isinstance(revision, dict) and revision.get("authorized") is True,
+                "Revision requires explicit user authorization")
+        require("article" in data, "Revision requires a reviewed editorial article")
+        require(type(revision.get("post_id")) is int and revision["post_id"] > 0,
+                "Revision requires an exact target post ID")
+        require(isinstance(revision.get("id"), str) and FACT_ID.fullmatch(revision["id"]),
+                "Invalid revision ID")
+        text_field(revision.get("reason"), "revision authorization reason", 500)
+        stamp = revision.get("expected_modified_gmt")
+        require(isinstance(stamp, str) and re.fullmatch(r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}", stamp),
+                "Revision requires WordPress expected_modified_gmt snapshot")
+        try:
+            datetime.fromisoformat(stamp)
+        except ValueError:
+            raise EditionError("Invalid revision modification timestamp") from None
     return data
+
+
+def article_facts(data):
+    """Game facts get stable input-index IDs; extra context is explicitly supplied."""
+    facts = {}
+    for index, game in enumerate(data["games"]):
+        if game.get("format") == "meet":
+            claim = game["name"] + ": " + ", ".join(game["schools"])
+            if data["edition"] == "scores":
+                claim += "; " + "; ".join(f"{r['school']} team place {r['place']}" for r in game["results"])
+        else:
+            claim = f"{game['away']} at {game['home']}"
+            if data["edition"] == "scores":
+                claim += f"; {game['away_score']}-{game['home_score']} Final"
+        claim += " " + data["date"]
+        if game.get("start_time"):
+            claim += " " + game["start_time"]
+            claim += " " + datetime.fromisoformat(game["start_time"]).astimezone(CENTRAL).strftime("%-I:%M %p %Z")
+        facts[f"game-{index}"] = {"claim": claim, "evidence": game["evidence"], "game_indexes": [index]}
+    facts.update({fact["id"]: fact for fact in data.get("article", {}).get("facts", [])})
+    return facts
+
+
+def number_tokens(value):
+    # Prose can change score/record punctuation; every claimed numeric token still
+    # needs a referenced fact. This is a mechanical guard, not semantic fact checking.
+    text = re.sub(r"(?<=\d),(?=\d{3}(?:\D|$))", "", html.unescape(str(value)))
+    return {str(int(token)) for token in re.findall(r"(?<!\w)\d+(?!\w)", text)}
+
+
+def validate_article(data):
+    article = data["article"]
+    require(isinstance(article, dict) and article.get("reviewed") is True,
+            "Editorial prose requires explicit source/fact review")
+    headline = text_field(article.get("headline"), "editorial headline", 240)
+    require("<" not in headline and ">" not in headline, "Editorial headline must be plain text")
+    facts = article.get("facts", [])
+    require(isinstance(facts, list) and len(facts) <= 300, "Invalid editorial fact ledger")
+    seen = set()
+    for fact in facts:
+        require(isinstance(fact, dict), "Invalid editorial fact")
+        fact_id = fact.get("id")
+        require(isinstance(fact_id, str) and FACT_ID.fullmatch(fact_id)
+                and not fact_id.startswith("game-") and fact_id not in seen, "Invalid or duplicate fact ID")
+        seen.add(fact_id)
+        require(fact.get("kind") in FACT_KINDS, "Unknown editorial fact kind")
+        claim = text_field(fact.get("claim"), "editorial claim", 1200)
+        indexes = fact.get("game_indexes")
+        require(isinstance(indexes, list) and indexes and len(indexes) <= len(data["games"])
+                and all(type(i) is int and 0 <= i < len(data["games"]) for i in indexes),
+                "Editorial fact must relate to a covered game")
+        require(fact.get("as_of_date") == data["date"], "Editorial fact has stale as_of_date")
+        evidence = fact.get("evidence", {})
+        require(isinstance(evidence, dict), "Invalid editorial evidence")
+        safe_url(evidence.get("url", ""))
+        excerpt = text_field(evidence.get("excerpt"), "editorial source excerpt", 2500)
+        subjects = evidence.get("subjects")
+        require(isinstance(subjects, list) and subjects and len(subjects) <= 20,
+                "Editorial evidence requires source subject labels")
+        for subject in subjects:
+            text_field(subject, "editorial source subject")
+            require(normalized(subject) in normalized(excerpt), "Editorial subject absent from evidence")
+        require(number_tokens(claim) <= number_tokens(excerpt), "Editorial numeric claim absent from evidence")
+        if fact["kind"] == "history":
+            try:
+                historical_date = date.fromisoformat(fact["fact_date"])
+            except (KeyError, ValueError, TypeError):
+                raise EditionError("Historical context needs its actual fact_date") from None
+            require(historical_date <= date.fromisoformat(data["date"]), "Future historical fact")
+            date_excerpt = text_field(evidence.get("date_excerpt"), "historical date excerpt", 200)
+            formats = {historical_date.isoformat(), historical_date.strftime("%m/%d/%Y"),
+                       historical_date.strftime("%B %-d, %Y"), historical_date.strftime("%m/%d/%y")}
+            require(normalized(date_excerpt) in normalized(excerpt)
+                    and any(normalized(fmt) in normalized(date_excerpt) for fmt in formats),
+                    "Historical event date absent from evidence")
+    # Reject unsafe markup/unsupported blocks rather than silently publish partial prose.
+    editorial_html(data)
+
+
+def editorial_html(data):
+    article = data["article"]
+    source_html = article.get("html")
+    require(isinstance(source_html, str) and 150 <= len(source_html) <= 100_000,
+            "Editorial HTML must contain a complete article")
+    facts = article_facts(data)
+    all_used = set()
+    def references(value, text):
+        require(isinstance(value, (str, list)), "Missing article fact references")
+        ids = value.split() if isinstance(value, str) else value
+        require(ids and all(isinstance(i, str) and i in facts for i in ids),
+                "Article references an unknown or missing fact")
+        allowed_numbers = set().union(*(number_tokens(facts[i]["claim"]) for i in ids))
+        # Edition date is mechanically verified elsewhere and can appear in any block.
+        allowed_numbers |= number_tokens(data["date"])
+        require(number_tokens(text) <= allowed_numbers, "Article includes an unsupported numeric claim")
+        all_used.update(ids)
+    references(article.get("headline_fact_ids"), article["headline"])
+    soup = BeautifulSoup(source_html, "html.parser")
+    require(all(getattr(node, "name", None) in {"p", "h2", "h3", "ul", "ol", "blockquote"}
+                or (isinstance(node, NavigableString) and not node.strip()) for node in soup.contents),
+            "Editorial article must use referenced paragraphs or sections")
+    paragraphs = 0
+    used_links = set()
+    approved_links = {fact["evidence"]["url"] for fact in facts.values()}
+    approved_links |= {link["url"] for link in data.get("related_links", [])}
+    for node in list(soup.descendants):
+        if isinstance(node, Comment):
+            raise EditionError("Editorial HTML cannot contain hidden comments")
+        if isinstance(node, NavigableString):
+            if node.strip() and node.parent == soup:
+                raise EditionError("Editorial prose must be inside supported HTML blocks")
+            continue
+        require(node.name in ARTICLE_TAGS, "Unsupported or unsafe editorial HTML tag")
+        require(set(node.attrs) <= ({"href", "data-facts"} if node.name == "a" else {"data-facts"}),
+                "Unsupported or unsafe editorial HTML attribute")
+        if node.name in {"p", "li", "blockquote", "h2", "h3"}:
+            references(node.get("data-facts"), node.get_text(" ", strip=True))
+            if node.name == "p":
+                paragraphs += 1
+        if node.name == "a":
+            href = node.get("href")
+            require(isinstance(href, str) and href in approved_links, "Editorial link lacks verified evidence")
+            safe_url(href)
+            used_links.add(href)
+            node["rel"] = "noopener"
+        elif node.name in {"ul", "ol"}:
+            require(all(getattr(child, "name", None) == "li" or not str(child).strip()
+                        for child in node.contents), "List prose requires referenced list items")
+        if "data-facts" in node.attrs:
+            del node["data-facts"]
+    require(paragraphs >= 3, "Editorial article needs a lede and developed body paragraphs")
+    require({f"game-{i}" for i in range(len(data["games"]))} <= all_used,
+            "Editorial article must reference every covered game")
+    used_fact_urls = {facts[fact_id]["evidence"]["url"] for fact_id in all_used}
+    # Footnotes keep source attribution visible without interrupting supplied prose.
+    missing_citations = sorted(used_fact_urls - used_links)
+    rendered = str(soup)
+    if missing_citations:
+        citations = "; ".join(f'<a href="{html.escape(url, quote=True)}" rel="noopener">'
+                              f'{html.escape(urlparse(url).hostname or "Source")}</a>'
+                              for url in missing_citations)
+        rendered += f"\n<p><em>Reporting sources: {citations}.</em></p>"
+    return rendered
 
 
 def read_source(url, session):
@@ -206,8 +372,9 @@ def read_source(url, session):
 
 def verify_sources(data, session):
     cache = {}
-    for game in data["games"]:
-        evidence = game["evidence"]
+    evidence_items = [game["evidence"] for game in data["games"]]
+    evidence_items.extend(fact["evidence"] for fact in data.get("article", {}).get("facts", []))
+    for evidence in evidence_items:
         url = evidence["url"]
         if url not in cache:
             cache[url] = read_source(url, session)
@@ -227,6 +394,13 @@ def identity(data):
 def render(data):
     covered = date.fromisoformat(data["date"])
     day = covered.strftime("%B %-d, %Y")
+    if "article" in data:
+        body = [f"<!-- {identity(data)} -->"]
+        if "revision" in data:
+            body.append(f"<!-- sportsms-revision:{data['revision']['id']} -->")
+        body.append(editorial_html(data))
+        body.append(coverage_note(data))
+        return data["article"]["headline"], "\n".join(body)
     title = f"Mississippi High School {LABELS[data['edition']]} — {day}"
     groups = defaultdict(list)
     for game in data["games"]:
@@ -261,17 +435,21 @@ def render(data):
             label = html.escape(urlparse(url).hostname or "Source")
             body.append(f'<li>{line}. <a href="{url}" rel="noopener">Source: {label}</a></li>')
         body.append("</ul>")
-    checked = ", ".join(s.title() for s in sorted(set(data["checked_sports"])))
-    body.append(f"<p><em>Coverage: {len(data['games'])} verified games. Active sports checked: {html.escape(checked)}. "
-                "This is a source-confirmed selection, not a complete statewide scoreboard or schedule. "
-                "Unreported results, unconfirmed schedules and unavailable sources are omitted. "
-                "Schedules may change.</em></p>")
+    body.append(coverage_note(data))
     if data.get("related_links"):
         body.append("<h2>Related coverage</h2><ul>")
         for link in data["related_links"]:
             body.append(f'<li><a href="{html.escape(link["url"], quote=True)}">{html.escape(link["title"])}</a></li>')
         body.append("</ul>")
     return title, "\n".join(body)
+
+
+def coverage_note(data):
+    checked = ", ".join(s.title() for s in sorted(set(data["checked_sports"])))
+    return (f"<p><em>Coverage: {len(data['games'])} verified games. Active sports checked: {html.escape(checked)}. "
+            "This is a source-confirmed selection, not a complete statewide scoreboard or schedule. "
+            "Unreported results, unconfirmed schedules and unavailable sources are omitted. "
+            "Schedules may change.</em></p>")
 
 
 def featured_image(data):
@@ -311,8 +489,9 @@ def public_session():
 
 
 class Publisher:
-    def __init__(self, session, public, sleeper=time.sleep):
+    def __init__(self, session, public, sleeper=time.sleep, recovery=None):
         self.session, self.public, self.sleep = session, public, sleeper
+        self.recovery = recovery
 
     def api(self, method, endpoint, **kwargs):
         try:
@@ -377,10 +556,66 @@ class Publisher:
                 self.sleep(3)
         raise EditionError("Post may already be published; public verification incomplete. Reconcile before fallback")
 
+    def revise(self, data, post, title, body):
+        """An explicit, snapshot-guarded update to the same published post only."""
+        revision = data["revision"]
+        key = identity(data)
+        require(revision.get("authorized") is True and post["id"] == revision.get("post_id"),
+                "Authorized revision target does not match existing edition")
+        require(post.get("status") == "publish" and post.get("slug") == key,
+                "Revision requires the identified published edition")
+        media_id = post.get("featured_media", 0)
+        require(media_id > 0, "Revision must preserve an existing featured image")
+        marker = f"<!-- sportsms-revision:{revision['id']} -->"
+        def matches(candidate):
+            return (candidate.get("content", {}).get("raw") == body
+                    and normalized(BeautifulSoup(candidate.get("title", {}).get("raw",
+                        candidate.get("title", {}).get("rendered", "")), "html.parser").get_text(" "))
+                    == normalized(title) and candidate.get("featured_media") == media_id
+                    and candidate.get("status") == "publish" and candidate.get("slug") == key)
+        if marker in post.get("content", {}).get("raw", ""):
+            require(matches(post), "Revision ID already exists with different content; reconcile")
+            result = self.verify_public(post, key, media_id, body)
+            return {**result, "operation": "revision_already_applied", "revision_id": revision["id"]}
+        # Re-read immediately before mutation so a newer editorial edit isn't lost.
+        current = self.api("GET", f"posts/{post['id']}", params={"context": "edit"})
+        require(current.get("modified_gmt") == revision.get("expected_modified_gmt")
+                and current.get("featured_media") == media_id and current.get("status") == "publish"
+                and current.get("slug") == key
+                and f"<!-- {key} -->" in current.get("content", {}).get("raw", ""),
+                "Revision snapshot changed; read current post and obtain a reviewed revision")
+        if self.recovery:
+            snapshot = {name: current.get(name) for name in
+                        ("id", "slug", "status", "modified_gmt", "title", "content", "featured_media", "link")}
+            (self.recovery / "previous-post.json").write_text(json.dumps(snapshot, indent=2), encoding="utf-8")
+        # Omit status, slug, taxonomy, and media. WordPress updates only title/body
+        # and saves its own revision history; the original post remains published.
+        uncertain = False
+        try:
+            self.api("POST", f"posts/{current['id']}", json={"title": title, "content": body})
+        except EditionError:
+            uncertain = True
+        for attempt in range(3 if uncertain else 1):
+            if uncertain:
+                self.sleep(2)
+            updated = self.lookup(key) if uncertain else self.api(
+                "GET", f"posts/{current['id']}", params={"context": "edit"})
+            require(updated is not None and updated.get("id") == current["id"], "Revision target disappeared; reconcile")
+            if matches(updated):
+                result = self.verify_public(updated, key, media_id, body)
+                return {**result, "operation": "revised", "revision_id": revision["id"]}
+            if not uncertain:
+                break
+        raise EditionError("Revision outcome uncertain; inspect the same post ID before retry or fallback")
+
     def publish(self, data, image, alt):
         key = identity(data)
         title, body = render(data)
         post = self.lookup(key)  # Errors fail closed; no media or post writes.
+        if "revision" in data:
+            require(post is not None, "Revision target not found; never create a replacement post")
+            validate_article(data)
+            return self.revise(data, post, title, body)
         if post:
             require(f"<!-- {key} -->" in post.get("content", {}).get("raw", ""),
                     "Slug belongs to a different post; do not overwrite")
@@ -389,7 +624,9 @@ class Publisher:
                 existing_body = post["content"]["raw"]
                 require(post.get("featured_media", 0) > 0, "Published edition missing image; reconcile")
                 return self.verify_public(post, key, post["featured_media"], existing_body)
+            require("article" in data, "A developed editorial article is required before publication")
         else:
+            require("article" in data, "A developed editorial article is required before publication")
             try:
                 post = self.api("POST", "posts", json={"title": title, "content": body,
                                 "slug": key, "status": "draft", "comment_status": "closed"})
@@ -459,7 +696,7 @@ def run(data, output, dry_run=False, offline=False, now=None):
     auth = requests.Session()  # No automatic POST retries, no shared source session.
     auth.auth = (os.environ["WORDPRESS_USERNAME"], os.environ["WORDPRESS_APP_PASSWORD"])
     auth.headers["Accept"] = "application/json"
-    return Publisher(auth, public).publish(data, image, alt)
+    return Publisher(auth, public, recovery=output).publish(data, image, alt)
 
 
 def main():

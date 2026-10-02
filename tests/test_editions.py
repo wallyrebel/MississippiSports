@@ -12,7 +12,7 @@ from PIL import Image
 
 from rss_to_wp.editions.publisher import (
     EditionError, Publisher, SITE, expected_date, featured_image, identity,
-    read_source, render, run, safe_url, validate, verify_sources,
+    read_source, render, run, safe_url, validate, verify_sources, validate_article,
 )
 
 NOW = datetime(2026, 10, 2, 13, tzinfo=timezone.utc)
@@ -41,11 +41,39 @@ def response(data=None, text="", code=200):
     return value
 
 
+def add_article(data):
+    """Original fixture prose, not a researched or publishable real article."""
+    game = data["games"][0]
+    matchup = f"{game['away']} at {game['home']}"
+    data["article"] = {
+        "reviewed": True,
+        "headline": "Synthetic Home and Synthetic Away lead the Mississippi selection",
+        "headline_fact_ids": ["game-0"],
+        "html": (f'<p data-facts="game-0">{matchup} leads this selection of verified Mississippi games.</p>'
+                 '<h2 data-facts="game-0 record-home">The record behind the matchup</h2>'
+                 '<p data-facts="record-home">Synthetic Home entered the game with a 5-0 record.</p>'
+                 '<p data-facts="game-0">The verified matchup gives this article its focus; '
+                 'the reporting is tied to the specific game rather than a statewide completeness claim.</p>'),
+        "facts": [{"id": "record-home", "kind": "record", "claim": "Synthetic Home entered at 5-0",
+                   "game_indexes": [0], "as_of_date": data["date"],
+                   "evidence": {"url": "https://tippahsports.com/synthetic-record/",
+                                "excerpt": "Synthetic Home entered the game 5-0 this season.",
+                                "subjects": ["Synthetic Home"]}}],
+    }
+    return data
+
+
+@pytest.fixture
+def editorial(intake):
+    return add_article(intake)
+
+
 def draft(data, media=0):
     title, body = render(data)
     return {"id": 123, "slug": identity(data), "status": "draft",
             "content": {"raw": body}, "featured_media": media,
-            "title": {"rendered": title}, "link": SITE + "/sports/" + identity(data) + "/"}
+            "title": {"raw": title, "rendered": title}, "modified_gmt": "2026-10-02T12:00:00",
+            "link": SITE + "/sports/" + identity(data) + "/"}
 
 
 def wp_client(intake, *, initial=None, lost_create=False, lost_publish=False,
@@ -81,6 +109,8 @@ def wp_client(intake, *, initial=None, lost_create=False, lost_publish=False,
             return response({"id": 456})
         if method == "POST" and endpoint == "posts/123":
             payload = kwargs["json"]
+            if "title" in payload:
+                state["post"]["title"] = {"raw": payload["title"], "rendered": payload["title"]}
             if "content" in payload:
                 state["post"]["content"]["raw"] = payload["content"]
             if "featured_media" in payload:
@@ -90,6 +120,7 @@ def wp_client(intake, *, initial=None, lost_create=False, lost_publish=False,
                 state["published"] += 1
                 if lost_publish:
                     raise requests.Timeout()
+            state["post"]["modified_gmt"] = "2026-10-02T12:01:00"
             return response(copy.deepcopy(state["post"]))
         raise AssertionError((method, endpoint))
     auth = Mock()
@@ -103,7 +134,9 @@ def wp_client(intake, *, initial=None, lost_create=False, lost_publish=False,
             return response(post)
         if url.endswith("/media/456"):
             return response({"source_url": SITE + "/wp-content/uploads/card.png"})
-        return response(text=f"<h1>{title}</h1>{body}")
+        current_title = state["post"]["title"]["rendered"] if state["post"] else title
+        current_body = state["post"]["content"]["raw"] if state["post"] else body
+        return response(text=f"<h1>{current_title}</h1>{current_body}")
     public = Mock()
     public.get.side_effect = public_get
     return Publisher(auth, public, sleeper=lambda seconds: None), state
@@ -238,7 +271,8 @@ def test_original_card(intake, edition):
     assert "October" in alt
 
 
-def test_complete_publish_and_repeat(intake):
+def test_complete_publish_and_repeat(editorial):
+    intake = editorial
     worker, state = wp_client(intake)
     result = worker.publish(intake, b"mock PNG", "date")
     assert result["state"] == "published" and result["featured_media"] == 456
@@ -255,13 +289,15 @@ def test_lookup_failure_zero_writes(intake):
 
 
 @pytest.mark.parametrize("lost", ["lost_create", "lost_publish"])
-def test_lost_response_reconciles_same_id(intake, lost):
+def test_lost_response_reconciles_same_id(editorial, lost):
+    intake = editorial
     worker, state = wp_client(intake, **{lost: True})
     assert worker.publish(intake, b"mock PNG", "date")["id"] == 123
     assert state["creates"] == state["uploads"] == state["published"] == 1
 
 
-def test_uncertain_creation_never_creates_twice(intake):
+def test_uncertain_creation_never_creates_twice(editorial):
+    intake = editorial
     worker, state = wp_client(intake)
     original = worker.session.request.side_effect
     def fail(method, url, **kwargs):
@@ -275,20 +311,23 @@ def test_uncertain_creation_never_creates_twice(intake):
     assert state["creates"] == 1 and state["uploads"] == 0
 
 
-def test_resume_draft_and_attached_media(intake):
+def test_resume_draft_and_attached_media(editorial):
+    intake = editorial
     worker, state = wp_client(intake, initial=draft(intake), existing_media=True)
     assert worker.publish(intake, b"mock PNG", "date")["id"] == 123
     assert state["creates"] == state["uploads"] == 0
 
 
-def test_uncertain_media_leaves_draft(intake):
+def test_uncertain_media_leaves_draft(editorial):
+    intake = editorial
     worker, state = wp_client(intake, media_error=True)
     with pytest.raises(EditionError, match="Media upload uncertain"):
         worker.publish(intake, b"mock PNG", "date")
     assert state["post"]["status"] == "draft" and state["published"] == 0
 
 
-def test_post_published_but_public_verify_fails(intake):
+def test_post_published_but_public_verify_fails(editorial):
+    intake = editorial
     worker, state = wp_client(intake, public_error=True)
     with pytest.raises(EditionError, match="may already be published"):
         worker.publish(intake, b"mock PNG", "date")
@@ -334,3 +373,218 @@ def test_new_intake_does_not_retry_prior_uncertain_edition(tmp_path, monkeypatch
     paths = runpy.run_path("scripts/process_editions.py")["submitted_paths"]()
     assert paths == {"editions/inbox/preview-2026-10-02.json"}
     assert "editions/inbox/scores-2026-10-01.json" not in paths
+
+
+@pytest.mark.parametrize("edition", ["scores", "preview"])
+def test_reviewed_article_preserves_prose_and_traces_sources(intake, edition):
+    if edition == "preview":
+        preview_data(intake)
+    add_article(intake)
+    validate(intake, NOW)
+    title, body = render(intake)
+    assert title == intake["article"]["headline"]
+    assert "entered the game with a 5-0 record" in body
+    assert "data-facts" not in body and "Source: " not in body
+    assert "Reporting sources:" in body
+    assert intake["article"]["facts"][0]["evidence"]["url"] in body
+    assert intake["games"][0]["evidence"]["url"] in body
+    assert "Coverage:" in body and f"<!-- {identity(intake)} -->" in body
+
+
+@pytest.mark.parametrize("change,message", [
+    (lambda x: x["article"].update(reviewed=False), "review"),
+    (lambda x: x["article"].update(headline_fact_ids=["unknown"]), "unknown"),
+    (lambda x: x["article"]["facts"][0].update(as_of_date="2026-09-01"), "stale"),
+    (lambda x: x["article"]["facts"][0].update(claim="Synthetic Home entered 9-0"), "numeric claim"),
+    (lambda x: x["article"]["facts"][0]["evidence"].update(subjects=["Other School"]), "subject"),
+    (lambda x: x["article"]["facts"][0].update(game_indexes=[99]), "covered game"),
+    (lambda x: x["article"]["facts"].append(copy.deepcopy(x["article"]["facts"][0])), "duplicate fact"),
+    (lambda x: x["article"].update(html=x["article"]["html"].replace("5-0", "8-0")), "unsupported numeric"),
+    (lambda x: x["article"].update(html=x["article"]["html"].replace('data-facts="record-home"', '')), "Missing"),
+    (lambda x: x["article"].update(html=x["article"]["html"] + "<script>alert(1)</script>"), "referenced paragraphs"),
+    (lambda x: x["article"].update(html=x["article"]["html"].replace("<p ", '<p onclick="x" ', 1)), "attribute"),
+    (lambda x: x["article"].update(html=x["article"]["html"] + '<p data-facts="game-0"><a href="javascript:x">Click</a></p>'), "link"),
+    (lambda x: x["article"].update(html=x["article"]["html"] + '<p data-facts="game-0"><a href="https://maxpreps.com/unresearched">Read</a></p>'), "link"),
+    (lambda x: x["article"].update(html=x["article"]["html"] + '<strong>Unreferenced outside prose</strong>'), "referenced paragraphs"),
+    (lambda x: x["article"].update(html=x["article"]["html"] + '<!-- hidden claim -->'), "referenced paragraphs"),
+    (lambda x: x["article"].update(html='<p data-facts="game-0">' + 'short lede ' * 20 + '</p>'), "developed body"),
+])
+def test_editorial_gates(editorial, change, message):
+    change(editorial)
+    with pytest.raises(EditionError, match=message):
+        validate(editorial, NOW)
+
+
+def test_editorial_ledger_evidence_is_refetched(editorial):
+    game_evidence = editorial["games"][0]["evidence"]
+    extra = editorial["article"]["facts"][0]["evidence"]
+    public = Mock()
+    public.get.side_effect = lambda url, **kwargs: response(text=(
+        game_evidence["excerpt"] if url == game_evidence["url"] else extra["excerpt"]))
+    verify_sources(editorial, public)
+    assert public.get.call_count == 2
+    public.get.side_effect = lambda url, **kwargs: response(text=(
+        game_evidence["excerpt"] if url == game_evidence["url"] else "Record no longer available"))
+    with pytest.raises(EditionError, match="Evidence no longer"):
+        verify_sources(editorial, public)
+
+
+def test_historical_context_uses_real_old_date_without_stale_game_date(editorial):
+    fact = editorial["article"]["facts"][0]
+    fact.update(kind="history", fact_date="2025-10-01", claim="Synthetic Home won the 2025 meeting 21-14")
+    fact["evidence"].update(excerpt="October 1, 2025 Synthetic Home won 21-14",
+                             date_excerpt="October 1, 2025")
+    editorial["article"]["html"] = editorial["article"]["html"].replace(
+        "Synthetic Home entered the game with a 5-0 record.", "Synthetic Home won the 2025 meeting 21-14.")
+    validate(editorial, NOW)
+    fact["fact_date"] = "2027-10-01"
+    with pytest.raises(EditionError, match="Future historical"):
+        validate(editorial, NOW)
+
+
+def test_new_publication_requires_article_but_legacy_rerun_does_not(intake):
+    worker, state = wp_client(intake)
+    with pytest.raises(EditionError, match="developed editorial"):
+        worker.publish(intake, b"PNG", "date")
+    assert state["writes"] == []
+    existing = draft(intake, media=456)
+    existing["status"] = "publish"
+    worker, state = wp_client(intake, initial=existing)
+    assert worker.publish(intake, b"PNG", "date")["id"] == 123
+    assert state["writes"] == []
+
+
+def authorized_revision(editorial, post_id=123):
+    editorial["revision"] = {"authorized": True, "post_id": post_id,
+        "id": "editorial-upgrade-v1", "reason": "User requested a researched article format",
+        "expected_modified_gmt": "2026-10-02T12:00:00"}
+    return editorial
+
+
+def original_published_post(editorial):
+    original = copy.deepcopy(editorial)
+    original.pop("article", None)
+    original.pop("revision", None)
+    post = draft(original, media=456)
+    post["status"] = "publish"
+    return post
+
+
+def test_explicit_revision_same_post_media_with_backup_and_idempotency(editorial, tmp_path):
+    authorized_revision(editorial)
+    original = original_published_post(editorial)
+    worker, state = wp_client(editorial, initial=original)
+    worker.recovery = tmp_path
+    result = worker.publish(editorial, b"never upload", "same date")
+    assert result["state"] == "published" and result["operation"] == "revised"
+    assert result["id"] == 123 and result["featured_media"] == 456
+    assert state["writes"] == ["posts/123"]
+    assert state["creates"] == state["uploads"] == state["published"] == 0
+    assert json.loads((tmp_path / "previous-post.json").read_text())["content"] == original["content"]
+    revision_request = next(call for call in worker.session.request.call_args_list
+                            if call.args[0] == "POST")
+    assert set(revision_request.kwargs["json"]) == {"title", "content"}
+    assert worker.publish(editorial, b"never upload", "same date")["operation"] == "revision_already_applied"
+    assert state["writes"] == ["posts/123"]
+
+
+@pytest.mark.parametrize("change,message", [
+    (lambda x: x["revision"].update(authorized=False), "authorization"),
+    (lambda x: x["revision"].pop("expected_modified_gmt"), "snapshot"),
+    (lambda x: x["revision"].update(post_id=True), "exact target"),
+    (lambda x: x["revision"].update(id="bad id"), "revision ID"),
+])
+def test_revision_schema_gates(editorial, change, message):
+    authorized_revision(editorial)
+    change(editorial)
+    with pytest.raises(EditionError, match=message):
+        validate(editorial, NOW)
+
+
+@pytest.mark.parametrize("scenario,message", [
+    ("wrong_id", "target does not match"),
+    ("newer_edit", "snapshot changed"),
+    ("missing", "target not found"),
+    ("draft", "published edition"),
+    ("no_media", "existing featured"),
+])
+def test_revision_refuses_wrong_target_or_changed_snapshot(editorial, scenario, message):
+    authorized_revision(editorial)
+    original = original_published_post(editorial)
+    if scenario == "wrong_id":
+        editorial["revision"]["post_id"] = 23916
+    if scenario == "newer_edit":
+        original["modified_gmt"] = "2026-10-02T12:00:01"
+    if scenario == "draft":
+        original["status"] = "draft"
+    if scenario == "no_media":
+        original["featured_media"] = 0
+    worker, state = wp_client(editorial, initial=None if scenario == "missing" else original)
+    with pytest.raises(EditionError, match=message):
+        worker.publish(editorial, b"never upload", "date")
+    assert state["writes"] == []
+
+
+def test_lost_revision_response_reconciles_without_another_update(editorial):
+    authorized_revision(editorial)
+    worker, state = wp_client(editorial, initial=original_published_post(editorial))
+    api = worker.session.request.side_effect
+    def lost(method, url, **kwargs):
+        reply = api(method, url, **kwargs)
+        if method == "POST" and url.endswith("/posts/123"):
+            raise requests.Timeout()
+        return reply
+    worker.session.request.side_effect = lost
+    assert worker.publish(editorial, b"never upload", "date")["operation"] == "revised"
+    assert state["writes"] == ["posts/123"]
+
+
+def test_uncertain_revision_never_blindly_updates_or_creates_again(editorial):
+    authorized_revision(editorial)
+    worker, state = wp_client(editorial, initial=original_published_post(editorial))
+    api = worker.session.request.side_effect
+    def lost(method, url, **kwargs):
+        if method == "POST" and url.endswith("/posts/123"):
+            state["writes"].append("posts/123")
+            raise requests.Timeout()
+        return api(method, url, **kwargs)
+    worker.session.request.side_effect = lost
+    with pytest.raises(EditionError, match="Revision outcome uncertain"):
+        worker.publish(editorial, b"never upload", "date")
+    assert state["writes"] == ["posts/123"] and state["creates"] == state["uploads"] == 0
+
+
+def test_changed_body_with_reused_revision_id_is_refused(editorial):
+    authorized_revision(editorial)
+    worker, state = wp_client(editorial, initial=original_published_post(editorial))
+    worker.publish(editorial, b"PNG", "date")
+    editorial["article"]["headline"] = "A changed headline using the same revision ID"
+    with pytest.raises(EditionError, match="already exists with different content"):
+        worker.publish(editorial, b"PNG", "date")
+    assert state["writes"] == ["posts/123"]
+
+
+def test_plain_scheduled_rerun_keeps_published_article_unchanged(editorial):
+    published = original_published_post(editorial)
+    worker, state = wp_client(editorial, initial=published)
+    worker.publish(editorial, b"PNG", "date")
+    assert state["writes"] == [] and state["post"]["content"] == published["content"]
+
+
+def test_editorial_local_time_and_date_formatting(intake):
+    preview_data(intake)
+    add_article(intake)
+    intake["article"]["html"] += '<p data-facts="game-0">The October 2 game is scheduled for 7:00 p.m. Central.</p>'
+    validate(intake, NOW)
+    assert "7:00 p.m." in render(intake)[1]
+
+
+def test_verified_thousands_formatting_and_new_local_sources(editorial):
+    fact = editorial["article"]["facts"][0]
+    fact.update(claim="Synthetic Home recorded 1,245 yards")
+    fact["evidence"].update(url="https://www.wdam.com/synthetic-test/",
+                             excerpt="Synthetic Home recorded 1245 yards.")
+    editorial["article"]["html"] = editorial["article"]["html"].replace(
+        "Synthetic Home entered the game with a 5-0 record.", "Synthetic Home recorded 1,245 yards.")
+    validate(editorial, NOW)
+    assert safe_url("https://mississippiscoreboard.com/synthetic-test/")
