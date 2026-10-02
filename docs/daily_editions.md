@@ -114,8 +114,10 @@ swimming and other multi-school events, use `format: "meet"`, `name` and `school
 (verified participating school names), omit home/away and their scores, and use
 `results: [{"school": "Verified school", "place": 1}]` for final team placements.
 Meet previews need no `results`. The evidence must identify the meet, schools,
-event date/year and final status/placements. Individual athlete results and times
-are intentionally excluded until an appropriate verified identity adapter exists.
+event date/year and final status/placements. The structured meet adapter does not
+ingest individual athlete placements/times. Authored player context/statistics may
+be supplied through the editorial ledger only after verifying the named athlete's
+school/cohort identity and exact reported facts; the publisher never infers them.
 Here `state: "MS"` means the event includes verified Mississippi schools, not that
 the venue necessarily lies inside Mississippi.
 
