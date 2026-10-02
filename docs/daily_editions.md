@@ -24,13 +24,22 @@ edition has been researched, uploaded, or published.
    a news article's publication date establishes a game's date. Do not infer player
    identities, statistics, venue, or start time. Scheduled games already started
    must not be submitted. Exclude conflicting reports until resolved.
-2. Use the connected GitHub **create_file** / **update_file** action to write one
+2. Use a verified write-capable GitHub **create_file** / **update_file** connection to write one
    JSON intake on `main` at `editions/inbox/scores-YYYY-MM-DD.json` or
    `editions/inbox/preview-YYYY-MM-DD.json`. The date is the *covered game date*:
    yesterday in Central time for scores, today for preview. A normal authenticated
-   connector commit triggers the worker; no raw PAT, WordPress credential, custom
+   connector commit triggers the worker; an authenticated `git push` to main also
+   works, as does GitHub's signed-in file editor. No raw PAT, WordPress credential, custom
    dispatch token, or new persistent access is needed. Use `publish: true` only
    for real researched editions. `false` produces artifacts with no WP writes.
+   **Access verification:** local Git push succeeded using existing authentication.
+   GitHub connector branch/tree/PR writes returned HTTP 403 in this task. Do not
+   assume the dot's connector can submit an intake: verify a harmless write on an
+   isolated branch in that exact execution environment first. The local GitHub
+   browser was also signed out; it is not a verified dispatch route. If the dot
+   lacks Git write or a signed-in GitHub UI, it must use its verified WordPress
+   browser session and the recovery contract, or request the specific required
+   GitHub write access with approval before adding/expanding a connection.
    Each file is public: include only public game facts, minimal verification
    excerpts, source URLs and relevant internal links. Never include private data.
 3. Read the resulting `Verified high-school editions` Actions run status and
@@ -48,7 +57,8 @@ edition has been researched, uploaded, or published.
 For a bounded validation, push `publish: false`, or use the Actions UI's
 **Run workflow → dry_run: true**. There is no direct workflow-dispatch operation
 exposed by the connected GitHub tool; the connector commit is the supported API
-invocation path. Intakes committed to another branch do not publish. Updates to
+invocation contract, subject to the write-access check above. Intakes committed
+to another branch do not publish. Updates to
 already published editions return the existing post, rather than overwrite it.
 
 ## Intake v1
