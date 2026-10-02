@@ -4,6 +4,7 @@ import json
 from datetime import datetime, timezone
 from io import BytesIO
 from unittest.mock import Mock
+import runpy
 
 import pytest
 import requests
@@ -321,3 +322,15 @@ def test_wrong_destination_is_rejected_without_credentials(intake, tmp_path, mon
     monkeypatch.setenv("WORDPRESS_BASE_URL", "https://other.invalid")
     with pytest.raises(EditionError, match="destination"):
         run(intake, tmp_path, now=NOW)
+
+
+def test_new_intake_does_not_retry_prior_uncertain_edition(tmp_path, monkeypatch):
+    event = tmp_path / "event.json"
+    event.write_text(json.dumps({"before": "a" * 40, "after": "b" * 40}))
+    monkeypatch.setenv("GITHUB_EVENT_NAME", "push")
+    monkeypatch.setenv("GITHUB_EVENT_PATH", str(event))
+    diff = Mock(stdout="editions/inbox/preview-2026-10-02.json\n")
+    monkeypatch.setattr("subprocess.run", lambda *args, **kwargs: diff)
+    paths = runpy.run_path("scripts/process_editions.py")["submitted_paths"]()
+    assert paths == {"editions/inbox/preview-2026-10-02.json"}
+    assert "editions/inbox/scores-2026-10-01.json" not in paths

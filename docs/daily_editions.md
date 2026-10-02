@@ -133,8 +133,10 @@ rejected when their game date differs from the current Central-time edition.
 - The exact slug and content marker are `sportsms-scores-YYYY-MM-DD` or
   `sportsms-preview-YYYY-MM-DD`. All statuses and marker searches are checked
   before any write. Lookup errors or multiple matches stop publication.
-- Actions serializes edition runs. Each run reads both current dated files so a
-  replacement queued run does not lose a submitted current edition. The dot task
+- Actions serializes edition runs and processes only current intakes changed in
+  that push, so an afternoon submission does not retry an uncertain morning write.
+  Actions can supersede an older pending run; the scheduler must check each run's
+  edition-specific result, reconcile first, and resubmit only when safe. The dot task
   must serialize its REST/browser paths too; GitHub cannot lock a separate browser.
 - Create an identified draft, upload an original 1600×900 dated typography card,
   attach it to that draft, verify draft content/media, then publish the same ID.

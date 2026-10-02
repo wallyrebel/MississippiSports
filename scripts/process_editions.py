@@ -2,11 +2,25 @@
 from datetime import datetime, timezone
 import json
 import os
+import re
 from pathlib import Path
 import subprocess
 import sys
 
 from rss_to_wp.editions.publisher import expected_date
+
+
+def submitted_paths():
+    """A new edition must not automatically retry an earlier uncertain edition."""
+    if os.environ.get("GITHUB_EVENT_NAME") != "push":
+        return None  # Explicit manual dispatch; dry-run defaults true.
+    event = json.loads(Path(os.environ["GITHUB_EVENT_PATH"]).read_text())
+    before, after = event["before"], event["after"]
+    if not all(re.fullmatch(r"[0-9a-f]{40}", sha) for sha in (before, after)):
+        raise ValueError("Invalid event commit")
+    diff = subprocess.run(["git", "diff", "--name-only", before, after,
+                           "--", "editions/inbox"], capture_output=True, text=True, check=True)
+    return set(diff.stdout.splitlines())
 
 
 def main():
@@ -15,9 +29,12 @@ def main():
     output = Path("edition-output")
     output.mkdir(exist_ok=True)
     outcomes = []
+    submitted = submitted_paths()
     for edition in ("scores", "preview"):
         day = expected_date(edition, now).isoformat()
         path = Path("editions/inbox") / f"{edition}-{day}.json"
+        if submitted is not None and str(path) not in submitted:
+            continue
         if not path.is_file():
             outcomes.append({"edition": edition, "date": day, "state": "no_intake"})
             continue
