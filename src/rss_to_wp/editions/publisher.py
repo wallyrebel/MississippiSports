@@ -196,6 +196,9 @@ def validate(data, now):
         require("article" in data, "Revision requires a reviewed editorial article")
         require(type(revision.get("post_id")) is int and revision["post_id"] > 0,
                 "Revision requires an exact target post ID")
+        require(type(revision.get("expected_featured_media")) is int
+                and revision["expected_featured_media"] > 0,
+                "Revision requires the existing featured media ID")
         require(isinstance(revision.get("id"), str) and FACT_ID.fullmatch(revision["id"]),
                 "Invalid revision ID")
         text_field(revision.get("reason"), "revision authorization reason", 500)
@@ -566,6 +569,8 @@ class Publisher:
                 "Revision requires the identified published edition")
         media_id = post.get("featured_media", 0)
         require(media_id > 0, "Revision must preserve an existing featured image")
+        require(media_id == revision.get("expected_featured_media"),
+                "Revision featured image differs from authorized snapshot")
         marker = f"<!-- sportsms-revision:{revision['id']} -->"
         def matches(candidate):
             return (candidate.get("content", {}).get("raw") == body

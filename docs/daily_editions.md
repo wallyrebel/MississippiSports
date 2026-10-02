@@ -242,6 +242,7 @@ new article. A direct user request to revise that edition may add:
   "revision": {
     "authorized": true,
     "post_id": 23916,
+    "expected_featured_media": 23917,
     "id": "editorial-upgrade-2026-10-02-v1",
     "reason": "User explicitly requested today's preview become a researched article",
     "expected_modified_gmt": "YYYY-MM-DDTHH:MM:SS"
@@ -250,7 +251,8 @@ new article. A direct user request to revise that edition may add:
 ```
 
 `post_id: 23916` is the specifically authorized October 2, 2026 preview target;
-do not copy it into future editions. Read that post's **actual** `modified_gmt`
+its expected existing featured image is `23917`. Do not copy these IDs into future
+editions. Read that post's **actual** `modified_gmt`
 from current public REST `GET /wp-json/wp/v2/posts/23916` when preparing the payload.
 This value is a UTC snapshot string, without a timezone suffix. Never guess it.
 The normal game-date and fresh-source gates still apply. The `reason` must refer

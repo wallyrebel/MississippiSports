@@ -456,6 +456,7 @@ def test_new_publication_requires_article_but_legacy_rerun_does_not(intake):
 
 def authorized_revision(editorial, post_id=123):
     editorial["revision"] = {"authorized": True, "post_id": post_id,
+        "expected_featured_media": 456,
         "id": "editorial-upgrade-v1", "reason": "User requested a researched article format",
         "expected_modified_gmt": "2026-10-02T12:00:00"}
     return editorial
@@ -492,6 +493,7 @@ def test_explicit_revision_same_post_media_with_backup_and_idempotency(editorial
     (lambda x: x["revision"].update(authorized=False), "authorization"),
     (lambda x: x["revision"].pop("expected_modified_gmt"), "snapshot"),
     (lambda x: x["revision"].update(post_id=True), "exact target"),
+    (lambda x: x["revision"].update(expected_featured_media=0), "featured media ID"),
     (lambda x: x["revision"].update(id="bad id"), "revision ID"),
 ])
 def test_revision_schema_gates(editorial, change, message):
@@ -507,6 +509,7 @@ def test_revision_schema_gates(editorial, change, message):
     ("missing", "target not found"),
     ("draft", "published edition"),
     ("no_media", "existing featured"),
+    ("changed_media", "image differs"),
 ])
 def test_revision_refuses_wrong_target_or_changed_snapshot(editorial, scenario, message):
     authorized_revision(editorial)
@@ -519,6 +522,8 @@ def test_revision_refuses_wrong_target_or_changed_snapshot(editorial, scenario, 
         original["status"] = "draft"
     if scenario == "no_media":
         original["featured_media"] = 0
+    if scenario == "changed_media":
+        original["featured_media"] = 789
     worker, state = wp_client(editorial, initial=None if scenario == "missing" else original)
     with pytest.raises(EditionError, match=message):
         worker.publish(editorial, b"never upload", "date")
