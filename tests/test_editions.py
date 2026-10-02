@@ -429,6 +429,43 @@ def test_editorial_ledger_evidence_is_refetched(editorial):
         verify_sources(editorial, public)
 
 
+def add_calculated_fact(editorial):
+    fact = editorial["article"]["facts"][0]
+    fact.update(claim="Synthetic Home scored 87 points in its two wins.",
+                calculation={"operation": "sum", "terms": [
+                    {"value": 38, "excerpt": "First opponent W 38-6"},
+                    {"value": 49, "excerpt": "Second opponent W 49-13"}], "result": 87})
+    fact["evidence"]["excerpt"] = "Synthetic Home First opponent W 38-6 Second opponent W 49-13"
+    editorial["article"]["html"] = editorial["article"]["html"].replace(
+        "Synthetic Home entered the game with a 5-0 record.", fact["claim"])
+    return fact
+
+
+def test_reviewed_sourced_sum_preserves_derived_context(editorial):
+    add_calculated_fact(editorial)
+    validate(editorial, NOW)
+    assert "scored 87 points" in render(editorial)[1]
+
+
+@pytest.mark.parametrize("change,message", [
+    (lambda f: f["calculation"].update(result=88), "Incorrect"),
+    (lambda f: f["calculation"].update(operation="eval"), "Unsupported"),
+    (lambda f: f["calculation"]["terms"][0].update(value=True), "Invalid calculation term"),
+    (lambda f: f["calculation"]["terms"][0].update(value=99999), "Invalid calculation term"),
+    (lambda f: f["calculation"]["terms"][0].update(value=39), "term value absent"),
+    (lambda f: f["calculation"]["terms"][0].update(excerpt="Synthetic Home invented 38"), "term excerpt absent"),
+    (lambda f: f["calculation"].update(terms=[]), "bounded source terms"),
+    (lambda f: f["calculation"].update(terms=[f["calculation"]["terms"][0]] * 2, result=76), "Repeated"),
+    (lambda f: f.update(claim="Synthetic Home scored 88 points"), "result absent"),
+    (lambda f: f.update(claim="Synthetic Home scored 87 points and had 999 rebounds"), "numeric claim absent"),
+])
+def test_calculation_rejects_wrong_math_and_unsourced_terms(editorial, change, message):
+    fact = add_calculated_fact(editorial)
+    change(fact)
+    with pytest.raises(EditionError, match=message):
+        validate(editorial, NOW)
+
+
 def test_historical_context_uses_real_old_date_without_stale_game_date(editorial):
     fact = editorial["article"]["facts"][0]
     fact.update(kind="history", fact_date="2025-10-01", claim="Synthetic Home won the 2025 meeting 21-14")

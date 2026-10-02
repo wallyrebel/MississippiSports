@@ -240,6 +240,40 @@ def number_tokens(value):
     return {str(int(token)) for token in re.findall(r"(?<!\w)\d+(?!\w)", text)}
 
 
+def calculation_numbers(fact, excerpt):
+    """Allow a reviewed sum only after checking each sourced term and arithmetic.
+
+    The writer still checks that each term belongs to the named team's score;
+    repeated/source-adjacent numbers alone cannot establish that mapping.
+    """
+    calculation = fact.get("calculation")
+    if calculation is None:
+        return set()
+    require(isinstance(calculation, dict) and calculation.get("operation") == "sum",
+            "Unsupported editorial calculation")
+    terms = calculation.get("terms")
+    require(isinstance(terms, list) and 2 <= len(terms) <= 30,
+            "Calculation needs bounded source terms")
+    total = 0
+    seen_terms = set()
+    for term in terms:
+        require(isinstance(term, dict) and type(term.get("value")) is int
+                and 0 <= term["value"] <= 9999, "Invalid calculation term")
+        quote = text_field(term.get("excerpt"), "calculation term excerpt", 500)
+        require(normalized(quote) in normalized(excerpt),
+                "Calculation term excerpt absent from evidence")
+        require(normalized(quote) not in seen_terms, "Repeated calculation term excerpt")
+        seen_terms.add(normalized(quote))
+        require(re.search(rf"(?<![\w.]){term['value']}(?![\w.])", quote),
+                "Calculation term value absent from its excerpt")
+        total += term["value"]
+    require(type(calculation.get("result")) is int and calculation["result"] == total,
+            "Incorrect editorial calculation result")
+    require(str(total) in number_tokens(fact["claim"]),
+            "Calculation result absent from claim")
+    return {str(total)}
+
+
 def validate_article(data):
     article = data["article"]
     require(isinstance(article, dict) and article.get("reviewed") is True,
@@ -272,7 +306,9 @@ def validate_article(data):
         for subject in subjects:
             text_field(subject, "editorial source subject")
             require(normalized(subject) in normalized(excerpt), "Editorial subject absent from evidence")
-        require(number_tokens(claim) <= number_tokens(excerpt), "Editorial numeric claim absent from evidence")
+        supported_numbers = number_tokens(excerpt) | calculation_numbers(fact, excerpt)
+        require(number_tokens(claim) <= supported_numbers,
+                f"Editorial numeric claim absent from evidence ({fact_id})")
         if fact["kind"] == "history":
             try:
                 historical_date = date.fromisoformat(fact["fact_date"])

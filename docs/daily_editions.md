@@ -222,6 +222,50 @@ facts supporting each block; referencing a single unrelated fact is not valid
 review. All context excerpts are refetched just like game evidence. Missing or
 changed evidence fails closed, and unsupported numeric claims are rejected.
 
+A fact may include an explicit sum for verified scoring totals that are not
+printed verbatim in the source: `"calculation": {"operation": "sum", "terms":
+[{"value": 38, "excerpt": "Exact source substring identifying the first 38-point score"},
+{"value": 49, "excerpt": "Exact source substring identifying the second 49-point score"}],
+"result": 87}`. This is schematic evidence, not a real report. Each term excerpt
+must appear inside that fact's fresh source excerpt and contain its integer value;
+the worker computes the sum and rejects a wrong result or unrelated unsupported
+numbers. Term excerpts must be distinct to prevent counting one result twice.
+Only bounded nonnegative integer sums are supported. The writer must
+still verify each score belongs to the named team and the specified games,
+distinguish scored/allowed points, and disclose incomplete reporting where relevant.
+
+### Prepare compatible inputs before submitting
+
+The worker accepts the intake above, not a separate research report or a free-form
+ledger grouped by team. Build the `games` array first and keep its order stable;
+its automatic IDs are `game-0`, `game-1`, etc. Then put each additional factual
+claim in `article.facts`, with a unique ID, matching `game_indexes`, the covered
+`as_of_date`, and a minimal contiguous source excerpt with its subject labels.
+Use separate facts for different source pages or noncontiguous excerpts. A claim
+is limited to 1,200 characters and its source excerpt to 2,500 characters.
+
+Write the complete prose with each block's `data-facts` references as you go;
+include all facts supporting that block and the separate `headline_fact_ids`.
+Preserve explicit source links. A source ledger with records and scores but no
+block references is not ready for REST publication. For derived totals, use the
+verified sum above. For averages or other calculations, use a verified published
+value or explain the sourced component scores without asserting an unsupported
+derived number. Do not replace researched prose with the legacy fixture renderer.
+
+Before committing an intake, run this from the checkout using its installed
+edition dependencies:
+
+```sh
+PYTHONPATH=src python -m rss_to_wp.editions.publisher /path/to/prepared-intake.json --dry-run --output /tmp/edition-review
+```
+
+This validates the schema and current Central dates, refetches all source excerpts,
+and writes the exact article, headline and image for review without WP writes or
+credentials. Check `result.json` for `state: dry_run` and `sources_checked: true`,
+then review `article.html` and `draft.json` before setting/submitting `publish: true`.
+`--offline` is useful only for earlier rendering/schema checks and does not verify
+fresh evidence. Never submit today's intake while another worker/browser owns it.
+
 Allowed HTML: `p`, `h2`, `h3`, `strong`, `em`, `a`, `ul`, `ol`, `li`, `blockquote`,
 `br`. Only `data-facts` and an anchor's `href` are accepted from the writer; scripts,
 iframes, images, styles, event handlers and hidden comments are rejected. Anchors
