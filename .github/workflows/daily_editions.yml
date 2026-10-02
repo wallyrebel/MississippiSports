@@ -1,0 +1,51 @@
+name: Verified high-school editions
+
+# Intentionally no schedule. The dot task owns research and America/Chicago timing.
+on:
+  push:
+    branches: [main]
+    paths: ['editions/inbox/*.json']
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Validate current intakes without writing to WordPress'
+        required: true
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+# Serialize draft creation/publication. Process both current editions on each run,
+# so replacement of a queued Actions run cannot lose an earlier intake.
+concurrency:
+  group: sportsms-daily-editions
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install edition-only dependencies
+        run: pip install requests beautifulsoup4 Pillow
+      - name: Validate and publish current editions
+        env:
+          PYTHONPATH: src
+          WORDPRESS_BASE_URL: ${{ secrets.WORDPRESS_BASE_URL }}
+          WORDPRESS_USERNAME: ${{ secrets.WORDPRESS_USERNAME }}
+          WORDPRESS_APP_PASSWORD: ${{ secrets.WORDPRESS_APP_PASSWORD }}
+          EDITION_DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
+        run: python scripts/process_editions.py
+      - name: Save sanitized results and browser recovery artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: edition-results-${{ github.run_id }}
+          path: edition-output/
+          if-no-files-found: warn
+          retention-days: 14

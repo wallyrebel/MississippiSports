@@ -1,0 +1,29 @@
+name: Daily edition offline checks
+on:
+  pull_request:
+    paths:
+      - 'src/rss_to_wp/editions/**'
+      - 'scripts/process_editions.py'
+      - 'tests/test_editions.py'
+      - '.github/workflows/daily_editions.yml'
+      - '.github/workflows/edition_checks.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'src/rss_to_wp/editions/**'
+      - 'scripts/process_editions.py'
+      - 'tests/test_editions.py'
+      - '.github/workflows/daily_editions.yml'
+      - '.github/workflows/edition_checks.yml'
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests beautifulsoup4 Pillow pytest
+      - run: PYTHONPATH=src python -m pytest -q tests/test_editions.py
