@@ -47,6 +47,7 @@ def completion(payload, finish_reason="stop"):
     "Unable to extract the article from the source.", "Just a moment... Verify you are human.",
     "Access denied", "Service unavailable", "Page not found", "Coming soon",
     "Content unavailable", "Cannot access the source",
+    "DIGITAL GAME DAY GUIDE: STATE VS. ALABAMA",
     "Privacy Policy Terms of Service All rights reserved", "Ad Blocker Detected"])
 def test_known_non_articles_are_rejected(bad):
     assert content_problem(bad)
@@ -55,6 +56,7 @@ def test_known_non_articles_are_rejected(bad):
 @pytest.mark.parametrize("good", [SHORT, "Rebels win 3-1.",
     "State keeping an internal focus as outside excitement builds.",
     "Mississippi State posted an Alabama hype video on YouTube Friday.",
+    "Mississippi State released a digital game day guide for Alabama.",
     "The Bulldogs host Alabama at 11 a.m. Saturday on ESPN."])
 def test_short_and_video_related_real_updates_are_retained(good):
     assert content_problem(good) is None

@@ -22,6 +22,8 @@ def content_problem(content: str) -> Optional[str]:
     if not text:
         return "empty_content"
     lower = text.lower()
+    if re.fullmatch(r"(?:digital )?game day guide\s*:\s*[^!?]+", lower):
+        return "link_heading_without_article"
     if re.search(
         r"\b(?:no (?:actual |article |story |substantive |usable )?content (?:is )?(?:available|provided|found)"
         r"|(?:article |story )?content (?:is )?unavailable"
