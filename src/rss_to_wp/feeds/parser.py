@@ -4,11 +4,13 @@ from __future__ import annotations
 
 import re
 from typing import Any, Optional
+from urllib.parse import urlparse
 
 import feedparser
 import requests
 from bs4 import BeautifulSoup
 
+from rss_to_wp.content_quality import content_problem, plain_text
 from rss_to_wp.utils import get_logger
 
 logger = get_logger("feeds.parser")
@@ -26,7 +28,15 @@ def parse_feed(url: str) -> Optional[dict[str, Any]]:
     logger.info("parsing_feed", url=url)
 
     try:
-        feed = feedparser.parse(url)
+        response = requests.get(url, timeout=(10, 30))
+        response.raise_for_status()
+        feed = feedparser.parse(response.content)
+
+        # A 200 HTML error page is not an empty feed. Real RSS/Atom feeds have
+        # a recognized version, even when their channel contains no entries.
+        if not feed.version or (feed.bozo and not feed.entries):
+            logger.error("feed_invalid", url=url)
+            return None
 
         # Check for parsing errors
         if feed.bozo and feed.bozo_exception:
@@ -79,11 +89,16 @@ def scrape_article_content(url: str) -> Optional[str]:
             }
         )
         response.raise_for_status()
+
+        hostname = (urlparse(response.url).hostname or "").lower()
+        if hostname == "youtu.be" or hostname == "youtube.com" or hostname.endswith(".youtube.com"):
+            logger.info("scrape_non_article_platform", url=url, platform="youtube")
+            return None
         
         soup = BeautifulSoup(response.content, "html.parser")
         
         # Remove unwanted elements
-        for element in soup(["script", "style", "nav", "header", "footer", "aside", "iframe", "noscript"]):
+        for element in soup(["script", "style", "nav", "header", "footer", "aside", "iframe", "noscript", "h1", "h2", "button", "form"]):
             element.decompose()
         
         # Try to find the main article content using common selectors
@@ -91,6 +106,8 @@ def scrape_article_content(url: str) -> Optional[str]:
         
         # Athletics sites often use these selectors
         content_selectors = [
+            ".sidearm-story-template-text",
+            ".sidearm-story-body",
             "article .article-body",
             ".article-content",
             ".story-body",
@@ -101,8 +118,6 @@ def scrape_article_content(url: str) -> Optional[str]:
             ".entry-content",
             "article",
             ".content-body",
-            "main",
-            "#content",
         ]
         
         for selector in content_selectors:
@@ -110,20 +125,18 @@ def scrape_article_content(url: str) -> Optional[str]:
             if element:
                 # Get text content
                 text = element.get_text(separator=" ", strip=True)
-                # Only use if it has substantial content
-                if len(text) > 200:
+                if not content_problem(text):
                     article_content = text
                     logger.info("scraped_content", length=len(text), selector=selector)
                     break
+                # An identified but empty story body is not a reason to widen
+                # extraction to an article wrapper containing unrelated chrome.
+                if selector != "article":
+                    logger.info("scraped_content_rejected", reason=content_problem(text), selector=selector)
+                    return None
         
-        # If no article content found, try to get body text
-        if not article_content:
-            body = soup.find("body")
-            if body:
-                text = body.get_text(separator=" ", strip=True)
-                if len(text) > 200:
-                    article_content = text
-                    logger.info("scraped_body_fallback", length=len(text))
+        # Do not promote an entire page (menus, legal text, or video footer)
+        # to an article just because it is long. Keep the RSS text instead.
         
         # Clean up whitespace
         if article_content:
@@ -171,8 +184,7 @@ def get_entry_content(entry: dict[str, Any], scrape_if_short: bool = True) -> st
     
     # Check if RSS content is too short - if so, try to scrape the source
     # Strip HTML to get actual text length
-    clean_content = re.sub(r'<[^>]+>', '', rss_content)
-    clean_content = re.sub(r'\s+', ' ', clean_content).strip()
+    clean_content = plain_text(rss_content)
     
     if scrape_if_short and len(clean_content) < 500:
         # Try to get the source URL and scrape
@@ -187,7 +199,8 @@ def get_entry_content(entry: dict[str, Any], scrape_if_short: bool = True) -> st
         
         if source_url:
             scraped_content = scrape_article_content(source_url)
-            if scraped_content and len(scraped_content) > len(clean_content):
+            if (scraped_content and not content_problem(scraped_content)
+                    and len(scraped_content) > len(clean_content)):
                 logger.info("using_scraped_content", 
                            rss_length=len(clean_content),
                            scraped_length=len(scraped_content))

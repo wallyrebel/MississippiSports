@@ -17,6 +17,7 @@ def settings():
 
 @pytest.fixture
 def no_images(monkeypatch):
+    monkeypatch.setattr("rss_to_wp.feeds.parser.scrape_article_content", Mock(return_value=None))
     for name in ("find_rss_image", "scrape_image_from_url", "find_fallback_image"):
         monkeypatch.setattr(cli, name, Mock(return_value=None))
 

@@ -9,6 +9,7 @@ from typing import Optional
 
 from openai import OpenAI
 
+from rss_to_wp.content_quality import article_problem, source_problem
 from rss_to_wp.utils import get_logger
 
 logger = get_logger("rewriter.openai")
@@ -27,6 +28,8 @@ RULES:
 8. If information is missing, do not invent it
 9. Keep the article factual and concise
 10. Use proper AP style for numbers, dates, titles, etc.
+11. Empty input, site navigation, video footer text, or access errors are not stories. Return null for headline and body when no article can be written.
+12. Preserve match results and set scores exactly. A four-set volleyball win is not a sweep. Do not combine conflicting or historical match details.
 
 OUTPUT FORMAT:
 You must respond with valid JSON in this exact format:
@@ -45,7 +48,7 @@ TAG RULES:
 - Do NOT include generic tags like "sports" or "news"
 
 IMPORTANT:
-- The body should be 3-6 paragraphs
+- Use only as many paragraphs as the source supports; a short factual update may be one paragraph
 - Use <p> tags to wrap each paragraph
 - Do NOT include the headline in the body
 - Do NOT include any markdown - use HTML only
@@ -100,14 +103,15 @@ class OpenAIRewriter:
         Returns:
             Dictionary with headline, excerpt, body or None on failure.
         """
-        self._rate_limit()
-
         # Clean HTML from content for better processing
         clean_content = self._strip_html(content)
 
-        if not clean_content or len(clean_content) < 50:
-            logger.warning("content_too_short", length=len(clean_content))
+        problem = source_problem(clean_content, original_title)
+        if problem:
+            logger.warning("source_content_rejected", reason=problem)
             return None
+
+        self._rate_limit()
 
         # Truncate very long content
         if len(clean_content) > 10000:
@@ -153,6 +157,10 @@ Remember to respond with valid JSON containing headline, excerpt, and body."""
             
             response = self.client.chat.completions.create(**api_params)
 
+            if response.choices[0].finish_reason != "stop":
+                logger.warning("rewrite_incomplete", finish_reason=response.choices[0].finish_reason)
+                return None
+
             # Parse response
             response_text = response.choices[0].message.content
             result = self._parse_response(response_text)
@@ -161,6 +169,11 @@ Remember to respond with valid JSON containing headline, excerpt, and body."""
                 # Override headline if requested
                 if use_original_title:
                     result["headline"] = original_title
+
+                problem = article_problem(result, content, original_title)
+                if problem:
+                    logger.warning("rewrite_content_rejected", reason=problem)
+                    return None
 
                 logger.info(
                     "rewrite_complete",
@@ -186,12 +199,19 @@ Remember to respond with valid JSON containing headline, excerpt, and body."""
                         api_params["max_completion_tokens"] = self.max_tokens
                     
                     response = self.client.chat.completions.create(**api_params)
+                    if response.choices[0].finish_reason != "stop":
+                        logger.warning("fallback_rewrite_incomplete", finish_reason=response.choices[0].finish_reason)
+                        return None
                     response_text = response.choices[0].message.content
                     result = self._parse_response(response_text)
                     
                     if result:
                         if use_original_title:
                             result["headline"] = original_title
+                        problem = article_problem(result, content, original_title)
+                        if problem:
+                            logger.warning("fallback_content_rejected", reason=problem)
+                            return None
                         logger.info("fallback_rewrite_complete", headline=result["headline"][:50])
                         return result
                 except Exception as fallback_error:
@@ -208,26 +228,27 @@ Remember to respond with valid JSON containing headline, excerpt, and body."""
         Returns:
             Parsed dictionary or None.
         """
+        if not isinstance(response_text, str):
+            logger.warning("rewrite_response_missing")
+            return None
         try:
             data = json.loads(response_text)
-
-            # Validate required fields
-            if not all(k in data for k in ["headline", "body"]):
-                logger.warning("missing_required_fields", data=data)
-                return None
-
-            return {
-                "headline": data["headline"].strip(),
-                "excerpt": data.get("excerpt", "").strip(),
-                "body": data["body"].strip(),
-                "tags": data.get("tags", []),  # Article-specific tags from AI
-            }
-
-        except json.JSONDecodeError as e:
-            logger.warning("json_parse_error", error=str(e), response=response_text[:200])
-
-            # Try to extract from malformed response
+        except json.JSONDecodeError:
+            # Fenced JSON must pass exactly the same checks as ordinary JSON.
             return self._extract_fallback(response_text)
+        return self._validate_response_data(data)
+
+    def _validate_response_data(self, data: object) -> Optional[dict]:
+        problem = article_problem(data)
+        if problem:
+            logger.warning("rewrite_response_rejected", reason=problem)
+            return None
+        return {
+            "headline": data["headline"].strip(),
+            "excerpt": data.get("excerpt", "").strip(),
+            "body": data["body"].strip(),
+            "tags": data.get("tags", []),
+        }
 
     def _extract_fallback(self, text: str) -> Optional[dict]:
         """Try to extract content from malformed response.
@@ -242,7 +263,7 @@ Remember to respond with valid JSON containing headline, excerpt, and body."""
             # Try to find JSON-like content
             json_match = re.search(r"\{[\s\S]*\}", text)
             if json_match:
-                return json.loads(json_match.group())
+                return self._validate_response_data(json.loads(json_match.group()))
         except Exception:
             pass
 

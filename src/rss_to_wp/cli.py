@@ -26,6 +26,7 @@ from rss_to_wp.feeds import (
     pick_entries,
 )
 from rss_to_wp.images import download_image, find_fallback_image, find_rss_image, scrape_image_from_url
+from rss_to_wp.content_quality import article_problem, source_hold_problem, source_problem
 from rss_to_wp.rewriter import OpenAIRewriter
 from rss_to_wp.storage import DedupeStore
 from rss_to_wp.utils import get_logger, setup_logging, send_email_notification, build_summary_email
@@ -254,9 +255,12 @@ def process_feed(
 
     # Parse feed
     feed = parse_feed(feed_config.url)
-    if not feed or not feed.entries:
-        logger.warning("feed_empty_or_failed", name=feed_config.name)
+    if feed is None:
+        logger.error("feed_failed", name=feed_config.name)
         return (0, 0, 1)
+    if not feed.entries:
+        logger.info("feed_empty", name=feed_config.name)
+        return (0, 0, 0)
 
     # Filter entries
     entries = pick_entries(
@@ -361,10 +365,19 @@ def process_entry(
         WordPress post data if successful, None otherwise.
     """
     title = get_entry_title(entry)
-    content = get_entry_content(entry)
     link = get_entry_link(entry)
+    problem = source_hold_problem(link)
+    if problem:
+        logger.warning("entry_source_held", title=title[:50], reason=problem)
+        return None
+    content = get_entry_content(entry)
 
     logger.info("processing_entry", title=title[:50])
+
+    problem = source_problem(content, title)
+    if problem:
+        logger.warning("entry_content_rejected", title=title[:50], reason=problem)
+        return None
 
     # Rewrite with OpenAI
     rewritten = rewriter.rewrite(
@@ -375,6 +388,12 @@ def process_entry(
 
     if not rewritten:
         logger.error("rewrite_failed", title=title[:50])
+        return None
+
+    # Validate before any media, taxonomy, or post writes, including test/custom rewriters.
+    problem = article_problem(rewritten, content, title)
+    if problem:
+        logger.warning("entry_rewrite_rejected", title=title[:50], reason=problem)
         return None
 
     # Find image
