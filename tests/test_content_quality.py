@@ -2,6 +2,7 @@ import json
 from types import SimpleNamespace
 from unittest.mock import Mock
 
+import feedparser
 import pytest
 import requests
 
@@ -263,6 +264,14 @@ def test_valid_empty_xml_with_wrong_mime_type_remains_a_feed(monkeypatch):
     monkeypatch.setattr(parser.requests, "get", Mock(return_value=result))
     feed = parser.parse_feed("https://example.com/feed")
     assert feed is not None and feed.entries == []
+
+
+def test_http_validation_preserves_original_feedparser_user_agent(monkeypatch):
+    fetch = Mock(return_value=response('<rss version="2.0"><channel/></rss>'))
+    monkeypatch.setattr(parser.requests, "get", fetch)
+    assert parser.parse_feed("https://example.com/feed") is not None
+    assert fetch.call_args.kwargs["headers"]["User-Agent"] == feedparser.USER_AGENT
+    assert fetch.call_args.kwargs["timeout"] == (10, 30)
 
 
 @pytest.mark.parametrize("failure", [requests.HTTPError("404"), requests.HTTPError("503"),
