@@ -9,6 +9,7 @@ from urllib.parse import urlparse
 import feedparser
 import requests
 from bs4 import BeautifulSoup
+from feedparser.exceptions import CharacterEncodingOverride, NonXMLContentType
 
 from rss_to_wp.content_quality import content_problem, plain_text
 from rss_to_wp.utils import get_logger
@@ -30,11 +31,18 @@ def parse_feed(url: str) -> Optional[dict[str, Any]]:
     try:
         response = requests.get(url, timeout=(10, 30))
         response.raise_for_status()
-        feed = feedparser.parse(response.content)
+        response_headers = {key.lower(): value for key, value in response.headers.items()}
+        response_headers.setdefault("content-location", response.url)
+        response_headers.setdefault("content-type", "application/xml")
+        # Preserve HTTP encoding and relative-link resolution when parsing the
+        # fetched bytes, as feedparser's URL-based path did previously.
+        feed = feedparser.parse(response.content, response_headers=response_headers)
 
         # A 200 HTML error page is not an empty feed. Real RSS/Atom feeds have
         # a recognized version, even when their channel contains no entries.
-        if not feed.version or (feed.bozo and not feed.entries):
+        header_warning = isinstance(feed.get("bozo_exception"),
+                                    (CharacterEncodingOverride, NonXMLContentType))
+        if not feed.version or (feed.bozo and not feed.entries and not header_warning):
             logger.error("feed_invalid", url=url)
             return None
 

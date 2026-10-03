@@ -187,7 +187,7 @@ def test_source_holds_do_not_block_another_game():
 
 
 def response(html, url="https://example.com/story"):
-    return SimpleNamespace(content=html.encode(), url=url, raise_for_status=Mock())
+    return SimpleNamespace(content=html.encode(), url=url, headers={}, raise_for_status=Mock())
 
 
 def test_youtube_redirect_is_not_scraped(monkeypatch):
@@ -244,6 +244,25 @@ def test_valid_empty_feeds_are_distinct_from_errors(monkeypatch, xml):
 def test_invalid_200_responses_are_errors(monkeypatch, xml):
     monkeypatch.setattr(parser.requests, "get", Mock(return_value=response(xml)))
     assert parser.parse_feed("https://example.com/feed") is None
+
+
+def test_feed_relative_links_keep_the_final_http_base(monkeypatch):
+    xml = ('<rss version="2.0"><channel><title>Sports</title><link>https://example.com/</link>'
+           '<description>News</description><item><title>Rebels win</title>'
+           '<link>news/recap</link><description>Rebels win 3-1.</description>'
+           '</item></channel></rss>')
+    monkeypatch.setattr(parser.requests, "get", Mock(return_value=response(
+        xml, "https://example.com/athletics/feed")))
+    feed = parser.parse_feed("https://example.com/old-feed")
+    assert feed.entries[0]["link"] == "https://example.com/athletics/news/recap"
+
+
+def test_valid_empty_xml_with_wrong_mime_type_remains_a_feed(monkeypatch):
+    result = response('<rss version="2.0"><channel><title>Archery</title></channel></rss>')
+    result.headers = {"Content-Type": "text/html"}
+    monkeypatch.setattr(parser.requests, "get", Mock(return_value=result))
+    feed = parser.parse_feed("https://example.com/feed")
+    assert feed is not None and feed.entries == []
 
 
 @pytest.mark.parametrize("failure", [requests.HTTPError("404"), requests.HTTPError("503"),
