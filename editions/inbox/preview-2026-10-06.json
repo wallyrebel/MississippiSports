@@ -1,0 +1,309 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-10-06",
+  "verified_at": "2026-10-06T15:06:52-05:00",
+  "publish": true,
+  "checked_sports": [
+    "volleyball",
+    "softball",
+    "football",
+    "cross country",
+    "golf",
+    "swimming",
+    "soccer"
+  ],
+  "games": [
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-06",
+      "home": "Walnut",
+      "away": "East Webster",
+      "status": "scheduled",
+      "start_time": "2026-10-06T18:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/east-webster-maben-vs-walnut/10-6-2026/?c=d917f845-040d-42e4-a258-4671e69e1a9a",
+        "excerpt": "East Webster vs Walnut | Volleyball | 10/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track &amp; Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track &amp; Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays &amp; highlights of the best high school sports Live Streams &amp; Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Volleyball Mississippi High School Volleyball East Webster Girls Varsity Volleyball @ Walnut East Webster Wolverines 13-18-1 Tuesday, Oct 6, 2026 6:00pm CDT Walnut Wildcats 29-4 East Webster Girls Varsity Volleyball @ Walnut Streaming &amp; Ticketing Purchase Tickets Game Info The East Webster varsity volleyball team has an away playoff match @ Walnut (MS) today @ 6p. Matchup Roster Game Details Tuesday, Oct 6, 2026 6:00pm CDT Playoff 2026 MHSAA Volleyball Championships",
+        "date_excerpt": "10/06/2026",
+        "home_name": "Walnut",
+        "away_name": "East Webster",
+        "time_excerpt": "6:00pm CDT"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-06",
+      "home": "Ripley",
+      "away": "Itawamba Agricultural",
+      "status": "scheduled",
+      "start_time": "2026-10-06T18:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/itawamba-agricultural-fulton-vs-ripley/10-6-2026/?c=2580c19b-691a-4acb-9e8a-3512628d677a",
+        "excerpt": "Itawamba Agricultural vs Ripley | Volleyball | 10/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track &amp; Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track &amp; Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays &amp; highlights of the best high school sports Live Streams &amp; Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Volleyball Mississippi High School Volleyball IAHS Girls Varsity Volleyball @ Ripley Itawamba Agricultural Indians 14-8 Tuesday, Oct 6, 2026 6:00pm CDT Ripley Tigers 16-15 IAHS Girls Varsity Volleyball @ Ripley Streaming &amp; Ticketing Purchase Tickets Game Info The Itawamba Agricultural varsity volleyball team has an away playoff match @ Ripley (MS) today @ 6p. Matchup Roster Game Details Tuesday, Oct 6, 2026 6:00pm CDT Playoff 2026 MHSAA Volleyball Championships",
+        "date_excerpt": "10/06/2026",
+        "home_name": "Ripley",
+        "away_name": "Itawamba Agricultural",
+        "time_excerpt": "6:00pm CDT"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-06",
+      "home": "Kossuth",
+      "away": "Nettleton",
+      "status": "scheduled",
+      "start_time": "2026-10-06T17:30:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/kossuth-vs-nettleton/10-6-2026/?c=3e4fa003-3ed2-48ee-8a03-3115d8360c30",
+        "excerpt": "Nettleton vs Kossuth | Volleyball | 10/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track &amp; Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track &amp; Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays &amp; highlights of the best high school sports Live Streams &amp; Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Volleyball Mississippi High School Volleyball Nettleton Girls Varsity Volleyball @ Kossuth Nettleton Tigers 12-16 Tuesday, Oct 6, 2026 5:30pm CDT Kossuth Aggies 27-4 Nettleton Girls Varsity Volleyball @ Kossuth Streaming &amp; Ticketing Purchase Tickets Game Info The Nettleton varsity volleyball team has an away playoff match @ Kossuth (MS) today @ 5:30p. Matchup Roster Game Details Tuesday, Oct 6, 2026 5:30pm CDT Playoff 2026 MHSAA Volleyball Championships",
+        "date_excerpt": "10/06/2026",
+        "home_name": "Kossuth",
+        "away_name": "Nettleton",
+        "time_excerpt": "5:30pm CDT"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-06",
+      "home": "Lake Cormorant",
+      "away": "Ridgeland",
+      "status": "scheduled",
+      "start_time": "2026-10-06T18:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/lake-cormorant-vs-ridgeland/10-6-2026/?c=96ecd817-7caf-4009-9f67-edc45a50008c",
+        "excerpt": "Ridgeland vs Lake Cormorant | Volleyball | 10/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track &amp; Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track &amp; Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays &amp; highlights of the best high school sports Live Streams &amp; Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Volleyball Mississippi High School Volleyball Ridgeland Girls Varsity Volleyball @ Lake Cormorant Ridgeland Titans 14-11 Tuesday, Oct 6, 2026 6:00pm CDT Lake Cormorant 16-20 Ridgeland Girls Varsity Volleyball @ Lake Cormorant Streaming &amp; Ticketing Purchase Tickets Game Info The Ridgeland varsity volleyball team has an away playoff match @ Lake Cormorant (MS) today @ 6p. Matchup Roster Game Details Tuesday, Oct 6, 2026 6:00pm CDT Playoff 2026 MHSAA Volleyball Championships",
+        "date_excerpt": "10/06/2026",
+        "home_name": "Lake Cormorant",
+        "away_name": "Ridgeland",
+        "time_excerpt": "6:00pm CDT"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/prep-sports/sportsms-scores-2026-10-03/",
+      "title": "East Union reaches 34–0; Walnut, Ripley move on in volleyball playoffs"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: Walnut and Kossuth defend streaks; Ripley, Lake Cormorant host playoff tests",
+    "headline_fact_ids": [
+      "game-0",
+      "game-1",
+      "game-2",
+      "game-3",
+      "tippah-first-round",
+      "kossuth-streak",
+      "walnut-streak"
+    ],
+    "html": "<p data-facts=\"game-0 game-1 game-2 game-3 walnut-context ripley-context lake-context kossuth-context kossuth-streak walnut-streak\">Walnut and Kossuth bring long winning runs into another night of elimination volleyball, while Ripley and Lake Cormorant face a different test: making home court count against opponents with better overall records. Those four matchups lead this selection of Mississippi high-school varsity games to watch Tuesday, October 6, 2026. Kossuth starts at 5:30 p.m.; Walnut, Ripley and Lake Cormorant follow at 6 p.m. All times are Central.</p>\n<h2 data-facts=\"game-0 walnut-context\">Walnut puts its run against East Webster</h2>\n<p data-facts=\"game-0 walnut-context walnut-first-round walnut-streak\">Walnut hosts East Webster in the Class 2A playoffs with a 29-4 record and ten straight victories. Saturday’s 3-0 win over Leland kept that run intact and gave the Wildcats a straight-set opening to the postseason. East Webster arrives 13-18-1, including a 6-2 district mark. The difference in overall records is substantial, but Walnut still has to turn its season-long consistency into another playoff win.</p>\n<p data-facts=\"walnut-context walnut-players\">The Wildcats finished district play 8-0 and have gone 12-1 at home. Their reported season totals identify several reasons to watch beyond the record: Molly-Kate Rolison leads the listed attack with 375 kills and also has 308 digs, while Vivian Brown has 660 assists and 65 aces. Those numbers describe Walnut’s reported work entering the matchup; they are not statistics from tonight’s match.</p>\n<h2 data-facts=\"game-1 ripley-context\">Ripley gets another home playoff test</h2>\n<p data-facts=\"game-1 ripley-context tippah-first-round ripley-region\">Ripley’s 6 p.m. meeting with Itawamba Agricultural pairs the 16-15 Tigers with the 14-8 Indians in Class 4A. Ripley advanced by beating North Pontotoc 3-1 on October 3, a result covered in <a href=\"https://sportsmississippi.com/prep-sports/sportsms-scores-2026-10-03/\">our first-round recap</a>. That win extended the Tigers’ streak to three matches and kept their postseason alive.</p>\n<p data-facts=\"ripley-region ripley-context\">Ripley’s overall record does not tell the whole story of its route here. The Tigers finished first in Class 4A Region 3 with a 7-0 district record, and their home mark is 8-4. Itawamba Agricultural went 6-2 in district play and enters with a 4-4 road record. The matchup puts Ripley’s unbeaten district campaign alongside an opponent that has lost fewer matches overall.</p>\n<h2 data-facts=\"game-2 kossuth-streak\">Kossuth tries to extend its streak</h2>\n<p data-facts=\"game-2 kossuth-context kossuth-streak\">Kossuth opens the featured evening slate against visiting Nettleton at 5:30 p.m. in Class 3A. The Aggies are 27-4 and have won 19 consecutive matches, according to <a href=\"https://alcornsportsms.com/2026/10/05/kossuth-puts-19-match-streak-on-line-in-nettleton-playoff/\">Alcorn County Sports’ playoff preview</a>. Nettleton is 12-16. The immediate question is whether the Tigers can interrupt a run that has carried Kossuth into another postseason home date.</p>\n<p data-facts=\"kossuth-context\">The district records offer another useful comparison: Kossuth went 8-0, while Nettleton finished 6-2. At home, the Aggies have been 14-2; Nettleton’s road record is 4-7. Those are entering records rather than a prediction, but they show the task facing the visitors. A strong district campaign has brought Nettleton this far, and tonight asks it to win on a court where few opponents have succeeded.</p>\n<h2 data-facts=\"game-3 lake-context\">Lake Cormorant welcomes Ridgeland</h2>\n<p data-facts=\"game-3 lake-context\">Lake Cormorant hosts Ridgeland at 6 p.m. in the Class 6A playoffs. The Gators enter 16-20, while the Titans are 14-11. Lake Cormorant’s district record, however, is 7-3, compared with Ridgeland’s 6-3. The home team also has a winning record on its own court at 7-6, giving this matchup a different shape from a glance at the overall standings.</p>\n<p data-facts=\"lake-players\">Lake Cormorant’s reported leaders give the match several individual threads to follow. Laylie Moore has 288 kills, Kayla Gonzalez has 534 assists and Micayiah Thompson has 490 digs. Kinsley Stevens leads the team’s listed ace totals with 79. Those season figures identify the players behind much of the Gators’ recorded production as they try to turn a home playoff opportunity into another round.</p>",
+    "facts": [
+      {
+        "id": "walnut-context",
+        "kind": "context",
+        "claim": "Walnut enters 29-4 against East Webster 13-18-1; district records 8-0 and 6-2, home Walnut 12-1; Class 2A.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/east-webster-maben-vs-walnut/10-6-2026/?c=d917f845-040d-42e4-a258-4671e69e1a9a",
+          "excerpt": "High School Volleyball Mississippi High School Volleyball East Webster Girls Varsity Volleyball @ Walnut East Webster Wolverines 13-18-1 Tuesday, Oct 6, 2026 6:00pm CDT Walnut Wildcats 29-4 East Webster Girls Varsity Volleyball @ Walnut Streaming &amp; Ticketing Purchase Tickets Game Info The East Webster varsity volleyball team has an away playoff match @ Walnut (MS) today @ 6p. Matchup Roster Game Details Tuesday, Oct 6, 2026 6:00pm CDT Playoff 2026 MHSAA Volleyball Championships Team Comparison East Webster (Maben) 22 Kills Walnut 984 East Webster (Maben) 1 Total Blocks Walnut 104 East Webster (Maben) 8 Serving Aces Walnut 313 East Webster (Maben) 59 Digs Walnut 1425 East Webster (Maben) 19 Assists Walnut 920 East Webster (Maben) 45 Receptions Walnut 1135 Key Players Avg. Per Game Averee Adams #3 OH Kills 15 375 Molly-kate Rolison #77 OH Bryar Avent #6 MH Total Blocks 3 51 Maddie Wilburn #24 MH Averee Adams #3 OH Serving Aces 4 65 Vivian Brown #6 S Mary Claire Embry #2 OH/RS Digs 26 308 Molly-kate Rolison #77 OH Maddy Avent #4 S Assists 13 660 Vivian Brown #6 S Averee Adams #3 OH Receptions 39 357 Brittan Dawkins #13 DS Scoring Averages Wins S1 S2 S3 S4 S5 East Webster 1.5 20.5 19.0 19.8 23.4 13.0 Walnut 2.4 19.3 18.7 16.8 17.2 15.0 Rankings Mississippi #103 #14 Mississippi Class 2A #12 #2 Columbus-Tupelo #32 -- Memphis -- #10 Season Recap Overall Record 13-18-1 29-4 District 6-2 8-0 Non-District 5-15-1 10-2 Head to Head 0-0 0-0 Home 7-8-1 12-1 Away 5-8 9-3 Neutral 1-2 8-0 Common Opponent 0-1 3-0 Playoff 1-0 1-0 In-State 13-18-1 29-4 Out-of-State 0-0 0-0 Win % .422 .879 District % .750 1.000 SW 47 80 SL 49 16 Common Opponents Tupelo Christian Prep 0-1 3-0",
+          "subjects": [
+            "Walnut",
+            "East Webster"
+          ]
+        }
+      },
+      {
+        "id": "ripley-context",
+        "kind": "context",
+        "claim": "Ripley enters 16-15 against Itawamba Agricultural 14-8; district records 7-0 and 6-2; home Ripley 8-4, IAHS away 4-4; Class 4A.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/itawamba-agricultural-fulton-vs-ripley/10-6-2026/?c=2580c19b-691a-4acb-9e8a-3512628d677a",
+          "excerpt": "High School Volleyball Mississippi High School Volleyball IAHS Girls Varsity Volleyball @ Ripley Itawamba Agricultural Indians 14-8 Tuesday, Oct 6, 2026 6:00pm CDT Ripley Tigers 16-15 IAHS Girls Varsity Volleyball @ Ripley Streaming &amp; Ticketing Purchase Tickets Game Info The Itawamba Agricultural varsity volleyball team has an away playoff match @ Ripley (MS) today @ 6p. Matchup Roster Game Details Tuesday, Oct 6, 2026 6:00pm CDT Playoff 2026 MHSAA Volleyball Championships Team Comparison Itawamba Agricultural (Fulton) 512 Kills Ripley - Itawamba Agricultural (Fulton) 76 Total Blocks Ripley - Itawamba Agricultural (Fulton) 217 Serving Aces Ripley - Itawamba Agricultural (Fulton) 1044 Digs Ripley - Itawamba Agricultural (Fulton) 457 Assists Ripley - Itawamba Agricultural (Fulton) 984 Receptions Ripley - Key Players Avg. Per Game Sydni McAlexander #32 MB/OH Kills 118 -- Not Enough Data Stella Gough #29 MB/OH/RS Total Blocks 35 -- Not Enough Data Autumn Brown #23 L/DS Serving Aces 44 -- Not Enough Data Autumn Brown #23 L/DS Digs 268 -- Not Enough Data Cameron Owens #8 S/RS Assists 171 -- Not Enough Data Autumn Brown #23 L/DS Receptions 296 -- Not Enough Data Scoring Averages Wins S1 S2 S3 S4 S5 Itawamba Agricultural 1.9 22.9 23.2 22.2 23.2 -- Ripley 1.7 19.6 16.9 16.1 16.0 15.0 Rankings Mississippi #90 #80 Mississippi Class 4A #13 #11 Columbus-Tupelo #30 -- Memphis -- #35 Season Recap Overall Record 14-8 16-15 District 6-2 7-0 Non-District 5-6 7-11 Head to Head 0-0 0-0 Home 9-4 8-4 Away 4-4 7-9 Neutral 1-0 1-2 Common Opponent 0-2 3-4 Playoff 1-0 1-0 In-State 14-8 16-15 Out-of-State 0-0 0-0 Win % .636 .516 District % .750 1.000 SW 41 52 SL 27 44 Common Opponents Corinth 0-1 1-0 Tishomingo County 0-1 0-1",
+          "subjects": [
+            "Ripley",
+            "Itawamba Agricultural"
+          ]
+        }
+      },
+      {
+        "id": "kossuth-context",
+        "kind": "context",
+        "claim": "Kossuth enters 27-4 against Nettleton 12-16, district 8-0 and 6-2; home Kossuth 14-2 and Nettleton away 4-7; Class 3A.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/kossuth-vs-nettleton/10-6-2026/?c=3e4fa003-3ed2-48ee-8a03-3115d8360c30",
+          "excerpt": "High School Volleyball Mississippi High School Volleyball Nettleton Girls Varsity Volleyball @ Kossuth Nettleton Tigers 12-16 Tuesday, Oct 6, 2026 5:30pm CDT Kossuth Aggies 27-4 Nettleton Girls Varsity Volleyball @ Kossuth Streaming &amp; Ticketing Purchase Tickets Game Info The Nettleton varsity volleyball team has an away playoff match @ Kossuth (MS) today @ 5:30p. Matchup Roster Game Details Tuesday, Oct 6, 2026 5:30pm CDT Playoff 2026 MHSAA Volleyball Championships Team Comparison Nettleton - Kills Kossuth 1056 Nettleton - Total Blocks Kossuth 166 Nettleton - Serving Aces Kossuth 404 Nettleton - Digs Kossuth 1002 Nettleton - Assists Kossuth 872 Nettleton - Receptions Kossuth 1075 Key Players Avg. Per Game Not Enough Data Kills -- 401 Dallyn Haupt #18 OH/OPP Not Enough Data Total Blocks -- 124 Willow Hatcher #12 MH/MB Not Enough Data Serving Aces -- 101 Ava Hopkins #13 S/RS Not Enough Data Digs -- 237 Dinah Lancaster #1 OH/DS Not Enough Data Assists -- 735 Ava Hopkins #13 S/RS Not Enough Data Receptions -- 289 Carlie Shaw #9 DS/L Scoring Averages Wins S1 S2 S3 S4 S5 Nettleton 1.6 17.6 17.4 18.6 25.0 9.5 Kossuth 2.4 24.6 24.4 24.1 25.0 10.0 Rankings Mississippi #131 #12 Mississippi Class 3A #15 #1 Columbus-Tupelo #43 -- Memphis -- #9 Season Recap Overall Record 12-16 27-4 District 6-2 8-0 Non-District 4-11 14-3 Head to Head 0-0 0-0 Home 8-7 14-2 Away 4-7 8-2 Neutral 0-2 5-0 Common Opponent 1-6 13-0 Playoff 1-0 1-0 In-State 12-16 27-4 Out-of-State 0-0 0-0 Win % .429 .871 District % .750 1.000 SW 45 75 SL 42 12 Common Opponents Amory 0-1 2-0 Belmont 0-1 2-0 Mantachie 1-0 2-0 Caledonia 0-1 2-0 Corinth 0-1 2-0 Mooreville 0-1 1-0 Booneville 0-1 2-0",
+          "subjects": [
+            "Kossuth",
+            "Nettleton"
+          ]
+        }
+      },
+      {
+        "id": "lake-context",
+        "kind": "context",
+        "claim": "Lake Cormorant enters 16-20 against Ridgeland 14-11; district 7-3 and 6-3; home Lake Cormorant 7-6; Class 6A.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/lake-cormorant-vs-ridgeland/10-6-2026/?c=96ecd817-7caf-4009-9f67-edc45a50008c",
+          "excerpt": "High School Volleyball Mississippi High School Volleyball Ridgeland Girls Varsity Volleyball @ Lake Cormorant Ridgeland Titans 14-11 Tuesday, Oct 6, 2026 6:00pm CDT Lake Cormorant 16-20 Ridgeland Girls Varsity Volleyball @ Lake Cormorant Streaming &amp; Ticketing Purchase Tickets Game Info The Ridgeland varsity volleyball team has an away playoff match @ Lake Cormorant (MS) today @ 6p. Matchup Roster Game Details Tuesday, Oct 6, 2026 6:00pm CDT Playoff 2026 MHSAA Volleyball Championships Team Comparison Ridgeland - Kills Lake Cormorant 820 Ridgeland - Total Blocks Lake Cormorant 69 Ridgeland - Serving Aces Lake Cormorant 349 Ridgeland - Digs Lake Cormorant 1770 Ridgeland - Assists Lake Cormorant 760 Ridgeland - Receptions Lake Cormorant 1594 Key Players Avg. Per Game Not Enough Data Kills -- 288 Laylie Moore #5 OH Not Enough Data Total Blocks -- 22 Egypt McKnight #22 MB Not Enough Data Serving Aces -- 79 Kinsley Stevens #11 OH Not Enough Data Digs -- 490 Micayiah Thompson #3 L Not Enough Data Assists -- 534 Kayla Gonzalez #7 S Not Enough Data Receptions -- 470 Micayiah Thompson #3 L Scoring Averages Wins S1 S2 S3 S4 S5 Ridgeland 1.7 17.1 16.2 17.7 -- -- Lake Cormorant 1.4 21.3 21.0 19.3 21.1 13.7 Rankings Mississippi #91 #75 Mississippi Class 6A #10 #6 Jackson #16 -- Memphis -- #31 Season Recap Overall Record 14-11 16-20 District 6-3 7-3 Non-District 8-7 3-7 Head to Head 0-1 1-0 Home 8-5 7-6 Away 6-5 8-7 Neutral 0-1 1-7 Common Opponent 3-2 2-1 Playoff 0-0 0-0 In-State 14-11 16-20 Out-of-State 0-0 0-0 Win % .560 .444 District % .667 .700 SW 43 49 SL 33 57 Common Opponents Pearl 3-0 1-0 Clinton 0-2 1-0 Head-to-Head 08/01/2026 0 2 10/06/2026 -- --",
+          "subjects": [
+            "Lake Cormorant",
+            "Ridgeland"
+          ]
+        }
+      },
+      {
+        "id": "tippah-first-round",
+        "kind": "history",
+        "claim": "Ripley beat North Pontotoc 3-1 in its October 3, 2026 playoff opener and reached 16-15.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/north-pontotoc-ecru-vs-ripley/10-3-2026/?c=a88e064f-eadc-4818-8ea0-4064223d287d",
+          "excerpt": "North Pontotoc Girls Varsity Volleyball @ Ripley North Pontotoc 8-15 Vikings 1 Final 3 Ripley 16-15 Tigers North Pontotoc Girls Varsity Volleyball @ Ripley Game Info On 10/3, the North Pontotoc varsity volleyball team lost their away playoff match against Ripley (MS) by a score of 3-1. Recap Matchup Boxscore S1 Wins North Pontotoc -- 1 Ripley -- 3 Final score provided by K. Warren Mississippi High School Volleyball - North Pontotoc Ripley Ripley Tigers (Ripley, MS) boosters left the game satisfied Saturday as they saw their volleyball squad achieve victory over the visiting North Pontotoc Vikings (Ecru, MS), 3-1 in a non-league test. With the win, Ripley improves its record to 16-15 on the season. The Tigers travel to Itawamba Agricultural (Fulton, MS) to face the Indians in a non-league test on Tuesday, October 6. The Indians go into the test with a record of 14-8. Itawamba Agricultural won 3-0 in their recent non-league test against Yazoo City (Yazoo City, MS) The Vikings now own a 7-15 record. October 3, 2026",
+          "subjects": [
+            "Ripley",
+            "North Pontotoc"
+          ],
+          "date_excerpt": "October 3, 2026"
+        },
+        "fact_date": "2026-10-03"
+      },
+      {
+        "id": "kossuth-streak",
+        "kind": "context",
+        "claim": "Kossuth brings a 19-match winning streak into its Tuesday playoff match.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-06",
+        "evidence": {
+          "url": "https://alcornsportsms.com/2026/10/05/kossuth-puts-19-match-streak-on-line-in-nettleton-playoff/",
+          "excerpt": "Kossuth can turn a 19-match winning streak into another step through the Class 3A volleyball bracket Tuesday, October 6.",
+          "subjects": [
+            "Kossuth"
+          ]
+        }
+      },
+      {
+        "id": "walnut-players",
+        "kind": "context",
+        "claim": "Walnut reported season leaders are Molly-kate Rolison 375 kills and 308 digs; Vivian Brown 660 assists and 65 aces.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/volleyball/stats/",
+          "excerpt": "Walnut Volleyball Stats Team Leaders Player Stats Match Stats Team Stats Leaderboard Qualifications Kills Per Set 1 Molly-kate Rolison Sr. - OH 4.2 K/S 2 Maddie Wilburn Jr. - MH 3.0 K/S 3 Taylor Garner Sr. - OH 1.5 K/S All Leaders Hitting Percentage 1 Molly-kate Rolison Sr. - OH 0.290 Pct 2 Maddie Wilburn Jr. - MH 0.208 Pct 3 Kayleigh Steele Sr. - MH 0.181 Pct All Leaders Total Blocks 1 Maddie Wilburn Jr. - MH 51 TB 2 Kayleigh Steele Sr. - MH 46 TB 3 Molly-kate Rolison Sr. - OH 20 TB All Leaders Digs Per Set 1 Molly-kate Rolison Sr. - OH 3.4 D/S 2 Brittan Dawkins Jr. - DS 3.0 D/S 3 Vivian Brown Sr. - S 2.6 D/S All Leaders Serving Aces 1 Vivian Brown Sr. - S 65 A 2 Molly-kate Rolison Sr. - OH 54 A 3 Taylor Garner Sr. - OH 54 A All Leaders Aces Per Set 1 Vivian Brown Sr. - S 0.7 A/S 2 Molly-kate Rolison Sr. - OH 0.6 A/S 3 Taylor Garner Sr. - OH 0.6 A/S All Leaders Digs 1 Molly-kate Rolison Sr. - OH 308 D 2 Brittan Dawkins Jr. - DS 272 D 3 Vivian Brown Sr. - S 232 D All Leaders Assists 1 Vivian Brown Sr. - S 660 AST 2 Heidee Sanford So. - S 121 AST 3 Molly-kate Rolison Sr. - OH 33 AST All Leaders Kills 1 Molly-kate Rolison Sr. - OH 375 K 2 Maddie Wilburn Jr. - MH 259 K 3 Taylor Garner Sr. - OH 134 K All Leaders Receptions 1 Brittan Dawkins Jr. - DS 357 R 2 Molly-kate Rolison Sr. - OH 298 R 3 Taylor Garner Sr. - OH 109 R All Leaders",
+          "subjects": [
+            "Walnut",
+            "Molly-kate Rolison",
+            "Vivian Brown"
+          ]
+        }
+      },
+      {
+        "id": "lake-players",
+        "kind": "context",
+        "claim": "Lake Cormorant reported season leaders include Laylie Moore 288 kills, Kayla Gonzalez 534 assists, Micayiah Thompson 490 digs and Kinsley Stevens 79 aces.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/lake-cormorant/lake-cormorant/volleyball/stats/",
+          "excerpt": "Lake Cormorant Volleyball Stats Team Leaders Player Stats Match Stats Team Stats Leaderboard Qualifications Kills Per Set 1 Laylie Moore Jr. - OH 2.7 K/S 2 Kinsley Stevens Jr. - OH 1.8 K/S 3 Sydney Potts Fr. - OH, OPP 1.6 K/S All Leaders Hitting Percentage 1 McKenzie Hardemon So. - MB 0.134 Pct 2 Kinsley Stevens Jr. - OH 0.123 Pct 3 Laylie Moore Jr. - OH 0.106 Pct All Leaders Total Blocks 1 Egypt McKnight Sr. - MB 22 TB 2 McKenzie Hardemon So. - MB 20 TB 3 Makenzie Nails Fr. - MB 12 TB All Leaders Digs Per Set 1 Micayiah Thompson Jr. - L 4.6 D/S 2 Laylie Moore Jr. - OH 3.3 D/S 3 Kinsley Stevens Jr. - OH 3.1 D/S All Leaders Serving Aces 1 Kinsley Stevens Jr. - OH 79 A 2 Laylie Moore Jr. - OH 74 A 3 Kayla Gonzalez Fr. - S 65 A All Leaders Aces Per Set 1 Kinsley Stevens Jr. - OH 0.7 A/S 2 Laylie Moore Jr. - OH 0.7 A/S 3 Kayla Gonzalez Fr. - S 0.6 A/S All Leaders Digs 1 Micayiah Thompson Jr. - L 490 D 2 Laylie Moore Jr. - OH 348 D 3 Kinsley Stevens Jr. - OH 328 D All Leaders Assists 1 Kayla Gonzalez Fr. - S 534 AST 2 Emma Arnold Fr. - S 169 AST 3 Micayiah Thompson Jr. - L 36 AST All Leaders Kills 1 Laylie Moore Jr. - OH 288 K 2 Kinsley Stevens Jr. - OH 196 K 3 Sydney Potts Fr. - OH, OPP 92 K All Leaders Receptions 1 Micayiah Thompson Jr. - L 470 R 2 Kinsley Stevens Jr. - OH 422 R 3 Laylie Moore Jr. - OH 321 R All Leaders",
+          "subjects": [
+            "Lake Cormorant",
+            "Laylie Moore",
+            "Kayla Gonzalez",
+            "Micayiah Thompson",
+            "Kinsley Stevens"
+          ]
+        }
+      },
+      {
+        "id": "ripley-region",
+        "kind": "context",
+        "claim": "Ripley finished first in Class 4A Region 3 at 7-0 and brings three straight wins into this match.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/volleyball/schedule/",
+          "excerpt": "Ripley Volleyball Schedule 2026-27 Overall 16-15 0.516 Win Pct District 7-0 1st Class 4A Region 3 Home 8-4 Away 7-9 Neutral 1-2 SW 52 SL 44 Streak 3W",
+          "subjects": [
+            "Ripley"
+          ]
+        }
+      },
+      {
+        "id": "walnut-first-round",
+        "kind": "history",
+        "claim": "Walnut beat Leland 3-0 in its October 3, 2026 playoff opener and reached 29-4.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-06",
+        "fact_date": "2026-10-03",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/leland-vs-walnut/10-3-2026/?c=50b49aef-480f-4dfe-9a0b-7822c58e298a",
+          "excerpt": "Leland Girls Varsity Volleyball vs. Walnut Leland 4-9 Cubs 0 Final 3 Walnut 29-4 Wildcats Leland Girls Varsity Volleyball vs. Walnut Game Info On 10/3, the Leland varsity volleyball team lost their neutral playoff match against Walnut (MS) by a score of 3-0. Recap Matchup Roster Boxscore S1 S2 S3 Wins Leland 0 0 0 0 Walnut 1 1 1 3 Final score provided by K. Hopper Mississippi High School Volleyball - Leland overwhelmed by Walnut The Walnut Wildcats topped the host Leland Cubs volleyball squad by a final score of 3-0 in Saturday's non-league game. October 3, 2026",
+          "subjects": [
+            "Walnut",
+            "Leland"
+          ],
+          "date_excerpt": "October 3, 2026"
+        }
+      },
+      {
+        "id": "walnut-streak",
+        "kind": "context",
+        "claim": "Walnut has won ten straight entering the next matchup with East Webster.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/news/OiCMUhh5KECm1aFyWvQiWA/volleyball-recap-walnut-beats-leland-for-their-tenth-straight-win.htm",
+          "excerpt": "With a playoff win on the line, Walnut rose to the challenge on Saturday. Everything went their way against the Leland Cubs as they made off with a 3-0 win. The victory was nothing new for the Wildcats as they're now sitting on 10 straight. Walnut's win bumped their record up to 29-4. As for Leland, they finished the season at 4-9. Looking ahead, Walnut will challenge East Webster on Tuesday.",
+          "subjects": [
+            "Walnut",
+            "East Webster"
+          ]
+        }
+      }
+    ]
+  }
+}
