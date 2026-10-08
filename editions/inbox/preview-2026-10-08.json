@@ -1,0 +1,510 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-10-08",
+  "verified_at": "2026-10-08T15:02:55-05:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "volleyball"
+  ],
+  "games": [
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-08",
+      "home": "Kossuth",
+      "away": "Alcorn Central",
+      "status": "scheduled",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/alcorn-central-glen-vs-kossuth/10-8-2026/?c=414e4b82-cf9b-4b75-905f-5237e72ee167",
+        "excerpt": "Alcorn Central vs Kossuth | Volleyball | 10/08/2026",
+        "date_excerpt": "10/08/2026",
+        "home_name": "Kossuth",
+        "away_name": "Alcorn Central"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-08",
+      "home": "Ripley",
+      "away": "New Albany",
+      "status": "scheduled",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/new-albany-vs-ripley/10-8-2026/?c=36348ec2-d5ee-42d2-a78b-0671e8f732cc",
+        "excerpt": "New Albany vs Ripley | Volleyball | 10/08/2026",
+        "date_excerpt": "10/08/2026",
+        "home_name": "Ripley",
+        "away_name": "New Albany"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-08",
+      "home": "Walnut",
+      "away": "Myrtle",
+      "status": "scheduled",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/myrtle-vs-walnut/10-8-2026/?c=37715ce9-d64c-4127-895e-faa25fd8b580",
+        "excerpt": "Myrtle vs Walnut | Volleyball | 10/08/2026",
+        "date_excerpt": "10/08/2026",
+        "home_name": "Walnut",
+        "away_name": "Myrtle"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-08",
+      "home": "Ingomar",
+      "away": "Pine Grove",
+      "status": "scheduled",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/ingomar-new-albany-vs-pine-grove-ripley/10-8-2026/?c=0d31bd47-17b6-4bd6-849f-0996b7c99dab",
+        "excerpt": "Pine Grove vs Ingomar | Volleyball | 10/08/2026",
+        "date_excerpt": "10/08/2026",
+        "home_name": "Ingomar",
+        "away_name": "Pine Grove"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-08",
+      "home": "Lewisburg",
+      "away": "Hernando",
+      "status": "scheduled",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/hernando-vs-lewisburg-olive-branch/10-8-2026/?c=253756ce-1233-47f8-9ab1-9fb4d1528b48",
+        "excerpt": "Hernando vs Lewisburg | Volleyball | 10/08/2026",
+        "date_excerpt": "10/08/2026",
+        "home_name": "Lewisburg",
+        "away_name": "Hernando"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-08",
+      "home": "North Pontotoc",
+      "away": "Corinth",
+      "status": "scheduled",
+      "start_time": "2026-10-08T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/corinth-vs-north-pontotoc-ecru/10-9-2026/?c=1e1f08b6-73d3-4156-86f6-c94db3c65bb1",
+        "excerpt": "Corinth Varsity Football @ North Pontotoc Corinth Warriors 3-2 Thursday, Oct 8, 2026 7:00pm CDT North Pontotoc Vikings 2-4 Corinth Varsity Football @ North Pontotoc Streaming & Ticketing Sign Up To Watch Game Info The Corinth varsity football team has an away conference game @ North Pontotoc (Ecru, MS) today @ 7p. Featured Game Video Scorekeeper No Scorekeeper No Scorekeeper Videos Matchup Roster Oct 9, 2026 Preview: Corinth @ North Pontotoc | Boys Varsity Football 10 October 8, 2026, game preview for Corinth @ North Pontotoc boys varsity football.",
+        "date_excerpt": "October 8, 2026",
+        "home_name": "North Pontotoc",
+        "away_name": "Corinth",
+        "time_excerpt": "7:00pm CDT"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-08",
+      "home": "Riverside",
+      "away": "Falkner",
+      "status": "scheduled",
+      "start_time": "2026-10-08T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/falkner-vs-riverside-avon/10-8-2026/?c=1da7e214-446d-4b2c-a437-9b9f25d1cfc2",
+        "excerpt": "Falkner Varsity Football @ Riverside Falkner Eagles 2-3 Thursday, Oct 8, 2026 7:00pm CDT Riverside Bulldogs 0-6 Falkner Varsity Football @ Riverside Streaming & Ticketing Sign Up To Watch Purchase Tickets Game Info The Falkner varsity football team has an away non-conference game @ Riverside (Avon, MS) today @ 7p. Featured Game Video Scorekeeper No Scorekeeper No Scorekeeper Videos Matchup Roster Oct 9, 2026 Preview: Falkner @ RHS | Boys Varsity Football 10/8 October 8, 2026, game preview for Falkner @ RHS boys varsity football.",
+        "date_excerpt": "October 8, 2026",
+        "home_name": "Riverside",
+        "away_name": "Falkner",
+        "time_excerpt": "7:00pm CDT"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-10-06/",
+      "title": "Scores from last Night: Hernando survives Oxford comeback; Walnut reaches 30 wins"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: Central challenges Kossuth’s streak; Corinth pursues district momentum",
+    "headline_fact_ids": [
+      "game-0",
+      "kossuth-streak",
+      "game-5",
+      "corinth-record"
+    ],
+    "html": "<p data-facts=\"game-0 kossuth-streak game-5 corinth-record north-pontotoc-record\">Alcorn Central gets a third chance to stop Kossuth, with a semifinal berth now attached to the county volleyball rivalry. The Aggies bring a 20-match winning streak into Thursday’s quarterfinal, while Corinth heads to North Pontotoc trying to build on its unbeaten start in district football. Those matchups anchor Mississippi’s Games To Watch for October 8, 2026.</p>\n<h2 data-facts=\"game-0 kossuth-streak\">Central’s playoff reset meets Kossuth’s streak</h2>\n<p data-facts=\"game-0 kossuth-pregame kossuth-class kossuth-streak\">Kossuth hosts Alcorn Central on Thursday in the Class 3A quarterfinal. The Aggies enter 28–4, while the Lady Bears are 12–19. Kossuth swept both September meetings and finished its district slate unbeaten, but Central has swept its first two playoff opponents to earn another opportunity. The winner moves into the semifinals.</p>\n<p data-facts=\"game-0 kossuth-streak kossuth-last-result\">The contrast gives this rematch its pull: Kossuth’s sustained dominance meets a Central team whose postseason has begun with consecutive sweeps. <a href=\"https://alcornsportsms.com/2026/10/08/central-gets-third-shot-at-kossuth-with-semifinal-berth-at-stake/\">Alcorn Sports MS’s county preview</a> details the third meeting, and our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-10-06/\">latest statewide playoff recap</a> follows Kossuth’s advance against Nettleton.</p>\n<h2 data-facts=\"game-1 game-2 game-3\">Tippah’s home tests and a road rematch</h2>\n<p data-facts=\"game-1 ripley-pregame ripley-class ripley-rematch\">Ripley hosts New Albany at 6 p.m. CDT in the Class 4A playoffs. The Lady Tigers enter 17–15 with four consecutive wins; New Albany is 30–9. An August sweep by the Bulldogs gives Ripley a clear measure of the challenge. This time the Lady Tigers have home court and a place in the next round to play for.</p>\n<p data-facts=\"game-2 walnut-pregame walnut-class tippah-streaks\">Walnut’s 30–4 season and 11-match winning streak face their next test when Myrtle visits at 6 p.m. CDT in the Class 2A playoffs. The Hawks enter 22–7, giving the Wildcats a winning opponent as they try to extend both their streak and their postseason. Walnut’s latest victory is covered in our statewide recap linked above.</p>\n<p data-facts=\"game-3 pine-pregame pine-class tippah-streaks\">Pine Grove has the road assignment, visiting Ingomar at 6 p.m. CDT in Class 1A. The Panthers are 23–11 and the Falcons 23–7. Ingomar swept their August meeting, so Pine Grove also has a familiar result to overturn. <a href=\"https://tippahsports.com/blue-mountain/ripley-gets-new-albany-rematch-as-three-tippah-volleyball-teams-pursue-playoff-wins/\">Tippah Sports’s Thursday preview</a> brings together the county’s playoff rematches and Walnut’s streak.</p>\n<h2 data-facts=\"game-4\">Hernando takes its survival act to Lewisburg</h2>\n<p data-facts=\"game-4 lewisburg-pregame lewisburg-class hernando-survival lewisburg-sweep\">Hernando visits Lewisburg at 6 p.m. CDT in the Class 7A playoffs, with the Tigers entering 24–13 and the Patriots 32–8. Hernando’s route here was far from comfortable: after losing a two-set lead at Oxford, the Tigers won the deciding set 15–9. That escape keeps their season alive for a trip to a Lewisburg team with the stronger entering record. The Patriots advanced with a sweep of visiting Starkville, as <a href=\"https://desotocountynews.com/desoto-county-sports/desoto-county-sports-2026-10-07/\">DeSoto County News reports</a>.</p>\n<h2 data-facts=\"game-5 game-6\">Corinth protects its district start; Falkner seeks a road win</h2>\n<p data-facts=\"game-5 corinth-record north-pontotoc-record\">Corinth’s 7 p.m. CDT visit to North Pontotoc is a conference game with the teams starting from different positions. The Warriors are 3–2 overall and 1–0 in district play; the Vikings are 2–4 and 0–1. Corinth has an opportunity to preserve its unbeaten district start, while North Pontotoc seeks its first district win.</p>\n<p data-facts=\"game-6 falkner-game-record falkner-road falkner-nonconference\">Falkner visits Riverside in Avon at 7 p.m. CDT for a nonconference game. The Eagles enter 2–3 and have won both home games while dropping all three road games. Riverside is 0–6. For Falkner, the immediate test is carrying a winning performance away from home; for the Bulldogs, it is finding their first victory.</p>",
+    "facts": [
+      {
+        "id": "kossuth-pregame",
+        "kind": "schedule",
+        "claim": "Alcorn Central visits Kossuth in a varsity girls volleyball playoff on October 8, 2026. Alcorn Central enters 12-19; Kossuth enters 28-4.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/alcorn-central-glen-vs-kossuth/10-8-2026/?c=414e4b82-cf9b-4b75-905f-5237e72ee167",
+          "excerpt": "Alcorn Central Girls Varsity Volleyball @ Kossuth Alcorn Central Golden Bears 12-19 Thursday, Oct 8, 2026 5:30pm CDT Kossuth Aggies 28-4 Alcorn Central Girls Varsity Volleyball @ Kossuth Streaming & Ticketing Purchase Tickets Game Info The Alcorn Central varsity volleyball team has an away playoff match @ Kossuth (MS) today @ 5:30p. Matchup Roster Game Details Thursday, Oct 8, 2026 5:30pm CDT Playoff 2026 MHSAA Volleyball Championships",
+          "subjects": [
+            "Alcorn Central",
+            "Kossuth"
+          ]
+        }
+      },
+      {
+        "id": "kossuth-class",
+        "kind": "stakes",
+        "claim": "Alcorn Central at Kossuth is in the Class 3A MHSAA volleyball playoffs.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/volleyball/",
+          "excerpt": "Up Next Home Match Playoff Kossuth Alcorn Central Oct 8, 2026 @ 5:30pm Buy Tickets Preview Match PLAYOFFS Class 3A 2026 MHSAA ",
+          "subjects": [
+            "Kossuth",
+            "Alcorn Central"
+          ]
+        }
+      },
+      {
+        "id": "ripley-pregame",
+        "kind": "schedule",
+        "claim": "New Albany visits Ripley in a varsity girls volleyball playoff on October 8, 2026. First serve is 6 p.m. CDT. New Albany enters 30-9; Ripley enters 17-15.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/new-albany-vs-ripley/10-8-2026/?c=36348ec2-d5ee-42d2-a78b-0671e8f732cc",
+          "excerpt": "New Albany Girls Varsity Volleyball @ Ripley New Albany Bulldogs 30-9 Thursday, Oct 8, 2026 6:00pm CDT Ripley Tigers 17-15 New Albany Girls Varsity Volleyball @ Ripley Streaming & Ticketing Purchase Tickets Game Info The New Albany varsity volleyball team has an away playoff match @ Ripley (MS) today @ 6p. Matchup Roster Game Details Thursday, Oct 8, 2026 6:00pm CDT Playoff 2026 MHSAA Volleyball Championships",
+          "subjects": [
+            "New Albany",
+            "Ripley"
+          ]
+        }
+      },
+      {
+        "id": "ripley-class",
+        "kind": "stakes",
+        "claim": "New Albany at Ripley is in the Class 4A MHSAA volleyball playoffs.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/volleyball/",
+          "excerpt": "Up Next Home Match Playoff Ripley New Albany Oct 8, 2026 @ 6:00pm Buy Tickets Preview Match PLAYOFFS Class 4A 2026 MHSAA ",
+          "subjects": [
+            "Ripley",
+            "New Albany"
+          ]
+        }
+      },
+      {
+        "id": "walnut-pregame",
+        "kind": "schedule",
+        "claim": "Myrtle visits Walnut in a varsity girls volleyball playoff on October 8, 2026. First serve is 6 p.m. CDT. Myrtle enters 22-7; Walnut enters 30-4.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/myrtle-vs-walnut/10-8-2026/?c=37715ce9-d64c-4127-895e-faa25fd8b580",
+          "excerpt": "Myrtle Girls Varsity Volleyball @ Walnut Myrtle Hawks 22-7 Thursday, Oct 8, 2026 6:00pm CDT Walnut Wildcats 30-4 Myrtle Girls Varsity Volleyball @ Walnut Streaming & Ticketing Purchase Tickets Game Info The Myrtle varsity volleyball team has an away playoff match @ Walnut (MS) today @ 6p. Matchup Roster Game Details Thursday, Oct 8, 2026 6:00pm CDT Playoff 2026 MHSAA Volleyball Championships",
+          "subjects": [
+            "Myrtle",
+            "Walnut"
+          ]
+        }
+      },
+      {
+        "id": "walnut-class",
+        "kind": "stakes",
+        "claim": "Myrtle at Walnut is in the Class 2A MHSAA volleyball playoffs.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/volleyball/",
+          "excerpt": "Up Next Home Match Playoff Walnut Myrtle Oct 8, 2026 @ 6:00pm Buy Tickets Preview Match PLAYOFFS Class 2A 2026 MHSAA ",
+          "subjects": [
+            "Walnut",
+            "Myrtle"
+          ]
+        }
+      },
+      {
+        "id": "pine-pregame",
+        "kind": "schedule",
+        "claim": "Pine Grove visits Ingomar in a varsity girls volleyball playoff on October 8, 2026. First serve is 6 p.m. CDT. Pine Grove enters 23-11; Ingomar enters 23-7.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/ingomar-new-albany-vs-pine-grove-ripley/10-8-2026/?c=0d31bd47-17b6-4bd6-849f-0996b7c99dab",
+          "excerpt": "Pine Grove Girls Varsity Volleyball @ Ingomar Pine Grove Panthers 23-11 Thursday, Oct 8, 2026 6:00pm CDT Ingomar Falcons 23-7 Pine Grove Girls Varsity Volleyball @ Ingomar Streaming & Ticketing Sign Up To Watch Purchase Tickets Game Info The Pine Grove varsity volleyball team has an away playoff match @ Ingomar (New Albany, MS) today @ 6p. Matchup Roster Game Details Thursday, Oct 8, 2026 6:00pm CDT Playoff 2026 MHSAA Volleyball Championships",
+          "subjects": [
+            "Pine Grove",
+            "Ingomar"
+          ]
+        }
+      },
+      {
+        "id": "pine-class",
+        "kind": "stakes",
+        "claim": "Pine Grove at Ingomar is in the Class 1A MHSAA volleyball playoffs.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/ripley/pine-grove-panthers/volleyball/",
+          "excerpt": "Up Next Away Match Playoff Pine Grove Ingomar Oct 8, 2026 @ 6:00pm Watch Buy Tickets Preview Match PLAYOFFS Class 1A 2026 MHSAA ",
+          "subjects": [
+            "Ingomar",
+            "Pine Grove"
+          ]
+        }
+      },
+      {
+        "id": "lewisburg-pregame",
+        "kind": "schedule",
+        "claim": "Hernando visits Lewisburg in a varsity girls volleyball playoff on October 8, 2026. First serve is 6 p.m. CDT. Hernando enters 24-13; Lewisburg enters 32-8.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/hernando-vs-lewisburg-olive-branch/10-8-2026/?c=253756ce-1233-47f8-9ab1-9fb4d1528b48",
+          "excerpt": "Hernando Girls Varsity Volleyball @ Lewisburg Hernando Tigers 24-13 Thursday, Oct 8, 2026 6:00pm CDT Lewisburg Patriots 32-8 Hernando Girls Varsity Volleyball @ Lewisburg Streaming & Ticketing Purchase Tickets Game Info The Hernando varsity volleyball team has an away playoff match @ Lewisburg (Olive Branch, MS) today @ 6p. Matchup Roster Game Details Thursday, Oct 8, 2026 6:00pm CDT Playoff 2026 MHSAA Volleyball Championships",
+          "subjects": [
+            "Hernando",
+            "Lewisburg"
+          ]
+        }
+      },
+      {
+        "id": "lewisburg-class",
+        "kind": "stakes",
+        "claim": "Hernando at Lewisburg is in the Class 7A MHSAA volleyball playoffs.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/olive-branch/lewisburg-patriots/volleyball/",
+          "excerpt": "Up Next Home Match Playoff Lewisburg Hernando Oct 8, 2026 @ 6:00pm Buy Tickets Preview Match PLAYOFFS Class 7A 2026 MHSAA ",
+          "subjects": [
+            "Lewisburg",
+            "Hernando"
+          ]
+        }
+      },
+      {
+        "id": "corinth-record",
+        "kind": "record",
+        "claim": "Corinth enters 3-2 overall and 1-0 in district play.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/corinth/corinth-warriors/football/",
+          "excerpt": "Corinth Warriors Varsity Football Corinth, MS 791 Followers 26-27 Overall 3-2 District 1-0 (1st)",
+          "subjects": [
+            "Corinth"
+          ]
+        }
+      },
+      {
+        "id": "north-pontotoc-record",
+        "kind": "record",
+        "claim": "North Pontotoc enters 2-4 overall and 0-1 in district play.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/ecru/north-pontotoc-vikings/football/",
+          "excerpt": "North Pontotoc Vikings Varsity Football Ecru, MS 626 Followers 26-27 Overall 2-4 District 0-1 (3rd)",
+          "subjects": [
+            "North Pontotoc"
+          ]
+        }
+      },
+      {
+        "id": "falkner-game-record",
+        "kind": "record",
+        "claim": "Falkner enters 2-3; Riverside enters 0-6.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/falkner-vs-riverside-avon/10-8-2026/?c=1da7e214-446d-4b2c-a437-9b9f25d1cfc2",
+          "excerpt": "Falkner Eagles 2-3 Thursday, Oct 8, 2026 7:00pm CDT Riverside Bulldogs 0-6 ",
+          "subjects": [
+            "Falkner"
+          ]
+        }
+      },
+      {
+        "id": "falkner-road",
+        "kind": "record",
+        "claim": "Falkner is 2-0 at home and 0-3 away entering its nonconference visit to Riverside.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/falkner/falkner-eagles/football/schedule/",
+          "excerpt": "Falkner Football Schedule 2026-27 Overall 2-3 0.400 Win Pct District 0-0 1st 1A Region 2 Home 2-0 Away 0-3 Neutral 0-0 PF 100 PA 151 Streak 1L",
+          "subjects": [
+            "Falkner"
+          ]
+        }
+      },
+      {
+        "id": "falkner-nonconference",
+        "kind": "stakes",
+        "claim": "Falkner at Riverside is a non-conference game in Avon, Mississippi.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/falkner-vs-riverside-avon/10-8-2026/?c=1da7e214-446d-4b2c-a437-9b9f25d1cfc2",
+          "excerpt": "The Falkner varsity football team has an away non-conference game @ Riverside (Avon, MS) today @ 7p.",
+          "subjects": [
+            "Falkner",
+            "Riverside"
+          ]
+        }
+      },
+      {
+        "id": "kossuth-streak",
+        "kind": "context",
+        "claim": "Kossuth has won 20 consecutive matches, swept both September meetings with Alcorn Central and enters unbeaten in eight district matches. Alcorn Central swept its first two playoff opponents. Their quarterfinal winner earns a Class 3A semifinal berth.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://alcornsportsms.com/2026/10/08/central-gets-third-shot-at-kossuth-with-semifinal-berth-at-stake/",
+          "excerpt": "Alcorn Central has another chance to solve Kossuth, and this time a place in the Class 3A volleyball semifinals rides on the answer. The county opponents meet Thursday, October 8, at Kossuth High School, with the updated MHSAA bracket listing a 5:30 p.m. start. All times here are Central. Kossuth, 28â4 overall and unbeaten in eight district matches, swept both September meetings with Central. The Aggies bring 20 consecutive wins into the quarterfinal; the Lady Bears, 12â19, have swept their first two playoff opponents. Thursdayâs winner advances to face Belmont or Booneville on October 12. Kossuthâs ticket listing confirms the home venue.",
+          "subjects": [
+            "Kossuth",
+            "Alcorn Central"
+          ]
+        }
+      },
+      {
+        "id": "ripley-rematch",
+        "kind": "context",
+        "claim": "Ripley was swept in its August meeting with New Albany and enters this home playoff match with four consecutive wins.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://tippahsports.com/blue-mountain/ripley-gets-new-albany-rematch-as-three-tippah-volleyball-teams-pursue-playoff-wins/",
+          "excerpt": "Ripley gets another chance at New Albany on Thursday, this time with its volleyball postseason at stake. The Lady Tigers, swept in their August meeting, bring four consecutive victories into a 6 p.m. home match that shares the countyâs playoff spotlight with Walnut and Pine Grove.",
+          "subjects": [
+            "Ripley",
+            "New Albany"
+          ]
+        }
+      },
+      {
+        "id": "tippah-streaks",
+        "kind": "context",
+        "claim": "Walnut enters with 11 straight wins. Pine Grove was swept in its August meeting with Ingomar.",
+        "game_indexes": [
+          2,
+          3
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://tippahsports.com/blue-mountain/ripley-gets-new-albany-rematch-as-three-tippah-volleyball-teams-pursue-playoff-wins/",
+          "excerpt": "Ripley stands 17â15. Walnut , 30â4 with 11 straight wins, hosts Myrtle at 6 p.m. Oct. 8, while 23â11 Pine Grove visits Ingomar at the same hour. Ingomar swept their August meeting, too.",
+          "subjects": [
+            "Walnut",
+            "Pine Grove",
+            "Ingomar"
+          ]
+        }
+      },
+      {
+        "id": "hernando-survival",
+        "kind": "context",
+        "claim": "Hernando advanced after its two-set lead disappeared at Oxford; the Tigers won the deciding set 15-9 and emerged 24-13.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-10-06/",
+          "excerpt": "Hernando won the opening sets 25-21 and 25-16 before Oxford responded 25-21 and 25-23. With the match back level, the visiting Tigers took the deciding set 15-9. The result left Hernando at 24-13 and Oxford at 26-12, a sharp finish to a match in which the home team erased a two-set deficit but could not complete the turnaround.",
+          "subjects": [
+            "Hernando",
+            "Oxford"
+          ]
+        }
+      },
+      {
+        "id": "kossuth-last-result",
+        "kind": "context",
+        "claim": "Kossuth advanced with a 3-0 home playoff win against Nettleton.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-10-06/",
+          "excerpt": "Kossuth gave Nettleton little room in a 3-0 home playoff win. The Aggies won 25-9, 25-13 and 25-12. Kossuth’s reported record moved to 28-4; Nettleton’s was 12-17. It was a decisive finish to one of the matches featured in Tuesday’s Games To Watch .",
+          "subjects": [
+            "Kossuth",
+            "Nettleton"
+          ]
+        }
+      },
+      {
+        "id": "lewisburg-sweep",
+        "kind": "context",
+        "claim": "Lewisburg advanced with a sweep of visiting Starkville.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://desotocountynews.com/desoto-county-sports/desoto-county-sports-2026-10-07/",
+          "excerpt": "Lewisburg beat visiting Starkville 3â0.",
+          "subjects": [
+            "Lewisburg",
+            "Starkville"
+          ]
+        }
+      }
+    ]
+  }
+}
