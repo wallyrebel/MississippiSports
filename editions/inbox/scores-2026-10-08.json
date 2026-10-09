@@ -1,0 +1,373 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-10-08",
+  "verified_at": "2026-10-09T13:13:19.004205+00:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "volleyball",
+    "cross country",
+    "golf",
+    "swimming",
+    "soccer",
+    "softball"
+  ],
+  "games": [
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-08",
+      "home": "Kossuth",
+      "away": "Alcorn Central",
+      "status": "final",
+      "home_score": 3,
+      "away_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/alcorn-central-glen-vs-kossuth/10-8-2026/?c=414e4b82-cf9b-4b75-905f-5237e72ee167",
+        "excerpt": "High School Volleyball Mississippi High School Volleyball Alcorn Central Girls Varsity Volleyball @ Kossuth Alcorn Central 12-20 Golden Bears 0 Final 3 Kossuth 29-4 Aggies Alcorn Central Girls Varsity Volleyball @ Kossuth Game Info On 10/8, the Alcorn Central varsity volleyball team lost their away playoff match against Kossuth (MS) by a score of 3-0. Recap Matchup Roster Boxscore S1 S2 S3 Wins Alcorn Central 12 14 10 0 Kossuth 25 25 25 3 Final score provided by C. Hatcher Mississippi High School Volleyball - Kossuth over Alcorn Central Fans at Thursday's non-league contest between the Kossuth Aggies (Kossuth, MS) and the visiting Alcorn Central Golden Bears (Glen, MS), observed Kossuth's volleyball team top Alcorn Central by a count of 3-0. October 8, 2026",
+        "date_excerpt": "October 8, 2026",
+        "home_name": "Kossuth",
+        "away_name": "Alcorn Central"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-08",
+      "home": "Ripley",
+      "away": "New Albany",
+      "status": "final",
+      "home_score": 0,
+      "away_score": 3,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/new-albany-vs-ripley/10-8-2026/?c=36348ec2-d5ee-42d2-a78b-0671e8f732cc",
+        "excerpt": "High School Volleyball Mississippi High School Volleyball New Albany Girls Varsity Volleyball @ Ripley New Albany 31-9 Bulldogs 3 Final 0 Ripley 17-16 Tigers New Albany Girls Varsity Volleyball @ Ripley Game Info On 10/8, the New Albany varsity volleyball team won their away playoff match against Ripley (MS) by a score of 3-0. Recap Matchup Roster Boxscore S1 S2 S3 Wins New Albany 25 25 25 3 Ripley 10 22 18 0 Final score provided by A. Bright Mississippi High School Volleyball - Ripley overwhelmed by New Albany The New Albany Bulldogs topped the host Ripley Tigers volleyball squad by a final score of 3-0 in Thursday's non-league game. Next up, the Bulldogs confront the Mooreville Troopers (Mooreville, MS) in a non-league game, on Monday, October 12. New Albany will attempt to advance on its 31-9 season record. The Troopers go into the game with a 21-6 record after their 3-1 non-league win over Tishomingo County (Iuka, MS). October 8, 2026",
+        "date_excerpt": "October 8, 2026",
+        "home_name": "Ripley",
+        "away_name": "New Albany"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-08",
+      "home": "Walnut",
+      "away": "Myrtle",
+      "status": "final",
+      "home_score": 3,
+      "away_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/myrtle-vs-walnut/10-8-2026/?c=37715ce9-d64c-4127-895e-faa25fd8b580",
+        "excerpt": "High School Volleyball Mississippi High School Volleyball Myrtle Girls Varsity Volleyball @ Walnut Myrtle 22-8 Hawks 0 Final 3 Walnut 31-4 Wildcats Myrtle Girls Varsity Volleyball @ Walnut Game Info On 10/8, the Myrtle varsity volleyball team lost their away playoff match against Walnut (MS) by a score of 3-0. Recap Matchup Roster Boxscore S1 S2 S3 Wins Myrtle 0 0 0 0 Walnut 1 1 1 3 Final score provided by K. Hopper Mississippi High School Volleyball - Walnut over Myrtle In Thursday's non-league challenge, the host Walnut Wildcats volleyball team scored a 3-0 victory over the Myrtle Hawks. The Wildcats (31-4) will now prepare for their challenge against East Union (Blue Springs, MS). The Urchins enter the non-league challenge with a 36-0 record. In their last challenge, East Union beat Hatley (Amory, MS), 3-0, in a non-league challenge. October 8, 2026",
+        "date_excerpt": "October 8, 2026",
+        "home_name": "Walnut",
+        "away_name": "Myrtle"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-08",
+      "home": "Ingomar",
+      "away": "Pine Grove",
+      "status": "final",
+      "home_score": 3,
+      "away_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/ingomar-new-albany-vs-pine-grove-ripley/10-8-2026/?c=0d31bd47-17b6-4bd6-849f-0996b7c99dab",
+        "excerpt": "High School Volleyball Mississippi High School Volleyball Pine Grove Girls Varsity Volleyball @ Ingomar Pine Grove 23-12 Panthers 0 Final 3 Ingomar 24-7 Falcons Pine Grove Girls Varsity Volleyball @ Ingomar Streaming & Ticketing Watch Recap Game Info On 10/8, the Pine Grove varsity volleyball team lost their away playoff match against Ingomar (New Albany, MS) by a score of 3-0. Recap Matchup Roster Fan Chat Boxscore S1 S2 S3 Wins Pine Grove 20 18 22 0 Ingomar 25 25 25 3 Final score provided by A. Wilbanks Mississippi High School Volleyball - Ingomar over Pine Grove The Ingomar Falcons (New Albany, MS) volleyball knocked off the visiting Pine Grove Panthers (Ripley, MS), 3-0 in Thursday's non-league bout. The Falcons now possess a 24-7 record. With the loss, Pine Grove drops to 23-12 on the campaign. October 8, 2026",
+        "date_excerpt": "October 8, 2026",
+        "home_name": "Ingomar",
+        "away_name": "Pine Grove"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-08",
+      "home": "Center Hill",
+      "away": "Saltillo",
+      "status": "final",
+      "home_score": 3,
+      "away_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/center-hill-olive-branch-vs-saltillo/10-8-2026/?c=832d7506-300c-4935-9b85-5beed02b9c6e",
+        "excerpt": "High School Volleyball Mississippi High School Volleyball Saltillo Girls Varsity Volleyball @ Center Hill Saltillo 11-13 Tigers 0 Final 3 Center Hill 16-11 Mustangs Saltillo Girls Varsity Volleyball @ Center Hill Game Info On 10/8, the Saltillo varsity volleyball team lost their away playoff match against Center Hill (Olive Branch, MS) by a score of 3-0. Recap Matchup Roster Boxscore S1 S2 S3 Wins Saltillo 10 20 23 0 Center Hill 25 25 25 3 Final score provided by T. Shivley Mississippi High School Volleyball - Center Hill over Saltillo Fans at Thursday's non-league contest between the Center Hill Mustangs (Olive Branch, MS) and the visiting Saltillo Tigers (Saltillo, MS), observed Center Hill's volleyball team top Saltillo by a count of 3-0. October 8, 2026",
+        "date_excerpt": "October 8, 2026",
+        "home_name": "Center Hill",
+        "away_name": "Saltillo"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-08",
+      "home": "Germantown",
+      "away": "DeSoto Central",
+      "status": "final",
+      "home_score": 3,
+      "away_score": 1,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/desoto-central-southaven-vs-germantown-madison/10-8-2026/?c=617da154-3ac7-443e-9f4d-3fdb0295d600",
+        "excerpt": "High School Volleyball Mississippi High School Volleyball DeSoto Central Girls Varsity Volleyball @ Germantown DeSoto Central 18-18 Jaguars 1 Final 3 Germantown 28-8 Mavericks DeSoto Central Girls Varsity Volleyball @ Germantown Game Info On 10/8, the DeSoto Central varsity volleyball team lost their away playoff match against Germantown (Madison, MS) by a score of 3-1. Recap Stats Matchup Roster Boxscore S1 S2 S3 S4 Wins DeSoto Central 22 25 21 18 1 Germantown 25 22 25 25 3 Final score provided by R. Sharpe Mississippi High School Volleyball - Germantown over DeSoto Central The Germantown Mavericks (Madison, MS) volleyball knocked off the visiting DeSoto Central Jaguars (Southaven, MS), 3-1 in Thursday's non-league bout. The Mavericks now possess a 28-8 record. With the loss, DeSoto Central drops to 18-18 on the campaign. October 8, 2026",
+        "date_excerpt": "October 8, 2026",
+        "home_name": "Germantown",
+        "away_name": "DeSoto Central"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-08",
+      "home": "Wayne County",
+      "away": "Stone",
+      "status": "final",
+      "home_score": 47,
+      "away_score": 28,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/stone-wiggins-vs-wayne-county-war-eagleslady-war-eagles-waynesboro/10-8-2026/?c=67299316-0df3-454b-b770-eb738dd5c2a1",
+        "excerpt": "High School Football Mississippi High School Football Stone Varsity Football @ Wayne County Stone 3-3 Tomcats 28 Final 47 Wayne County 2-4 War Eagles Stone Varsity Football @ Wayne County Game Info On 10/8, the Stone varsity football team lost their away conference game against Wayne County (Waynesboro, MS) by a score of 47-28. Recap Scoretracker Matchup Roster Boxscore Q1 Q2 Q3 Q4 Final Stone 7 7 0 14 28 Wayne County 7 13 21 6 47 Final score provided by B. Meyers Mississippi High School Football - Stone knocked off by Wayne County In Thursday's league game, the Wayne County War Eagles (Waynesboro, MS) football team overcame the visiting Stone Tomcats (Wiggins, MS), by a tally of 47-28. In their next game, the War Eagles battle the Vancleave Bulldogs (Vancleave, MS) in a 5A Region 4 game, on Friday, October 16. Wayne County will attempt to better on its 2-4 season record. The Bulldogs enter the game with a 2-4 record after their 31-21 league loss to Northeast Jones (Laurel, MS). The Tomcats (3-3) will now prepare for their game against Purvis (Purvis, MS). The Tornadoes enter the 5A Region 4 game with a 1-5 record. In their last game, Purvis fell by East Central (Moss Point, MS), 55-30, in a league game. October 8, 2026",
+        "date_excerpt": "October 8, 2026",
+        "home_name": "Wayne County",
+        "away_name": "Stone"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-10-06/",
+      "title": "Scores from last Night: Hernando survives Oxford comeback; Walnut reaches 30 wins"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Scores from last Night: Walnut and Kossuth sweep playoff tests; Wayne County beats Stone",
+    "headline_fact_ids": [
+      "game-0",
+      "game-2",
+      "game-6"
+    ],
+    "html": "<p data-facts=\"game-0 game-1 game-2 game-3 game-4 game-5 game-6\">Walnut, Kossuth and New Albany each swept a girls varsity volleyball playoff opponent Thursday, October 8, 2026, while Germantown worked through a split of the opening sets to beat DeSoto Central. On the football field, Wayne County's third-quarter scoring helped the War Eagles defeat Stone 47-28. These are selected, source-confirmed Mississippi varsity results from the night.</p>\n<h2 data-facts=\"game-0 game-1 game-2 game-3\">Girls volleyball: Walnut and Kossuth win local playoff matchups</h2>\n<p data-facts=\"game-2 walnut-records walnut-next\"><a href=\"https://www.maxpreps.com/ms/volleyball/match/myrtle-vs-walnut/10-8-2026/?c=37715ce9-d64c-4127-895e-faa25fd8b580\">Walnut</a> beat visiting Myrtle 3-0 to reach 31-4, leaving the Hawks at 22-8. The Wildcats' next listed opponent is East Union, which MaxPreps reports at 36-0. That gives Walnut a demanding follow-up to Thursday's sweep: its next postseason test comes against an opponent with an unbeaten reported record.</p>\n<p data-facts=\"game-0 kossuth-records\"><a href=\"https://www.maxpreps.com/ms/volleyball/match/alcorn-central-glen-vs-kossuth/10-8-2026/?c=414e4b82-cf9b-4b75-905f-5237e72ee167\">Kossuth</a> also settled its playoff matchup in straight sets, defeating visiting Alcorn Central 3-0. The Aggies came out of the match at 29-4, while the Golden Bears stood at 12-20.</p>\n<p data-facts=\"game-1 albany-records albany-next\"><a href=\"https://www.maxpreps.com/ms/volleyball/match/new-albany-vs-ripley/10-8-2026/?c=36348ec2-d5ee-42d2-a78b-0671e8f732cc\">New Albany</a> won 3-0 at Ripley, lifting the Bulldogs to 31-9 and leaving the Tigers at 17-16. MaxPreps lists Mooreville as New Albany's next opponent on Monday, October 12.</p>\n<p data-facts=\"game-3 ingomar-records\"><a href=\"https://www.maxpreps.com/ms/volleyball/match/ingomar-new-albany-vs-pine-grove-ripley/10-8-2026/?c=0d31bd47-17b6-4bd6-849f-0996b7c99dab\">Ingomar</a> completed another home sweep, beating Pine Grove 3-0. The Falcons finished the match at 24-7; the Panthers finished at 23-12.</p>\n<h2 data-facts=\"game-4 game-5\">Girls volleyball: Center Hill sweeps, Germantown wins in four</h2>\n<p data-facts=\"game-4 center-records\"><a href=\"https://www.maxpreps.com/ms/volleyball/match/center-hill-olive-branch-vs-saltillo/10-8-2026/?c=832d7506-300c-4935-9b85-5beed02b9c6e\">Center Hill</a> defeated visiting Saltillo 3-0 in their playoff match. The Mustangs' postgame record was 16-11, with Saltillo at 11-13.</p>\n<p data-facts=\"game-5 germantown-records germantown-sets\"><a href=\"https://www.maxpreps.com/ms/volleyball/match/desoto-central-southaven-vs-germantown-madison/10-8-2026/?c=617da154-3ac7-443e-9f4d-3fdb0295d600\">Germantown</a> had a longer finish against DeSoto Central. The Mavericks took the opening set 25-22, but the Jaguars answered with a 25-22 second set. Germantown then won 25-21 and 25-18 to secure the 3-1 playoff victory at home. The result left the Mavericks at 28-8 and DeSoto Central at 18-18.</p>\n<p data-facts=\"game-2 game-5\">Read more about Walnut and DeSoto Central in our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-10-06/\">recent volleyball coverage, including Walnut and DeSoto Central</a>.</p>\n<h2 data-facts=\"game-6\">Boys football: Wayne County separates from Stone</h2>\n<p data-facts=\"game-6 wayne-third stone-fourth wayne-records\"><a href=\"https://www.maxpreps.com/ms/football/game/stone-wiggins-vs-wayne-county-war-eagleslady-war-eagles-waynesboro/10-8-2026/?c=67299316-0df3-454b-b770-eb738dd5c2a1\">Wayne County</a> beat visiting Stone 47-28 in a conference game in Waynesboro. The decisive scoring stretch came in the third quarter, when the War Eagles scored 21 points and the Tomcats scored none. Stone scored 14 in the fourth, but Wayne County finished with the victory. The reported postgame records were 2-4 for Wayne County and 3-3 for Stone.</p>",
+    "facts": [
+      {
+        "id": "kossuth-records",
+        "kind": "record",
+        "claim": "Kossuth finished the match 29-4; Alcorn Central finished 12-20.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/alcorn-central-glen-vs-kossuth/10-8-2026/?c=414e4b82-cf9b-4b75-905f-5237e72ee167",
+          "excerpt": "Alcorn Central 12-20 Golden Bears 0 Final 3 Kossuth 29-4 Aggies",
+          "subjects": [
+            "Kossuth",
+            "Alcorn Central"
+          ]
+        }
+      },
+      {
+        "id": "albany-records",
+        "kind": "record",
+        "claim": "New Albany finished the match 31-9; Ripley finished 17-16.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/new-albany-vs-ripley/10-8-2026/?c=36348ec2-d5ee-42d2-a78b-0671e8f732cc",
+          "excerpt": "New Albany 31-9 Bulldogs 3 Final 0 Ripley 17-16 Tigers",
+          "subjects": [
+            "New Albany",
+            "Ripley"
+          ]
+        }
+      },
+      {
+        "id": "albany-next",
+        "kind": "schedule",
+        "claim": "New Albany next faces Mooreville on Monday, October 12.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/new-albany-vs-ripley/10-8-2026/?c=36348ec2-d5ee-42d2-a78b-0671e8f732cc",
+          "excerpt": "Next up, the Bulldogs confront the Mooreville Troopers (Mooreville, MS) in a non-league game, on Monday, October 12. New Albany will attempt to advance on its 31-9 season record.",
+          "subjects": [
+            "New Albany",
+            "Mooreville"
+          ]
+        }
+      },
+      {
+        "id": "walnut-records",
+        "kind": "record",
+        "claim": "Walnut finished the match 31-4; Myrtle finished 22-8.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/myrtle-vs-walnut/10-8-2026/?c=37715ce9-d64c-4127-895e-faa25fd8b580",
+          "excerpt": "Myrtle 22-8 Hawks 0 Final 3 Walnut 31-4 Wildcats",
+          "subjects": [
+            "Walnut",
+            "Myrtle"
+          ]
+        }
+      },
+      {
+        "id": "walnut-next",
+        "kind": "schedule",
+        "claim": "Walnut next faces East Union, whose reported record is 36-0.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/myrtle-vs-walnut/10-8-2026/?c=37715ce9-d64c-4127-895e-faa25fd8b580",
+          "excerpt": "The Wildcats (31-4) will now prepare for their challenge against East Union (Blue Springs, MS). The Urchins enter the non-league challenge with a 36-0 record.",
+          "subjects": [
+            "Wildcats",
+            "East Union"
+          ]
+        }
+      },
+      {
+        "id": "ingomar-records",
+        "kind": "record",
+        "claim": "Ingomar finished 24-7; Pine Grove finished 23-12.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/ingomar-new-albany-vs-pine-grove-ripley/10-8-2026/?c=0d31bd47-17b6-4bd6-849f-0996b7c99dab",
+          "excerpt": "Pine Grove 23-12 Panthers 0 Final 3 Ingomar 24-7 Falcons",
+          "subjects": [
+            "Ingomar",
+            "Pine Grove"
+          ]
+        }
+      },
+      {
+        "id": "center-records",
+        "kind": "record",
+        "claim": "Center Hill finished 16-11; Saltillo finished 11-13.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/center-hill-olive-branch-vs-saltillo/10-8-2026/?c=832d7506-300c-4935-9b85-5beed02b9c6e",
+          "excerpt": "Saltillo 11-13 Tigers 0 Final 3 Center Hill 16-11 Mustangs",
+          "subjects": [
+            "Saltillo",
+            "Center Hill"
+          ]
+        }
+      },
+      {
+        "id": "germantown-records",
+        "kind": "record",
+        "claim": "Germantown finished 28-8; DeSoto Central finished 18-18.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/desoto-central-southaven-vs-germantown-madison/10-8-2026/?c=617da154-3ac7-443e-9f4d-3fdb0295d600",
+          "excerpt": "DeSoto Central 18-18 Jaguars 1 Final 3 Germantown 28-8 Mavericks",
+          "subjects": [
+            "DeSoto Central",
+            "Germantown"
+          ]
+        }
+      },
+      {
+        "id": "germantown-sets",
+        "kind": "result",
+        "claim": "Germantown won the opening set 25-22, DeSoto Central won the second 25-22, and Germantown won the final two 25-21 and 25-18.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/desoto-central-southaven-vs-germantown-madison/10-8-2026/?c=617da154-3ac7-443e-9f4d-3fdb0295d600",
+          "excerpt": "Boxscore S1 S2 S3 S4 Wins DeSoto Central 22 25 21 18 1 Germantown 25 22 25 25 3",
+          "subjects": [
+            "DeSoto Central",
+            "Germantown"
+          ]
+        }
+      },
+      {
+        "id": "wayne-third",
+        "kind": "result",
+        "claim": "Wayne County scored 21 points in the third quarter while Stone scored 0.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/stone-wiggins-vs-wayne-county-war-eagleslady-war-eagles-waynesboro/10-8-2026/?c=67299316-0df3-454b-b770-eb738dd5c2a1",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Stone 7 7 0 14 28 Wayne County 7 13 21 6 47",
+          "subjects": [
+            "Stone",
+            "Wayne County"
+          ]
+        }
+      },
+      {
+        "id": "wayne-records",
+        "kind": "record",
+        "claim": "Wayne County finished 2-4; Stone finished 3-3.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/stone-wiggins-vs-wayne-county-war-eagleslady-war-eagles-waynesboro/10-8-2026/?c=67299316-0df3-454b-b770-eb738dd5c2a1",
+          "excerpt": "Stone 3-3 Tomcats 28 Final 47 Wayne County 2-4 War Eagles",
+          "subjects": [
+            "Stone",
+            "Wayne County"
+          ]
+        }
+      },
+      {
+        "id": "stone-fourth",
+        "kind": "result",
+        "claim": "Stone scored 14 points in the fourth quarter.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-08",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/stone-wiggins-vs-wayne-county-war-eagleslady-war-eagles-waynesboro/10-8-2026/?c=67299316-0df3-454b-b770-eb738dd5c2a1",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Stone 7 7 0 14 28 Wayne County 7 13 21 6 47",
+          "subjects": [
+            "Stone",
+            "Wayne County"
+          ]
+        }
+      }
+    ]
+  }
+}
