@@ -1,0 +1,373 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-10-09",
+  "verified_at": "2026-10-09T15:11:21-05:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "volleyball",
+    "cross country",
+    "swimming",
+    "golf"
+  ],
+  "games": [
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-09",
+      "home": "Kosciusko",
+      "away": "Louisville",
+      "status": "scheduled",
+      "start_time": "2026-10-09T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/kosciusko-vs-louisville/10-9-2026/?c=44cf09e3-22b7-4378-b5d6-627f22dbd39a",
+        "excerpt": "Louisville vs Kosciusko | Football | 10/09/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Football Mississippi High School Football Louisville Varsity Football @ Kosciusko Louisville Wildcats 4-2 Friday, Oct 9, 2026 7:00pm CDT Kosciusko Whippets 6-0 Louisville Varsity Football @ Kosciusko Streaming & Ticketing Purchase Tickets Game Info The Louisville varsity football team has an away conference game @  Kosciusko (MS) today @ 7p.",
+        "date_excerpt": "10/09/2026",
+        "home_name": "Kosciusko",
+        "away_name": "Louisville",
+        "time_excerpt": "7:00pm CDT"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-09",
+      "home": "Southaven",
+      "away": "Tupelo",
+      "status": "scheduled",
+      "start_time": "2026-10-09T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/southaven-vs-tupelo/10-9-2026/?c=f62a6e42-3f00-47aa-9b92-e94957f2259b",
+        "excerpt": "Tupelo vs Southaven | Football | 10/09/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Football Mississippi High School Football Tupelo Varsity Football @ Southaven Tupelo Golden Wave 6-0 Friday, Oct 9, 2026 7:00pm CDT Southaven Chargers 1-3 Tupelo Varsity Football @ Southaven Streaming & Ticketing Purchase Tickets Game Info The Tupelo varsity football team has an away conference game @  Southaven (MS) today @ 7p.",
+        "date_excerpt": "10/09/2026",
+        "home_name": "Southaven",
+        "away_name": "Tupelo",
+        "time_excerpt": "7:00pm CDT"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-09",
+      "home": "Starkville",
+      "away": "Germantown (Madison)",
+      "status": "scheduled",
+      "start_time": "2026-10-09T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/germantown-madison-vs-starkville/10-9-2026/?c=1b6353e7-f5b2-42fa-b1f9-5239f6af0be9",
+        "excerpt": "Germantown vs Starkville | Football | 10/09/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Football Mississippi High School Football Germantown Varsity Football @ Starkville Germantown Mavericks 3-2 Friday, Oct 9, 2026 7:00pm CDT Starkville Yellowjackets 4-1 Germantown Varsity Football @ Starkville Streaming & Ticketing Purchase Tickets Game Info The Germantown varsity football team has an away conference game @  Starkville (MS) today @ 7p.",
+        "date_excerpt": "10/09/2026",
+        "home_name": "Starkville",
+        "away_name": "Germantown",
+        "time_excerpt": "7:00pm CDT"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-09",
+      "home": "New Albany",
+      "away": "Ripley",
+      "status": "scheduled",
+      "start_time": "2026-10-09T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/new-albany-vs-ripley/10-9-2026/?c=1355113c-4b23-4bd8-a7af-1b266a013f48",
+        "excerpt": "Ripley vs New Albany | Football | 10/09/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Football Mississippi High School Football Ripley Varsity Football @ New Albany Ripley Tigers 1-5 Friday, Oct 9, 2026 7:00pm CDT New Albany Bulldogs 3-2 Ripley Varsity Football @ New Albany Streaming & Ticketing Purchase Tickets Game Info The Ripley varsity football team has an away non-conference game @  New Albany (MS) today @ 7p.",
+        "date_excerpt": "10/09/2026",
+        "home_name": "New Albany",
+        "away_name": "Ripley",
+        "time_excerpt": "7:00pm CDT"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-09",
+      "home": "Walnut",
+      "away": "Biggersville",
+      "status": "scheduled",
+      "start_time": "2026-10-09T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-walnut/10-9-2026/?c=492ff063-2fe3-4b42-990c-d7e0794c4fa5",
+        "excerpt": "Biggersville vs Walnut | Football | 10/09/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Football Mississippi High School Football Biggersville Varsity Football @ Walnut Biggersville Lions 1-5 Friday, Oct 9, 2026 7:00pm CDT Walnut Wildcats 3-3 Biggersville Varsity Football @ Walnut Game Info The Biggersville varsity football team has an away non-conference game @  Walnut (MS) today @ 7p.",
+        "date_excerpt": "10/09/2026",
+        "home_name": "Walnut",
+        "away_name": "Biggersville",
+        "time_excerpt": "7:00pm CDT"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/prep-sports/sportsms-scores-2026-10-02/",
+      "title": "Previous Friday-night reporting: Tupelo and other unbeaten teams"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: Louisville visits unbeaten Kosciusko; Tupelo opens district play",
+    "headline_fact_ids": [
+      "game-0",
+      "kosciusko-records",
+      "game-1",
+      "tupelo-stakes"
+    ],
+    "html": "<p data-facts=\"game-0 kosciusko-records kosciusko-stakes game-1 tupelo-records tupelo-stakes game-2 game-3 game-4\">Kosciusko has protected a perfect record through six games. Friday brings a different measure of that start: a home district meeting with Louisville, with both teams arriving 1-0 in league play. That matchup leads our October 9, 2026 Games To Watch selection, alongside unbeaten Tupelo\u2019s district opener at Southaven. All five selected football games are scheduled for 7 p.m. CDT.</p>\n<h2 data-facts=\"game-0 kosciusko-records kosciusko-stakes\">Louisville at Kosciusko: unbeaten start meets a district test</h2>\n<p data-facts=\"game-0 kosciusko-records kosciusko-stakes\">The Whippets enter 6-0, while the visiting Wildcats are 4-2. The overall records favor Kosciusko, but the district records put them on equal footing. Each already has a league victory; their meeting offers an early chance to separate from a fellow district winner. Kosciusko\u2019s perfect start and Louisville\u2019s opportunity to disrupt it give this game stakes beyond the overall standings.</p>\n<h2 data-facts=\"game-1 tupelo-records tupelo-stakes\">Tupelo at Southaven: a perfect record enters league play</h2>\n<p data-facts=\"game-1 tupelo-records tupelo-stakes\">Tupelo takes a 6-0 record to Southaven, which enters 1-3. Both teams are 0-0 in district play, making this the point where the Golden Wave\u2019s unbeaten start begins to carry league consequences. Southaven\u2019s difficult overall start has yet to cost it a district game; Tupelo\u2019s six victories have yet to give it a league advantage. Our <a href=\"https://sportsmississippi.com/prep-sports/sportsms-scores-2026-10-02/\">previous Friday-night reporting</a> provides more background on the Golden Wave\u2019s season.</p>\n<h2 data-facts=\"game-2 starkville-records starkville-stakes starkville-recent-result\">Germantown at Starkville: a district opener after a setback</h2>\n<p data-facts=\"game-2 starkville-records starkville-stakes starkville-recent-result\">Starkville enters 4-1 after a 38-31 loss to Brandon on September 25. The Yellowjackets now welcome a 3-2 Germantown team from Madison, with both teams starting district play at 0-0. Starkville\u2019s first league test therefore doubles as an opportunity to respond to that defeat, while Germantown opens its district schedule against a host that has lost only once.</p>\n<h2 data-facts=\"game-3 ripley-records ripley-stakes game-4 walnut-records walnut-stakes\">Non-district tests for Ripley and Walnut</h2>\n<p data-facts=\"game-3 ripley-records ripley-stakes ripley-form ripley-recent-result\">Ripley travels to New Albany at 1-5, carrying a five-game losing streak that includes a 22-10 defeat to Clarksdale on October 2. The 3-2 Bulldogs give the Tigers another opponent with a winning record. This meeting is non-district: Ripley\u2019s immediate task is to interrupt that slide, rather than change its league standing.</p>\n<p data-facts=\"game-4 walnut-records walnut-stakes walnut-recent-result\">Walnut, meanwhile, hosts Biggersville after beating Ashland 36-14 on October 2. That victory left the Wildcats at 3-3 entering this non-district matchup against the 1-5 Lions. Walnut can build on a winning result at home, while Biggersville arrives looking to improve a difficult overall start.</p>\n<p data-facts=\"game-0 game-1 game-2 game-3 game-4\">These are scheduled starts; check school announcements for late changes before traveling. This selection covers football games whose date, kickoff and team information could be verified. Volleyball, cross country, swimming and golf were also checked, but no additional event met those verification requirements before publication.</p>",
+    "facts": [
+      {
+        "id": "kosciusko-records",
+        "kind": "record",
+        "claim": "Louisville enters 4-2 overall and Kosciusko enters 6-0 overall.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/kosciusko-vs-louisville/10-9-2026/?c=44cf09e3-22b7-4378-b5d6-627f22dbd39a",
+          "excerpt": "High School Football Mississippi High School Football Louisville Varsity Football @ Kosciusko Louisville Wildcats 4-2 Friday, Oct 9, 2026 7:00pm CDT Kosciusko Whippets 6-0 Louisville Varsity Football @ Kosciusko Streaming & Ticketing Purchase Tickets Game Info The Louisville varsity football team has an away conference game @  Kosciusko (MS) today @ 7p.",
+          "subjects": [
+            "Louisville",
+            "Kosciusko"
+          ]
+        }
+      },
+      {
+        "id": "kosciusko-stakes",
+        "kind": "stakes",
+        "claim": "Louisville visits Kosciusko in a district game; both enter 1-0 in district play.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/kosciusko-vs-louisville/10-9-2026/?c=44cf09e3-22b7-4378-b5d6-627f22dbd39a",
+          "excerpt": "Game Info The Louisville varsity football team has an away conference game @  Kosciusko (MS) today @ 7p. Scorekeeper No Scorekeeper J. Shannon LHS Scorekeeper Matchup Roster Game Details Friday, Oct 9, 2026 7:00pm CDT District Louisville Team Videos 1:09 2026 Preseason MaxPreps Junior All-America Football Team 3:22 09/4 Highlights vs Shannon 3:32 09/11 Highlights vs John Curtis Team Comparison Louisville 285.5 Rushing Yards/G Kosciusko 226.7 Louisville 45.7 Passing Yards/G Kosciusko 267.7 Louisville 45.7 Receiving Yards/G Kosciusko 267.8 Louisville 331.2 Total Yards/G Kosciusko 494.3 Louisville 63.2 Tackles/G Kosciusko 58.3 Louisville 2.2 Sacks/G Kosciusko 1.3 Louisville 1.5 Points/G Kosciusko 52.0 Louisville 61 Pancake Blocks Kosciusko 10 Key Players Avg. Per Game Zaiden Jernigan #8 WR/RB Rushing Yards 99.5 111.8 Cj Sandifer #4 RB/OLB Terrance Jackson #13 QB Passing Yards 61.0 267.7 Caiden Wade #1 QB Kentrell Haynes #2 WR Receiving Yards 12.2 120.2 Jontavious Roundtree #2 WR/CB Trey Tippett #5 WR/FS Total Yards 117.0 322.5 Caiden Wade #1 QB Lacorien Turnipseed #11 LB Tackles 10.8 7.2 Jackson Schuler #14 WR/SB Jekerrien Carter #35 DL/TE Sacks 1.5 1.0 Anthony Harris #52 NG Kirby McCullough #43 K/P Points 1.8 10.7 Caiden Wade #1 QB Cory Brock #67 G/NG Pancake Blocks 14 4 Rylee Peteet #56 T/C Scoring Averages Final Q1 Q2 Q3 Q4 OT1 OT2 Louisville 26.7 0.0 3.7 4.3 11.7 -- -- Kosciusko 52.0 8.8 8.8 16.5 14.0 8.0 8.0 Rankings Mississippi #13 #28 Mississippi Division 4A #1 #2 Columbus-Tupelo #3 -- Jackson -- #12 Season Recap Overall Record 4-2 6-0 District 1-0 1-0",
+          "subjects": [
+            "Louisville",
+            "Kosciusko"
+          ]
+        }
+      },
+      {
+        "id": "tupelo-records",
+        "kind": "record",
+        "claim": "Tupelo enters 6-0 overall and Southaven enters 1-3 overall.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/southaven-vs-tupelo/10-9-2026/?c=f62a6e42-3f00-47aa-9b92-e94957f2259b",
+          "excerpt": "High School Football Mississippi High School Football Tupelo Varsity Football @ Southaven Tupelo Golden Wave 6-0 Friday, Oct 9, 2026 7:00pm CDT Southaven Chargers 1-3 Tupelo Varsity Football @ Southaven Streaming & Ticketing Purchase Tickets Game Info The Tupelo varsity football team has an away conference game @  Southaven (MS) today @ 7p.",
+          "subjects": [
+            "Tupelo",
+            "Southaven"
+          ]
+        }
+      },
+      {
+        "id": "tupelo-stakes",
+        "kind": "stakes",
+        "claim": "Tupelo visits Southaven in a district game; both enter 0-0 in district play.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/southaven-vs-tupelo/10-9-2026/?c=f62a6e42-3f00-47aa-9b92-e94957f2259b",
+          "excerpt": "Game Info The Tupelo varsity football team has an away conference game @  Southaven (MS) today @ 7p. Scorekeeper No Scorekeeper J. Newell THS Scorekeeper Matchup Roster Game Details Friday, Oct 9, 2026 7:00pm CDT District Team Comparison Tupelo 168.5 Rushing Yards/G Southaven - Tupelo 190.8 Passing Yards/G Southaven - Tupelo 191.5 Receiving Yards/G Southaven - Tupelo 359.3 Total Yards/G Southaven - Tupelo 74.8 Tackles/G Southaven - Tupelo 2.8 Sacks/G Southaven - Tupelo 2.3 Points/G Southaven - Key Players Avg. Per Game Kylan Bobo #29 RB Rushing Yards 61.7 -- Not Enough Data Drew Dean #2 QB Passing Yards 190.8 -- Not Enough Data Eli Shannon #4 WR Receiving Yards 75.4 -- Not Enough Data Drew Dean #2 QB Total Yards 198.8 -- Not Enough Data Devontray Brewer #6 MLB Tackles 7.5 -- Not Enough Data Kaiden Buchanan #3 OLB/TE Sacks 0.6 -- Not Enough Data Hopson Daughdrill #87 K/P Points 1.3 -- Not Enough Data Scoring Averages Final Q1 Q2 Q3 Q4 Tupelo 44.7 12.7 12.8 9.8 9.3 Southaven 12.0 0.0 2.3 0.0 0.0 Rankings National #88 -- Mississippi #1 #76 Mississippi Division 7A #1 #20 Columbus-Tupelo #1 -- Memphis -- #28 Season Recap Overall Record 6-0 1-3 District 0-0 0-0",
+          "subjects": [
+            "Tupelo",
+            "Southaven"
+          ]
+        }
+      },
+      {
+        "id": "starkville-records",
+        "kind": "record",
+        "claim": "Germantown (Madison) enters 3-2 overall and Starkville enters 4-1 overall.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/germantown-madison-vs-starkville/10-9-2026/?c=1b6353e7-f5b2-42fa-b1f9-5239f6af0be9",
+          "excerpt": "High School Football Mississippi High School Football Germantown Varsity Football @ Starkville Germantown Mavericks 3-2 Friday, Oct 9, 2026 7:00pm CDT Starkville Yellowjackets 4-1 Germantown Varsity Football @ Starkville Streaming & Ticketing Purchase Tickets Game Info The Germantown varsity football team has an away conference game @  Starkville (MS) today @ 7p. Scorekeeper No Scorekeeper No Scorekeeper Matchup Roster Game Details Friday, Oct 9, 2026 7:00pm CDT District Team Comparison Germantown (Madison) 228.8",
+          "subjects": [
+            "Germantown (Madison)",
+            "Starkville"
+          ]
+        }
+      },
+      {
+        "id": "starkville-stakes",
+        "kind": "stakes",
+        "claim": "Germantown (Madison) visits Starkville in a district game; both enter 0-0 in district play.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/germantown-madison-vs-starkville/10-9-2026/?c=1b6353e7-f5b2-42fa-b1f9-5239f6af0be9",
+          "excerpt": "Game Info The Germantown varsity football team has an away conference game @  Starkville (MS) today @ 7p. Scorekeeper No Scorekeeper No Scorekeeper Matchup Roster Game Details Friday, Oct 9, 2026 7:00pm CDT District Team Comparison Germantown (Madison) 228.8 Rushing Yards/G Starkville 181.2 Germantown (Madison) 216.0 Passing Yards/G Starkville 140.8 Germantown (Madison) 215.0 Receiving Yards/G Starkville 140.8 Germantown (Madison) 444.8 Total Yards/G Starkville 322.0 Germantown (Madison) - Tackles/G Starkville 89.6 Germantown (Madison) - Sacks/G Starkville 3.0 Germantown (Madison) 5.6 Points/G Starkville 6.0 Key Players Avg. Per Game Syrone McBeath #5 RB/LB Rushing Yards 108.0 69.4 Jacory Ruffin #12 QB Langston Branson #8 QB Passing Yards 216.0 128.0 Kingston Johnson #2 QB Nicholas Bryce Johnson #11 WR Receiving Yards 90.4 59.8 Latrent Agnew #5 WR Langston Branson #8 QB Total Yards 303.2 142.0 Kingston Johnson #2 QB Not Enough Data Tackles -- 10.7 Jayden Dailey #7 OLB Not Enough Data Sacks -- 0.6 Ladanuel Jordan #0 DE/DT Nate Muzzi #88 K/P Points 5.2 5.6 Trevor Townsend #95 K Scoring Averages Final Q1 Q2 Q3 Q4 OT1 OT2 Germantown 43.2 9.0 9.8 7.8 15.5 -- -- Starkville 31.2 8.8 8.0 2.8 10.2 7.0 0.0 Rankings Mississippi #10 #4 Mississippi Division 7A #9 #4 Columbus-Tupelo -- #2 Jackson #3 -- Season Recap Overall Record 3-2 4-1 District 0-0 0-0",
+          "subjects": [
+            "Germantown",
+            "Starkville"
+          ]
+        }
+      },
+      {
+        "id": "ripley-records",
+        "kind": "record",
+        "claim": "Ripley enters 1-5 overall and New Albany enters 3-2 overall.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/new-albany-vs-ripley/10-9-2026/?c=1355113c-4b23-4bd8-a7af-1b266a013f48",
+          "excerpt": "High School Football Mississippi High School Football Ripley Varsity Football @ New Albany Ripley Tigers 1-5 Friday, Oct 9, 2026 7:00pm CDT New Albany Bulldogs 3-2 Ripley Varsity Football @ New Albany Streaming & Ticketing Purchase Tickets Game Info The Ripley varsity football team has an away non-conference game @  New Albany (MS) today @ 7p.",
+          "subjects": [
+            "Ripley",
+            "New Albany"
+          ]
+        }
+      },
+      {
+        "id": "ripley-stakes",
+        "kind": "stakes",
+        "claim": "Ripley visits New Albany in a non-district game.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/new-albany-vs-ripley/10-9-2026/?c=1355113c-4b23-4bd8-a7af-1b266a013f48",
+          "excerpt": "Game Info The Ripley varsity football team has an away non-conference game @  New Albany (MS) today @ 7p. Scorekeeper No Scorekeeper No Scorekeeper Matchup Roster Game Details Friday, Oct 9, 2026 7:00pm CDT Non-District New Albany Team Videos 3:23 09/18 Highlights @ Caledonia 3:33 09/25 Highlights @ Pontotoc",
+          "subjects": [
+            "Ripley",
+            "New Albany"
+          ]
+        }
+      },
+      {
+        "id": "walnut-records",
+        "kind": "record",
+        "claim": "Biggersville enters 1-5 overall and Walnut enters 3-3 overall.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-walnut/10-9-2026/?c=492ff063-2fe3-4b42-990c-d7e0794c4fa5",
+          "excerpt": "High School Football Mississippi High School Football Biggersville Varsity Football @ Walnut Biggersville Lions 1-5 Friday, Oct 9, 2026 7:00pm CDT Walnut Wildcats 3-3 Biggersville Varsity Football @ Walnut Game Info The Biggersville varsity football team has an away non-conference game @  Walnut (MS) today @ 7p.",
+          "subjects": [
+            "Biggersville",
+            "Walnut"
+          ]
+        }
+      },
+      {
+        "id": "walnut-stakes",
+        "kind": "stakes",
+        "claim": "Biggersville visits Walnut in a non-district game.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-walnut/10-9-2026/?c=492ff063-2fe3-4b42-990c-d7e0794c4fa5",
+          "excerpt": "Game Info The Biggersville varsity football team has an away non-conference game @  Walnut (MS) today @ 7p. Scorekeeper No Scorekeeper No Scorekeeper Matchup Roster Game Details Friday, Oct 9, 2026 7:00pm CDT Non-District Biggersville (Corinth) Team Videos 3:28 09/11 Highlights @ East Webster",
+          "subjects": [
+            "Biggersville",
+            "Walnut"
+          ]
+        }
+      },
+      {
+        "id": "ripley-recent-result",
+        "kind": "history",
+        "claim": "Ripley lost 22-10 to Clarksdale on October 2, 2026.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-09",
+        "fact_date": "2026-10-02",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/clarksdale-vs-ripley/10-2-2026/?c=4444ec52-54bd-4469-a7db-93dc78da824e",
+          "excerpt": "Mississippi High School Football - Ripley falls to Clarksdale The Clarksdale Wildcats felled the host Ripley Tigers football team by a score of 22-10 in Friday's league challenge. In their next game, the Wildcats play the Senatobia Warriors (Senatobia, MS) in a 4A Region 3 challenge, on Friday, October 9. Clarksdale will attempt to improve on its 4-2 season record. The Warriors go into the challenge with a 6-0 record after their 64-0 league win over Byhalia (Byhalia, MS). The Tigers (1-5) will now prepare for their challenge against New Albany (New Albany, MS). The Bulldogs go into the non-league challenge with a 3-2 record. In their last challenge, New Albany toppled North Pontotoc (Ecru, MS), 55-7, in a league challenge. October 2, 2026",
+          "date_excerpt": "October 2, 2026",
+          "subjects": [
+            "Ripley",
+            "Clarksdale"
+          ]
+        }
+      },
+      {
+        "id": "walnut-recent-result",
+        "kind": "history",
+        "claim": "Walnut beat Ashland 36-14 on October 2, 2026.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-09",
+        "fact_date": "2026-10-02",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/ashland-vs-walnut/10-2-2026/?c=240db40d-405e-4072-878d-69ababf4bb9c",
+          "excerpt": "Mississippi High School Football - Ashland falls to Walnut The Walnut Wildcats felled the visiting Ashland Blue Devils football team by a score of 36-14 in Friday's non-league challenge. In their next game, the Wildcats play the Biggersville Lions (Corinth, MS) in a non-league challenge, on Friday, October 9. Walnut will attempt to improve on its 3-3 season record. The Lions go into the challenge with a 1-5 record after their 47-0 non-league loss to Baldwyn (Baldwyn, MS). The Blue Devils (0-6) will now prepare for their challenge against Coffeeville (Coffeeville, MS). The Pirates go into the non-league challenge with a 2-4 record. In their last challenge, Coffeeville lost by Strayhorn (Sarah, MS), 35-8, in a non-league challenge. October 2, 2026",
+          "date_excerpt": "October 2, 2026",
+          "subjects": [
+            "Walnut",
+            "Ashland"
+          ]
+        }
+      },
+      {
+        "id": "starkville-recent-result",
+        "kind": "history",
+        "claim": "Starkville lost 38-31 to Brandon on September 25, 2026.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-09",
+        "fact_date": "2026-09-25",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/brandon-vs-starkville/9-25-2026/?c=ea52a1e3-d23b-4050-8f25-ce47f9b2ca5c",
+          "excerpt": "Mississippi High School Football - Starkville can't hold off Brandon Brandon Bulldogs (Brandon, MS) fans went home in high spirits Friday as they saw their football team tip the host Starkville Yellowjackets (Starkville, MS), 38-31 in a non-league battle. With the win, Brandon improves its record to 4-1 on the season. The Bulldogs host Northwest Rankin (Brandon, MS) to play the Cougars in a 7A Region 3 battle on Friday, October 2. The Cougars go into the battle with a record of 2-3. Northwest Rankin lost 41-28 in their recent non-league battle against Brookhaven (Brookhaven, MS) The Yellowjackets now have a 4-1 record. They play next when they host Germantown for a 7A Region 2 battle on Friday, October 9. Starkville will play a Mavericks team coming off a 56-0 non-league win over Pearl (Pearl, MS). The Mavericks record now stands at 3-2. September 25, 2026",
+          "date_excerpt": "September 25, 2026",
+          "subjects": [
+            "Starkville",
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "ripley-form",
+        "kind": "context",
+        "claim": "Ripley enters on a five-game losing streak (5L).",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/football/schedule/",
+          "excerpt": "Ripley Football Schedule 2026-27 Overall 1-5 0.167 Win Pct District 0-1 4th 4A Region 3 Home 1-4 Away 0-1 Neutral 0-0 PF 80 PA 202 Streak 5L",
+          "subjects": [
+            "Ripley"
+          ]
+        }
+      }
+    ]
+  }
+}
