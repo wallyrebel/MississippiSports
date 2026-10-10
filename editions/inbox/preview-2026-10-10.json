@@ -1,0 +1,237 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-10-10",
+  "verified_at": "2026-10-10T15:09:03-05:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "volleyball",
+    "softball",
+    "cross country",
+    "swimming",
+    "golf",
+    "soccer"
+  ],
+  "games": [
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-10",
+      "home": "Pearl",
+      "away": "Meridian",
+      "status": "scheduled",
+      "start_time": "2026-10-10T18:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/meridian-vs-pearl/10-10-2026/?c=625f4948-d4e9-4aa1-959d-d936b3c14da9",
+        "excerpt": "Meridian vs Pearl | Football | 10/10/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Meridian Varsity Football @ Pearl Meridian Wildcats 3-2 Saturday, Oct 10, 2026 6:00pm CDT Pearl Pirates 2-4 Meridian Varsity Football @ Pearl Streaming & Ticketing Purchase Tickets Game Info The Meridian varsity football team has an away conference game @ Pearl (MS) today @ 6p. Scorekeeper No Scorekeeper No Scorekeeper Matchup Roster Game Details Saturday, Oct 10, 2026 6:00pm CDT District",
+        "date_excerpt": "10/10/2026",
+        "time_excerpt": "6:00pm CDT",
+        "home_name": "Pearl",
+        "away_name": "Meridian"
+      }
+    },
+    {
+      "sport": "softball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-10",
+      "home": "Simpson Academy",
+      "away": "Copiah Academy",
+      "status": "scheduled",
+      "game_no": 2,
+      "start_time": "2026-10-10T18:30:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/softball/game/copiah-academy-gallman-vs-simpson-academy-mendenhall/10-10-2026/?c=b9536ad2-bd03-4a1d-b00c-1ca052d83ecc",
+        "excerpt": "Copiah Academy vs Simpson Academy | Softball | 10/10/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Softball Mississippi High School Softball Copiah Academy Varsity Softball @ Simpson Academy Copiah Academy Colonels 3-4 Saturday, Oct 10, 2026 6:30pm CDT Simpson Academy Cougars 23-12-1 Copiah Academy Varsity Softball @ Simpson Academy Game Info The Copiah Academy varsity softball team has an away playoff game @ Simpson Academy (Mendenhall, MS) today @ 6:30p. Matchup Roster Game Details Saturday, Oct 10, 2026 6:30pm CDT Playoff MAIS State 4A D1 Game 2 best of 3 Series",
+        "date_excerpt": "10/10/2026",
+        "time_excerpt": "6:30pm CDT",
+        "home_name": "Simpson Academy",
+        "away_name": "Copiah Academy"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/prep-sports/mississippi-football-friday-sept-11-2026-kosciusko-hernando-wedgeworth/",
+      "title": "September football coverage featuring Meridian"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Mississippi Games To Watch, October 10: Copiah seeks clincher; Meridian–Pearl opens region play",
+    "headline_fact_ids": [
+      "game-0",
+      "game-1",
+      "softball-series",
+      "softball-game-one",
+      "meridian-region",
+      "pearl-region",
+      "series-opener"
+    ],
+    "html": "<p data-facts=\"game-0 game-1 softball-series softball-game-one series-opener meridian-region pearl-region\">A softball series can end tonight, while two football teams begin their region schedules. This Saturday’s Mississippi high school Games To Watch selection for October 10, 2026 centers on Copiah Academy at Simpson Academy in a best-of-three playoff series and Meridian at Pearl in a 7A Region 3 opener.</p>\n<h2 data-facts=\"game-1 softball-series\">Fall softball: Copiah Academy at Simpson Academy, 6:30 p.m. CDT</h2>\n<p data-facts=\"game-1 softball-series softball-game-one series-opener\">Copiah Academy arrives with a chance to finish the series after beating Simpson Academy 9–7 on October 8. Tonight's varsity girls matchup is advertised as MAIS State 4A D1 Game 2 of a best-of-three series. A second Copiah victory would clinch it; Simpson needs a win to send the series to a deciding game. The <a href=\"https://www.maxpreps.com/ms/softball/game/copiah-academy-gallman-vs-simpson-academy-mendenhall/10-10-2026/?c=b9536ad2-bd03-4a1d-b00c-1ca052d83ecc\">game listing</a> puts the start at 6:30 p.m. CDT.</p>\n<p data-facts=\"game-1 softball-game-one simpson-record softball-series series-opener\">Simpson enters with a reported 23–12–1 record, including a draw, and now gets the home game after Thursday's loss at Copiah. The <a href=\"https://www.maxpreps.com/ms/softball/game/copiah-academy-gallman-vs-simpson-academy-mendenhall/10-8-2026/?c=fc87d81d-3cfa-459e-8a27-4673c3585570\">Game 1 report</a> confirms the Colonels' 9–7 victory.</p>\n<h2 data-facts=\"game-0 meridian-region pearl-region\">Football: Meridian at Pearl, 6 p.m. CDT</h2>\n<p data-facts=\"game-0 meridian-region pearl-region\">Meridian brings a 3–2 record to Pearl, which enters 2–4. Both are 0–0 in 7A Region 3, making this the start of region play for each. The <a href=\"https://www.maxpreps.com/ms/football/game/meridian-vs-pearl/10-10-2026/?c=625f4948-d4e9-4aa1-959d-d936b3c14da9\">current varsity football listing</a> confirms Saturday's kickoff at 6 p.m. CDT.</p>\n<p data-facts=\"game-0 meridian-columbus meridian-hattiesburg pearl-terry\">Meridian's recent results include a 50–9 win over Columbus on September 18 and a 40–0 shutout of Hattiesburg on September 25. Pearl beat Terry 27–20 on October 2. Those wins provide the backdrop as the teams turn to region competition. For earlier-season context, revisit our <a href=\"https://sportsmississippi.com/prep-sports/mississippi-football-friday-sept-11-2026-kosciusko-hernando-wedgeworth/\">September football coverage featuring Meridian</a>.</p>",
+    "facts": [
+      {
+        "id": "meridian-region",
+        "kind": "stakes",
+        "claim": "Meridian enters 3-2 overall and 0-0 in 7A Region 3; this is its region opener.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/meridian/meridian-wildcats/football/schedule/",
+          "excerpt": "Meridian Football Schedule 2026-27 Overall 3-2 0.600 Win Pct District 0-0 5th 7A Region 3",
+          "subjects": [
+            "Meridian"
+          ]
+        }
+      },
+      {
+        "id": "pearl-region",
+        "kind": "stakes",
+        "claim": "Pearl enters 2-4 overall and 0-0 in 7A Region 3; this is its region opener.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/pearl/pearl-pirates/football/schedule/",
+          "excerpt": "Pearl Football Schedule 2026-27 Overall 2-4 0.333 Win Pct District 0-0 5th 7A Region 3",
+          "subjects": [
+            "Pearl"
+          ]
+        }
+      },
+      {
+        "id": "meridian-columbus",
+        "kind": "history",
+        "claim": "Meridian beat Columbus 50-9 on September 18, 2026.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/columbus-vs-meridian/9-18-2026/?c=5ebfbd02-4596-43cd-b0e5-e94dd7bf75ac",
+          "excerpt": "Columbus vs Meridian | Football | 09/18/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Columbus Varsity Football @ Meridian Columbus 0-6 Falcons 9 Final 50 Meridian 3-2 Wildcats Columbus Varsity Football @ Meridian Game Info On 9/18, the Columbus varsity football team lost their away non-conference game against Meridian (MS) by a score of 50-9.",
+          "subjects": [
+            "Meridian",
+            "Columbus"
+          ],
+          "date_excerpt": "09/18/2026"
+        },
+        "fact_date": "2026-09-18"
+      },
+      {
+        "id": "meridian-hattiesburg",
+        "kind": "history",
+        "claim": "Meridian beat Hattiesburg 40-0 on September 25, 2026.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/hattiesburg-vs-meridian/9-25-2026/?c=98e1ea88-18e4-482c-9961-5e263099560f",
+          "excerpt": "Hattiesburg vs Meridian | Football | 09/25/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Hattiesburg Varsity Football @ Meridian Hattiesburg 3-3 Tigers 0 Final 40 Meridian 3-2 Wildcats Hattiesburg Varsity Football @ Meridian Streaming & Ticketing Watch Recap Game Info On 9/25, the Hattiesburg varsity football team lost their away non-conference game against Meridian (MS) by a score of 40-0.",
+          "subjects": [
+            "Meridian",
+            "Hattiesburg"
+          ],
+          "date_excerpt": "09/25/2026"
+        },
+        "fact_date": "2026-09-25"
+      },
+      {
+        "id": "pearl-terry",
+        "kind": "history",
+        "claim": "Pearl beat Terry 27-20 on October 2, 2026.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/pearl-vs-terry/10-2-2026/?c=42d18a54-6eb2-4f51-a22b-54cc2e90b69e",
+          "excerpt": "Terry vs Pearl | Football | 10/02/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Terry Varsity Football @ Pearl Terry 4-3 Bulldogs 20 Final 27 Pearl 2-4 Pirates Terry Varsity Football @ Pearl Game Info On 10/2, the Terry varsity football team lost their away non-conference game against Pearl (MS) by a score of 27-20.",
+          "subjects": [
+            "Pearl",
+            "Terry"
+          ],
+          "date_excerpt": "10/02/2026"
+        },
+        "fact_date": "2026-10-02"
+      },
+      {
+        "id": "softball-series",
+        "kind": "stakes",
+        "claim": "Copiah Academy at Simpson Academy is a playoff game advertised as MAIS State 4A D1 Game 2 best of 3 Series. With Copiah having won Game 1, another Copiah win would clinch the series; a Simpson win would require Game 3.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/softball/game/copiah-academy-gallman-vs-simpson-academy-mendenhall/10-10-2026/?c=b9536ad2-bd03-4a1d-b00c-1ca052d83ecc",
+          "excerpt": "High School Softball Mississippi High School Softball Copiah Academy Varsity Softball @ Simpson Academy Copiah Academy Colonels 3-4 Saturday, Oct 10, 2026 6:30pm CDT Simpson Academy Cougars 23-12-1 Copiah Academy Varsity Softball @ Simpson Academy Game Info The Copiah Academy varsity softball team has an away playoff game @ Simpson Academy (Mendenhall, MS) today @ 6:30p. Matchup Roster Game Details Saturday, Oct 10, 2026 6:30pm CDT Playoff MAIS State 4A D1 Game 2 best of 3 Series",
+          "subjects": [
+            "Copiah Academy",
+            "Simpson Academy"
+          ]
+        }
+      },
+      {
+        "id": "softball-game-one",
+        "kind": "history",
+        "claim": "Copiah Academy beat Simpson Academy 9-7 on October 8, 2026.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/softball/game/copiah-academy-gallman-vs-simpson-academy-mendenhall/10-8-2026/?c=fc87d81d-3cfa-459e-8a27-4673c3585570",
+          "excerpt": "Simpson Academy vs Copiah Academy | Softball | 10/08/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Softball Mississippi High School Softball Simpson Academy Varsity Softball @ Copiah Academy Simpson Academy 23-12-1 Cougars 7 Final 9 Copiah Academy 3-4 Colonels Simpson Academy Varsity Softball @ Copiah Academy Game Info On 10/8, the Simpson Academy varsity softball team lost their away playoff game against Copiah Academy (Gallman, MS) by a score of 9-7.",
+          "subjects": [
+            "Copiah Academy",
+            "Simpson Academy"
+          ],
+          "date_excerpt": "10/08/2026"
+        },
+        "fact_date": "2026-10-08"
+      },
+      {
+        "id": "simpson-record",
+        "kind": "record",
+        "claim": "Simpson Academy enters with a reported 23-12-1 record, including a draw.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/softball/game/copiah-academy-gallman-vs-simpson-academy-mendenhall/10-10-2026/?c=b9536ad2-bd03-4a1d-b00c-1ca052d83ecc",
+          "excerpt": "High School Softball Mississippi High School Softball Copiah Academy Varsity Softball @ Simpson Academy Copiah Academy Colonels 3-4 Saturday, Oct 10, 2026 6:30pm CDT Simpson Academy Cougars 23-12-1 Copiah Academy Varsity Softball @ Simpson Academy Game Info The Copiah Academy varsity softball team has an away playoff game @ Simpson Academy (Mendenhall, MS) today @ 6:30p. Matchup Roster Game Details Saturday, Oct 10, 2026 6:30pm CDT Playoff MAIS State 4A D1 Game 2 best of 3 Series",
+          "subjects": [
+            "Simpson Academy"
+          ]
+        }
+      },
+      {
+        "id": "series-opener",
+        "kind": "stakes",
+        "claim": "Copiah Academy won Game 1 of the MAIS State 4A D1 best-of-three series against Simpson Academy by a score of 9-7.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/gallman/copiah-academy-colonels/softball/fall/",
+          "excerpt": "On Thursday, Oct 8, 2026, the Copiah Academy Varsity Girls Softball team won their MAIS State 4A D1 Game 1 best of 3 Series game against Simpson Academy High School by a score of 9-7 . Copiah Academy 9 Simpson Academy 7 Final",
+          "subjects": [
+            "Copiah Academy",
+            "Simpson Academy"
+          ]
+        }
+      }
+    ]
+  }
+}
