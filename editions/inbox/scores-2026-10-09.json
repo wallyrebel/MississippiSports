@@ -1,0 +1,511 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-10-09",
+  "verified_at": "2026-10-10T08:14:22-05:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "volleyball",
+    "cross country",
+    "swimming",
+    "golf",
+    "soccer",
+    "softball"
+  ],
+  "games": [
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-09",
+      "home": "Kosciusko",
+      "away": "Louisville",
+      "status": "final",
+      "home_score": 38,
+      "away_score": 59,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/kosciusko-vs-louisville/10-9-2026/?c=44cf09e3-22b7-4378-b5d6-627f22dbd39a",
+        "excerpt": "Louisville vs Kosciusko | Football | 10/09/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Louisville Varsity Football @ Kosciusko Louisville 5-2 Wildcats 59 Final 38 Kosciusko 6-1 Whippets Louisville Varsity Football @ Kosciusko Game Info",
+        "date_excerpt": "10/09/2026",
+        "home_name": "Kosciusko",
+        "away_name": "Louisville"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-09",
+      "home": "Southaven",
+      "away": "Tupelo",
+      "status": "final",
+      "home_score": 0,
+      "away_score": 42,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/southaven-vs-tupelo/10-9-2026/?c=f62a6e42-3f00-47aa-9b92-e94957f2259b",
+        "excerpt": "Tupelo vs Southaven | Football | 10/09/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Tupelo Varsity Football @ Southaven Tupelo 7-0 Golden Wave 42 Final 0 Southaven 1-4 Chargers Tupelo Varsity Football @ Southaven Game Info",
+        "date_excerpt": "10/09/2026",
+        "home_name": "Southaven",
+        "away_name": "Tupelo"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-09",
+      "home": "Starkville",
+      "away": "Germantown (Madison)",
+      "status": "final",
+      "home_score": 28,
+      "away_score": 38,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/germantown-madison-vs-starkville/10-9-2026/?c=1b6353e7-f5b2-42fa-b1f9-5239f6af0be9",
+        "excerpt": "Germantown vs Starkville | Football | 10/09/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Germantown Varsity Football @ Starkville Germantown 4-2 Mavericks 38 Final 28 Starkville 4-2 Yellowjackets Germantown Varsity Football @ Starkville Game Info",
+        "date_excerpt": "10/09/2026",
+        "home_name": "Starkville",
+        "away_name": "Germantown"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-09",
+      "home": "Walnut",
+      "away": "Biggersville",
+      "status": "final",
+      "home_score": 6,
+      "away_score": 16,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-walnut/10-9-2026/?c=492ff063-2fe3-4b42-990c-d7e0794c4fa5",
+        "excerpt": "Biggersville vs Walnut | Football | 10/09/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Biggersville Varsity Football @ Walnut Biggersville 2-5 Lions 16 Final 6 Walnut 3-4 Wildcats Biggersville Varsity Football @ Walnut Game Info",
+        "date_excerpt": "10/09/2026",
+        "home_name": "Walnut",
+        "away_name": "Biggersville"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-09",
+      "home": "Grenada",
+      "away": "Center Hill",
+      "status": "final",
+      "home_score": 14,
+      "away_score": 28,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-grenada/10-9-2026/?c=b32ee722-6637-42db-829d-4cce4f295007",
+        "excerpt": "Center Hill vs Grenada | Football | 10/09/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Center Hill Varsity Football @ Grenada Center Hill 5-1 Mustangs 28 Final 14 Grenada 3-2 Chargers Center Hill Varsity Football @ Grenada Game Info",
+        "date_excerpt": "10/09/2026",
+        "home_name": "Grenada",
+        "away_name": "Center Hill"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-09",
+      "home": "Lewisburg",
+      "away": "DeSoto Central",
+      "status": "final",
+      "home_score": 3,
+      "away_score": 48,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/desoto-central-southaven-vs-lewisburg-olive-branch/10-9-2026/?c=8ec425bb-361e-46b0-9f9d-bc09d98c2ee4",
+        "excerpt": "DeSoto Central vs Lewisburg | Football | 10/09/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football DeSoto Central Varsity Football @ Lewisburg DeSoto Central 5-1 Jaguars 48 Final 3 Lewisburg 2-4 Patriots DeSoto Central Varsity Football @ Lewisburg Game Info",
+        "date_excerpt": "10/09/2026",
+        "home_name": "Lewisburg",
+        "away_name": "DeSoto Central"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-09",
+      "home": "Shannon",
+      "away": "Houston",
+      "status": "final",
+      "home_score": 26,
+      "away_score": 21,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/houston-vs-shannon/10-9-2026/?c=82555ab7-cdcf-4632-af62-58c2f10d1275",
+        "excerpt": "Houston vs Shannon | Football | 10/09/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Houston Varsity Football @ Shannon Houston 2-5 Hilltoppers 21 Final 26 Shannon 5-2 Red Raiders Houston Varsity Football @ Shannon Streaming & Ticketing Watch Recap Game Info",
+        "date_excerpt": "10/09/2026",
+        "home_name": "Shannon",
+        "away_name": "Houston"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-10-09/",
+      "title": "Friday's Games To Watch preview"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Scores from last Night: Louisville ends Kosciusko’s unbeaten run; Tupelo stays perfect",
+    "headline_fact_ids": [
+      "game-0",
+      "louisville-records",
+      "game-1",
+      "tupelo-records"
+    ],
+    "html": "<p data-facts=\"game-0 louisville-records louisville-league game-1 tupelo-records game-2 germantown-records\">Louisville ended Kosciusko’s unbeaten start with a 59-38 road victory in conference play on October 9, 2026. Tupelo preserved its perfect record with a 42-0 win at Southaven, while Germantown’s 38-28 victory at Starkville left those teams with matching 4-2 records.</p>\n<h2 data-facts=\"game-0 louisville-records louisville-league\">Louisville delivers Kosciusko’s first defeat</h2>\n<p data-facts=\"game-0 louisville-records louisville-league\">Kosciusko’s first loss came at home in conference play. Louisville scored 59 points against the Whippets, lifting the Wildcats to 5-2 while Kosciusko slipped to 6-1. The result changes the story of a matchup highlighted in <a href=\"https://sportsmississippi.com/sports/sportsms-preview-2026-10-09/\">Friday’s Games To Watch preview</a>: the Whippets left the field with their unbeaten run over.</p>\n<h2 data-facts=\"game-1 tupelo-records tupelo-league tupelo-quarters\">Tupelo takes control early and stays unbeaten</h2>\n<p data-facts=\"game-1 tupelo-records tupelo-league tupelo-quarters\">Tupelo’s conference win at Southaven was decided by early scoring and a shutout. The Golden Wave scored 21 points in the opening quarter, added 14 in the second and 7 in the third, and held the Chargers scoreless throughout. The 42-0 final moved Tupelo to 7-0 and Southaven to 1-4.</p>\n<h2 data-facts=\"game-2 germantown-records germantown-league\">Germantown leaves Starkville with a league victory</h2>\n<p data-facts=\"game-2 germantown-records germantown-league\">Germantown won 38-28 at Starkville in another conference matchup. Both teams finished the night 4-2 overall, but the identical records conceal different outcomes: the Mavericks added a league win on the road, while the Yellowjackets took a league loss at home.</p>\n<p data-facts=\"game-2 mcbeath-identity mcbeath-rushing\">MaxPreps credited Germantown running back Syrone McBeath with 139 rushing yards and four rushing touchdowns on 19 carries.</p>\n<h2 data-facts=\"game-4 game-5 centerhill-league desoto-league\">Center Hill and DeSoto Central win away from home</h2>\n<p data-facts=\"game-4 centerhill-records centerhill-league centerhill-quarters\">Center Hill won 28-14 at Grenada to move to 5-1, with Grenada now 3-2. After a scoreless first quarter, the Mustangs scored 14 points in the second. Each team scored 14 in the third, and neither added points in the fourth. Center Hill’s second-quarter scoring therefore provided the separation in a conference game whose remaining quarters were even.</p>\n<p data-facts=\"game-5 desoto-records desoto-league desoto-quarters game-1 tupelo-league\">DeSoto Central’s 48-3 conference win at Lewisburg brought a wider margin. The Jaguars scored 14 points in the first quarter, 21 in the second and 13 in the third; the Patriots’ only points came in the second quarter. DeSoto Central finished 5-1, while Lewisburg dropped to 2-4. Alongside Tupelo’s shutout of Southaven, the result gives this selection another emphatic road win in conference play.</p>\n<h2 data-facts=\"game-6 shannon-records shannon-league shannon-quarters\">Shannon holds off Houston’s late scoring</h2>\n<p data-facts=\"game-6 shannon-records shannon-league shannon-quarters\">Shannon beat Houston 26-21 in a conference game that tightened in the final quarter. The Red Raiders scored in every period, including 6 points in the fourth, while Houston scored 14 of its 21 points in that closing quarter. The Hilltoppers’ late scoring did not erase the deficit. Shannon improved to 5-2, and Houston fell to 2-5.</p>\n<h2 data-facts=\"game-3 biggersville-records biggersville-nonleague\">Biggersville earns road win at Walnut</h2>\n<p data-facts=\"game-3 biggersville-records biggersville-nonleague\">Biggersville earned a 16-6 non-conference victory at Walnut, improving to 2-5 and leaving the Wildcats at 3-4.</p>\n<p data-facts=\"game-0 game-1 game-2 game-3 game-4 game-5 game-6\">Ripley–New Albany is omitted because no final was verified. Cross country, golf, soccer, softball, swimming and volleyball were also checked, but no additional October 9 varsity results in those sports were verified from accessible sources.</p>",
+    "facts": [
+      {
+        "id": "louisville-records",
+        "kind": "record",
+        "claim": "Louisville is 5-2 and Kosciusko is 6-1; this was Kosciusko's first loss.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/kosciusko-vs-louisville/10-9-2026/?c=44cf09e3-22b7-4378-b5d6-627f22dbd39a",
+          "excerpt": "High School Football Mississippi High School Football Louisville Varsity Football @ Kosciusko Louisville 5-2 Wildcats 59 Final 38 Kosciusko 6-1 Whippets Louisville Varsity Football @ Kosciusko ",
+          "subjects": [
+            "Louisville",
+            "Kosciusko"
+          ]
+        }
+      },
+      {
+        "id": "tupelo-records",
+        "kind": "record",
+        "claim": "Tupelo is 7-0 and Southaven is 1-4.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/southaven-vs-tupelo/10-9-2026/?c=f62a6e42-3f00-47aa-9b92-e94957f2259b",
+          "excerpt": "High School Football Mississippi High School Football Tupelo Varsity Football @ Southaven Tupelo 7-0 Golden Wave 42 Final 0 Southaven 1-4 Chargers Tupelo Varsity Football @ Southaven ",
+          "subjects": [
+            "Tupelo",
+            "Southaven"
+          ]
+        }
+      },
+      {
+        "id": "germantown-records",
+        "kind": "record",
+        "claim": "Germantown and Starkville are both 4-2.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/germantown-madison-vs-starkville/10-9-2026/?c=1b6353e7-f5b2-42fa-b1f9-5239f6af0be9",
+          "excerpt": "High School Football Mississippi High School Football Germantown Varsity Football @ Starkville Germantown 4-2 Mavericks 38 Final 28 Starkville 4-2 Yellowjackets Germantown Varsity Football @ Starkville ",
+          "subjects": [
+            "Germantown",
+            "Starkville"
+          ]
+        }
+      },
+      {
+        "id": "biggersville-records",
+        "kind": "record",
+        "claim": "Biggersville is 2-5 and Walnut is 3-4.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-walnut/10-9-2026/?c=492ff063-2fe3-4b42-990c-d7e0794c4fa5",
+          "excerpt": "High School Football Mississippi High School Football Biggersville Varsity Football @ Walnut Biggersville 2-5 Lions 16 Final 6 Walnut 3-4 Wildcats Biggersville Varsity Football @ Walnut ",
+          "subjects": [
+            "Biggersville",
+            "Walnut"
+          ]
+        }
+      },
+      {
+        "id": "centerhill-records",
+        "kind": "record",
+        "claim": "Center Hill is 5-1 and Grenada is 3-2.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-grenada/10-9-2026/?c=b32ee722-6637-42db-829d-4cce4f295007",
+          "excerpt": "High School Football Mississippi High School Football Center Hill Varsity Football @ Grenada Center Hill 5-1 Mustangs 28 Final 14 Grenada 3-2 Chargers Center Hill Varsity Football @ Grenada ",
+          "subjects": [
+            "Center Hill",
+            "Grenada"
+          ]
+        }
+      },
+      {
+        "id": "desoto-records",
+        "kind": "record",
+        "claim": "DeSoto Central is 5-1 and Lewisburg is 2-4.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/desoto-central-southaven-vs-lewisburg-olive-branch/10-9-2026/?c=8ec425bb-361e-46b0-9f9d-bc09d98c2ee4",
+          "excerpt": "High School Football Mississippi High School Football DeSoto Central Varsity Football @ Lewisburg DeSoto Central 5-1 Jaguars 48 Final 3 Lewisburg 2-4 Patriots DeSoto Central Varsity Football @ Lewisburg ",
+          "subjects": [
+            "DeSoto Central",
+            "Lewisburg"
+          ]
+        }
+      },
+      {
+        "id": "shannon-records",
+        "kind": "record",
+        "claim": "Shannon is 5-2 and Houston is 2-5.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/houston-vs-shannon/10-9-2026/?c=82555ab7-cdcf-4632-af62-58c2f10d1275",
+          "excerpt": "High School Football Mississippi High School Football Houston Varsity Football @ Shannon Houston 2-5 Hilltoppers 21 Final 26 Shannon 5-2 Red Raiders Houston Varsity Football @ Shannon Streaming & Ticketing Watch Recap ",
+          "subjects": [
+            "Shannon",
+            "Houston"
+          ]
+        }
+      },
+      {
+        "id": "louisville-league",
+        "kind": "stakes",
+        "claim": "Louisville at Kosciusko was a conference game.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/kosciusko-vs-louisville/10-9-2026/?c=44cf09e3-22b7-4378-b5d6-627f22dbd39a",
+          "excerpt": "Game Info On 10/9, the Louisville varsity football team won their away conference game against Kosciusko (MS) by a score of 59-38.",
+          "subjects": [
+            "Kosciusko",
+            "Louisville"
+          ]
+        }
+      },
+      {
+        "id": "tupelo-league",
+        "kind": "stakes",
+        "claim": "Tupelo at Southaven was a conference game.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/southaven-vs-tupelo/10-9-2026/?c=f62a6e42-3f00-47aa-9b92-e94957f2259b",
+          "excerpt": "Game Info On 10/9, the Tupelo varsity football team won their away conference game against Southaven (MS) by a score of 42-0.",
+          "subjects": [
+            "Southaven",
+            "Tupelo"
+          ]
+        }
+      },
+      {
+        "id": "germantown-league",
+        "kind": "stakes",
+        "claim": "Germantown (Madison) at Starkville was a conference game.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/germantown-madison-vs-starkville/10-9-2026/?c=1b6353e7-f5b2-42fa-b1f9-5239f6af0be9",
+          "excerpt": "Game Info On 10/9, the Germantown varsity football team won their away conference game against Starkville (MS) by a score of 38-28.",
+          "subjects": [
+            "Starkville",
+            "Germantown"
+          ]
+        }
+      },
+      {
+        "id": "biggersville-nonleague",
+        "kind": "stakes",
+        "claim": "Biggersville at Walnut was a non-conference game.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-walnut/10-9-2026/?c=492ff063-2fe3-4b42-990c-d7e0794c4fa5",
+          "excerpt": "Game Info On 10/9, the Biggersville varsity football team won their away non-conference game against Walnut (MS) by a score of 16-6.",
+          "subjects": [
+            "Walnut",
+            "Biggersville"
+          ]
+        }
+      },
+      {
+        "id": "centerhill-league",
+        "kind": "stakes",
+        "claim": "Center Hill at Grenada was a conference game.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-grenada/10-9-2026/?c=b32ee722-6637-42db-829d-4cce4f295007",
+          "excerpt": "Game Info On 10/9, the Center Hill varsity football team won their away conference game against Grenada (MS) by a score of 28-14.",
+          "subjects": [
+            "Grenada",
+            "Center Hill"
+          ]
+        }
+      },
+      {
+        "id": "desoto-league",
+        "kind": "stakes",
+        "claim": "DeSoto Central at Lewisburg was a conference game.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/desoto-central-southaven-vs-lewisburg-olive-branch/10-9-2026/?c=8ec425bb-361e-46b0-9f9d-bc09d98c2ee4",
+          "excerpt": "Game Info On 10/9, the DeSoto Central varsity football team won their away conference game against Lewisburg (Olive Branch, MS) by a score of 48-3.",
+          "subjects": [
+            "Lewisburg",
+            "DeSoto Central"
+          ]
+        }
+      },
+      {
+        "id": "shannon-league",
+        "kind": "stakes",
+        "claim": "Houston at Shannon was a conference game.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/houston-vs-shannon/10-9-2026/?c=82555ab7-cdcf-4632-af62-58c2f10d1275",
+          "excerpt": "Game Info On 10/9, the Houston varsity football team lost their away conference game against Shannon (MS) by a score of 26-21.",
+          "subjects": [
+            "Shannon",
+            "Houston"
+          ]
+        }
+      },
+      {
+        "id": "tupelo-quarters",
+        "kind": "result",
+        "claim": "Tupelo scored 21 points in the first quarter, 14 in the second, 7 in the third and 0 in the fourth; Southaven scored 0 in every quarter.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/southaven-vs-tupelo/10-9-2026/?c=f62a6e42-3f00-47aa-9b92-e94957f2259b",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Tupelo 21 14 7 0 42 Southaven 0 0 0 0 0 ",
+          "subjects": [
+            "Southaven",
+            "Tupelo"
+          ]
+        }
+      },
+      {
+        "id": "centerhill-quarters",
+        "kind": "result",
+        "claim": "Center Hill and Grenada scored 0 in the first quarter. Center Hill scored 14 in the second and 14 in the third; Grenada scored 0 in the second and 14 in the third; neither scored in the fourth.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-grenada/10-9-2026/?c=b32ee722-6637-42db-829d-4cce4f295007",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Center Hill 0 14 14 0 28 Grenada 0 0 14 0 14 ",
+          "subjects": [
+            "Grenada",
+            "Center Hill"
+          ]
+        }
+      },
+      {
+        "id": "desoto-quarters",
+        "kind": "result",
+        "claim": "DeSoto Central scored 14 in the first quarter, 21 in the second and 13 in the third; Lewisburg scored its 3 points in the second quarter; neither scored in the fourth.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/desoto-central-southaven-vs-lewisburg-olive-branch/10-9-2026/?c=8ec425bb-361e-46b0-9f9d-bc09d98c2ee4",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final DeSoto Central 14 21 13 0 48 Lewisburg 0 3 0 0 3 ",
+          "subjects": [
+            "Lewisburg",
+            "DeSoto Central"
+          ]
+        }
+      },
+      {
+        "id": "shannon-quarters",
+        "kind": "result",
+        "claim": "Houston scored 0 in the first quarter, 7 in the second, 0 in the third and 14 in the fourth; Shannon scored 6, 8, 6 and 6 by quarter.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/houston-vs-shannon/10-9-2026/?c=82555ab7-cdcf-4632-af62-58c2f10d1275",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Houston 0 7 0 14 21 Shannon 6 8 6 6 26 ",
+          "subjects": [
+            "Shannon",
+            "Houston"
+          ]
+        }
+      },
+      {
+        "id": "mcbeath-identity",
+        "kind": "context",
+        "claim": "Syrone McBeath is Germantown (Madison, MS) varsity football number 5, a running back (RB).",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/madison/germantown-mavericks/athletes/syrone-mcbeath/?careerid=47r9r1j41ar99",
+          "excerpt": "Syrone McBeath Germantown  (Madison, MS) 3 Followers Senior • 2027 5'10\" • 200 lbs V. Football #5 • RB, LB ",
+          "subjects": [
+            "Syrone McBeath",
+            "Germantown"
+          ]
+        }
+      },
+      {
+        "id": "mcbeath-rushing",
+        "kind": "result",
+        "claim": "Germantown's S. McBeath (#5) recorded 139 rushing yards, 4 rushing touchdowns and 19 carries against Starkville.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/germantown-madison-vs-starkville/10-9-2026/?c=1b6353e7-f5b2-42fa-b1f9-5239f6af0be9",
+          "excerpt": "Mississippi High School Football - Germantown defeats Starkville In Friday's league match, the visiting Germantown Mavericks football squad scored a good 38-28 victory over the Starkville Yellowjackets. The Mavericks (4-2) will now prepare for their match against Oxford (Oxford, MS). The Chargers enter the 7A Region 2 match with a 5-1 record. In their last match, Oxford thwarted Madison Central (Madison, MS), 31-28, in a league match. Coming up next, the Yellowjackets confront the Clinton Arrows (Clinton, MS) in a 7A Region 2 match, on Friday, October 16. Starkville will attempt to upgrade on its 4-2 season record. The Arrows enter the match with a 2-4 record after their 48-14 league win over Murrah (Jackson, MS). October 9, 2026 • Starkville, MS 39759 Top Performers Passing L. Branson #8 QB 8/18 CMP/ATT 114 YDS 0 TD 1 INT Rushing S. McBeath #5 RB, LB 139 YDS 4 TD 19 CAR",
+          "subjects": [
+            "Germantown",
+            "Starkville",
+            "S. McBeath"
+          ]
+        }
+      }
+    ]
+  }
+}
