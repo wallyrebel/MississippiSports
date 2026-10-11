@@ -1,0 +1,215 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-10-10",
+  "verified_at": "2026-10-11T08:03:14-05:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "softball",
+    "volleyball",
+    "cross country",
+    "swimming",
+    "golf",
+    "soccer"
+  ],
+  "games": [
+    {
+      "sport": "softball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-10",
+      "home": "Simpson Academy",
+      "away": "Copiah Academy",
+      "status": "final",
+      "home_score": 11,
+      "away_score": 3,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/softball/game/copiah-academy-gallman-vs-simpson-academy-mendenhall/10-10-2026/?c=b9536ad2-bd03-4a1d-b00c-1ca052d83ecc&tab=Matchup",
+        "excerpt": "Copiah Academy vs Simpson Academy | Softball | 10/10/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Softball Mississippi High School Softball Copiah Academy Varsity Softball @ Simpson Academy Copiah Academy 3-5 Colonels 3 Final 11 Simpson Academy 24-12-1 Cougars Copiah Academy Varsity Softball @ Simpson Academy Game Info On 10/10, the Copiah Academy varsity softball team lost their away playoff game against Simpson Academy (Mendenhall, MS) by a score of 11-3.",
+        "date_excerpt": "10/10/2026",
+        "home_name": "Simpson Academy",
+        "away_name": "Copiah Academy"
+      },
+      "game_no": 2
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-10",
+      "home": "Salem",
+      "away": "Nanih Waiya",
+      "status": "final",
+      "home_score": 3,
+      "away_score": 2,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/nanih-waiya-louisville-vs-salem-tylertown/10-10-2026/?c=6825dfdc-3704-47d8-b5ec-4ee056739716",
+        "excerpt": "High School Volleyball Mississippi High School Volleyball Nanih Waiya Girls Varsity Volleyball @ Salem Nanih Waiya 13-7 Warriors 2 Final 3 Salem 25-5 Wildcats Nanih Waiya Girls Varsity Volleyball @ Salem Game Info On 10/10, the Nanih Waiya varsity volleyball team lost their away non-conference match against Salem (Tylertown, MS) by a score of 3-2. Recap Stats Matchup Roster Boxscore S1 S2 S3 S4 S5 Wins Nanih Waiya 25 25 15 16 13 2 Salem 13 13 25 25 15 3 Final score provided by S. DragonFly Mississippi High School Volleyball - Nanih Waiya can't get by Salem Salem Wildcats (Tylertown, MS) followers left the game satisfied Saturday as they saw their volleyball squad edge the visiting Nanih Waiya Warriors (Louisville, MS), 3-2 in a non-league test. With the win, Salem advances its record to 25-5 on the season. The Warriors now sport a 13-7 record. October 10, 2026 • Tylertown, MS 39667",
+        "date_excerpt": "October 10, 2026",
+        "home_name": "Salem",
+        "away_name": "Nanih Waiya"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-10",
+      "home": "Pearl",
+      "away": "Meridian",
+      "status": "final",
+      "home_score": 13,
+      "away_score": 30,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/meridian-vs-pearl/10-10-2026/?c=625f4948-d4e9-4aa1-959d-d936b3c14da9&tab=Matchup",
+        "excerpt": "Meridian vs Pearl | Football | 10/10/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Meridian Varsity Football @ Pearl Meridian 4-2 Wildcats 30 Final 13 Pearl 2-5 Pirates Meridian Varsity Football @ Pearl Game Info On 10/10, the Meridian varsity football team won their away conference game against Pearl (MS) by a score of 30-13.",
+        "date_excerpt": "10/10/2026",
+        "home_name": "Pearl",
+        "away_name": "Meridian"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-10-10/",
+      "title": "October 10 Games To Watch preview"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Scores from last Night, October 10: Simpson forces decider, Salem rallies, Meridian wins at Pearl",
+    "headline_fact_ids": [
+      "game-0",
+      "game-1",
+      "game-2",
+      "softball-series",
+      "series-opener",
+      "salem-comeback"
+    ],
+    "html": "<p data-facts=\"game-0 game-1 game-2 series-opener softball-series salem-comeback meridian-region pearl-region\">Simpson Academy kept its softball series alive, Salem rescued a volleyball winning streak from a two-set deficit, and Meridian opened region play with a road victory. Those results lead this October 10, 2026 selection of verified Mississippi high school varsity finals: Simpson beat Copiah Academy 11–3, Salem edged Nanih Waiya 3–2, and Meridian defeated Pearl 30–13.</p>\n<h2 data-facts=\"game-0 softball-series series-opener\">Girls fall softball: Simpson sends the series to a decider</h2>\n<p data-facts=\"game-0 softball-series series-opener\">Copiah Academy had won the <a href=\"https://www.maxpreps.com/ms/softball/game/copiah-academy-gallman-vs-simpson-academy-mendenhall/10-8-2026/?c=fc87d81d-3cfa-459e-8a27-4673c3585570\">October 8 opener</a> 9–7, leaving Simpson Academy needing a response in Game 2 of the MAIS State 4A D1 best-of-three series. Simpson supplied it at home Saturday with an 11–3 win. Each team now has a victory in the series, requiring a deciding third game.</p>\n<p data-facts=\"game-0 simpson-record softball-series series-opener\">The <a href=\"https://www.maxpreps.com/ms/softball/game/copiah-academy-gallman-vs-simpson-academy-mendenhall/10-10-2026/?c=b9536ad2-bd03-4a1d-b00c-1ca052d83ecc&tab=Matchup\">completed Game 2 report</a> lists Simpson at 24–12–1 after the win. The result changes the outlook from the clinching opportunity described in our <a href=\"https://sportsmississippi.com/sports/sportsms-preview-2026-10-10/\">October 10 Games To Watch preview</a>: Copiah could not finish the series Saturday, and Simpson remains in contention.</p>\n<h2 data-facts=\"game-1 salem-comeback\">Girls volleyball: Salem comes back from two sets down</h2>\n<p data-facts=\"game-1 salem-comeback\">Salem lost each of the first two sets to Nanih Waiya 25–13, putting its winning streak in danger. The Wildcats then won the next sets 25–15 and 25–16 before taking the deciding set 15–13. The <a href=\"https://www.maxpreps.com/ms/volleyball/match/nanih-waiya-louisville-vs-salem-tylertown/10-10-2026/?c=6825dfdc-3704-47d8-b5ec-4ee056739716\">final match report</a> confirms the 3–2 victory in Tylertown.</p>\n<p data-facts=\"game-1 salem-comeback volleyball-records\">That comeback made it nine consecutive wins for Salem, according to the <a href=\"https://www.maxpreps.com/news/AaLBeGQiVUO9I0Zj2eWYKw/volleyball-recap-make-it-nine-in-a-row-for-salem.htm\">MaxPreps recap</a>. The Wildcats improved to 25–5, while Nanih Waiya fell to 13–7. Salem needed all five sets to preserve the run, turning a match that began with two decisive losses into another win.</p>\n<h2 data-facts=\"game-2 meridian-region pearl-region\">Boys football: Meridian starts region play with a road win</h2>\n<p data-facts=\"game-2 meridian-region pearl-region\">Meridian defeated Pearl 30–13 in Saturday’s <a href=\"https://www.maxpreps.com/ms/football/game/meridian-vs-pearl/10-10-2026/?c=625f4948-d4e9-4aa1-959d-d936b3c14da9&tab=Matchup\">conference game</a>. The updated schedules put <a href=\"https://www.maxpreps.com/ms/meridian/meridian-wildcats/football/schedule/\">Meridian</a> at 4–2 overall and 1–0 in 7A Region 3, with <a href=\"https://www.maxpreps.com/ms/pearl/pearl-pirates/football/schedule/\">Pearl</a> at 2–5 and 0–1. The Wildcats leave the region opener with a victory; the Pirates begin their region schedule with a loss.</p>",
+    "facts": [
+      {
+        "id": "series-opener",
+        "kind": "history",
+        "claim": "Copiah Academy beat Simpson Academy 9-7 on October 8, 2026.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/softball/game/copiah-academy-gallman-vs-simpson-academy-mendenhall/10-8-2026/?c=fc87d81d-3cfa-459e-8a27-4673c3585570",
+          "excerpt": "Simpson Academy vs Copiah Academy | Softball | 10/08/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Softball Mississippi High School Softball Simpson Academy Varsity Softball @ Copiah Academy Simpson Academy 24-12-1 Cougars 7 Final 9 Copiah Academy 3-5 Colonels Simpson Academy Varsity Softball @ Copiah Academy Game Info On 10/8, the Simpson Academy varsity softball team lost their away playoff game against Copiah Academy (Gallman, MS) by a score of 9-7.",
+          "subjects": [
+            "Copiah Academy",
+            "Simpson Academy"
+          ],
+          "date_excerpt": "10/08/2026"
+        },
+        "fact_date": "2026-10-08"
+      },
+      {
+        "id": "softball-series",
+        "kind": "stakes",
+        "claim": "The October 10 Copiah Academy at Simpson Academy playoff was MAIS State 4A D1 Game 2 of a best-of-three series.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/gallman/copiah-academy-colonels/softball/fall/",
+          "excerpt": "On Saturday, Oct 10, 2026, the Copiah Academy Varsity Girls Softball team lost their MAIS State 4A D1 Game 2 best of 3 Series game against Simpson Academy High School by a score of 3-11 . Copiah Academy 3 Simpson Academy 11 Final",
+          "subjects": [
+            "Copiah Academy",
+            "Simpson Academy"
+          ]
+        }
+      },
+      {
+        "id": "simpson-record",
+        "kind": "record",
+        "claim": "Simpson Academy was listed at 24-12-1 after the win.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/softball/game/copiah-academy-gallman-vs-simpson-academy-mendenhall/10-10-2026/?c=b9536ad2-bd03-4a1d-b00c-1ca052d83ecc&tab=Matchup",
+          "excerpt": "High School Softball Mississippi High School Softball Copiah Academy Varsity Softball @ Simpson Academy Copiah Academy 3-5 Colonels 3 Final 11 Simpson Academy 24-12-1 Cougars Copiah Academy Varsity Softball @ Simpson Academy Game Info On 10/10, the Copiah Academy varsity softball team lost their away playoff game against Simpson Academy (Mendenhall, MS) by a score of 11-3.",
+          "subjects": [
+            "Simpson Academy"
+          ]
+        }
+      },
+      {
+        "id": "salem-comeback",
+        "kind": "result",
+        "claim": "Salem lost the first two sets 13-25 and 13-25, then won 25-15, 25-16 and 15-13 to beat Nanih Waiya 3-2 for its ninth consecutive win.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/news/AaLBeGQiVUO9I0Zj2eWYKw/volleyball-recap-make-it-nine-in-a-row-for-salem.htm",
+          "excerpt": "Salem had already won eight in a row and they went ahead and made it nine on Saturday. They came within a single set of losing the streak, but they secured a 3-2 W against the Nanih Waiya Warriors. Salem was actually outscored in aggregate across those five sets (94-91), but they still managed to win. Once all was said and done, the final set scores wound up at 13-25, 13-25, 25-15, 25-16, 15-13.",
+          "subjects": [
+            "Salem",
+            "Nanih Waiya"
+          ]
+        }
+      },
+      {
+        "id": "volleyball-records",
+        "kind": "record",
+        "claim": "Salem improved to 25-5; Nanih Waiya fell to 13-7.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/nanih-waiya-louisville-vs-salem-tylertown/10-10-2026/?c=6825dfdc-3704-47d8-b5ec-4ee056739716",
+          "excerpt": "With the win, Salem advances its record to 25-5 on the season. The Warriors now sport a 13-7 record.",
+          "subjects": [
+            "Salem",
+            "Warriors"
+          ]
+        }
+      },
+      {
+        "id": "meridian-region",
+        "kind": "record",
+        "claim": "Meridian is 4-2 overall and 1-0 in 7A Region 3 after the win at Pearl.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/meridian/meridian-wildcats/football/schedule/",
+          "excerpt": "Meridian Football Schedule 2026-27 Overall 4-2 0.667 Win Pct District 1-0 1st 7A Region 3",
+          "subjects": [
+            "Meridian"
+          ]
+        }
+      },
+      {
+        "id": "pearl-region",
+        "kind": "record",
+        "claim": "Pearl is 2-5 overall and 0-1 in 7A Region 3 after the loss to Meridian.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/pearl/pearl-pirates/football/schedule/",
+          "excerpt": "Pearl Football Schedule 2026-27 Overall 2-5 0.286 Win Pct District 0-1 5th 7A Region 3",
+          "subjects": [
+            "Pearl"
+          ]
+        }
+      }
+    ]
+  }
+}
