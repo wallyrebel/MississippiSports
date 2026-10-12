@@ -1,0 +1,56 @@
+# One explicitly reviewed Tupelo news article
+
+The user approved the single-news route and the Alden Wade article. This bounded
+transport accepts only the fixed headline, topic slug, original portrait digest,
+reviewed prose and two exact reporting source identities in `news.publisher`.
+It never discovers news, rewrites text, uses stock imagery, creates credentials,
+creates taxonomy, or adds schedules. Existing RSS and game-edition code and
+workflows remain unchanged.
+
+Only changes to `news/inbox/alden-wade-2026-10-11.json` on `main` start the new
+workflow. The same existing GitHub-managed WordPress credentials are injected
+only into the worker, never retrieved by the operator. Its concurrency group
+shares the existing edition lock. Do not concurrently operate the article in a
+browser or submit another intake while its run is active. Automatic mutation
+reruns are refused.
+
+Start with `publish: false`. Offline checks do not authenticate or verify fresh
+sources. The managed preflight reads edit-context identity/capabilities, derives
+all supported post/media statuses from REST schemas, exhaustively paginates each
+slug/name/source/event/original-filename query, compares candidate image originals
+by SHA-256 and pixels, and checks the existing Prep Sports category. Errors,
+changing/incomplete pagination, conflicting event posts, duplicate original
+portraits or inaccessible image originals fail closed. Inspect its exact Action,
+`result.json`, `reconciliation.json`, `review.json` and empty `actions.json`.
+
+Only after final parent review, record that preflight's run ID/commit and exact
+article/image digests in `preflight`, set `parent_reviewed: true`, and set
+`publish: true`. Fresh sources and all identity checks run again. The worker
+creates one owned draft, uploads or reuses the supplied unchanged portrait,
+confirms alt/parent, sets article SEO fields, checks the unchanged draft snapshot,
+and publishes the same post ID. Existing independent articles are never edited.
+Any earlier draft requires its explicit `recovery_post_id`; a missing recovery
+post never causes creation of a replacement. Lost responses trigger read-only
+same-event/post reconciliation and failure, never a blind second POST.
+
+The supplied coach quote is attributed to Ty Hardin with publisher-supplied
+verbatim provenance. No independently found social post is claimed. The school
+statement was visually inspected in both original user-supplied statement images.
+The police release does not identify Wade; WTVA's coroner attribution supplies
+that bridge. Fresh checks use the exact police post within its saved RSS feed
+and the full WTVA report. The article excludes age, class year, driving status,
+cause, statistics and service details.
+
+Success requires independent public REST and canonical-page checks of the exact
+body, headline/H1, image association, original bytes/pixels, source links,
+description, SEO title, self-canonical and indexability. Save the exact run and
+sanitized actions. Once independently confirmed, retire `reviewed_news.yml` and
+disable this article's mutation entry point; do not leave automatic publication
+of unrelated news enabled.
+
+Local checks from the repository root:
+
+```sh
+PYTHONPATH=src python -m pytest tests/test_news.py tests/test_editions.py -q
+PYTHONPATH=src python -m rss_to_wp.news.publisher news/inbox/alden-wade-2026-10-11.json --offline --output /tmp/tupelo-review
+```

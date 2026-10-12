@@ -1,0 +1,48 @@
+name: Reviewed Tupelo news article
+
+# One authorized article only. No discovery, schedules, or dispatch mutation path.
+# Retire this workflow after independent public verification.
+on:
+  push:
+    branches: [main]
+    paths: ['news/inbox/alden-wade-2026-10-11.json']
+
+permissions:
+  contents: read
+
+# Use the existing edition lock. The operator owns this article and must inspect
+# the exact run before any publication/recovery commit or browser fallback.
+concurrency:
+  group: sportsms-daily-editions
+  cancel-in-progress: false
+
+jobs:
+  reviewed-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install bounded dependencies
+        run: pip install requests beautifulsoup4 Pillow pytest
+      - name: Run offline safety checks
+        env:
+          PYTHONPATH: src
+        run: python -m pytest tests/test_news.py tests/test_editions.py -q
+      - name: Authenticated preflight or specifically reviewed publication
+        env:
+          PYTHONPATH: src
+          WORDPRESS_BASE_URL: ${{ secrets.WORDPRESS_BASE_URL }}
+          WORDPRESS_USERNAME: ${{ secrets.WORDPRESS_USERNAME }}
+          WORDPRESS_APP_PASSWORD: ${{ secrets.WORDPRESS_APP_PASSWORD }}
+        run: python -m rss_to_wp.news.publisher news/inbox/alden-wade-2026-10-11.json --output news-output
+      - name: Save sanitized action and review evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: reviewed-news-${{ github.run_id }}
+          path: news-output/
+          if-no-files-found: warn
+          retention-days: 14
