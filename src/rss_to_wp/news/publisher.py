@@ -54,6 +54,15 @@ WTVA_EXCERPTS = (
     "The Lee County Coroner’s Office identified the victim as 19-year-old Alden Wade of Tupelo.",
 )
 BODY_SHA = hashlib.sha256(BODY.encode()).hexdigest()
+REPAIR_POST = 24460
+REPAIR_MEDIA = 24461
+RECOMPRESSED_SHA = "b54480b63e83f966d8f39e07e740ed2bcbcbcd35c74ce7e3d43cc25cb497cbfd"
+# Only this article: show the supplied portrait in its original proportions.
+# No global theme settings, scripts, or changes to the seven reviewed paragraphs.
+PORTRAIT_STYLE = ('<style id="sportsms-portrait-24460">'
+    '#post-24460 .cm-featured-image{height:auto!important;max-height:none!important;aspect-ratio:auto!important;overflow:visible!important}'
+    '#post-24460 .cm-featured-image img{display:block!important;width:100%!important;max-width:765px!important;height:auto!important;max-height:none!important;aspect-ratio:auto!important;object-fit:contain!important;margin-left:auto!important;margin-right:auto!important}'
+    '</style>')
 
 
 class NewsError(RuntimeError):
@@ -116,6 +125,12 @@ def validate(data, now=None):
     recovery = data.get("recovery_post_id")
     require(recovery is None or type(recovery) is int and recovery > 0,
             "Recovery must name the previously created post")
+    repair = data.get("image_repair")
+    if repair is not None:
+        require(repair.get("post_id") == REPAIR_POST and repair.get("media_id") == REPAIR_MEDIA
+                and repair.get("observed_image_sha256") == RECOMPRESSED_SHA
+                and re.fullmatch(r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}", repair.get("expected_modified_gmt", "")),
+                "Portrait repair must target the exact known post/media snapshot")
 
 
 def safe_site_url(url):
@@ -163,6 +178,7 @@ class Publisher:
         self.auth, self.public, self.output, self.photo = auth, public, Path(output), photo
         self.actions = []
         self.audit = {"queries": [], "statuses": {}}
+        self.current_source = False
 
     def request(self, method, endpoint, **kwargs):
         try:
@@ -244,7 +260,7 @@ class Publisher:
         self.audit["queries"].append({"endpoint": endpoint, "query": query, "total": total, "pages": pages})
         return items
 
-    def reconcile(self):
+    def reconcile(self, repair=None):
         # Complete every identity query over every schema-supported status.
         posts = {}
         post_statuses = self.discover_statuses("posts")
@@ -284,6 +300,13 @@ class Publisher:
                 require(item.get("status") == "inherit", "Matching portrait is private/trashed; manual reconciliation required")
                 require(pixels(raw) == pixels(self.photo), "Matching original portrait pixels changed")
                 verified_media.append(item)
+            elif (repair and item.get("id") == REPAIR_MEDIA and item.get("post") == REPAIR_POST
+                    and item.get("status") == "inherit" and digest(raw) == RECOMPRESSED_SHA):
+                require(len(matches) == 1 and matches[0]["id"] == REPAIR_POST
+                        and matches[0].get("featured_media") == REPAIR_MEDIA
+                        and MARKER in matches[0].get("content", {}).get("raw", ""),
+                        "Known recompressed attachment is not on the owned post")
+                verified_media.append(item)
             else:
                 # Similar names alone do not establish a reusable image identity.
                 require(item.get("slug") != MEDIA_SLUG,
@@ -301,10 +324,109 @@ class Publisher:
     def original_url(self, media):
         url = safe_site_url(media.get("source_url", ""))
         original = media.get("media_details", {}).get("original_image")
-        if original:
+        if original and not self.current_source:
             require("/" not in original and ".." not in original, "Invalid original media filename")
             url = safe_site_url(urljoin(url, original))
         return url
+
+    def restore_portrait(self, data, preflight):
+        """Restore exact original bytes on the same attachment using core REST.
+
+        Sideload original + convert_format=false accepts the unchanged supplied
+        JPEG, then finalize records its metadata. No new attachment/post exists.
+        Lost responses stop and save targeted read-only reconciliation, never
+        cause another sideload within this run.
+        """
+        self.current_source = True
+        post, media = preflight["post"], preflight["media"]
+        require(post and media and post["id"] == REPAIR_POST and media["id"] == REPAIR_MEDIA,
+                "Repair identity unavailable")
+        raw_body = post.get("content", {}).get("raw", "")
+        base_body = BODY + "\n" + MARKER
+        repaired_body = base_body + "\n" + PORTRAIT_STYLE
+        require(post.get("status") == "publish" and post.get("slug") == SLUG
+                and post.get("featured_media") == REPAIR_MEDIA
+                and raw_body in (base_body, repaired_body)
+                and post.get("title", {}).get("raw") == HEADLINE,
+                "Owned post changed; do not repair or overwrite it")
+        original = self.original_image(media)
+        if digest(original) == PHOTO_SHA and raw_body == repaired_body:
+            return self.verify_public(post, REPAIR_MEDIA, operation="portrait_repair_already_applied")
+        require(post.get("modified_gmt") == data["image_repair"]["expected_modified_gmt"],
+                "Repair modification snapshot differs; re-review same post")
+        require(digest(original) in (PHOTO_SHA, RECOMPRESSED_SHA), "Unexpected portrait mutation")
+        me = self.read("users/me", params={"context": "edit", "_fields": "capabilities"})
+        require(me.get("capabilities", {}).get("unfiltered_html") is True,
+                "Existing account cannot preserve the bounded portrait style")
+        schema = self.request("OPTIONS", f"media/{REPAIR_MEDIA}/sideload").json()
+        require(any("POST" in endpoint.get("methods", [])
+                    and "convert_format" in endpoint.get("args", {})
+                    and "image_size" in endpoint.get("args", {})
+                    for endpoint in schema.get("endpoints", [])), "Core same-attachment restoration unavailable")
+        (self.output / "before-portrait-repair.json").write_text(json.dumps(self.snapshot(post), indent=2) + "\n")
+        if digest(original) != PHOTO_SHA:
+            action = {"method": "POST", "endpoint": f"media/{REPAIR_MEDIA}/sideload",
+                      "id": REPAIR_MEDIA, "state": "attempted"}
+            self.actions.append(action)
+            self.save_actions()
+            try:
+                sub_size = self.request("POST", f"media/{REPAIR_MEDIA}/sideload",
+                    params={"image_size": "original", "convert_format": "false"}, data=self.photo,
+                    headers={"Content-Type": "image/jpeg", "Content-Disposition":
+                        f'attachment; filename="{MEDIA_SLUG}-restored-original.jpg"'}).json()
+                require(sub_size.get("image_size") == "original" and sub_size.get("width") == 765
+                        and sub_size.get("height") == 906 and sub_size.get("filesize") == len(self.photo),
+                        "Sideload did not preserve exact original dimensions/size")
+                require(re.fullmatch(r"2026/10/alden-wade-portrait-af060be733a8921a-restored-original(?:-\d+)?\.jpg",
+                                    sub_size.get("file", "")), "Unexpected restored attachment path")
+                action["state"] = "confirmed"
+                (self.output / "sideload-receipt.json").write_text(json.dumps(sub_size, indent=2) + "\n")
+            except (NewsError, ValueError):
+                action["state"] = "uncertain_or_failed"
+                observed = self.read(f"media/{REPAIR_MEDIA}", params={"context": "edit"})
+                (self.output / "uncertain-media.json").write_text(json.dumps(observed, indent=2) + "\n")
+                raise NewsError("Portrait sideload failed/uncertain; reconcile media 24461 before any retry") from None
+            finally:
+                self.save_actions()
+            observed = self.read(f"media/{REPAIR_MEDIA}", params={"context": "edit"})
+            require(digest(self.original_image(observed)) == PHOTO_SHA,
+                    "Restored original bytes were altered; stop before another mutation")
+            media = self.write(f"media/{REPAIR_MEDIA}/finalize", json={"sub_sizes": [sub_size]})
+            require(media.get("id") == REPAIR_MEDIA
+                    and digest(self.original_image(media)) == PHOTO_SHA,
+                    "Same-attachment finalize did not preserve original bytes")
+        # Immediately re-read the same post; no text, SEO, slug/status/taxonomy edits.
+        current = self.read(f"posts/{REPAIR_POST}", params={"context": "edit"})
+        require(self.snapshot(current) == self.snapshot(post), "Post changed during restoration; stop")
+        if raw_body != repaired_body:
+            post = self.write(f"posts/{REPAIR_POST}", json={"content": repaired_body})
+            require(post.get("content", {}).get("raw") == repaired_body,
+                    "Scoped uncropped portrait style was not retained")
+        require(digest(self.original_image(self.read(f"media/{REPAIR_MEDIA}"))) == PHOTO_SHA,
+                "Restored public portrait changed")
+        return self.verify_public(post, REPAIR_MEDIA, operation="portrait_restored_same_attachment")
+
+    def repair_preflight(self, data, preflight):
+        post, media = preflight["post"], preflight["media"]
+        require(post and media and post["id"] == REPAIR_POST and media["id"] == REPAIR_MEDIA
+                and post.get("status") == "publish" and post.get("slug") == SLUG
+                and post.get("featured_media") == REPAIR_MEDIA
+                and post.get("content", {}).get("raw") in (
+                    BODY + "\n" + MARKER, BODY + "\n" + MARKER + "\n" + PORTRAIT_STYLE),
+                "Repair preflight owned post/media mismatch")
+        require(post.get("modified_gmt") == data["image_repair"]["expected_modified_gmt"],
+                "Repair snapshot differs")
+        me = self.read("users/me", params={"context": "edit", "_fields": "capabilities"})
+        require(me.get("capabilities", {}).get("unfiltered_html") is True,
+                "Existing account cannot retain this article's scoped portrait style")
+        for endpoint in (f"media/{REPAIR_MEDIA}/sideload", f"media/{REPAIR_MEDIA}/finalize"):
+            schema = self.request("OPTIONS", endpoint).json()
+            require(any("POST" in route.get("methods", []) for route in schema.get("endpoints", [])),
+                    "Core same-media restoration unavailable")
+        return {"post_id": REPAIR_POST, "media_id": REPAIR_MEDIA,
+                "same_attachment": True, "unchanged_original_bytes": PHOTO_SHA,
+                "scoped_style_sha256": digest(PORTRAIT_STYLE.encode()),
+                "style": PORTRAIT_STYLE, "seven_paragraphs_unchanged": BODY_SHA}
 
     def original_image(self, media):
         return public_get(self.public, self.original_url(media)).content
@@ -397,7 +519,8 @@ class Publisher:
                 and plain(visible.get("content", {}).get("rendered", "")) == plain(BODY),
                 "Public REST title/body/image differs from reviewed article")
         page = public_get(self.public, canonical)
-        soup = BeautifulSoup(page.text, "html.parser")
+        # Respect the HTML charset; requests' text default can misdecode quotes.
+        soup = BeautifulSoup(page.content, "html.parser")
         require(any(plain(h1) == HEADLINE for h1 in soup.find_all("h1")), "Public H1 differs")
         require(soup.title and plain(soup.title) == HEADLINE, "Public SEO title differs")
         desc = soup.find("meta", attrs={"name": "description"})
@@ -435,6 +558,8 @@ class Publisher:
 
 def run(data, output, offline=False, auth=None, public=None):
     validate(data)
+    require(not data["publish"] or not Path("news/publication-receipt.json").exists(),
+            "This article's mutation entry point is retired")
     output = Path(output)
     output.mkdir(parents=True, exist_ok=True)
     photo = Path(PHOTO_PATH).read_bytes()
@@ -459,6 +584,7 @@ def run(data, output, offline=False, auth=None, public=None):
         auth = requests.Session()
         auth.auth = (os.environ["WORDPRESS_USERNAME"], os.environ["WORDPRESS_APP_PASSWORD"])
     publisher = Publisher(auth, public, output, photo)
+    publisher.current_source = bool(data.get("image_repair"))
     try:
         # Read-only edit-context identity check establishes authentication before lookup.
         me = publisher.read("users/me", params={"context": "edit", "_fields": "id,capabilities"})
@@ -466,15 +592,17 @@ def run(data, output, offline=False, auth=None, public=None):
         require(all(me.get("capabilities", {}).get(capability) is True
                     for capability in ("edit_posts", "publish_posts", "upload_files")),
                 "Existing managed account lacks required publishing capabilities")
-        preflight = publisher.reconcile()
+        preflight = publisher.reconcile(data.get("image_repair"))
         publisher.category()  # Never create taxonomy.
+        repair_plan = publisher.repair_preflight(data, preflight) if data.get("image_repair") else None
         if not data["publish"]:
             return {"state": "authenticated_preflight", "authenticated": True, "sources_checked": sources,
                     "matching_post_ids": preflight["matching_post_ids"],
                     "matching_media_ids": preflight["matching_media_ids"], "all_statuses_checked": True,
-                    "actions": [], **review}
+                    "actions": [], "repair_plan": repair_plan, **review}
         require(os.environ.get("GITHUB_RUN_ATTEMPT", "1") == "1", "Automatic mutation reruns are disabled")
-        result = publisher.publish(data, preflight)
+        result = (publisher.restore_portrait(data, preflight) if data.get("image_repair")
+                  else publisher.publish(data, preflight))
         return {**result, "sources_checked": sources, "all_statuses_checked": True,
                 "actions": publisher.actions}
     finally:

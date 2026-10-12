@@ -16,14 +16,20 @@
   "quote_provenance": "publisher_supplied_verbatim",
   "school_statement_provenance": "inspected_supplied_images",
   "authorized": true,
-  "publish": true,
+  "publish": false,
   "parent_reviewed": true,
-  "verified_at": "2026-10-12T13:33:45.710038+00:00",
+  "verified_at": "2026-10-12T13:48:30.438943+00:00",
   "recovery_post_id": null,
   "preflight": {
     "run_id": 38255991734,
     "commit": "a171a44489df649dacfb45bd64fdbeab72d8ebae",
     "article_sha256": "8b48af17ab25bcc2eab475b99025dabc4e2ff503860ef1a8f785a1665857cd13",
     "image_sha256": "af060be733a8921aec8e6b90ca514079e55052bc25f49bc86d88778a3bfe7f79"
+  },
+  "image_repair": {
+    "post_id": 24460,
+    "media_id": 24461,
+    "observed_image_sha256": "b54480b63e83f966d8f39e07e740ed2bcbcbcd35c74ce7e3d43cc25cb497cbfd",
+    "expected_modified_gmt": "2026-10-12T13:34:20"
   }
 }

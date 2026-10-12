@@ -20,6 +20,7 @@ def data():
     result.update(publish=False, parent_reviewed=False,
                   verified_at=datetime.now(timezone.utc).isoformat(), recovery_post_id=None)
     result.pop("preflight", None)
+    result.pop("image_repair", None)
     return result
 
 
@@ -298,6 +299,7 @@ def test_public_verification_checks_canonical_seo_links_and_pixels(tmp_path):
             return r
         r = response({})
         r.text = "User-agent: *\nDisallow: /wp-admin/" if url.endswith("robots.txt") else html_page
+        r.content = r.text.encode()
         return r
     p.public.get.side_effect = get
     result = p.verify_public(value, 88, "published")
@@ -305,3 +307,81 @@ def test_public_verification_checks_canonical_seo_links_and_pixels(tmp_path):
     html_page = html_page.replace(f'href="{value["link"]}"', 'href="https://sportsmississippi.com/wrong/"')
     with pytest.raises(NewsError, match="canonical"):
         p.verify_public(value, 88, "published")
+
+
+def test_repair_scope_cannot_target_another_post_or_media(data):
+    from rss_to_wp.news.publisher import RECOMPRESSED_SHA
+    data["image_repair"] = {"post_id": 24460, "media_id": 24461,
+        "observed_image_sha256": RECOMPRESSED_SHA, "expected_modified_gmt": "2026-10-12T13:34:20"}
+    validate(data)
+    data["image_repair"]["post_id"] = 999
+    with pytest.raises(NewsError, match="exact known"):
+        validate(data)
+
+
+def test_original_restoration_is_same_attachment_no_conversion_and_post_only_style(data, tmp_path):
+    from rss_to_wp.news.publisher import REPAIR_POST, REPAIR_MEDIA, RECOMPRESSED_SHA, PORTRAIT_STYLE
+    p = publisher(tmp_path)
+    data["image_repair"] = {"post_id": REPAIR_POST, "media_id": REPAIR_MEDIA,
+        "observed_image_sha256": RECOMPRESSED_SHA, "expected_modified_gmt": "2026-10-12T12:00:00"}
+    state = post("publish", REPAIR_MEDIA)
+    state["id"] = REPAIR_POST
+    media = {"id": REPAIR_MEDIA, "post": REPAIR_POST, "source_url": "https://sportsmississippi.com/restored.jpg"}
+    # Already restored original: never upload again, only apply the scoped style.
+    p.original_image = Mock(return_value=p.photo)
+    p.verify_public = Mock(return_value={"state": "published", "post_id": REPAIR_POST})
+    def api(method, url, **kwargs):
+        endpoint = url.split("/wp/v2/")[1]
+        if endpoint == "users/me": return response({"capabilities": {"unfiltered_html": True}})
+        if method == "OPTIONS":
+            return response({"endpoints": [{"methods": ["POST"], "args": {"image_size": {}, "convert_format": {}}}]})
+        if endpoint == f"posts/{REPAIR_POST}":
+            if method == "POST":
+                assert list(kwargs["json"]) == ["content"]
+                state["content"] = {"raw": kwargs["json"]["content"]}
+            return response(copy.deepcopy(state))
+        if endpoint == f"media/{REPAIR_MEDIA}": return response(media)
+        pytest.fail("Unexpected image recreation")
+    p.auth.request.side_effect = api
+    result = p.restore_portrait(data, {"post": copy.deepcopy(state), "media": media})
+    assert result["post_id"] == REPAIR_POST
+    assert len(p.actions) == 1 and p.actions[0]["endpoint"] == "posts/24460"
+    assert state["content"]["raw"] == BODY + "\n" + MARKER + "\n" + PORTRAIT_STYLE
+
+
+def test_recompressed_image_replaced_once_on_same_attachment(data, tmp_path, monkeypatch):
+    import rss_to_wp.news.publisher as news
+    p = publisher(tmp_path)
+    data["image_repair"] = {"post_id": 24460, "media_id": 24461,
+        "observed_image_sha256": news.RECOMPRESSED_SHA, "expected_modified_gmt": "2026-10-12T12:00:00"}
+    state = post("publish", 24461)
+    state["id"] = 24460
+    media = {"id": 24461, "post": 24460, "source_url": "https://sportsmississippi.com/restored.jpg"}
+    uploaded = False
+    real_digest = news.digest
+    monkeypatch.setattr(news, "digest", lambda b: news.RECOMPRESSED_SHA if b == b"recompressed-fixture" else real_digest(b))
+    p.original_image = Mock(side_effect=lambda value: p.photo if uploaded else b"recompressed-fixture")
+    p.verify_public = Mock(return_value={"state": "published", "post_id": 24460})
+    receipt = {"image_size": "original", "width": 765, "height": 906, "filesize": len(p.photo),
+               "file": "2026/10/" + MEDIA_SLUG + "-restored-original.jpg", "original_image": MEDIA_SLUG + ".jpg"}
+    def api(method, url, **kwargs):
+        nonlocal uploaded
+        endpoint = url.split("/wp/v2/")[1]
+        if endpoint == "users/me": return response({"capabilities": {"unfiltered_html": True}})
+        if method == "OPTIONS": return response({"endpoints": [{"methods": ["POST"], "args": {"image_size": {}, "convert_format": {}}}]})
+        if endpoint == "media/24461/sideload":
+            assert kwargs["data"] == p.photo
+            assert kwargs["params"] == {"image_size": "original", "convert_format": "false"}
+            uploaded = True
+            return response(receipt)
+        if endpoint == "media/24461/finalize":
+            assert kwargs["json"] == {"sub_sizes": [receipt]}
+            return response(media)
+        if endpoint == "media/24461": return response(media)
+        if endpoint == "posts/24460":
+            if method == "POST": state["content"] = {"raw": kwargs["json"]["content"]}
+            return response(copy.deepcopy(state))
+        pytest.fail("New post or attachment not authorized")
+    p.auth.request.side_effect = api
+    assert p.restore_portrait(data, {"post": copy.deepcopy(state), "media": media})["post_id"] == 24460
+    assert [a["endpoint"] for a in p.actions] == ["media/24461/sideload", "media/24461/finalize", "posts/24460"]
