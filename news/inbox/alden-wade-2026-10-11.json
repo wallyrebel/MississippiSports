@@ -16,13 +16,13 @@
   "quote_provenance": "publisher_supplied_verbatim",
   "school_statement_provenance": "inspected_supplied_images",
   "authorized": true,
-  "publish": false,
+  "publish": true,
   "parent_reviewed": true,
-  "verified_at": "2026-10-12T13:48:30.438943+00:00",
+  "verified_at": "2026-10-12T13:51:18.346348+00:00",
   "recovery_post_id": null,
   "preflight": {
-    "run_id": 38255991734,
-    "commit": "a171a44489df649dacfb45bd64fdbeab72d8ebae",
+    "run_id": 38258315121,
+    "commit": "ea20989c0731b0ffed3830cac99600102d477041",
     "article_sha256": "8b48af17ab25bcc2eab475b99025dabc4e2ff503860ef1a8f785a1665857cd13",
     "image_sha256": "af060be733a8921aec8e6b90ca514079e55052bc25f49bc86d88778a3bfe7f79"
   },
