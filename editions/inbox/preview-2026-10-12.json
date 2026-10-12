@@ -1,0 +1,370 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-10-12",
+  "verified_at": "2026-10-12T15:16:29-05:00",
+  "publish": true,
+  "checked_sports": [
+    "volleyball",
+    "softball",
+    "football",
+    "cross country",
+    "golf",
+    "swimming",
+    "soccer"
+  ],
+  "games": [
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-12",
+      "away": "Center Hill",
+      "home": "Neshoba Central",
+      "status": "scheduled",
+      "start_time": "2026-10-12T17:30:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/center-hill-olive-branch-vs-neshoba-central-philadelphia/10-12-2026/?c=2a4eb1e0-0aff-4926-b8cf-b737cfaa35d1",
+        "excerpt": "Center Hill vs Neshoba Central | Volleyball | 10/12/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Volleyball Mississippi High School Volleyball Center Hill Girls Varsity Volleyball @ Neshoba Central Center Hill Mustangs 16-11 Monday, Oct 12, 2026 5:30pm CDT Neshoba Central Rockets 36-4 Center Hill Girls Varsity Volleyball @ Neshoba Central Streaming & Ticketing Purchase Tickets",
+        "date_excerpt": "10/12/2026",
+        "time_excerpt": "5:30pm CDT",
+        "home_name": "Neshoba Central",
+        "away_name": "Center Hill"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-12",
+      "away": "Lewisburg",
+      "home": "Germantown",
+      "status": "scheduled",
+      "start_time": "2026-10-12T18:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/germantown-madison-vs-lewisburg-olive-branch/10-12-2026/?c=c34b9ec5-5c71-4911-8297-9672700a58e3",
+        "excerpt": "Lewisburg vs Germantown | Volleyball | 10/12/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Volleyball Mississippi High School Volleyball Lewisburg Girls Varsity Volleyball @ Germantown Lewisburg Patriots 33-8 Monday, Oct 12, 2026 6:00pm CDT Germantown Mavericks 28-8 Lewisburg Girls Varsity Volleyball @ Germantown Streaming & Ticketing Purchase Tickets",
+        "date_excerpt": "10/12/2026",
+        "time_excerpt": "6:00pm CDT",
+        "home_name": "Germantown",
+        "away_name": "Lewisburg"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-12",
+      "away": "Belmont",
+      "home": "Kossuth",
+      "status": "scheduled",
+      "start_time": "2026-10-12T18:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/belmont-vs-kossuth/10-12-2026/?c=5ef2424d-65cd-4291-8022-09456c531707",
+        "excerpt": "Belmont vs Kossuth | Volleyball | 10/12/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Volleyball Mississippi High School Volleyball Belmont Girls Varsity Volleyball @ Kossuth Belmont Cardinals 16-18 Monday, Oct 12, 2026 6:00pm CDT Kossuth Aggies 29-4 Belmont Girls Varsity Volleyball @ Kossuth Streaming & Ticketing Purchase Tickets",
+        "date_excerpt": "10/12/2026",
+        "time_excerpt": "6:00pm CDT",
+        "home_name": "Kossuth",
+        "away_name": "Belmont"
+      }
+    },
+    {
+      "sport": "softball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-12",
+      "away": "Simpson Academy",
+      "home": "Copiah Academy",
+      "status": "scheduled",
+      "start_time": "2026-10-12T18:30:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/softball/game/copiah-academy-gallman-vs-simpson-academy-mendenhall/10-12-2026/?c=d4f596e3-d9ec-4014-8d0a-bfa25aed1a37",
+        "excerpt": "Simpson Academy vs Copiah Academy | Softball | 10/12/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Softball Mississippi High School Softball Simpson Academy Varsity Softball @ Copiah Academy Simpson Academy Cougars 24-12-1 Monday, Oct 12, 2026 6:30pm CDT Copiah Academy Colonels 3-5 Simpson Academy Varsity Softball @ Copiah Academy",
+        "date_excerpt": "10/12/2026",
+        "time_excerpt": "6:30pm CDT",
+        "home_name": "Copiah Academy",
+        "away_name": "Simpson Academy"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-10-10/",
+      "title": "Simpson forces a deciding game with Saturday win"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: State-final berths and a softball decider headline Monday night",
+    "headline_fact_ids": [
+      "center-stakes",
+      "lewisburg-stakes",
+      "kossuth-context",
+      "softball-decider"
+    ],
+    "html": "<p data-facts=\"game-0 game-1 game-2 game-3 center-stakes lewisburg-stakes kossuth-context softball-decider\">Championship opportunities frame Monday night’s Mississippi high school schedule. Center Hill, Lewisburg and Kossuth play volleyball semifinals with a place in a state final available, while Simpson Academy and Copiah Academy meet in the deciding game of their softball series. These are four verified selections for October 12, with all listed starts still ahead at the afternoon check.</p>\n<h2 data-facts=\"game-0 center-stakes\">Center Hill faces Neshoba Central for a final berth</h2>\n<p data-facts=\"game-0 center-records center-stakes center-class\">Center Hill takes a 16–11 record to Philadelphia for a 5:30 p.m. CDT match against 36–4 Neshoba Central. The Class 6A semifinal pairs a Mustangs team still standing after two playoff rounds with a Rockets team that has compiled a much stronger overall record.</p>\n<p data-facts=\"center-sweeps center-stakes center-class\">Both arrived with second-round sweeps: Center Hill defeated Saltillo 3–0, and Neshoba Central beat Lake Cormorant by the same margin. Those results give this matchup a more immediate point of comparison than the season records alone. The <a href=\"https://www.maxpreps.com/tournament/ubMpN1v1D0qu0oRFYRvlbQ/BV8L5Ej8gkSoYB264exqMQ/volleyball-26/2026-mhsaa-volleyball-championships-class-6a.htm\">Class 6A bracket</a> sends the winner into the championship match.</p>\n<h2 data-facts=\"game-1 lewisburg-stakes\">Lewisburg and Germantown meet with a state-final place at stake</h2>\n<p data-facts=\"game-1 lewisburg-records lewisburg-stakes lewisburg-class\">Lewisburg travels to Germantown in Madison for a 6 p.m. CDT Class 7A semifinal. The Patriots enter 33–8, while the Mavericks are 28–8, making this a meeting of teams whose season-long success now comes down to advancing through the same side of the bracket.</p>\n<p data-facts=\"lewisburg-path lewisburg-stakes lewisburg-class\">Neither needed a deciding fifth set in the previous round. Lewisburg eliminated Hernando 3–1, and Germantown defeated DeSoto Central 3–1. Their next step is directly to the final, according to the <a href=\"https://www.maxpreps.com/tournament/ubMpN1v1D0qu0oRFYRvlbQ/Wu77CcEqeEW6M_9EWoSmlg/volleyball-26/2026-mhsaa-volleyball-championships-class-7a.htm\">Class 7A bracket</a>.</p>\n<h2 data-facts=\"game-2 kossuth-context\">Kossuth’s winning run meets Belmont’s playoff resilience</h2>\n<p data-facts=\"game-2 kossuth-context kossuth-records\">Kossuth hosts Belmont at 6 p.m. CDT with the Class 3A final in reach. The 29–4 Aggies bring a 21-match winning streak and have not dropped a set in three playoff matches. Belmont, 16–18, reached this point through a five-set victory over Booneville. That contrast in their routes makes the matchup worth watching: Kossuth has moved through the postseason cleanly, while Belmont has already survived a match that went the distance. <a href=\"https://alcornsportsms.com/2026/10/12/kossuth-hosts-belmont-tonight-one-win-from-state-final/\">Alcorn Sports’ preview</a> details both teams’ paths.</p>\n<h2 data-facts=\"game-3 softball-decider\">Simpson and Copiah reach the softball decider</h2>\n<p data-facts=\"game-3 softball-decider softball-response softball-opener softball-game-two\">Simpson Academy visits Copiah Academy in Gallman at 6:30 p.m. CDT for Game 3 of the MAIS State 4A D1 best-of-three series. Copiah took the opener 9–7, but Simpson answered with an 11–3 win in Game 2. Our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-10-10/\">Saturday results report</a> covered the response that kept Simpson alive and forced tonight’s deciding game.</p>\n<p data-facts=\"softball-record softball-response\">MaxPreps lists Simpson at 24–12–1. Copiah’s complete season record has not been independently confirmed. The tied series is the clearest guide to tonight’s stakes.</p>",
+    "facts": [
+      {
+        "id": "center-records",
+        "kind": "record",
+        "claim": "Center Hill enters 16-11; Neshoba Central enters 36-4.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/center-hill-olive-branch-vs-neshoba-central-philadelphia/10-12-2026/?c=2a4eb1e0-0aff-4926-b8cf-b737cfaa35d1",
+          "excerpt": "Center Hill Mustangs 16-11 Monday, Oct 12, 2026 5:30pm CDT Neshoba Central Rockets 36-4",
+          "subjects": [
+            "Center Hill",
+            "Neshoba Central"
+          ]
+        }
+      },
+      {
+        "id": "lewisburg-records",
+        "kind": "record",
+        "claim": "Lewisburg enters 33-8; Germantown enters 28-8.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/germantown-madison-vs-lewisburg-olive-branch/10-12-2026/?c=c34b9ec5-5c71-4911-8297-9672700a58e3",
+          "excerpt": "Lewisburg Patriots 33-8 Monday, Oct 12, 2026 6:00pm CDT Germantown Mavericks 28-8",
+          "subjects": [
+            "Lewisburg",
+            "Germantown"
+          ]
+        }
+      },
+      {
+        "id": "center-stakes",
+        "kind": "stakes",
+        "claim": "Center Hill and Neshoba Central play a semifinal; the winner advances to the championship.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/ubMpN1v1D0qu0oRFYRvlbQ/BV8L5Ej8gkSoYB264exqMQ/volleyball-26/2026-mhsaa-volleyball-championships-class-6a.htm",
+          "excerpt": "Oct 12 Semifinals M13 10/12 @ 5:30p 1 Center Hill 5 Neshoba Central Preview Details M14 10/12 @ 6p 9 George County 13 Hancock Watch Live Stream Preview Details Oct 15 Championship Championship M15 10/15 @ 12p Winner M13 Winner M14",
+          "subjects": [
+            "Center Hill",
+            "Neshoba Central"
+          ]
+        }
+      },
+      {
+        "id": "center-class",
+        "kind": "context",
+        "claim": "Center Hill and Neshoba Central compete in Class 6A.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/ubMpN1v1D0qu0oRFYRvlbQ/BV8L5Ej8gkSoYB264exqMQ/volleyball-26/2026-mhsaa-volleyball-championships-class-6a.htm",
+          "excerpt": "2026 MHSAA Volleyball Championships Search Tournaments MS Volleyball Playoffs 2026 MS Brackets Stat Leaders Scoreboard Class 6A Location Various Cities, MS Home Team Instructions Print Download PDF Add to My Site Oct 6 First Round R1#1 Vs. 2#4 1 Center Hill 3 2 Callaway 0 25-8 25-11 25-6 Recap Details R2#2 Vs. 1#3 3 Warren Central 1 4 Saltillo 3 Recap Details R2#1 Vs. 1#4 5 Neshoba Central 3 6 Olive Branch 0 1-0 1-0 1-0 Recap Details R1#2 Vs. 2#3 7 Lake Cormorant 3 8 Ridgeland 0 25-17 25-13 25-18 Recap Details R3#1 Vs. 4#4 9 George County 3 10 Gautier 0 25-16 25-11 25-19 Recap Details R4#2 Vs. 3#3 11 Picayune 3 12 Hattiesburg 1 20-25 25-5 25-18 25-8 Recap Details R4#1 Vs. 3#4 13 Hancock 3 14 Forest Hill 0 25-8 25-12 25-8 Recap Details R3#2 Vs. 4#3 15 West Jones 0 16 Long Beach 3 25-12 25-7 25-23 Recap Details Oct 8 Second Round 1 Center Hill 3 4 Saltillo 0 25-10 25-20 25-23 Recap Details 5 Neshoba Central 3 7 Lake Cormorant 0 25-13 26-24 25-20 Recap Details 9 George County 3 11 Picayune 0 25-17 25-7 25-17 Recap Details 13 Hancock 3 16 Long Beach 0 25-12 25-16 25-6 Watch Full Replay Recap Details",
+          "subjects": [
+            "Center Hill",
+            "Neshoba Central"
+          ]
+        }
+      },
+      {
+        "id": "lewisburg-stakes",
+        "kind": "stakes",
+        "claim": "Lewisburg and Germantown play a semifinal; the winner advances to the championship.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/ubMpN1v1D0qu0oRFYRvlbQ/Wu77CcEqeEW6M_9EWoSmlg/volleyball-26/2026-mhsaa-volleyball-championships-class-7a.htm",
+          "excerpt": "Oct 12 Semifinals M13 10/12 @ 6p 1 Lewisburg 5 Germantown Preview Details M14 10/12 @ 6p 9 Brandon 13 Ocean Springs Preview Details Oct 15 Championship Championship M15 10/15 @ 6p Winner M13 Winner M14",
+          "subjects": [
+            "Lewisburg",
+            "Germantown"
+          ]
+        }
+      },
+      {
+        "id": "lewisburg-class",
+        "kind": "context",
+        "claim": "Lewisburg and Germantown compete in Class 7A.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/ubMpN1v1D0qu0oRFYRvlbQ/Wu77CcEqeEW6M_9EWoSmlg/volleyball-26/2026-mhsaa-volleyball-championships-class-7a.htm",
+          "excerpt": "2026 MHSAA Volleyball Championships Search Tournaments MS Volleyball Playoffs 2026 MS Brackets Stat Leaders Scoreboard Class 7A Location Various Cities, MS Home Team Instructions Print Download PDF Add to My Site Oct 6 First Round R1#1 Vs. 2#4 1 Lewisburg 3 2 Starkville 0 28-26 25-15 25-15 Recap Details R2#2 Vs. 1#3 3 Oxford 2 4 Hernando 3 Recap Details R2#1 Vs. 1#4 5 Germantown 3 6 Tupelo 1 25-21 18-25 25-23 25-20 Recap Details R1#2 Vs. 2#3 7 DeSoto Central 3 8 Madison Central 2 25-11 23-25 25-21 22-25 15-12 Recap Details R3#1 Vs. 4#4 9 Brandon 3 10 Harrison Central 0 25-10 25-10 25-14 Recap Details R4#2 Vs. 3#3 11 Gulfport 0 12 Northwest Rankin 3 25-20 25-19 25-22 Recap Details R4#1 Vs. 3#4 13 Ocean Springs 3 14 Petal 0 25-12 25-21 25-13 Recap Details R3#2 Vs. 4#3 15 Oak Grove 3 16 West Harrison 0 25-18 25-14 25-23 Recap Details Oct 8 Second Round 1 Lewisburg 3 4 Hernando 1 16-25 25-23 25-21 25-13 Recap Details 5 Germantown 3 7 DeSoto Central 1 25-22 22-25 25-21 25-18 Recap Details 9 Brandon 3 12 Northwest Rankin 1 25-21 20-25 26-24 25-23 Recap Details 13 Ocean Springs 3 15 Oak Grove 0 25-17 25-10 25-12 Recap Details",
+          "subjects": [
+            "Lewisburg",
+            "Germantown"
+          ]
+        }
+      },
+      {
+        "id": "center-sweeps",
+        "kind": "result",
+        "claim": "Center Hill beat Saltillo 3-0 and Neshoba Central beat Lake Cormorant 3-0 in the second round.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/ubMpN1v1D0qu0oRFYRvlbQ/BV8L5Ej8gkSoYB264exqMQ/volleyball-26/2026-mhsaa-volleyball-championships-class-6a.htm",
+          "excerpt": "Oct 8 Second Round 1 Center Hill 3 4 Saltillo 0 25-10 25-20 25-23 Recap Details 5 Neshoba Central 3 7 Lake Cormorant 0 25-13 26-24 25-20 Recap Details",
+          "subjects": [
+            "Center Hill",
+            "Neshoba Central"
+          ]
+        }
+      },
+      {
+        "id": "lewisburg-path",
+        "kind": "result",
+        "claim": "Lewisburg beat Hernando 3-1; Germantown beat DeSoto Central 3-1 in the second round.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/ubMpN1v1D0qu0oRFYRvlbQ/Wu77CcEqeEW6M_9EWoSmlg/volleyball-26/2026-mhsaa-volleyball-championships-class-7a.htm",
+          "excerpt": "Oct 8 Second Round 1 Lewisburg 3 4 Hernando 1 16-25 25-23 25-21 25-13 Recap Details 5 Germantown 3 7 DeSoto Central 1 25-22 22-25 25-21 25-18 Recap Details",
+          "subjects": [
+            "Lewisburg",
+            "Germantown"
+          ]
+        }
+      },
+      {
+        "id": "kossuth-context",
+        "kind": "context",
+        "claim": "Kossuth enters with 21 consecutive wins. Kossuth has won three playoff matches without dropping a set. Belmont beat Booneville in five sets. The winner advances to the Class 3A final.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://alcornsportsms.com/2026/10/12/kossuth-hosts-belmont-tonight-one-win-from-state-final/",
+          "excerpt": "Belmont needed five sets to get past Booneville. Kossuth has not dropped one in three playoff matches. Those paths meet tonight, Monday, October 12, when the Aggies host Belmont at 6 p.m. with a place in the Class 3A volleyball final at stake. Kossuth enters 29â4 with 21 consecutive wins, including September sweeps of Belmont at home and on the road. The 16â18 Cardinals earned another meeting by overcoming a two-sets-to-one deficit against Booneville, winning the fourth 27â25 and the fifth 15â13.",
+          "subjects": [
+            "Kossuth",
+            "Belmont"
+          ]
+        }
+      },
+      {
+        "id": "kossuth-records",
+        "kind": "record",
+        "claim": "Kossuth enters 29-4; Belmont enters 16-18.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/belmont-vs-kossuth/10-12-2026/?c=5ef2424d-65cd-4291-8022-09456c531707",
+          "excerpt": "Belmont Cardinals 16-18 Monday, Oct 12, 2026 6:00pm CDT Kossuth Aggies 29-4",
+          "subjects": [
+            "Kossuth",
+            "Belmont"
+          ]
+        }
+      },
+      {
+        "id": "softball-decider",
+        "kind": "stakes",
+        "claim": "Simpson Academy at Copiah Academy is MAIS State 4A D1 Game 3 of a best-of-three series.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/softball/game/copiah-academy-gallman-vs-simpson-academy-mendenhall/10-12-2026/?c=d4f596e3-d9ec-4014-8d0a-bfa25aed1a37",
+          "excerpt": "Game Info The Simpson Academy varsity softball team has an away playoff game @ Copiah Academy (Gallman, MS) today @ 6:30p. Matchup Roster Game Details Monday, Oct 12, 2026 6:30pm CDT Playoff MAIS State 4A D1 Game 3 best of 3 series",
+          "subjects": [
+            "Simpson Academy",
+            "Copiah Academy"
+          ]
+        }
+      },
+      {
+        "id": "softball-record",
+        "kind": "record",
+        "claim": "MaxPreps lists Simpson Academy at 24-12-1.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/softball/game/copiah-academy-gallman-vs-simpson-academy-mendenhall/10-12-2026/?c=d4f596e3-d9ec-4014-8d0a-bfa25aed1a37",
+          "excerpt": "Simpson Academy Cougars 24-12-1",
+          "subjects": [
+            "Simpson Academy"
+          ]
+        }
+      },
+      {
+        "id": "softball-response",
+        "kind": "result",
+        "claim": "Each team now has a victory in the series, requiring a deciding third game.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-10-10/",
+          "excerpt": "Each team now has a victory in the series, requiring a deciding third game.",
+          "subjects": [
+            "series"
+          ]
+        }
+      },
+      {
+        "id": "softball-opener",
+        "kind": "history",
+        "claim": "Copiah Academy defeated Simpson Academy 9-7 in the October 8, 2026 opener.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/softball/game/copiah-academy-gallman-vs-simpson-academy-mendenhall/10-8-2026/?c=fc87d81d-3cfa-459e-8a27-4673c3585570",
+          "excerpt": "Simpson Academy vs Copiah Academy | Softball | 10/08/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Softball Mississippi High School Softball Simpson Academy Varsity Softball @ Copiah Academy Simpson Academy 24-12-1 Cougars 7 Final 9 Copiah Academy 3-5 Colonels Simpson Academy Varsity Softball @ Copiah Academy",
+          "subjects": [
+            "Simpson Academy",
+            "Copiah Academy"
+          ],
+          "date_excerpt": "10/08/2026"
+        },
+        "fact_date": "2026-10-08"
+      },
+      {
+        "id": "softball-game-two",
+        "kind": "history",
+        "claim": "Simpson Academy defeated Copiah Academy 11-3 in Game 2 on October 10, 2026.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/softball/game/copiah-academy-gallman-vs-simpson-academy-mendenhall/10-10-2026/?c=b9536ad2-bd03-4a1d-b00c-1ca052d83ecc&tab=Matchup",
+          "excerpt": "Copiah Academy vs Simpson Academy | Softball | 10/10/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Softball Mississippi High School Softball Copiah Academy Varsity Softball @ Simpson Academy Copiah Academy 3-5 Colonels 3 Final 11 Simpson Academy 24-12-1 Cougars Copiah Academy Varsity Softball @ Simpson Academy Game Info On 10/10, the Copiah Academy varsity softball team lost their away playoff game against Simpson Academy (Mendenhall, MS) by a score of 11-3. Recap Matchup Roster Game Details Saturday, Oct 10, 2026 6:30pm CDT Playoff MAIS State 4A D1 Game 2 best of 3 Series",
+          "subjects": [
+            "Simpson Academy",
+            "Copiah Academy"
+          ],
+          "date_excerpt": "10/10/2026"
+        },
+        "fact_date": "2026-10-10"
+      }
+    ]
+  }
+}
