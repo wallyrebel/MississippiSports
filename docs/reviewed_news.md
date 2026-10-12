@@ -1,5 +1,10 @@
 # One explicitly reviewed Tupelo news article
 
+**Retired after completion.** The article is public as post 24460 with attachment
+24461. `news/publication-receipt.json` retains the independently verified result.
+`reviewed_news.yml` has been removed, the intake is `publish: false`, and the
+worker refuses mutation mode while the receipt exists. No new schedule remains.
+
 The user approved the single-news route and the Alden Wade article. This bounded
 transport accepts only the fixed headline, topic slug, original portrait digest,
 reviewed prose and two exact reporting source identities in `news.publisher`.
@@ -54,3 +59,24 @@ Local checks from the repository root:
 PYTHONPATH=src python -m pytest tests/test_news.py tests/test_editions.py -q
 PYTHONPATH=src python -m rss_to_wp.news.publisher news/inbox/alden-wade-2026-10-11.json --offline --output /tmp/tupelo-review
 ```
+
+## Final portrait verification
+
+The theme initially rendered the portrait with `object-fit: cover` in a wide
+frame. The supported WordPress core `media/24461/sideload` endpoint accepted the
+same original JPEG with `image_size: original` and `convert_format: false`;
+`media/24461/finalize` completed that same attachment. The post's seven paragraphs,
+headline, slug, taxonomy and SEO remained unchanged. Fixed CSS limited to
+`#post-24460 .cm-featured-image` now displays the whole portrait proportionally.
+Chrome verified both natural and displayed dimensions as 765×906 with
+`object-fit: contain`, and the complete actual image was visually inspected.
+
+WordPress subsequently applies normal JPEG recompression even on that restored
+file. The parent's completion instructions explicitly accepted minor compression
+differences instead of repeated/destructive uploads. Public dimensions and
+appearance are preserved; average channel difference is 0.786 on a 0–255 scale
+(PSNR 45.89 dB). The final read-only receipt accurately distinguishes the approved
+original digest from the served JPEG/pixel digests. Do not claim final served
+bytes are identical to the Library original or modify global/plugin settings to
+change this behavior. There were no AI edits, new attachment IDs, credential or
+permission changes, or changes to any other post or schedule.

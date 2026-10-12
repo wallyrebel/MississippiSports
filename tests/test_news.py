@@ -385,3 +385,15 @@ def test_recompressed_image_replaced_once_on_same_attachment(data, tmp_path, mon
     p.auth.request.side_effect = api
     assert p.restore_portrait(data, {"post": copy.deepcopy(state), "media": media})["post_id"] == 24460
     assert [a["endpoint"] for a in p.actions] == ["media/24461/sideload", "media/24461/finalize", "posts/24460"]
+
+
+def test_retirement_blocks_mutation_entrypoint_before_authentication(data, tmp_path, monkeypatch):
+    import rss_to_wp.news.publisher as news
+    data.update(publish=True,parent_reviewed=True,preflight={"run_id":1,"commit":"a"*40,
+                    "article_sha256":BODY_SHA,"image_sha256":PHOTO_SHA})
+    actual_exists = Path.exists
+    monkeypatch.setattr(news.Path,"exists",lambda p: True if str(p)=="news/publication-receipt.json" else actual_exists(p))
+    auth = Mock()
+    with pytest.raises(NewsError,match="retired"):
+        run(data,tmp_path,auth=auth)
+    assert not auth.request.called

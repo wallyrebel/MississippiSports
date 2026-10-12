@@ -16,7 +16,7 @@
   "quote_provenance": "publisher_supplied_verbatim",
   "school_statement_provenance": "inspected_supplied_images",
   "authorized": true,
-  "publish": true,
+  "publish": false,
   "parent_reviewed": true,
   "verified_at": "2026-10-12T13:51:18.346348+00:00",
   "recovery_post_id": null,

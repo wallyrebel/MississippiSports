@@ -1,0 +1,67 @@
+{
+  "state": "independently_verified_public",
+  "post_id": 24460,
+  "url": "https://sportsmississippi.com/prep-sports/tupelo-football-player-alden-wade-killed-weekend-crash/",
+  "featured_media": 24461,
+  "image_url": "https://sportsmississippi.com/wp-content/uploads/2026/10/alden-wade-portrait-af060be733a8921a-restored-original.jpg",
+  "approved_original_image_sha256": "af060be733a8921aec8e6b90ca514079e55052bc25f49bc86d88778a3bfe7f79",
+  "served_image_sha256": "b54480b63e83f966d8f39e07e740ed2bcbcbcd35c74ce7e3d43cc25cb497cbfd",
+  "served_pixel_sha256": "982351898f1aa9cec12009f864f849c88e8cc8135245ca08271dc5b2857135a0",
+  "article_sha256": "8b48af17ab25bcc2eab475b99025dabc4e2ff503860ef1a8f785a1665857cd13",
+  "headline": "Tupelo Football Player Killed In Weekend Crash",
+  "slug": "tupelo-football-player-alden-wade-killed-weekend-crash",
+  "checks": {
+    "public_status": true,
+    "full_body": true,
+    "excerpt": true,
+    "source_links": true,
+    "title_and_h1": true,
+    "description": true,
+    "self_canonical": true,
+    "indexable": true,
+    "original_dimensions_and_appearance": true,
+    "scoped_proportional_display": true
+  },
+  "image_processing_note": "WordPress performs normal JPEG recompression. Mean RGB difference is less than 1 on 0–255 scale; appearance and full dimensions preserved. No AI edits. Parent authorized minor JPEG differences rather than repeated uploads.",
+  "mean_absolute_rgb_difference_0_255": 0.7857969383485551,
+  "retired": true,
+  "publication_action_id": 38256556648,
+  "repair_preflight_action_id": 38258315121,
+  "repair_action_id": 38258641563,
+  "publication_commit": "df1769445f6e06589801d736aee25f5c2b20ea8b",
+  "repair_commit": "bfc49062cf902f578458afa4e3d7137e12d3d3d9",
+  "browser_geometry": {
+    "currentSrc": "https://sportsmississippi.com/wp-content/uploads/2026/10/alden-wade-portrait-af060be733a8921a-restored-original.jpg",
+    "displayHeight": 906,
+    "displayWidth": 765,
+    "naturalHeight": 906,
+    "naturalWidth": 765,
+    "objectFit": "contain",
+    "objectPosition": "50% 50%",
+    "src": "https://sportsmississippi.com/wp-content/uploads/2026/10/alden-wade-portrait-af060be733a8921a-restored-original.jpg"
+  },
+  "wordPress_actions": [
+    {
+      "run_id": 38256556648,
+      "operations": [
+        "POST posts -> 24460 draft",
+        "POST media -> 24461",
+        "POST media/24461 alt/caption/parent",
+        "POST posts/24460 featured/SEO",
+        "POST posts/24460 publish"
+      ]
+    },
+    {
+      "run_id": 38258641563,
+      "operations": [
+        "POST media/24461/sideload unchanged original, conversion false",
+        "POST media/24461/finalize",
+        "POST posts/24460 scoped proportional portrait CSS"
+      ]
+    }
+  ],
+  "additional_posts_or_media": 0,
+  "other_schedules_unchanged": true,
+  "publication_tests_passed": 110,
+  "final_offline_tests_passed": 111
+}

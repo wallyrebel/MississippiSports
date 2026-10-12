@@ -558,7 +558,7 @@ class Publisher:
 
 def run(data, output, offline=False, auth=None, public=None):
     validate(data)
-    require(not data["publish"] or not Path("news/publication-receipt.json").exists(),
+    require(offline or not data["publish"] or not Path("news/publication-receipt.json").exists(),
             "This article's mutation entry point is retired")
     output = Path(output)
     output.mkdir(parents=True, exist_ok=True)
