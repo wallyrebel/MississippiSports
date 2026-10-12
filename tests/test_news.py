@@ -19,6 +19,7 @@ def data():
     result = json.loads(Path("news/inbox/alden-wade-2026-10-11.json").read_text())
     result.update(publish=False, parent_reviewed=False,
                   verified_at=datetime.now(timezone.utc).isoformat(), recovery_post_id=None)
+    result.pop("preflight", None)
     return result
 
 
