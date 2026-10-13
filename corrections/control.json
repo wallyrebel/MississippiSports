@@ -1,0 +1,8 @@
+{
+  "apply": false,
+  "parent_reviewed": false,
+  "parent_priority_released": true,
+  "approved_plan_sha256": "",
+  "preflight_run_id": "",
+  "preflight_commit": ""
+}

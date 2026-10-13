@@ -1,0 +1,41 @@
+name: One-shot audited post corrections
+
+on:
+  push:
+    branches: [main]
+    paths: ['corrections/control.json']
+
+permissions:
+  contents: read
+
+concurrency:
+  group: sportsms-daily-editions
+  cancel-in-progress: false
+
+jobs:
+  correct:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install correction-only dependencies
+        run: pip install requests beautifulsoup4 pytest
+      - name: Test bounded correction worker
+        run: python -m pytest tests/test_audited_corrections.py -q
+      - name: Preflight or apply reviewed existing-post corrections
+        env:
+          WORDPRESS_BASE_URL: ${{ secrets.WORDPRESS_BASE_URL }}
+          WORDPRESS_USERNAME: ${{ secrets.WORDPRESS_USERNAME }}
+          WORDPRESS_APP_PASSWORD: ${{ secrets.WORDPRESS_APP_PASSWORD }}
+        run: python scripts/correct_audited_posts.py
+      - name: Save reviewable sanitized plan and receipts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: audited-correction-results-${{ github.run_id }}
+          path: correction-output/
+          retention-days: 14
+          if-no-files-found: warn
