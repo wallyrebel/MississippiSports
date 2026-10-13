@@ -1,0 +1,268 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-10-12",
+  "verified_at": "2026-10-13T13:12:25.126575+00:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "volleyball",
+    "softball",
+    "cross country",
+    "golf",
+    "swimming",
+    "soccer"
+  ],
+  "games": [
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-12",
+      "home": "Germantown",
+      "away": "Lewisburg",
+      "status": "final",
+      "home_score": 2,
+      "away_score": 3,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/germantown-madison-vs-lewisburg-olive-branch/10-12-2026/?c=c34b9ec5-5c71-4911-8297-9672700a58e3",
+        "excerpt": "High School Volleyball Mississippi High School Volleyball Lewisburg Girls Varsity Volleyball @ Germantown Lewisburg 34-8 Patriots 3 Final 2 Germantown 28-9 Mavericks Lewisburg Girls Varsity Volleyball @ Germantown Game Info On 10/12, the Lewisburg varsity volleyball team won their away playoff match against Germantown (Madison, MS) by a score of 3-2. Recap Matchup Roster Boxscore S1 S2 S3 S4 S5 Wins Lewisburg 24 15 25 26 15 3 Germantown 26 25 19 24 7 2 Final score provided by B. Shields Mississippi High School Volleyball - Lewisburg tips Germantown The Lewisburg Patriots (Olive Branch, MS) volleyball held off the host Germantown Mavericks (Madison, MS), 3-2 in Monday's non-league bout. The Patriots now possess a 34-8 record. They play next when they travel to Ocean Springs for a non-league bout on Thursday, October 15. Lewisburg will clash with a Greyhounds team coming off a 3-2 non-league win over Brandon (Brandon, MS). The Greyhounds record now stands at 32-8. With the loss, Germantown drops to 28-9 on the campaign. October 12, 2026",
+        "date_excerpt": "October 12, 2026",
+        "home_name": "Germantown",
+        "away_name": "Lewisburg"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-12",
+      "home": "Neshoba Central",
+      "away": "Center Hill",
+      "status": "final",
+      "home_score": 1,
+      "away_score": 3,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/center-hill-olive-branch-vs-neshoba-central-philadelphia/10-12-2026/?c=2a4eb1e0-0aff-4926-b8cf-b737cfaa35d1",
+        "excerpt": "High School Volleyball Mississippi High School Volleyball Center Hill Girls Varsity Volleyball @ Neshoba Central Center Hill 17-11 Mustangs 3 Final 1 Neshoba Central 36-5 Rockets Center Hill Girls Varsity Volleyball @ Neshoba Central Game Info On 10/12, the Center Hill varsity volleyball team won their away playoff match against Neshoba Central (Philadelphia, MS) by a score of 3-1. Recap Matchup Roster Fan Chat Boxscore S1 S2 S3 S4 Wins Center Hill 25 20 25 25 3 Neshoba Central 14 25 22 17 1 Final score provided by M. Irby Mississippi High School Volleyball - Neshoba Central Center Hill The Center Hill Mustangs prevailed the host Neshoba Central Rockets volleyball squad by a final score of 3-1 in Monday's non-league game. Next up, the Mustangs confront the Hancock Hawks (Kiln, MS) in a non-league game, on Thursday, October 15. Center Hill will attempt to advance on its 17-11 season record. The Hawks enter the game with a 25-8 record after their 3-0 non-league win over George County (Lucedale, MS). October 12, 2026",
+        "date_excerpt": "October 12, 2026",
+        "home_name": "Neshoba Central",
+        "away_name": "Center Hill"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-12",
+      "home": "East Union",
+      "away": "Walnut",
+      "status": "final",
+      "home_score": 3,
+      "away_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/east-union-blue-springs-vs-walnut/10-12-2026/?c=5c25cba5-c470-4107-8bb9-f55b0e315ac3",
+        "excerpt": "High School Volleyball Mississippi High School Volleyball Walnut Girls Varsity Volleyball @ East Union Walnut 31-5 Wildcats 0 Final 3 East Union 37-0 Urchins Walnut Girls Varsity Volleyball @ East Union Streaming & Ticketing Watch Recap Game Info On 10/12, the Walnut varsity volleyball team lost their away playoff match against East Union (Blue Springs, MS) by a score of 3-0. Recap Matchup Roster Fan Chat Boxscore S1 S2 S3 Wins Walnut 17 13 21 0 East Union 25 25 25 3 Final score provided by B. Shields Mississippi High School Volleyball - East Union over Walnut In Monday's non-league challenge, the host East Union Urchins volleyball team scored a 3-0 triumph over the Walnut Wildcats. The Urchins (37-0) will now prepare for their challenge against Enterprise (Enterprise, MS). The Bulldogs come into the non-league challenge with a 29-3 record. In their last challenge, Enterprise beat Clarkdale (Meridian, MS), 3-1, in a non-league challenge. October 12, 2026",
+        "date_excerpt": "October 12, 2026",
+        "home_name": "East Union",
+        "away_name": "Walnut"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-12",
+      "home": "Kossuth",
+      "away": "Belmont",
+      "status": "final",
+      "home_score": 3,
+      "away_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/belmont-vs-kossuth/10-12-2026/?c=5ef2424d-65cd-4291-8022-09456c531707",
+        "excerpt": "High School Volleyball Mississippi High School Volleyball Belmont Girls Varsity Volleyball @ Kossuth Belmont 16-19 Cardinals 0 Final 3 Kossuth 30-4 Aggies Belmont Girls Varsity Volleyball @ Kossuth Game Info On 10/12, the Belmont varsity volleyball team lost their away playoff match against Kossuth (MS) by a score of 3-0. Recap Matchup Roster Boxscore S1 S2 S3 Wins Belmont 15 10 20 0 Kossuth 25 25 25 3 Final score provided by C. Hatcher Mississippi High School Volleyball - Kossuth over Belmont In Monday's non-league challenge, the host Kossuth Aggies volleyball team scored a 3-0 triumph over the Belmont Cardinals. The Aggies (30-4) will now prepare for their challenge against Our Lady Academy (Bay St. Louis, MS). The Crescents come into the non-league challenge with a 30-10 record. In their last challenge, Our Lady Academy beat Presbyterian Christian (Hattiesburg, MS), 3-0, in a non-league challenge. October 12, 2026",
+        "date_excerpt": "October 12, 2026",
+        "home_name": "Kossuth",
+        "away_name": "Belmont"
+      }
+    },
+    {
+      "sport": "softball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-12",
+      "home": "Copiah Academy",
+      "away": "Simpson Academy",
+      "status": "final",
+      "home_score": 6,
+      "away_score": 16,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/softball/game/copiah-academy-gallman-vs-simpson-academy-mendenhall/10-12-2026/?c=d4f596e3-d9ec-4014-8d0a-bfa25aed1a37",
+        "excerpt": "High School Softball Mississippi High School Softball Simpson Academy Varsity Softball @ Copiah Academy Simpson Academy 25-12-1 Cougars 16 Final 6 Copiah Academy 3-6 Colonels Simpson Academy Varsity Softball @ Copiah Academy Game Info On 10/12, the Simpson Academy varsity softball team won their away playoff game against Copiah Academy (Gallman, MS) by a score of 16-6. Recap Matchup Roster Fan Chat Boxscore 1 2 3 4 5 6 7 R H E Simpson Academy 3 2 1 4 6 -- -- 16 14 0 Copiah Academy 0 1 2 0 3 -- -- 6 7 7 Final score provided by W. Mullins Mississippi High School Softball - Simpson Academy bounces Copiah Academy The Simpson Academy Cougars softball team scored 16 runs and held the host Copiah Academy Colonels to 6 in the Cougars non-league win on Monday. The Cougars now sport a 25-12 record. With the loss, Copiah Academy moves to 3-6 on the season. October 12, 2026",
+        "date_excerpt": "October 12, 2026",
+        "home_name": "Copiah Academy",
+        "away_name": "Simpson Academy"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-10-12/",
+      "title": "Games To Watch: State-final berths and a softball decider headline Monday night"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Lewisburg rallies into state final; East Union stays unbeaten in Monday playoff action",
+    "headline_fact_ids": [
+      "game-0",
+      "lewisburg-detail",
+      "bracket7-stakes",
+      "game-2",
+      "eastunion-detail"
+    ],
+    "html": "<p data-facts=\"game-0 lewisburg-detail bracket7-stakes game-1 bracket6-stakes\">Lewisburg was down two sets and running out of room in its volleyball postseason Monday night. The Patriots won the next three to defeat Germantown 3–2 and reach the Class 7A championship, while Center Hill also advanced to a state final with a four-set victory over Neshoba Central.</p>\n<p data-facts=\"game-2 eastunion-detail game-3 game-4\">Elsewhere in verified Mississippi varsity results from October 12, East Union kept its perfect season intact against Walnut, Kossuth swept Belmont, and Simpson Academy piled up runs in a softball playoff win at Copiah Academy.</p>\n<h2 data-facts=\"game-0 lewisburg-detail\">Lewisburg survives the long way</h2>\n<p data-facts=\"game-0 lewisburg-detail\">Germantown took the opening sets 26–24 and 25–15, leaving Lewisburg needing a complete reversal to stay alive. The Patriots responded 25–19 in the third, squeezed out the fourth 26–24 and finished with a 15–7 deciding-set victory, according to the <a href=\"https://www.maxpreps.com/ms/volleyball/match/germantown-madison-vs-lewisburg-olive-branch/10-12-2026/?c=c34b9ec5-5c71-4911-8297-9672700a58e3\">reported match box score</a>.</p>\n<p data-facts=\"lewisburg-detail bracket7-stakes\">Lewisburg improved to 34–8, while Germantown ended at 28–9. The <a href=\"https://www.maxpreps.com/tournament/ubMpN1v1D0qu0oRFYRvlbQ/Wu77CcEqeEW6M_9EWoSmlg/volleyball-26/2026-mhsaa-volleyball-championships-class-7a.htm\">Class 7A bracket</a> now pairs the Patriots with Ocean Springs in the October 15 championship. The comeback turned a two-set deficit into a place in that final.</p>\n<h2 data-facts=\"game-1 bracket6-stakes\">Center Hill joins the championship field</h2>\n<p data-facts=\"game-1 centerhill-detail\">Center Hill won the first set 25–14 at Neshoba Central, lost the second 25–20, then took the next two 25–22 and 25–17. The 3–1 result moved the Mustangs to 17–11 and left the Rockets at 36–5, according to the <a href=\"https://www.maxpreps.com/ms/volleyball/match/center-hill-olive-branch-vs-neshoba-central-philadelphia/10-12-2026/?c=2a4eb1e0-0aff-4926-b8cf-b737cfaa35d1\">final match report</a>.</p>\n<p data-facts=\"game-1 bracket6-stakes game-0 bracket7-stakes preview-featured\">The Mustangs will meet Hancock in the October 15 Class 6A championship. Center Hill and Lewisburg were both featured in <a href=\"https://sportsmississippi.com/sports/sportsms-preview-2026-10-12/\">Monday’s Games To Watch preview</a>; both converted their semifinal opportunities into another match.</p>\n<h2 data-facts=\"game-2 eastunion-detail game-3\">East Union stays perfect; Kossuth sweeps</h2>\n<p data-facts=\"game-2 eastunion-detail\">East Union improved to 37–0 with a 25–17, 25–13, 25–21 victory over visiting Walnut. The <a href=\"https://www.maxpreps.com/ms/volleyball/match/east-union-blue-springs-vs-walnut/10-12-2026/?c=5c25cba5-c470-4107-8bb9-f55b0e315ac3\">final score report</a> lists Walnut at 31–5 following the playoff defeat.</p>\n<p data-facts=\"game-3 kossuth-detail\">Kossuth also finished in straight sets, beating Belmont 25–15, 25–10, 25–20. The <a href=\"https://www.maxpreps.com/ms/volleyball/match/belmont-vs-kossuth/10-12-2026/?c=5ef2424d-65cd-4291-8022-09456c531707\">Aggies’ reported postgame record</a> is 30–4; Belmont finished at 16–19.</p>\n<h2 data-facts=\"game-4\">Simpson keeps the runs coming</h2>\n<p data-facts=\"game-4 simpson-detail\">Simpson Academy beat Copiah Academy 16–6 in Gallman, scoring in every inning of the five-inning game. Four runs in the fourth and six more in the fifth completed the Cougars’ offensive output. The <a href=\"https://www.maxpreps.com/ms/softball/game/copiah-academy-gallman-vs-simpson-academy-mendenhall/10-12-2026/?c=d4f596e3-d9ec-4014-8d0a-bfa25aed1a37\">box score</a> credits Simpson with 14 hits and Copiah with seven.</p>",
+    "facts": [
+      {
+        "id": "lewisburg-detail",
+        "kind": "result",
+        "claim": "Lewisburg rallied after losing the first two sets to beat Germantown 24–26, 15–25, 25–19, 26–24, 15–7; Lewisburg is 34–8 and Germantown 28–9.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/germantown-madison-vs-lewisburg-olive-branch/10-12-2026/?c=c34b9ec5-5c71-4911-8297-9672700a58e3",
+          "excerpt": "High School Volleyball Mississippi High School Volleyball Lewisburg Girls Varsity Volleyball @ Germantown Lewisburg 34-8 Patriots 3 Final 2 Germantown 28-9 Mavericks Lewisburg Girls Varsity Volleyball @ Germantown Game Info On 10/12, the Lewisburg varsity volleyball team won their away playoff match against Germantown (Madison, MS) by a score of 3-2. Recap Matchup Roster Boxscore S1 S2 S3 S4 S5 Wins Lewisburg 24 15 25 26 15 3 Germantown 26 25 19 24 7 2 Final score provided by B. Shields Mississippi High School Volleyball - Lewisburg tips Germantown The Lewisburg Patriots (Olive Branch, MS) volleyball held off the host Germantown Mavericks (Madison, MS), 3-2 in Monday's non-league bout. The Patriots now possess a 34-8 record. They play next when they travel to Ocean Springs for a non-league bout on Thursday, October 15. Lewisburg will clash with a Greyhounds team coming off a 3-2 non-league win over Brandon (Brandon, MS). The Greyhounds record now stands at 32-8. With the loss, Germantown drops to 28-9 on the campaign. October 12, 2026",
+          "subjects": [
+            "Germantown",
+            "Lewisburg"
+          ]
+        }
+      },
+      {
+        "id": "centerhill-detail",
+        "kind": "result",
+        "claim": "Center Hill beat Neshoba Central 25–14, 20–25, 25–22, 25–17; Center Hill is 17–11 and Neshoba Central 36–5.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/center-hill-olive-branch-vs-neshoba-central-philadelphia/10-12-2026/?c=2a4eb1e0-0aff-4926-b8cf-b737cfaa35d1",
+          "excerpt": "High School Volleyball Mississippi High School Volleyball Center Hill Girls Varsity Volleyball @ Neshoba Central Center Hill 17-11 Mustangs 3 Final 1 Neshoba Central 36-5 Rockets Center Hill Girls Varsity Volleyball @ Neshoba Central Game Info On 10/12, the Center Hill varsity volleyball team won their away playoff match against Neshoba Central (Philadelphia, MS) by a score of 3-1. Recap Matchup Roster Fan Chat Boxscore S1 S2 S3 S4 Wins Center Hill 25 20 25 25 3 Neshoba Central 14 25 22 17 1 Final score provided by M. Irby Mississippi High School Volleyball - Neshoba Central Center Hill The Center Hill Mustangs prevailed the host Neshoba Central Rockets volleyball squad by a final score of 3-1 in Monday's non-league game. Next up, the Mustangs confront the Hancock Hawks (Kiln, MS) in a non-league game, on Thursday, October 15. Center Hill will attempt to advance on its 17-11 season record. The Hawks enter the game with a 25-8 record after their 3-0 non-league win over George County (Lucedale, MS). October 12, 2026",
+          "subjects": [
+            "Neshoba Central",
+            "Center Hill"
+          ]
+        }
+      },
+      {
+        "id": "eastunion-detail",
+        "kind": "result",
+        "claim": "East Union remained undefeated at 37–0 by sweeping Walnut 25–17, 25–13, 25–21; Walnut finished 31–5.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/east-union-blue-springs-vs-walnut/10-12-2026/?c=5c25cba5-c470-4107-8bb9-f55b0e315ac3",
+          "excerpt": "High School Volleyball Mississippi High School Volleyball Walnut Girls Varsity Volleyball @ East Union Walnut 31-5 Wildcats 0 Final 3 East Union 37-0 Urchins Walnut Girls Varsity Volleyball @ East Union Streaming & Ticketing Watch Recap Game Info On 10/12, the Walnut varsity volleyball team lost their away playoff match against East Union (Blue Springs, MS) by a score of 3-0. Recap Matchup Roster Fan Chat Boxscore S1 S2 S3 Wins Walnut 17 13 21 0 East Union 25 25 25 3 Final score provided by B. Shields Mississippi High School Volleyball - East Union over Walnut In Monday's non-league challenge, the host East Union Urchins volleyball team scored a 3-0 triumph over the Walnut Wildcats. The Urchins (37-0) will now prepare for their challenge against Enterprise (Enterprise, MS). The Bulldogs come into the non-league challenge with a 29-3 record. In their last challenge, Enterprise beat Clarkdale (Meridian, MS), 3-1, in a non-league challenge. October 12, 2026",
+          "subjects": [
+            "East Union",
+            "Walnut"
+          ]
+        }
+      },
+      {
+        "id": "kossuth-detail",
+        "kind": "result",
+        "claim": "Kossuth swept Belmont 25–15, 25–10, 25–20; Kossuth is 30–4 and Belmont 16–19.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/belmont-vs-kossuth/10-12-2026/?c=5ef2424d-65cd-4291-8022-09456c531707",
+          "excerpt": "High School Volleyball Mississippi High School Volleyball Belmont Girls Varsity Volleyball @ Kossuth Belmont 16-19 Cardinals 0 Final 3 Kossuth 30-4 Aggies Belmont Girls Varsity Volleyball @ Kossuth Game Info On 10/12, the Belmont varsity volleyball team lost their away playoff match against Kossuth (MS) by a score of 3-0. Recap Matchup Roster Boxscore S1 S2 S3 Wins Belmont 15 10 20 0 Kossuth 25 25 25 3 Final score provided by C. Hatcher Mississippi High School Volleyball - Kossuth over Belmont In Monday's non-league challenge, the host Kossuth Aggies volleyball team scored a 3-0 triumph over the Belmont Cardinals. The Aggies (30-4) will now prepare for their challenge against Our Lady Academy (Bay St. Louis, MS). The Crescents come into the non-league challenge with a 30-10 record. In their last challenge, Our Lady Academy beat Presbyterian Christian (Hattiesburg, MS), 3-0, in a non-league challenge. October 12, 2026",
+          "subjects": [
+            "Kossuth",
+            "Belmont"
+          ]
+        }
+      },
+      {
+        "id": "simpson-detail",
+        "kind": "result",
+        "claim": "Simpson Academy scored in all five innings, including 4 runs in the fourth and 6 in the fifth, and had 14 hits in a 16–6 win over Copiah Academy. Copiah had 7 hits.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/softball/game/copiah-academy-gallman-vs-simpson-academy-mendenhall/10-12-2026/?c=d4f596e3-d9ec-4014-8d0a-bfa25aed1a37",
+          "excerpt": "High School Softball Mississippi High School Softball Simpson Academy Varsity Softball @ Copiah Academy Simpson Academy 25-12-1 Cougars 16 Final 6 Copiah Academy 3-6 Colonels Simpson Academy Varsity Softball @ Copiah Academy Game Info On 10/12, the Simpson Academy varsity softball team won their away playoff game against Copiah Academy (Gallman, MS) by a score of 16-6. Recap Matchup Roster Fan Chat Boxscore 1 2 3 4 5 6 7 R H E Simpson Academy 3 2 1 4 6 -- -- 16 14 0 Copiah Academy 0 1 2 0 3 -- -- 6 7 7 Final score provided by W. Mullins Mississippi High School Softball - Simpson Academy bounces Copiah Academy The Simpson Academy Cougars softball team scored 16 runs and held the host Copiah Academy Colonels to 6 in the Cougars non-league win on Monday. The Cougars now sport a 25-12 record. With the loss, Copiah Academy moves to 3-6 on the season. October 12, 2026",
+          "subjects": [
+            "Copiah Academy",
+            "Simpson Academy"
+          ]
+        }
+      },
+      {
+        "id": "bracket7-stakes",
+        "kind": "stakes",
+        "claim": "Lewisburg advanced from the Class 7A semifinals to the October 15 championship against Ocean Springs.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/ubMpN1v1D0qu0oRFYRvlbQ/Wu77CcEqeEW6M_9EWoSmlg/volleyball-26/2026-mhsaa-volleyball-championships-class-7a.htm",
+          "excerpt": "2026 MHSAA Volleyball Championships Search Tournaments MS Volleyball Playoffs 2026 MS Brackets Stat Leaders Scoreboard Class 7A Location Various Cities, MS Home Team Instructions Print Download PDF Add to My Site Oct 6 First Round R1#1 Vs. 2#4 1 Lewisburg 3 2 Starkville 0 28-26 25-15 25-15 Recap Details R2#2 Vs. 1#3 3 Oxford 2 4 Hernando 3 Recap Details R2#1 Vs. 1#4 5 Germantown 3 6 Tupelo 1 25-21 18-25 25-23 25-20 Recap Details R1#2 Vs. 2#3 7 DeSoto Central 3 8 Madison Central 2 25-11 23-25 25-21 22-25 15-12 Recap Details R3#1 Vs. 4#4 9 Brandon 3 10 Harrison Central 0 25-10 25-10 25-14 Recap Details R4#2 Vs. 3#3 11 Gulfport 0 12 Northwest Rankin 3 25-20 25-19 25-22 Recap Details R4#1 Vs. 3#4 13 Ocean Springs 3 14 Petal 0 25-12 25-21 25-13 Recap Details R3#2 Vs. 4#3 15 Oak Grove 3 16 West Harrison 0 25-18 25-14 25-23 Recap Details Oct 8 Second Round 1 Lewisburg 3 4 Hernando 1 16-25 25-23 25-21 25-13 Recap Details 5 Germantown 3 7 DeSoto Central 1 25-22 22-25 25-21 25-18 Recap Details 9 Brandon 3 12 Northwest Rankin 1 25-21 20-25 26-24 25-23 Recap Details 13 Ocean Springs 3 15 Oak Grove 0 25-17 25-10 25-12 Recap Details Oct 12 Semifinals 1 Lewisburg 3 5 Germantown 2 24-26 15-25 25-19 26-24 15-7 Recap Details 9 Brandon 2 13 Ocean Springs 3 18-25 25-20 25-18 19-25 15-7 Recap Details Oct 15 Championship Championship M15 10/15 @ 6p 1 Lewisburg 13 Ocean Springs Preview Details",
+          "subjects": [
+            "Lewisburg"
+          ]
+        }
+      },
+      {
+        "id": "bracket6-stakes",
+        "kind": "stakes",
+        "claim": "Center Hill advanced from the Class 6A semifinals to the October 15 championship against Hancock.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/ubMpN1v1D0qu0oRFYRvlbQ/BV8L5Ej8gkSoYB264exqMQ/volleyball-26/2026-mhsaa-volleyball-championships-class-6a.htm",
+          "excerpt": "2026 MHSAA Volleyball Championships Search Tournaments MS Volleyball Playoffs 2026 MS Brackets Stat Leaders Scoreboard Class 6A Location Various Cities, MS Home Team Instructions Print Download PDF Add to My Site Oct 6 First Round R1#1 Vs. 2#4 1 Center Hill 3 2 Callaway 0 25-8 25-11 25-6 Recap Details R2#2 Vs. 1#3 3 Warren Central 1 4 Saltillo 3 Recap Details R2#1 Vs. 1#4 5 Neshoba Central 3 6 Olive Branch 0 1-0 1-0 1-0 Recap Details R1#2 Vs. 2#3 7 Lake Cormorant 3 8 Ridgeland 0 25-17 25-13 25-18 Recap Details R3#1 Vs. 4#4 9 George County 3 10 Gautier 0 25-16 25-11 25-19 Recap Details R4#2 Vs. 3#3 11 Picayune 3 12 Hattiesburg 1 20-25 25-5 25-18 25-8 Recap Details R4#1 Vs. 3#4 13 Hancock 3 14 Forest Hill 0 25-8 25-12 25-8 Recap Details R3#2 Vs. 4#3 15 West Jones 0 16 Long Beach 3 25-12 25-7 25-23 Recap Details Oct 8 Second Round 1 Center Hill 3 4 Saltillo 0 25-10 25-20 25-23 Recap Details 5 Neshoba Central 3 7 Lake Cormorant 0 25-13 26-24 25-20 Recap Details 9 George County 3 11 Picayune 0 25-17 25-7 25-17 Recap Details 13 Hancock 3 16 Long Beach 0 25-12 25-16 25-6 Watch Full Replay Recap Details Oct 12 Semifinals 1 Center Hill 3 5 Neshoba Central 1 25-14 20-25 25-22 25-17 Recap Details 9 George County 0 13 Hancock 3 25-20 25-22 25-17 Watch Full Replay Recap Details Oct 15 Championship Championship M15 10/15 @ 12p 1 Center Hill 13 Hancock Preview Details",
+          "subjects": [
+            "Center Hill"
+          ]
+        }
+      },
+      {
+        "id": "preview-featured",
+        "kind": "context",
+        "claim": "Center Hill and Lewisburg were featured in Monday’s Games To Watch preview as volleyball semifinal teams with state-final places available.",
+        "game_indexes": [
+          0,
+          1
+        ],
+        "as_of_date": "2026-10-12",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-10-12/",
+          "excerpt": "Center Hill, Lewisburg and Kossuth play volleyball semifinals with a place in a state final available",
+          "subjects": [
+            "Center Hill",
+            "Lewisburg"
+          ]
+        }
+      }
+    ]
+  }
+}
