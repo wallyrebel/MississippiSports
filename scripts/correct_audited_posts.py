@@ -409,11 +409,13 @@ def main():
     worker = None
     try:
         data = load_manifest(ROOT / "corrections/2026-10-13.json")
-        control = json.loads((ROOT / "corrections/control.json").read_text())
+        if not args.offline:
+            require(not (ROOT / "corrections/completion-receipt.json").exists(), "One-shot mutations retired")
         if args.offline:
             (output / "result.json").write_text(json.dumps({"offline_valid": True,
                  "manifest_sha256": digest(data), "post_ids": IDS, "writes": 0}, indent=2) + "\n")
             return
+        control = json.loads((ROOT / "corrections/control.json").read_text())
         require(os.environ.get("GITHUB_ACTIONS") == "true", "Credentials only in managed Actions")
         require(os.environ.get("WORDPRESS_BASE_URL", "").rstrip("/") == SITE, "Managed site mismatch")
         auth, public = requests.Session(), requests.Session()

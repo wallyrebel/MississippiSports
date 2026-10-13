@@ -75,6 +75,8 @@ class Auth:
 
 def setup(tmp_path, monkeypatch):
     data = m.load_manifest(ROOT / "corrections/2026-10-13.json")
+    # Exercise the historical worker in isolation from the real retired receipt.
+    monkeypatch.setattr(m, "ROOT", tmp_path)
     # Original source digests are checked live; the transport fixture uses one
     # immutable body to exercise the failure boundaries without network calls.
     for p in data["posts"]:

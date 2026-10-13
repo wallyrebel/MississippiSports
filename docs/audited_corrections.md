@@ -1,8 +1,33 @@
 # October 13 audited Sports Mississippi corrections
 
-Prepared for parent review. **No WordPress writes are authorized by the initial
-control file:** `apply` and `parent_reviewed` are false. The parent released the
-Lewisburg ordering hold after its separate account permission problem.
+**The six article corrections and Jones media alt are applied. The one-shot
+workflow and control file are retired.** The parent approved plan digest
+`a8f0a43b3ead5229d5e85fe98a368343d3912fbb1f09e3082eb8ee217db9041c`
+from dry-run 38423055605 at commit `bd4953aa648c57be946b8aa09979b2ddd1171c87`.
+Apply run 38423916186 confirmed all six post mutations and attempted the single
+approved media alt update before a strict derived-media-field check stopped.
+Independent read-only reconciliation confirmed the alt update and unchanged file
+bytes. No writes were retried.
+
+`corrections/completion-receipt.json` accurately records partial acceptance:
+full article text, H1s, excerpts, generated SEO/social metadata, structured article
+data, source links, IDs, URLs, dates, media associations and categories passed.
+Excluded post 24487 is unchanged. The Jones title/excerpt also passed homepage and
+feed checks; the other five posts were absent from those latest-post surfaces.
+
+The attachment's generated description HTML changed only its embedded image alt
+from No. 21 to No. 22; this expected derivative change caused the worker's strict
+comparison failure. Public media REST and an uncached Jones page render have the
+correct No. 22 alt. **The normal canonical page still serves stale image alt from
+the WP Rocket Nginx static cache.** No public REST page-cache purge route was
+advertised. `corrections/cache-refresh-proposal.json` prepares an unapproved,
+single-post no-op title save for parent review if a normal page-specific cache
+purge cannot be used. No cache, plugin or access settings were changed.
+
+The parent released the Lewisburg ordering hold after its separate account
+permission problem. The historic workflow details below explain the completed
+bounded route; no new schedule remains and the worker refuses mutation when the
+receipt exists.
 
 The fixed manifest contains the parent's exact six title/excerpt/body replacements.
 Its public baselines were anonymously reread; originals were fetched in full.

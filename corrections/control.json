@@ -1,9 +1,0 @@
-{
-  "apply": true,
-  "parent_reviewed": true,
-  "parent_priority_released": true,
-  "approved_plan_sha256": "a8f0a43b3ead5229d5e85fe98a368343d3912fbb1f09e3082eb8ee217db9041c",
-  "preflight_run_id": "38423055605",
-  "preflight_commit": "bd4953aa648c57be946b8aa09979b2ddd1171c87",
-  "dry_run_revision": 2
-}

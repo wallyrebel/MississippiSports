@@ -1,0 +1,48 @@
+{
+  "run_id": "38423916186",
+  "actions_as_recorded_by_apply_worker": [
+    {
+      "method": "POST",
+      "endpoint": "posts/24483",
+      "patch_sha256": "66cb3a414ab4b5c57be768a200dffc14fa4c6bf45b2f13c1568336ec52631d69",
+      "state": "confirmed"
+    },
+    {
+      "method": "POST",
+      "endpoint": "posts/24473",
+      "patch_sha256": "695cec39ed263835735985cb91b945bd50cf67e0b140b90c1cf8833ff82f568d",
+      "state": "confirmed"
+    },
+    {
+      "method": "POST",
+      "endpoint": "posts/24451",
+      "patch_sha256": "ef6079fa87d3be02c630da5cf82f38deb63dce315bd0099716b0195dcdbfb21a",
+      "state": "confirmed"
+    },
+    {
+      "method": "POST",
+      "endpoint": "posts/24445",
+      "patch_sha256": "148ca0b873bd30ff18528231805941e4988f77d9c86d4152934c4e96de09192e",
+      "state": "confirmed"
+    },
+    {
+      "method": "POST",
+      "endpoint": "posts/24510",
+      "patch_sha256": "768bbb185cf86923b3ba186ac75c9e4ac38b568fd19614125e90e675019f683e",
+      "state": "confirmed"
+    },
+    {
+      "method": "POST",
+      "endpoint": "posts/24433",
+      "patch_sha256": "a528f11dd31fd2faa2c3c0ac9cac6abb0c16996067eab7bbcdc4aa77e8e0b679",
+      "state": "confirmed"
+    },
+    {
+      "method": "POST",
+      "endpoint": "media/24509",
+      "state": "attempted",
+      "patch_sha256": "6a07b2136da56631bfe92dea5b907c4aa5e58f0473d6339a0957201a0e0d7568"
+    }
+  ],
+  "media_reconciliation": "Media 24509 alt write independently confirmed read-only; original worker recorded attempted before its derivative-description check stopped."
+}
