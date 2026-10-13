@@ -9,7 +9,7 @@ approved media alt update before a strict derived-media-field check stopped.
 Independent read-only reconciliation confirmed the alt update and unchanged file
 bytes. No writes were retried.
 
-`corrections/completion-receipt.json` accurately records partial acceptance:
+`corrections/completion-receipt.json` records complete acceptance:
 full article text, H1s, excerpts, generated SEO/social metadata, structured article
 data, source links, IDs, URLs, dates, media associations and categories passed.
 Excluded post 24487 is unchanged. The Jones title/excerpt also passed homepage and
@@ -18,11 +18,19 @@ feed checks; the other five posts were absent from those latest-post surfaces.
 The attachment's generated description HTML changed only its embedded image alt
 from No. 21 to No. 22; this expected derivative change caused the worker's strict
 comparison failure. Public media REST and an uncached Jones page render have the
-correct No. 22 alt. **The normal canonical page still serves stale image alt from
-the WP Rocket Nginx static cache.** No public REST page-cache purge route was
-advertised. `corrections/cache-refresh-proposal.json` prepares an unapproved,
-single-post no-op title save for parent review if a normal page-specific cache
-purge cannot be used. No cache, plugin or access settings were changed.
+correct No. 22 alt. The normal canonical page initially retained stale image alt
+in the WP Rocket Nginx static cache. The parent separately approved the exact
+same-title save of post 24510 against fresh raw snapshot
+`bcfbf04f9b41c4cea533c1300f31edc7ffdfac793b8f6ed931fdff5e7162f6d6`
+and modified timestamp `2026-10-13T15:40:15`, requiring media alt No. 22.
+Cache-refresh run 38425980260 succeeded with exactly one post-only save. Its before
+snapshot matched that digest, and only normal modified timestamps advanced.
+All body/title/excerpt/URL/publication-date/taxonomy/SEO fields and the entire media
+record and bytes stayed unchanged. **The ordinary canonical page now renders the
+correct No. 22 image alt**, independently verified along with all six articles and
+unchanged post 24487. The cache-refresh workflow/control are also retired, and its
+worker refuses mutation while the retained receipt exists. No global cache,
+plugin or access settings were changed. No blockers remain.
 
 The parent released the Lewisburg ordering hold after its separate account
 permission problem. The historic workflow details below explain the completed

@@ -109,6 +109,7 @@ def main():
     output.mkdir(exist_ok=True)
     worker = None
     try:
+        require(not (ROOT / "corrections/cache-refresh-receipt.json").exists(), "Cache refresh mutation retired")
         require(os.environ.get("GITHUB_ACTIONS") == "true", "Existing credentials only inside Actions")
         require(os.environ.get("WORDPRESS_BASE_URL", "").rstrip("/") == SITE, "Managed site mismatch")
         require(os.environ.get("WORDPRESS_USERNAME") and os.environ.get("WORDPRESS_APP_PASSWORD"),

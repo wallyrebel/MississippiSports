@@ -1,5 +1,5 @@
 {
-  "approved": false,
+  "approved": true,
   "purpose": "Refresh only the cached Jones canonical page after the confirmed alt update",
   "preferred_action": "Use a supported page-specific cache purge if available; none is advertised in current REST routes.",
   "proposed_alternative": {
@@ -10,6 +10,10 @@
     },
     "expected_modified_gmt": "2026-10-13T15:40:15",
     "expected_edit_snapshot_sha256": "bcfbf04f9b41c4cea533c1300f31edc7ffdfac793b8f6ed931fdff5e7162f6d6",
-    "description": "No-op save of the already-correct approved title to invoke normal post cache invalidation. Requires parent approval and fresh same-ID snapshot/alt checks. No article content, URL, dates, media association or SEO overrides may change."
-  }
+    "description": "Completed one same-title save against the approved snapshot. Only normal modified timestamps advanced; publication dates and all other post/media fields stayed unchanged."
+  },
+  "applied": true,
+  "approval_source": "Parent approval of the bounded title-only save in this task.",
+  "run_id": "38425980260",
+  "retired": true
 }

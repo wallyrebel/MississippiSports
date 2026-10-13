@@ -75,7 +75,8 @@ def setup(tmp_path, monkeypatch):
     for k, v in {"GITHUB_ACTIONS": "true", "GITHUB_REF": "refs/heads/main", "GITHUB_RUN_ATTEMPT": "1",
                  "GITHUB_RUN_ID": "456", "GITHUB_SHA": "a" * 40}.items():
         monkeypatch.setenv(k, v)
-    approval = json.loads((ROOT / "corrections/cache-refresh-control.json").read_text())
+    approval = {"parent_approved": True, "post_id": m.POST_ID, "payload": {"title": m.TITLE},
+                "expected_edit_snapshot_sha256": m.BEFORE_SHA, "expected_modified_gmt": m.MODIFIED}
     return FakeWorker(tmp_path), approval
 
 
@@ -118,3 +119,12 @@ def test_already_fresh_page_does_not_write(tmp_path, monkeypatch):
     w.already_correct = True
     result = m.run(w, approval)
     assert result["already_correct_no_write"] and w.writes == 0
+
+
+def test_receipt_retires_all_mutation(tmp_path, monkeypatch):
+    w, approval = setup(tmp_path, monkeypatch)
+    (tmp_path / "corrections").mkdir()
+    (tmp_path / "corrections/cache-refresh-receipt.json").write_text('{}')
+    with pytest.raises(m.CorrectionError, match="retired"):
+        m.run(w, approval)
+    assert w.writes == 0

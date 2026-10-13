@@ -108,7 +108,7 @@
     "id": 24509,
     "alt_text": "No. 22 Jones avenges early-season loss, downs No. 25 Pearl River 3-1",
     "fresh_html_image_alt_verified": true,
-    "canonical_cached_html_image_alt_verified": false,
+    "canonical_cached_html_image_alt_verified": true,
     "file_bytes_unchanged": true,
     "rendered_attachment_description_changed_only_by_authorized_alt_substitution": true
   },
@@ -146,7 +146,7 @@
     }
   ],
   "writes_from_independent_verification": 0,
-  "status": "corrections_applied_canonical_image_alt_cache_pending",
+  "status": "completed",
   "apply_run_id": "38423916186",
   "apply_commit": "2c5144532871174e0548bdca7c29135d8c06be53",
   "apply_workflow_conclusion": "failure",
@@ -154,8 +154,23 @@
   "confirmed_post_corrections": 6,
   "independently_confirmed_media_alt_updates": 1,
   "all_approved_mutations_applied": true,
-  "full_acceptance_complete": false,
+  "full_acceptance_complete": true,
   "mutation_route_retired": true,
-  "remaining_blocker": "WP Rocket Nginx static cache HIT at the normal Jones canonical URL still renders the old No. 21 image alt. Anonymous uncached render and media REST correctly show No. 22.",
-  "no_supported_page_cache_purge_rest_route_found": true
+  "remaining_blocker": null,
+  "no_supported_page_cache_purge_rest_route_found": true,
+  "cache_refresh": {
+    "post_id": 24510,
+    "link": "https://sportsmississippi.com/juco-news/jones-college-volleyball-beats-pearl-river-3-1-to-avenger-early-season-loss/",
+    "ordinary_canonical_image_alt_verified": true,
+    "alt_text": "No. 22 Jones avenges early-season loss, downs No. 25 Pearl River 3-1",
+    "same_post_content_url_publication_dates_meta_and_media": true,
+    "media_record_and_file_bytes_unchanged": true,
+    "already_correct_no_write": false,
+    "writes": 1,
+    "run_id": "38425980260",
+    "commit": "ff64ce30803f5c0a68da614661b578fdd886f83b",
+    "retire_mutation_route": true,
+    "independently_verified_ordinary_canonical_alt": true
+  },
+  "cache_refresh_route_retired": true
 }
