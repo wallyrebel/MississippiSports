@@ -18,7 +18,7 @@ from bs4 import BeautifulSoup
 
 SITE = "https://sportsmississippi.com"
 IDS = (24483, 24473, 24451, 24445, 24510, 24433)
-MANIFEST_SHA = "be5b6b470a4a4e3a806fe81a2a33344ebbe992e602fbe5e8a7af30ca72ebd8e4"
+MANIFEST_SHA = "6c9e8ca9227c6be9a5a2e22867b39da8865c0e9d8fb32dcc0fed6704639cbd65"
 SEO = {"_seopress_titles_title", "_seopress_titles_desc"}
 REMOVALS = {24483: [179], 24473: [5878], 24451: [1869]}
 TAG_NAMES = {179: "Football", 5878: "Zachary University", 1869: "William Carey"}
@@ -189,6 +189,9 @@ class Worker:
         me = self.read("users/me", params={"context": "edit", "_fields": "id,capabilities"})
         require(all(me.get("capabilities", {}).get(k) is True
                     for k in ("edit_posts", "edit_published_posts")), "Managed account lacks editing capability")
+        self.save("capability-check.json", {"account_id": me.get("id"),
+                  "capabilities": {k: me.get("capabilities", {}).get(k) for k in
+                      ("edit_posts", "edit_published_posts", "edit_others_posts")}})
         statuses = self.schema()
         found = {}
         for status in statuses:
@@ -414,6 +417,9 @@ def main():
         require(os.environ.get("GITHUB_ACTIONS") == "true", "Credentials only in managed Actions")
         require(os.environ.get("WORDPRESS_BASE_URL", "").rstrip("/") == SITE, "Managed site mismatch")
         auth, public = requests.Session(), requests.Session()
+        # Match the anonymous client used for the independent source review;
+        # Sidearm returns a false 404 to the default Python requests header.
+        public.headers.update({"User-Agent": "curl/8.7.1"})
         require(os.environ.get("WORDPRESS_USERNAME") and os.environ.get("WORDPRESS_APP_PASSWORD"),
                 "Existing managed credentials unavailable")
         auth.auth = (os.environ["WORDPRESS_USERNAME"], os.environ["WORDPRESS_APP_PASSWORD"])

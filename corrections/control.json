@@ -4,5 +4,6 @@
   "parent_priority_released": true,
   "approved_plan_sha256": "",
   "preflight_run_id": "",
-  "preflight_commit": ""
+  "preflight_commit": "",
+  "dry_run_revision": 2
 }
