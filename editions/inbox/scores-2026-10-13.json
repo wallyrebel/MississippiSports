@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-10-13",
+  "verified_at": "2026-10-14T08:03:24-05:00",
+  "publish": true,
+  "checked_sports": [
+    "cross country",
+    "football",
+    "golf",
+    "soccer",
+    "softball",
+    "swimming",
+    "volleyball"
+  ],
+  "games": [
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-13",
+      "home": "Madison-Ridgeland Academy",
+      "away": "Jackson Prep",
+      "status": "final",
+      "home_score": 3,
+      "away_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/jackson-prep-vs-madison-ridgeland-academy/10-13-2026/?c=8fc9e224-4560-43ae-9288-bf94edf959fe",
+        "excerpt": "Boxscore S1 S2 S3 Wins Jackson Prep 19 21 20 0 Madison-Ridgeland Academy 25 25 25 3 Final score provided by M. Brown Mississippi High School Volleyball - Madison-Ridgeland Academy over Jackson Prep The Madison-Ridgeland Academy Patriots (Madison, MS) volleyball knocked off the visiting Jackson Prep Patriots (Jackson, MS), 3-0 in Tuesday's non-league bout. The Patriots now possess a 27-10 record. With the loss, Jackson Prep drops to 11-13 on the campaign. The Patriots travel to Jackson Academy (Jackson, MS) to clash with the Raiders in a non-league bout on Thursday, October 15. The Raiders come into the bout with a record of 44-7. Jackson Academy lost 3-2 in their recent non-league bout against Hartfield Academy (Flowood, MS) October 13, 2026",
+        "date_excerpt": "October 13, 2026",
+        "home_name": "Madison-Ridgeland Academy",
+        "away_name": "Jackson Prep"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-10-13/",
+      "title": "Games To Watch: Jackson Prep gets another shot at MRA after August sweep"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "MRA sweeps Jackson Prep again after five-set loss at Hartfield",
+    "headline_fact_ids": [
+      "game-0",
+      "august-sweep",
+      "hartfield-loss"
+    ],
+    "html": "<p data-facts=\"game-0 match-sets august-sweep\">Madison-Ridgeland Academy kept Jackson Prep from turning their volleyball rematch around Tuesday, winning 3–0 at home for another straight-set victory over the visiting Patriots. MRA took the October 13 match 25–19, 25–21 and 25–20.</p>\n<h2 data-facts=\"game-0 match-sets august-sweep\">MRA repeats its sweep</h2>\n<p data-facts=\"game-0 match-sets\">Jackson Prep’s highest-scoring set came in the second, when it reached 21 points, but MRA closed each of the three sets at 25. The <a href=\"https://www.maxpreps.com/ms/volleyball/match/jackson-prep-vs-madison-ridgeland-academy/10-13-2026/?c=8fc9e224-4560-43ae-9288-bf94edf959fe\">reported match result</a> confirms the girls varsity non-conference victory in Madison.</p>\n<p data-facts=\"game-0 match-sets august-sweep preview-comparison\">The rematch followed MRA’s August 4 sweep in Jackson, when Prep pushed the second set to 27–25 between 25–18 and 25–15 losses. Our <a href=\"https://sportsmississippi.com/sports/sportsms-preview-2026-10-13/\">Tuesday preview</a> highlighted that competitive second set as a point of comparison. This time, MRA finished all three sets without needing extra points.</p>\n<h2 data-facts=\"game-0 hartfield-loss postgame-records\">A win after the Hartfield defeat</h2>\n<p data-facts=\"game-0 hartfield-loss postgame-records august-sweep\">The result gives MRA a victory after its October 6 trip to Hartfield Academy ended in a 3–2 loss. The posted postgame records stand at 27–10 for MRA and 11–13 for Jackson Prep, which was unable to reverse the outcome of the teams’ earlier meeting.</p>",
+    "facts": [
+      {
+        "id": "match-sets",
+        "kind": "result",
+        "claim": "Madison-Ridgeland Academy won the match against Jackson Prep 25-19, 25-21, 25-20.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/jackson-prep-vs-madison-ridgeland-academy/10-13-2026/?c=8fc9e224-4560-43ae-9288-bf94edf959fe",
+          "excerpt": "Boxscore S1 S2 S3 Wins Jackson Prep 19 21 20 0 Madison-Ridgeland Academy 25 25 25 3 Final score provided",
+          "subjects": [
+            "Jackson Prep",
+            "Madison-Ridgeland Academy"
+          ]
+        }
+      },
+      {
+        "id": "postgame-records",
+        "kind": "record",
+        "claim": "After the match, Madison-Ridgeland Academy was 27-10 and Jackson Prep was 11-13.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/jackson-prep-vs-madison-ridgeland-academy/10-13-2026/?c=8fc9e224-4560-43ae-9288-bf94edf959fe",
+          "excerpt": "Jackson Prep Girls Varsity Volleyball @ MRA Jackson Prep 11-13 Patriots 0 Final 3 Madison-Ridgeland Academy 27-10 Patriots",
+          "subjects": [
+            "Jackson Prep",
+            "Madison-Ridgeland Academy"
+          ]
+        }
+      },
+      {
+        "id": "august-sweep",
+        "kind": "history",
+        "claim": "Madison-Ridgeland Academy won 3-0 at Jackson Prep on August 4, 2026; set scores were 25-18, 27-25 and 25-15.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/jackson-prep-vs-madison-ridgeland-academy/8-4-2026/?c=8ae39fe4-6817-4faa-93cc-b1f00df0fc1f",
+          "excerpt": "Boxscore S1 S2 S3 Wins Madison-Ridgeland Academy 25 27 25 3 Jackson Prep 18 25 15 0 Final score provided by R. Dorr Mississippi High School Volleyball - Jackson Prep overwhelmed by Madison-Ridgeland Academy Madison-Ridgeland Academy Patriots (Madison, MS) boosters left the game satisfied Tuesday as they saw their volleyball squad achieve victory over the host Jackson Prep Patriots (Jackson, MS), 3-0 in a non-league test. With the win, Madison-Ridgeland Academy improves its record to 5-0 on the season. The Patriots travel to Jackson Academy (Jackson, MS) to face the Raiders in a MAIS test on Thursday, August 6. The Raiders go into the test with a record of 5-1. Jackson Academy lost 3-1 in their recent non-league test against Ocean Springs (Ocean Springs, MS) The Patriots now own a 1-3 record. They put it on the line next when they host Victors Homeschool Sports for a non-league test on Thursday, August 6. Jackson Prep will face a Victors squad coming off a 2-0 league win over Tupelo Titans (Tupelo, MS). The Victors record now stands at 1-0. August 4, 2026",
+          "subjects": [
+            "Madison-Ridgeland Academy",
+            "Jackson Prep"
+          ],
+          "date_excerpt": "August 4, 2026"
+        },
+        "fact_date": "2026-08-04"
+      },
+      {
+        "id": "hartfield-loss",
+        "kind": "history",
+        "claim": "Madison-Ridgeland Academy lost 3-2 at Hartfield Academy on October 6, 2026.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/hartfield-academy-flowood-vs-madison-ridgeland-academy/10-6-2026/?c=d5de689a-d089-45f0-bd1a-0d9fbf24cd32#tab=box-score&schoolid=676cc31e-d246-4c35-8d67-02e129b0d222",
+          "excerpt": "Boxscore S1 S2 S3 S4 S5 Wins Madison-Ridgeland Academy 23 25 14 25 5 2 Hartfield Academy 25 23 25 22 15 3 Final score provided by L. Hodges Mississippi High School Volleyball - Hartfield Academy tips Madison-Ridgeland Academy The Hartfield Academy Hawks volleyball team scored 3 points and restricted the visiting Madison-Ridgeland Academy Patriots to 2 in the Hawks non-league triumph on Tuesday. The Hawks now have a 25-4 record. They play next when they host Jackson Academy for a non-league outing on Thursday, October 8. Hartfield Academy will play a Raiders team coming off a 3-1 non-league loss to Lamar (Meridian, MS). The Raiders record now stands at 44-6. With the loss, Madison-Ridgeland Academy drops to 26-10 on the campaign. The Patriots host Jackson Prep (Jackson, MS) to play the Patriots in a non-league outing on Tuesday, October 13. The Patriots come into the outing with a record of 11-12. Jackson Prep lost 3-1 in their recent non-league outing against Regents (Oxford, MS) October 6, 2026",
+          "subjects": [
+            "Madison-Ridgeland Academy",
+            "Hartfield Academy"
+          ],
+          "date_excerpt": "October 6, 2026"
+        },
+        "fact_date": "2026-10-06"
+      },
+      {
+        "id": "preview-comparison",
+        "kind": "context",
+        "claim": "The Sports Mississippi preview highlighted Jackson Prep's competitive second set in the earlier MRA match as a point of comparison for the rematch.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-13",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-10-13/",
+          "excerpt": "The first meeting ended in straight sets, but Jackson Prep pushed the middle set beyond the usual finish. MRA won 25-18, 27-25 and 25-15 in Jackson on August 4. That second set gives the rematch a useful point of comparison: whether Prep can turn a competitive stretch into a set win, and sustain it over a full match.",
+          "subjects": [
+            "Jackson Prep",
+            "MRA"
+          ]
+        }
+      }
+    ]
+  }
+}
