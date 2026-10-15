@@ -1,0 +1,527 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-10-15",
+  "verified_at": "2026-10-15T20:08:04.615078+00:00",
+  "publish": true,
+  "checked_sports": [
+    "volleyball",
+    "football",
+    "cross country",
+    "swimming",
+    "golf",
+    "soccer",
+    "softball"
+  ],
+  "games": [
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-15",
+      "home": "New Hope",
+      "away": "Sumrall",
+      "status": "scheduled",
+      "start_time": "2026-10-15T16:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/new-hope-columbus-vs-sumrall/10-15-2026/?c=92f353c0-31c7-4a61-aea9-524969f3cac0",
+        "excerpt": "Sumrall vs New Hope | Volleyball | 10/15/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Volleyball Mississippi High School Volleyball Sumrall Girls Varsity Volleyball @ New Hope Sumrall Bobcats 32-6 Thursday, Oct 15, 2026 4:00pm CDT New Hope Trojans 22-17-1 Sumrall Girls Varsity Volleyball @ New Hope Streaming & Ticketing Sign Up To Watch Game Info The Sumrall varsity volleyball team has an away playoff match @ New Hope (Columbus, MS) today @ 4p. Matchup Roster Game Details Thursday, Oct 15, 2026 4:00pm CDT Playoff 2026 MHSAA Volleyball Championships",
+        "date_excerpt": "10/15/2026",
+        "home_name": "New Hope",
+        "away_name": "Sumrall",
+        "time_excerpt": "4:00pm CDT"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-15",
+      "home": "Lewisburg",
+      "away": "Ocean Springs",
+      "status": "scheduled",
+      "start_time": "2026-10-15T18:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/lewisburg-olive-branch-vs-ocean-springs/10-15-2026/?c=0c646a02-9ebf-41a2-925a-fabed52d17b5",
+        "excerpt": "Ocean Springs vs Lewisburg | Volleyball | 10/15/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Volleyball Mississippi High School Volleyball Ocean Springs Girls Varsity Volleyball @ Lewisburg Ocean Springs Greyhounds 32-8 Thursday, Oct 15, 2026 6:00pm CDT Lewisburg Patriots 34-8 Ocean Springs Girls Varsity Volleyball @ Lewisburg Streaming & Ticketing Sign Up To Watch Game Info The Ocean Springs varsity volleyball team has an away playoff match @ Lewisburg (Olive Branch, MS) today @ 6p. Matchup Roster Game Details Thursday, Oct 15, 2026 6:00pm CDT Playoff 2026 MHSAA Volleyball Championships",
+        "date_excerpt": "10/15/2026",
+        "home_name": "Lewisburg",
+        "away_name": "Ocean Springs",
+        "time_excerpt": "6:00pm CDT"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-15",
+      "home": "Tupelo",
+      "away": "Hernando",
+      "status": "scheduled",
+      "start_time": "2026-10-15T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/hernando-vs-tupelo/10-15-2026/?c=3b9cedf7-ff8f-4767-8942-5182f2af4bc8",
+        "excerpt": "hernando vs tupelo | football | 10/15/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team tickets digital tickets don't miss the action – get official tickets sign in high school football mississippi high school football hernando varsity football @ tupelo hernando tigers 5-1 thursday, oct 15, 2026 7:00pm cdt tupelo",
+        "date_excerpt": "10/15/2026",
+        "time_excerpt": "7:00pm cdt",
+        "home_name": "Tupelo",
+        "away_name": "Hernando"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-15",
+      "home": "Pontotoc",
+      "away": "Caledonia",
+      "status": "scheduled",
+      "start_time": "2026-10-15T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/caledonia-vs-pontotoc/10-15-2026/?c=e1569866-fef7-43c9-b61a-f35431baa4cf",
+        "excerpt": "caledonia vs pontotoc | football | 10/15/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team tickets digital tickets don't miss the action – get official tickets sign in high school football mississippi high school football caledonia varsity football @ pontotoc caledonia cavaliers 3-3 thursday, oct 15, 2026 7:00pm cdt pontotoc warriors 5-1 caledonia varsity football @ pontotoc streaming & ticketing sign up to watch purchase tickets game info the caledonia varsity football team has an away conference game @ pontotoc (ms) today @ 7p. featured game video scorekeeper no scorekeeper no scorekeeper videos matchup roster oct 15, 2026 preview: caledonia @ pontotoc | boys varsity football 10/15 october 15, 2026, game preview",
+        "date_excerpt": "10/15/2026",
+        "time_excerpt": "7:00pm cdt",
+        "home_name": "Pontotoc",
+        "away_name": "Caledonia"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-15",
+      "home": "Resurrection Catholic",
+      "away": "Lumberton",
+      "status": "scheduled",
+      "start_time": "2026-10-15T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/lumberton-vs-resurrection-catholic-pascagoula/10-15-2026/?c=6c35e838-f604-459c-996d-a86c73969df0",
+        "excerpt": "lumberton vs resurrection catholic | football | 10/15/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team tickets digital tickets don't miss the action – get official tickets sign in high school football mississippi high school football lumberton varsity football @ rchs lumberton panthers 2-4 thursday, oct 15, 2026 7:00pm cdt resurrection catholic",
+        "date_excerpt": "10/15/2026",
+        "time_excerpt": "7:00pm cdt",
+        "home_name": "Resurrection Catholic",
+        "away_name": "Lumberton"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-10-12/",
+      "title": "Lewisburg rallies into state final; East Union stays unbeaten in Monday playoff action"
+    },
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-10-09/",
+      "title": "Scores from last Night: Louisville ends Kosciusko’s unbeaten run; Tupelo stays perfect"
+    },
+    {
+      "url": "https://sportsmississippi.com/mississippi-sports/a-champions-return-a-challengers-comeback-sumrall-and-new-hope-meet-for-mississippis-5a-volleyball-title/",
+      "title": "A champion’s return, a challenger’s comeback: Sumrall and New Hope meet for Mississippi’s 5A volleyball title"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: Defending champions face comeback challengers; Tupelo hosts Hernando",
+    "headline_fact_ids": [
+      "game-0",
+      "game-1",
+      "game-2",
+      "sumrall-defense",
+      "ocean-springs-defense",
+      "new-hope-semifinal",
+      "lewisburg-semifinal"
+    ],
+    "html": "<p data-facts=\"game-0 game-1 finals-stakes finals-venue sumrall-defense ocean-springs-defense new-hope-semifinal lewisburg-semifinal\">Sumrall and Ocean Springs are one victory from repeating as state volleyball champions, but both face challengers who just proved a two-set deficit need not end a season. New Hope meets Sumrall for the Class 5A title at 4 p.m. CDT Thursday, October 15, before Lewisburg faces Ocean Springs in the Class 7A final at 6 p.m. Both matches are at Mississippi Christian University’s A.E. Wood Coliseum.</p>\n<h2 data-facts=\"game-0 finals-stakes sumrall-defense new-hope-semifinal\">Class 5A: Sumrall’s title defense meets New Hope’s comeback</h2>\n<p data-facts=\"sumrall-form sumrall-playoffs sumrall-semifinal\">Sumrall has won eight straight matches on its current MaxPreps schedule, which lists the Bobcats at 32–6. After sweeping Northeast Jones and Purvis in the first two playoff rounds, Sumrall won at Vancleave in four sets Monday. The Bobcats took the first two sets 25–14 and 25–15, dropped the third, then closed the match 25–15.</p>\n<p data-facts=\"new-hope-semifinal sumrall-defense finals-stakes\">New Hope’s semifinal left much less room for error. Caledonia won the first two sets 25–22 and 25–13, but the Trojans answered with 25–20 and 25–22 victories before taking the fifth 16–14. Thursday gives New Hope the chance to stop the reigning 5A champion, while Sumrall can finish a second consecutive title run. Our <a href=\"https://sportsmississippi.com/mississippi-sports/a-champions-return-a-challengers-comeback-sumrall-and-new-hope-meet-for-mississippis-5a-volleyball-title/\">full Sumrall–New Hope preview</a> takes a closer look at the matchup.</p>\n<h2 data-facts=\"game-1 finals-stakes ocean-springs-defense seven-a-history\">Class 7A: Recent champions meet again</h2>\n<p data-facts=\"seven-a-history ocean-springs-defense\">Ocean Springs and Lewisburg bring championship history into the evening final. Ocean Springs won the 2025 crown; Lewisburg won the 2024 championship against the Greyhounds after losing the first two sets. The matchup puts the last two 7A champions across the net from each other again.</p>\n<p data-facts=\"lewisburg-semifinal ocean-semifinal seven-a-records\">Lewisburg had to repeat that comeback pattern Monday at Germantown. After falling behind 24–26 and 15–25, the Patriots took the next three sets 25–19, 26–24 and 15–7. Ocean Springs also needed a deciding set against Brandon, winning it 15–7 to complete a 3–2 semifinal victory. Current MaxPreps match pages list Lewisburg at 34–8 and Ocean Springs at 32–8.</p>\n<p data-facts=\"finals-stakes lewisburg-semifinal ocean-semifinal\">Each 7A finalist has already had to finish a deciding set to keep its championship opportunity alive. Our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-10-12/\">Monday playoff roundup</a> follows Lewisburg’s comeback and the other state-final qualifiers.</p>\n<h2 data-facts=\"game-2 game-3 game-4\">Football: District starts meet Thursday tests</h2>\n<p data-facts=\"game-2 hernando-records hernando-form tupelo-last-win\">Hernando brings three straight wins into a road test against unbeaten Tupelo at 7 p.m. CDT. The Tigers enter 5–1, the Golden Wave 7–0, and both are 1–0 in Region 1-7A. Hernando can build on its winning run; Tupelo has another chance to protect a perfect record. Revisit Tupelo’s latest victory in our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-10-09/\">October 9 football roundup</a>.</p>\n<p data-facts=\"game-3 caledonia-record pontotoc-record caledonia-last-win\">Caledonia visits Pontotoc at 7 p.m. CDT in another matchup of teams that opened district play with a win. Both are 1–0 in Region 1-5A, with Pontotoc 5–1 overall and Caledonia 3–3. The Cavaliers come off a 27–8 victory over Columbus on October 9; Thursday offers a chance to follow it with another region win.</p>\n<p data-facts=\"game-4 lumberton-records lumberton-region lumberton-last-win\">Lumberton’s trip to Resurrection Catholic at 7 p.m. CDT carries a similar district opportunity despite the teams’ losing overall records. The Panthers are 2–4 overall and 1–0 in Region 8-1A after beating Richton 40–20 on October 8. The Eagles are 2–4–1 overall but 2–0 in district play, putting unbeaten region starts on both sides of the matchup.</p>\n<p data-facts=\"newhope-record-caution new-hope-semifinal\">New Hope’s season record and winning streak are withheld because its current schedule contains two Caledonia win entries for the same date. Those totals require clarification; the semifinal result itself is supported by the match box score.</p>",
+    "facts": [
+      {
+        "id": "finals-stakes",
+        "kind": "stakes",
+        "claim": "New Hope–Sumrall is the Class 5A final at 4 p.m.; Lewisburg–Ocean Springs is the Class 7A final at 6 p.m.",
+        "game_indexes": [
+          0,
+          1
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.misshsaa.com/2026/10/13/2026-mhsaa-volleyball-championships/",
+          "excerpt": "4 p.m. 5a new hope vs. sumrall 6 p.m. 7a lewisburg vs. ocean springs",
+          "subjects": [
+            "new hope",
+            "sumrall",
+            "lewisburg",
+            "ocean springs"
+          ]
+        }
+      },
+      {
+        "id": "finals-venue",
+        "kind": "context",
+        "claim": "Both finals are at Mississippi Christian University’s A.E. Wood Coliseum.",
+        "game_indexes": [
+          0,
+          1
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.misshsaa.com/2026/10/13/2026-mhsaa-volleyball-championships/",
+          "excerpt": "mississippi christian university, a.e. wood coliseum",
+          "subjects": [
+            "a.e. wood coliseum"
+          ]
+        }
+      },
+      {
+        "id": "sumrall-defense",
+        "kind": "history",
+        "claim": "Sumrall won the 2025 Class 5A volleyball championship and can repeat.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.misshsaa.com/2025/10/16/sumrall-wins-2025-class-5a-volleyball-championship/",
+          "excerpt": "home / championship results / sumrall wins 2025 class 5a volleyball championship the 2025 mhsaa volleyball championships were held on thursday, october 16, 2025 at a.e. wood coliseum in clinton. photo by keith warren sumrall wins 2025 class 5a volleyball championship october 16, 2025 championship results",
+          "subjects": [
+            "sumrall"
+          ],
+          "date_excerpt": "october 16, 2025"
+        },
+        "fact_date": "2025-10-16"
+      },
+      {
+        "id": "ocean-springs-defense",
+        "kind": "history",
+        "claim": "Ocean Springs won the 2025 Class 7A volleyball championship and can repeat.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.misshsaa.com/2025/10/16/ocean-springs-wins-2025-class-7a-volleyball-championship/",
+          "excerpt": "home / championship results / ocean springs wins 2025 class 7a volleyball championship the 2025 mhsaa volleyball championships were held on thursday, october 16, 2025 at a.e. wood coliseum in clinton. photo by keith warren ocean springs wins 2025 class 7a volleyball championship october 16, 2025 championship results",
+          "subjects": [
+            "ocean springs"
+          ],
+          "date_excerpt": "october 16, 2025"
+        },
+        "fact_date": "2025-10-16"
+      },
+      {
+        "id": "sumrall-form",
+        "kind": "record",
+        "claim": "Sumrall is 32-6 and has an eight-match win streak on its current MaxPreps schedule.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/sumrall/sumrall-bobcats/volleyball/schedule/",
+          "excerpt": "sumrall volleyball schedule 2026-27 overall 32-6 0.842 win pct district 10-0 1st class 5a region 3 home 16-1 away 12-3 neutral 4-2 sw 87 sl 24 streak 8w",
+          "subjects": [
+            "sumrall"
+          ]
+        }
+      },
+      {
+        "id": "sumrall-playoffs",
+        "kind": "result",
+        "claim": "Sumrall swept Northeast Jones and Purvis 3-0 before defeating Vancleave 3-1 in the playoffs.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/sumrall/sumrall-bobcats/volleyball/schedule/",
+          "excerpt": "10/6 6:00pm vs northeast jones** w 3-0 watch replay box score 10/8 6:00pm vs purvis** w 3-0 watch replay box score 10/12 6:00pm @ vancleave** w 3-1 box score",
+          "subjects": [
+            "northeast jones",
+            "purvis",
+            "vancleave"
+          ]
+        }
+      },
+      {
+        "id": "sumrall-semifinal",
+        "kind": "history",
+        "claim": "Sumrall won at Vancleave 3-1 on October 12, 2026, with set scores 25-14, 25-15, 15-25, 25-15.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/sumrall-vs-vancleave/10-12-2026/?c=6029fe5b-c88d-43f1-92fa-50b0d29ca4f9",
+          "excerpt": "high school volleyball mississippi high school volleyball sumrall girls varsity volleyball @ vancleave sumrall 32-6 bobcats 3 final 1 vancleave 35-7 bulldogs sumrall girls varsity volleyball @ vancleave game info on 10/12, the sumrall varsity volleyball team won their away playoff match against vancleave (ms) by a score of 3-1. recap stats matchup roster boxscore s1 s2 s3 s4 wins sumrall 25 25 15 25 3 vancleave 14 15 25 15 1 final score provided by t. siders mississippi high school volleyball - sumrall over vancleave fans at monday's non-league contest between the sumrall bobcats (sumrall, ms) and the host vancleave bulldogs (vancleave, ms), observed sumrall's volleyball team top vancleave by a count of 3-1. the bobcats (32-6) will now prepare for their contest against new hope (columbus, ms). the trojans enter the non-league contest with a 22-17 record. in their last contest, new hope notched a victory over caledonia (caledonia, ms), 3-2, in a league contest. october 12, 2026",
+          "subjects": [
+            "sumrall",
+            "vancleave"
+          ],
+          "date_excerpt": "october 12, 2026"
+        },
+        "fact_date": "2026-10-12"
+      },
+      {
+        "id": "new-hope-semifinal",
+        "kind": "history",
+        "claim": "New Hope came back from a two-set deficit to beat Caledonia 3-2 on October 12, 2026. Caledonia won 25-22 and 25-13; New Hope answered 25-20, 25-22, 16-14.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/caledonia-vs-new-hope-columbus/10-12-2026/?c=e6f9eac3-8489-40a1-b04d-a1ca24423c0f",
+          "excerpt": "high school volleyball mississippi high school volleyball caledonia girls varsity volleyball vs. new hope caledonia 22-13 cavaliers 2 final 3 new hope 22-17-1 trojans caledonia girls varsity volleyball vs. new hope game info on 10/12, the caledonia varsity volleyball team lost their neutral playoff match against new hope (columbus, ms) by a score of 3-2. recap matchup roster boxscore s1 s2 s3 s4 s5 wins caledonia 25 25 20 22 14 2 new hope 22 13 25 25 16 3 final score provided by b. shields mississippi high school volleyball - new hope tips caledonia fans at monday's non-league contest between the new hope trojans (columbus, ms) and the host caledonia cavaliers (caledonia, ms), observed new hope's volleyball team hold off caledonia by a count of 3-2. the trojans (22-17) will now prepare for their contest against caledonia (caledonia, ms). the cavaliers enter the class 5a region 1 contest with a 22-11 record. in their last contest, caledonia got by pontotoc (pontotoc, ms), 3-0, in a non-league contest. next, the cavaliers battle the new hope trojans (columbus, ms) in a class 5a region 1 contest, on monday, october 12. caledonia will attempt to move on its 22-13 season record. the trojans enter the contest with a 20-17 record after their 3-0 non-league win over lafayette (oxford, ms). october 12, 2026",
+          "subjects": [
+            "new hope",
+            "caledonia"
+          ],
+          "date_excerpt": "october 12, 2026"
+        },
+        "fact_date": "2026-10-12"
+      },
+      {
+        "id": "lewisburg-semifinal",
+        "kind": "history",
+        "claim": "Lewisburg came back from a two-set deficit at Germantown on October 12, 2026, winning 3-2. Lewisburg lost 24-26 and 15-25, then won 25-19, 26-24 and 15-7.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/germantown-madison-vs-lewisburg-olive-branch/10-12-2026/?c=c34b9ec5-5c71-4911-8297-9672700a58e3",
+          "excerpt": "high school volleyball mississippi high school volleyball lewisburg girls varsity volleyball @ germantown lewisburg 34-8 patriots 3 final 2 germantown 28-9 mavericks lewisburg girls varsity volleyball @ germantown game info on 10/12, the lewisburg varsity volleyball team won their away playoff match against germantown (madison, ms) by a score of 3-2. recap matchup roster boxscore s1 s2 s3 s4 s5 wins lewisburg 24 15 25 26 15 3 germantown 26 25 19 24 7 2 final score provided by b. shields mississippi high school volleyball - lewisburg tips germantown the lewisburg patriots (olive branch, ms) volleyball held off the host germantown mavericks (madison, ms), 3-2 in monday's non-league bout. the patriots now possess a 34-8 record. they play next when they travel to ocean springs for a non-league bout on thursday, october 15. lewisburg will clash with a greyhounds team coming off a 3-2 non-league win over brandon (brandon, ms). the greyhounds record now stands at 32-8. with the loss, germantown drops to 28-9 on the campaign. october 12, 2026",
+          "subjects": [
+            "lewisburg",
+            "germantown"
+          ],
+          "date_excerpt": "october 12, 2026"
+        },
+        "fact_date": "2026-10-12"
+      },
+      {
+        "id": "ocean-semifinal",
+        "kind": "history",
+        "claim": "Ocean Springs beat Brandon 3-2 on October 12, 2026, winning the fifth set 15-7.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/brandon-vs-ocean-springs/10-12-2026/?c=e0f349d5-57ea-46fb-abb0-c64a9b390dba",
+          "excerpt": "high school volleyball mississippi high school volleyball brandon girls varsity volleyball @ ocean springs brandon 27-12 bulldogs 2 final 3 ocean springs 32-8 greyhounds brandon girls varsity volleyball @ ocean springs game info on 10/12, the brandon varsity volleyball team lost their away playoff match against ocean springs (ms) by a score of 3-2. recap stats matchup roster fan chat boxscore s1 s2 s3 s4 s5 wins brandon 25 20 18 25 7 2 ocean springs 18 25 25 19 15 3 final score provided by p. mccaleb mississippi high school volleyball - ocean springs tips brandon in monday's non-league challenge, the host ocean springs greyhounds volleyball team scored a close 3-2 triumph over the brandon bulldogs. the greyhounds (32-8) will now prepare for their challenge against lewisburg (olive branch, ms). the patriots come into the non-league challenge with a 34-8 record. in their last challenge, lewisburg edged germantown (madison, ms), 3-2, in a non-league challenge. october 12, 2026",
+          "subjects": [
+            "ocean springs",
+            "brandon"
+          ],
+          "date_excerpt": "october 12, 2026"
+        },
+        "fact_date": "2026-10-12"
+      },
+      {
+        "id": "newhope-record-caution",
+        "kind": "context",
+        "claim": "New Hope’s current schedule contains two Caledonia win entries for the same date; its overall record and streak are withheld pending clarification.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/columbus/new-hope-trojans/volleyball/schedule/",
+          "excerpt": "10/12 tba vs caledonia** w 3-2 box score 10/12 6:00pm @ caledonia* w 3-2 box score",
+          "subjects": [
+            "caledonia"
+          ]
+        }
+      },
+      {
+        "id": "seven-a-records",
+        "kind": "record",
+        "claim": "Current MaxPreps game headers list Ocean Springs at 32-8 and Lewisburg at 34-8.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/lewisburg-olive-branch-vs-ocean-springs/10-15-2026/?c=0c646a02-9ebf-41a2-925a-fabed52d17b5",
+          "excerpt": "ocean springs greyhounds 32-8 thursday, oct 15, 2026 6:00pm cdt lewisburg patriots 34-8",
+          "subjects": [
+            "ocean springs",
+            "lewisburg"
+          ]
+        }
+      },
+      {
+        "id": "seven-a-history",
+        "kind": "history",
+        "claim": "Lewisburg beat Ocean Springs in the 2024 Class 7A final, losing the first two sets before winning the last three.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.misshsaa.com/2024/10/18/lewisburg-wins-2024-class-7a-volleyball-championship/",
+          "excerpt": "mhsaa class 7a volleyball state championships in the a.e. wood coliseum on the mississippi college campus in clinton, miss., on thursday, october 17, 2024. photo by chris todd lewisburg wins 2024 class 7a volleyball championship october 18, 2024 championship results , championships , news , volleyball , volleyball championships 597 views ocean springs-lewisburg box ocean springs 25 25 18 20 8 lewisburg 20 20 25 25 15",
+          "subjects": [
+            "lewisburg",
+            "ocean springs"
+          ],
+          "date_excerpt": "october 17, 2024"
+        },
+        "fact_date": "2024-10-17"
+      },
+      {
+        "id": "hernando-records",
+        "kind": "record",
+        "claim": "Hernando is 5-1 and Tupelo is 7-0; both are 1-0 in district play.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/hernando-vs-tupelo/10-15-2026/?c=3b9cedf7-ff8f-4767-8942-5182f2af4bc8",
+          "excerpt": "scoring averages final q1 q2 q3 q4 ot1 ot2 hernando 45.7 11.7 8.0 10.0 7.0 7.5 6.0 tupelo 44.3 13.9 13.0 9.4 8.0 -- -- rankings national -- #85 mississippi #38 #1 mississippi division 7a #15 #1 columbus-tupelo -- #1 memphis #15 -- season recap overall record 5-1 7-0 district 1-0 1-0",
+          "subjects": [
+            "hernando",
+            "tupelo"
+          ]
+        }
+      },
+      {
+        "id": "hernando-form",
+        "kind": "record",
+        "claim": "Hernando has won three straight and is 1-0 in 7A Region 1.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/hernando/hernando-tigers/football/schedule/",
+          "excerpt": "hernando football schedule 2026-27 overall 5-1 0.833 win pct district 1-0 3rd 7a region 1 home 4-0 away 1-1 neutral 0-0 pf 274 pa 133 streak 3w",
+          "subjects": [
+            "hernando"
+          ]
+        }
+      },
+      {
+        "id": "caledonia-record",
+        "kind": "record",
+        "claim": "Caledonia is 3-3 overall and 1-0 in 5A Region 1.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/caledonia/caledonia-cavaliers/football/schedule/",
+          "excerpt": "caledonia football schedule 2026-27 overall 3-3 0.500 win pct district 1-0 2nd 5a region 1",
+          "subjects": [
+            "caledonia"
+          ]
+        }
+      },
+      {
+        "id": "pontotoc-record",
+        "kind": "record",
+        "claim": "Pontotoc is 5-1 overall and 1-0 in 5A Region 1.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/pontotoc/pontotoc-warriors/football/schedule/",
+          "excerpt": "pontotoc football schedule 2026-27 overall 5-1 0.833 win pct district 1-0 1st 5a region 1",
+          "subjects": [
+            "pontotoc"
+          ]
+        }
+      },
+      {
+        "id": "caledonia-last-win",
+        "kind": "result",
+        "claim": "Caledonia beat Columbus 27-8 on October 9 in its current season schedule.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/caledonia/caledonia-cavaliers/football/schedule/",
+          "excerpt": "10/9 7:00pm vs columbus* w 27-8 watch replay box score",
+          "subjects": [
+            "columbus"
+          ]
+        }
+      },
+      {
+        "id": "lumberton-records",
+        "kind": "record",
+        "claim": "Lumberton is 2-4 and Resurrection Catholic is 2-4-1; their district records are 1-0 and 2-0 respectively.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/lumberton-vs-resurrection-catholic-pascagoula/10-15-2026/?c=6c35e838-f604-459c-996d-a86c73969df0",
+          "excerpt": "scoring averages final q1 q2 q3 q4 lumberton 17.0 4.0 7.3 2.0 4.7 resurrection catholic 12.1 2.2 4.0 3.2 3.4 rankings mississippi #198 #255 mississippi division 1a #12 #27 biloxi #16 #19 hattiesburg #26 -- season recap overall record 2-4 2-4-1 district 1-0 2-0",
+          "subjects": [
+            "lumberton",
+            "resurrection catholic"
+          ]
+        }
+      },
+      {
+        "id": "lumberton-region",
+        "kind": "stakes",
+        "claim": "Lumberton plays in 1A Region 8 and entered this game 1-0 in district play.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/lumberton/lumberton-panthers/football/schedule/",
+          "excerpt": "lumberton football schedule 2026-27 overall 2-4 0.333 win pct district 1-0 3rd 1a region 8",
+          "subjects": [
+            "lumberton"
+          ]
+        }
+      },
+      {
+        "id": "lumberton-last-win",
+        "kind": "result",
+        "claim": "Lumberton beat Richton 40-20 on October 8 in its current season schedule.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/lumberton/lumberton-panthers/football/schedule/",
+          "excerpt": "10/8 7:00pm vs richton* w 40-20 watch replay box score",
+          "subjects": [
+            "richton"
+          ]
+        }
+      },
+      {
+        "id": "tupelo-last-win",
+        "kind": "history",
+        "claim": "Tupelo defeated Southaven 42-0 on October 9, 2026.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-10-09/",
+          "excerpt": "on october 9, 2026. tupelo preserved its perfect record with a 42-0 win at southaven",
+          "subjects": [
+            "tupelo",
+            "southaven"
+          ],
+          "date_excerpt": "october 9, 2026"
+        },
+        "fact_date": "2026-10-09"
+      }
+    ]
+  }
+}
