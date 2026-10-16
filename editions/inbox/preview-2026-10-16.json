@@ -1,0 +1,295 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-10-16",
+  "verified_at": "2026-10-16T20:07:38.981988+00:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "volleyball",
+    "cross country",
+    "golf",
+    "swimming",
+    "soccer",
+    "softball"
+  ],
+  "games": [
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-16",
+      "home": "Wesson",
+      "away": "Amite County",
+      "status": "scheduled",
+      "start_time": "2026-10-16T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/amite-county-liberty-vs-wesson/10-16-2026/?c=e6bfe28b-16f1-470c-8774-3d7398b41fe9",
+        "excerpt": "amite county vs wesson | football | 10/16/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team tickets digital tickets don't miss the action – get official tickets sign in high school football mississippi high school football amite county varsity football @ wesson amite county trojans 6-0 friday, oct 16, 2026 7:00pm cdt wesson cobras 7-0",
+        "date_excerpt": "10/16/2026",
+        "time_excerpt": "7:00pm cdt",
+        "home_name": "Wesson",
+        "away_name": "Amite County"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-16",
+      "home": "Center Hill",
+      "away": "Lake Cormorant",
+      "status": "scheduled",
+      "start_time": "2026-10-16T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-lake-cormorant/10-16-2026/?c=596305e3-8fec-478e-93f7-4eb20ab7b3fc",
+        "excerpt": "lake cormorant vs center hill | football | 10/16/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team tickets digital tickets don't miss the action – get official tickets sign in high school football mississippi high school football lake cormorant varsity football @ center hill lake cormorant 6-0 friday, oct 16, 2026 7:00pm cdt center hill mustangs 5-1",
+        "date_excerpt": "10/16/2026",
+        "time_excerpt": "7:00pm cdt",
+        "home_name": "Center Hill",
+        "away_name": "Lake Cormorant"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-16",
+      "home": "Germantown",
+      "away": "Oxford",
+      "status": "scheduled",
+      "start_time": "2026-10-16T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/germantown-madison-vs-oxford/10-16-2026/?c=04db07bd-99d2-4172-8ba9-487103c11ce6",
+        "excerpt": "oxford vs germantown | football | 10/16/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team tickets digital tickets don't miss the action – get official tickets sign in high school football mississippi high school football oxford varsity football @ germantown oxford chargers 5-1 friday, oct 16, 2026 7:00pm cdt germantown mavericks 4-2",
+        "date_excerpt": "10/16/2026",
+        "time_excerpt": "7:00pm cdt",
+        "home_name": "Germantown",
+        "away_name": "Oxford"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-16",
+      "home": "Petal",
+      "away": "Brandon",
+      "status": "scheduled",
+      "start_time": "2026-10-16T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/brandon-vs-petal/10-16-2026/?c=76fe5729-c821-4e10-b310-d1944b03fd02",
+        "excerpt": "brandon vs petal | football | 10/16/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team tickets digital tickets don't miss the action – get official tickets sign in high school football mississippi high school football brandon varsity football @ petal brandon bulldogs 5-1 friday, oct 16, 2026 7:00pm cdt petal panthers 6-1",
+        "date_excerpt": "10/16/2026",
+        "time_excerpt": "7:00pm cdt",
+        "home_name": "Petal",
+        "away_name": "Brandon"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-16",
+      "home": "Corinth",
+      "away": "Tishomingo County",
+      "status": "scheduled",
+      "start_time": "2026-10-16T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/corinth-vs-tishomingo-county-iuka/10-16-2026/?c=a7ba82d7-e200-40f1-bf09-ecbd5f3a6409",
+        "excerpt": "tishomingo county vs corinth | football | 10/16/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team tickets digital tickets don't miss the action – get official tickets sign in high school football mississippi high school football tishomingo county varsity football @ corinth tishomingo county braves 4-2 friday, oct 16, 2026 7:00pm cdt corinth warriors 4-2",
+        "date_excerpt": "10/16/2026",
+        "time_excerpt": "7:00pm cdt",
+        "home_name": "Corinth",
+        "away_name": "Tishomingo County"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-10-09/",
+      "title": "Scores from last Night: Louisville ends Kosciusko’s unbeaten run; Tupelo stays perfect"
+    },
+    {
+      "url": "https://sportsmississippi.com/prep-sports/sportsms-scores-2026-10-02/",
+      "title": "Brown’s six TDs keep Petal perfect; Jackson Prep ends JA’s unbeaten run"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: Unbeaten Amite County visits Wesson; district tests fill Friday slate",
+    "headline_fact_ids": [
+      "game-0",
+      "amite-wesson-records",
+      "lake-center-records",
+      "oxford-germantown-records",
+      "brandon-petal-records",
+      "corinth-records"
+    ],
+    "html": "<p data-facts=\"game-0 game-1 game-2 game-3 game-4 amite-wesson-records lake-center-records oxford-germantown-records brandon-petal-records corinth-records\">Amite County and Wesson take perfect season records into Friday’s meeting in Wesson, while Lake Cormorant puts its unbeaten start on the line at Center Hill. Those games anchor an October 16 football selection built around teams with strong records and district opportunities. All five featured matchups are scheduled for 7 p.m. CDT.</p>\n<h2 data-facts=\"game-0 amite-wesson-records\">Amite County at Wesson: Two perfect starts</h2>\n<p data-facts=\"game-0 amite-wesson-records amite-wesson-defense\">Amite County arrives 6–0 to face a Wesson team that has won all seven of its games. The district records are clean, too: the Trojans are 1–0 and the Cobras 2–0. MaxPreps lists just 12 points allowed for Amite County this season and 40 for Wesson, a pair of reported defensive totals that add to the interest in this meeting.</p>\n<h2 data-facts=\"game-1 lake-center-records\">Lake Cormorant at Center Hill: District momentum at stake</h2>\n<p data-facts=\"game-1 lake-center-records center-hill-october-nine\">Lake Cormorant enters 6–0, but its next road assignment is against a 5–1 Center Hill team that also won its district opener. The Mustangs beat Grenada 28–14 on October 9 and now return home with a chance to build on that result. Both teams are 1–0 in district play, so Friday offers each a chance to strengthen its start against an opponent with a winning record.</p>\n<h2 data-facts=\"game-2 oxford-germantown-records\">Oxford at Germantown: Winning district starts meet</h2>\n<p data-facts=\"game-2 oxford-germantown-records germantown-october-nine\">Oxford brings a 5–1 record to Germantown, where the Mavericks enter 4–2 after a 38–28 victory at Starkville on October 9. Both teams are 1–0 in district play. Germantown earned its opening district win on the road; Friday gives it a chance to follow that result at home against a Chargers team with only one loss.</p>\n<p data-facts=\"center-hill-october-nine germantown-october-nine\">Center Hill and Germantown both earned those victories away from home. Our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-10-09/\">October 9 football roundup</a> revisits their wins and the other verified results from that night.</p>\n<h2 data-facts=\"game-3 brandon-petal-records\">Brandon at Petal: Petal seeks its first district win</h2>\n<p data-facts=\"game-3 brandon-petal-records\">Brandon’s 5–1 overall record comes with a 1–0 district start. Petal has six wins against one loss overall, but its district mark is 0–1. That gives the Panthers a clear opportunity at home: turn a strong season record into their first district victory, while Brandon tries to add to its opening win. Read our <a href=\"https://sportsmississippi.com/prep-sports/sportsms-scores-2026-10-02/\">earlier coverage of Petal</a> for more on the Panthers’ season.</p>\n<h2 data-facts=\"game-4 corinth-records\">Tishomingo County at Corinth: Matching overall records</h2>\n<p data-facts=\"game-4 corinth-records corinth-homecoming\">Corinth and visiting Tishomingo County both enter 4–2, with neither having lost in district play. The Warriors are 2–0 in the district; the Braves are 1–0. The game is also Corinth’s homecoming, according to Alcorn Sports.</p>",
+    "facts": [
+      {
+        "id": "amite-wesson-records",
+        "kind": "record",
+        "claim": "Amite County is 6-0 overall and 1-0 in district play; Wesson is 7-0 overall and 2-0 in district play.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/amite-county-liberty-vs-wesson/10-16-2026/?c=e6bfe28b-16f1-470c-8774-3d7398b41fe9",
+          "excerpt": "scoring averages final q1 q2 q3 q4 amite county 45.7 14.0 16.8 8.4 6.4 wesson 33.1 5.6 12.0 6.8 7.4 rankings mississippi #57 #73 mississippi division 2a #4 #6 baton rouge #14 -- jackson -- #23 season recap overall record 6-0 7-0 district 1-0 2-0",
+          "subjects": [
+            "amite county",
+            "wesson"
+          ]
+        }
+      },
+      {
+        "id": "lake-center-records",
+        "kind": "record",
+        "claim": "Lake Cormorant is 6-0 overall and Center Hill 5-1; both are 1-0 in district play.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-lake-cormorant/10-16-2026/?c=596305e3-8fec-478e-93f7-4eb20ab7b3fc",
+          "excerpt": "scoring averages final q1 q2 q3 q4 ot1 ot2 lake cormorant 24.5 0.0 6.8 5.2 8.2 7.0 -- center hill 32.7 5.0 9.8 9.8 4.8 15.0 0.0 rankings mississippi #15 #50 mississippi division 6a #2 #7 memphis #5 #20 season recap overall record 6-0 5-1 district 1-0 1-0",
+          "subjects": [
+            "lake cormorant",
+            "center hill"
+          ]
+        }
+      },
+      {
+        "id": "oxford-germantown-records",
+        "kind": "record",
+        "claim": "Oxford is 5-1 overall and Germantown 4-2; both are 1-0 in district play.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/germantown-madison-vs-oxford/10-16-2026/?c=04db07bd-99d2-4172-8ba9-487103c11ce6",
+          "excerpt": "scoring averages final q1 q2 q3 q4 oxford 26.7 2.3 10.3 5.7 8.3 germantown 42.3 9.0 9.8 7.8 15.5 rankings mississippi #6 #5 mississippi division 7a #5 #4 jackson -- #3 season recap overall record 5-1 4-2 district 1-0 1-0",
+          "subjects": [
+            "oxford",
+            "germantown"
+          ]
+        }
+      },
+      {
+        "id": "brandon-petal-records",
+        "kind": "record",
+        "claim": "Brandon is 5-1 overall and 1-0 in district play; Petal is 6-1 overall and 0-1 in district play.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/brandon-vs-petal/10-16-2026/?c=76fe5729-c821-4e10-b310-d1944b03fd02",
+          "excerpt": "scoring averages final q1 q2 q3 q4 ot1 ot2 brandon 31.5 9.4 6.8 6.8 4.0 7.0 7.0 petal 38.9 7.0 12.4 7.6 8.6 7.5 -- rankings mississippi #2 #13 mississippi division 7a #2 #8 hattiesburg -- #2 jackson #1 -- season recap overall record 5-1 6-1 district 1-0 0-1",
+          "subjects": [
+            "brandon",
+            "petal"
+          ]
+        }
+      },
+      {
+        "id": "corinth-records",
+        "kind": "record",
+        "claim": "Tishomingo County and Corinth are both 4-2 overall; Tishomingo County is 1-0 in district play and Corinth 2-0.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/corinth-vs-tishomingo-county-iuka/10-16-2026/?c=a7ba82d7-e200-40f1-bf09-ecbd5f3a6409",
+          "excerpt": "scoring averages final q1 q2 q3 q4 tishomingo county 31.3 4.7 7.3 2.0 11.0 corinth 32.3 8.8 1.8 4.5 5.0 rankings mississippi #162 #46 mississippi division 4a #26 #8 columbus-tupelo #40 -- memphis -- #18 season recap overall record 4-2 4-2 district 1-0 2-0",
+          "subjects": [
+            "tishomingo county",
+            "corinth"
+          ]
+        }
+      },
+      {
+        "id": "amite-wesson-defense",
+        "kind": "context",
+        "claim": "MaxPreps lists Amite County with 12 points allowed and Wesson with 40 points allowed this season.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/amite-county-liberty-vs-wesson/10-16-2026/?c=e6bfe28b-16f1-470c-8774-3d7398b41fe9",
+          "excerpt": "scoring averages final q1 q2 q3 q4 amite county 45.7 14.0 16.8 8.4 6.4 wesson 33.1 5.6 12.0 6.8 7.4 rankings mississippi #57 #73 mississippi division 2a #4 #6 baton rouge #14 -- jackson -- #23 season recap overall record 6-0 7-0 district 1-0 2-0 non-district 5-0 5-0 head to head 0-0 0-0 home 4-0 3-0 away 2-0 4-0 neutral 0-0 0-0 common opponent 1-0 2-0 playoff 0-0 0-0 in-state 6-0 7-0 out-of-state 0-0 0-0 win % 1.000 1.000 district % 1.000 1.000 pf 274 232 pa 12 40",
+          "subjects": [
+            "amite county",
+            "wesson"
+          ]
+        }
+      },
+      {
+        "id": "center-hill-october-nine",
+        "kind": "history",
+        "claim": "Center Hill beat Grenada 28-14 in conference play on October 9, 2026.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-grenada/10-9-2026/?c=b32ee722-6637-42db-829d-4cce4f295007",
+          "excerpt": "center hill vs grenada | football | 10/09/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team tickets digital tickets don't miss the action – get official tickets sign in high school football mississippi high school football center hill varsity football @ grenada center hill 5-1 mustangs 28 final 14 grenada 3-2 chargers center hill varsity football @ grenada game info on 10/9, the center hill varsity football team won their away conference game against grenada (ms) by a score of 28-14.",
+          "subjects": [
+            "center hill",
+            "grenada"
+          ],
+          "date_excerpt": "10/09/2026"
+        },
+        "fact_date": "2026-10-09"
+      },
+      {
+        "id": "germantown-october-nine",
+        "kind": "history",
+        "claim": "Germantown won 38-28 at Starkville in conference play on October 9, 2026.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/germantown-madison-vs-starkville/10-9-2026/?c=1b6353e7-f5b2-42fa-b1f9-5239f6af0be9",
+          "excerpt": "germantown vs starkville | football | 10/09/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team tickets digital tickets don't miss the action – get official tickets sign in high school football mississippi high school football germantown varsity football @ starkville germantown 4-2 mavericks 38 final 28 starkville 4-2 yellowjackets germantown varsity football @ starkville game info on 10/9, the germantown varsity football team won their away conference game against starkville (ms) by a score of 38-28.",
+          "subjects": [
+            "germantown",
+            "starkville"
+          ],
+          "date_excerpt": "10/09/2026"
+        },
+        "fact_date": "2026-10-09"
+      },
+      {
+        "id": "corinth-homecoming",
+        "kind": "context",
+        "claim": "Corinth hosts Tishomingo County for its homecoming game.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-16",
+        "evidence": {
+          "url": "https://alcornsportsms.com/2026/10/16/kossuths-state-final-opens-a-five-game-friday/",
+          "excerpt": "at corinth , two 4â2 teams meet when tishomingo county visits for the warriorsâ homecoming game.",
+          "subjects": [
+            "corinth",
+            "tishomingo county"
+          ]
+        }
+      }
+    ]
+  }
+}
