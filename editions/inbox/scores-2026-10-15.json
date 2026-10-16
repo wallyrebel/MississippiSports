@@ -1,0 +1,410 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-10-15",
+  "verified_at": "2026-10-16T13:16:50.586616+00:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "volleyball",
+    "cross country",
+    "swimming",
+    "golf",
+    "soccer",
+    "softball"
+  ],
+  "games": [
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-15",
+      "home": "Center Hill",
+      "away": "Hancock",
+      "status": "final",
+      "home_score": 3,
+      "away_score": 2,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/center-hill-olive-branch-vs-hancock-kiln/10-15-2026/?c=a02baedf-87b4-4671-ae1c-1e81da668a2f",
+        "excerpt": "hancock vs center hill | volleyball | 10/15/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team tickets digital tickets don't miss the action – get official tickets sign in high school volleyball mississippi high school volleyball hancock girls varsity volleyball @ center hill hancock 25-9 hawks 2 final 3 center hill 18-11 mustangs",
+        "date_excerpt": "10/15/2026",
+        "home_name": "Center Hill",
+        "away_name": "Hancock"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-15",
+      "home": "Lewisburg",
+      "away": "Ocean Springs",
+      "status": "final",
+      "home_score": 3,
+      "away_score": 1,
+      "evidence": {
+        "url": "https://desotocountynews.com/desoto-county-sports/lewisburg-downs-ocean-springs-in-four-sets-for-seventh-state-volleyball-title/",
+        "excerpt": "desoto county sports lewisburg downs ocean springs in four sets for seventh state volleyball title october 15, 2026 jon myers clinton, miss. â lewisburg won its seventh state volleyball championship thursday night, beating defending champion ocean springs 3-1 in the mhsaa class 7a final at mississippi christian university.",
+        "date_excerpt": "October 15, 2026",
+        "home_name": "Lewisburg",
+        "away_name": "Ocean Springs"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-15",
+      "home": "Tupelo",
+      "away": "Hernando",
+      "status": "final",
+      "home_score": 42,
+      "away_score": 7,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/hernando-vs-tupelo/10-15-2026/?c=3b9cedf7-ff8f-4767-8942-5182f2af4bc8",
+        "excerpt": "hernando vs tupelo | football | 10/15/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team tickets digital tickets don't miss the action – get official tickets sign in high school football mississippi high school football hernando varsity football @ tupelo hernando 5-2 tigers 7 final 42 tupelo 8-0 golden wave",
+        "date_excerpt": "10/15/2026",
+        "home_name": "Tupelo",
+        "away_name": "Hernando"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-15",
+      "home": "Resurrection Catholic",
+      "away": "Lumberton",
+      "status": "final",
+      "home_score": 0,
+      "away_score": 62,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/lumberton-vs-resurrection-catholic-pascagoula/10-15-2026/?c=6c35e838-f604-459c-996d-a86c73969df0",
+        "excerpt": "lumberton vs resurrection catholic | football | 10/15/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team tickets digital tickets don't miss the action – get official tickets sign in high school football mississippi high school football lumberton varsity football @ rchs lumberton 3-4 panthers 62 final 0 resurrection catholic 2-5-1 eagles",
+        "date_excerpt": "10/15/2026",
+        "home_name": "Resurrection Catholic",
+        "away_name": "Lumberton"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-15",
+      "home": "Holmes County Central",
+      "away": "Lanier",
+      "status": "final",
+      "home_score": 20,
+      "away_score": 50,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/holmes-county-central-lexington-vs-lanier-jackson/10-15-2026/?c=449d4c0a-e0e0-4e1c-8248-07e64f2c7a64",
+        "excerpt": "lanier vs holmes county central | football | 10/15/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team tickets digital tickets don't miss the action – get official tickets sign in high school football mississippi high school football lanier varsity football @ hcchs lanier 7-1 bulldogs 50 final 20 holmes county central 2-6 jaguars",
+        "date_excerpt": "10/15/2026",
+        "home_name": "Holmes County Central",
+        "away_name": "Lanier"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-15",
+      "home": "Jackson Academy",
+      "away": "Jackson Prep",
+      "status": "final",
+      "home_score": 3,
+      "away_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/jackson-academy-vs-jackson-prep/10-15-2026/?c=b6807c66-cf6f-4f13-b8d7-18cd30dbdc83",
+        "excerpt": "jackson prep vs jackson academy | volleyball | 10/15/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team tickets digital tickets don't miss the action – get official tickets sign in high school volleyball mississippi high school volleyball jackson prep girls varsity volleyball @ jackson academy jackson prep 11-14 patriots 0 final 3 jackson academy 45-7 raiders",
+        "date_excerpt": "10/15/2026",
+        "home_name": "Jackson Academy",
+        "away_name": "Jackson Prep"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-15",
+      "home": "Pillow Academy",
+      "away": "Heritage Academy",
+      "status": "final",
+      "home_score": 3,
+      "away_score": 2,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/heritage-academy-columbus-vs-pillow-academy-greenwood/10-15-2026/?c=f5c43189-021c-46ca-afd0-7e2bfef538d2",
+        "excerpt": "heritage academy vs pillow academy | volleyball | 10/15/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team tickets digital tickets don't miss the action – get official tickets sign in high school volleyball mississippi high school volleyball heritage academy girls varsity volleyball @ pillow academy heritage academy 16-10 patriots 2 final 3 pillow academy 2-12 mustangs",
+        "date_excerpt": "10/15/2026",
+        "home_name": "Pillow Academy",
+        "away_name": "Heritage Academy"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-10-15/",
+      "title": "Games To Watch: Defending champions face comeback challengers; Tupelo hosts Hernando"
+    },
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-10-12/",
+      "title": "Lewisburg rallies into state final; East Union stays unbeaten in Monday playoff action"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Center Hill holds on for state crown; Lewisburg dethrones Ocean Springs",
+    "headline_fact_ids": [
+      "game-0",
+      "game-1",
+      "six-a-title",
+      "lewisburg-title"
+    ],
+    "html": "<p data-facts=\"game-0 game-1 six-a-title center-hill-sets lewisburg-title\">Center Hill’s two-set lead was gone, but its championship chance was still alive. The Mustangs answered Hancock’s comeback with a 15–4 deciding set for the Class 6A crown Thursday, October 15. Lewisburg followed with a 3–1 victory over defending champion Ocean Springs in the Class 7A final, giving DeSoto County two state titles.</p>\n<h2 data-facts=\"game-0 six-a-title\">Center Hill answers in the fifth</h2>\n<p data-facts=\"game-0 center-hill-sets center-hill-finish\">Center Hill’s 3–2 win over Hancock was a test of how it would respond when an early advantage disappeared. The Mustangs took the opening sets 25–16 and 25–22, but the Hawks won the next two to force a fifth. Center Hill then produced its clearest winning margin of the match, taking that deciding set 15–4.</p>\n<p data-facts=\"center-hill-finish six-a-title center-hill-path\">The championship completed four consecutive playoff victories and left the Mustangs 18–11. Their finish extended a postseason run that had already carried them through Neshoba Central, as covered in our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-10-12/\">Monday playoff roundup</a>.</p>\n<h2 data-facts=\"game-1 lewisburg-title\">Lewisburg takes the crown back</h2>\n<p data-facts=\"game-1 lewisburg-title lewisburg-sets lewisburg-record\">Lewisburg’s seventh state title came through two tight opening sets and a firm finish. The Patriots edged Ocean Springs 25–23 and 31–29, lost the third 14–25, then closed the match 25–16. The 3–1 victory over the reigning champions left Lewisburg 35–8.</p>\n<p data-facts=\"lewisburg-sets lewisburg-title\">The extended second set gave Lewisburg a two-set cushion; Ocean Springs’ response in the third made the Patriots earn the final step. Lewisburg did so in four, ending the Greyhounds’ title defense. The matchup was one of the championship games featured in our <a href=\"https://sportsmississippi.com/sports/sportsms-preview-2026-10-15/\">Thursday Games To Watch preview</a>.</p>\n<h2 data-facts=\"game-5 game-6\">Jackson Academy sweeps; Pillow wins in five</h2>\n<p data-facts=\"game-5 jackson-academy-sets jackson-academy-record\">Jackson Academy beat Jackson Prep 3–0, winning 25–9, 25–15 and 25–17 to move to 45–7.</p>\n<p data-facts=\"game-6 pillow-sets\">Pillow Academy took a longer route against Heritage Academy. The Mustangs won 3–2, answering a 17–25 fourth-set loss with a 15–11 victory in the fifth. That final response decided a match in which neither team won consecutive sets.</p>\n<h2 data-facts=\"game-2 game-3 game-4 tupelo-records\">Tupelo stays perfect; Lumberton and Lanier win on the road</h2>\n<p data-facts=\"game-2 tupelo-records tupelo-quarters\">Tupelo scored 21 points in the opening quarter and went on to beat Hernando 42–7. The Golden Wave added 14 in the second quarter, when the Tigers scored their only points. Tupelo improved to 8–0; Hernando fell to 5–2.</p>\n<p data-facts=\"game-3 lumberton-record\">Lumberton’s 62–0 road victory over Resurrection Catholic was more emphatic. The Panthers improved to 3–4 overall while keeping an unbeaten district start at 2–0.</p>\n<p data-facts=\"game-4 lanier-record\">Lanier also won away from home, beating Holmes County Central 50–20. The Bulldogs improved to 7–1, while the Jaguars dropped to 2–6.</p>",
+    "facts": [
+      {
+        "id": "six-a-title",
+        "kind": "stakes",
+        "claim": "Center Hill defeated Hancock 3-2 to win the Class 6A state volleyball championship.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://desotocountynews.com/desoto-county-sports/respect-the-hill-center-hill-claims-the-2026-6a-volleyball-championship/",
+          "excerpt": "on thursday, they were holding the class 6a volleyball state championship trophy. center hill beat top-ranked hancock 3-2 (25-16, 25-22, 17-25, 25-27, 15-4) at a.e. wood coliseum on the campus of mississippi college, finishing off a run of four straight playoff wins.",
+          "subjects": [
+            "center hill",
+            "hancock"
+          ]
+        }
+      },
+      {
+        "id": "center-hill-sets",
+        "kind": "result",
+        "claim": "Center Hill won the first two sets 25-16 and 25-22, lost the next two, and won the fifth 15-4.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://desotocountynews.com/desoto-county-sports/respect-the-hill-center-hill-claims-the-2026-6a-volleyball-championship/",
+          "excerpt": "center hill beat top-ranked hancock 3-2 (25-16, 25-22, 17-25, 25-27, 15-4) at a.e. wood coliseum on the campus of mississippi college, finishing off a run of four straight playoff wins.",
+          "subjects": [
+            "center hill",
+            "hancock"
+          ]
+        }
+      },
+      {
+        "id": "center-hill-finish",
+        "kind": "record",
+        "claim": "Center Hill finished 18-11 after four straight playoff wins.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://desotocountynews.com/desoto-county-sports/respect-the-hill-center-hill-claims-the-2026-6a-volleyball-championship/",
+          "excerpt": "center hill beat top-ranked hancock 3-2 (25-16, 25-22, 17-25, 25-27, 15-4) at a.e. wood coliseum on the campus of mississippi college, finishing off a run of four straight playoff wins. ârespect the hillâ is no longer a slogan. itâs a fact. a two-set lead, then a near-collapse the mustangs (18-11) controlled the first two sets",
+          "subjects": [
+            "center hill",
+            "mustangs"
+          ]
+        }
+      },
+      {
+        "id": "lewisburg-title",
+        "kind": "stakes",
+        "claim": "Lewisburg won its seventh state championship, defeating defending champion Ocean Springs 3-1 in the Class 7A final.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://desotocountynews.com/desoto-county-sports/lewisburg-downs-ocean-springs-in-four-sets-for-seventh-state-volleyball-title/",
+          "excerpt": "lewisburg won its seventh state volleyball championship thursday night, beating defending champion ocean springs 3-1 in the mhsaa class 7a final at mississippi christian university.",
+          "subjects": [
+            "lewisburg",
+            "ocean springs"
+          ]
+        }
+      },
+      {
+        "id": "lewisburg-sets",
+        "kind": "result",
+        "claim": "Lewisburg won 25-23, 31-29, 14-25, 25-16, finishing the match with a fourth-set victory.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://desotocountynews.com/desoto-county-sports/lewisburg-downs-ocean-springs-in-four-sets-for-seventh-state-volleyball-title/",
+          "excerpt": "set lewisburg ocean springs 1 25 23 2 31 29 3 14 25 4 25 16",
+          "subjects": [
+            "lewisburg",
+            "ocean springs"
+          ]
+        }
+      },
+      {
+        "id": "lewisburg-record",
+        "kind": "record",
+        "claim": "Lewisburg finished 35-8.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://desotocountynews.com/desoto-county-sports/lewisburg-downs-ocean-springs-in-four-sets-for-seventh-state-volleyball-title/",
+          "excerpt": "the lady patriots (35-8) edged two tight sets, 25-23 and 31-29, dropped set 3 25-14, then controlled the fourth.",
+          "subjects": [
+            "lady patriots"
+          ]
+        }
+      },
+      {
+        "id": "tupelo-records",
+        "kind": "record",
+        "claim": "Tupelo improved to 8-0 and Hernando fell to 5-2 after the 42-7 final.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/hernando-vs-tupelo/10-15-2026/?c=3b9cedf7-ff8f-4767-8942-5182f2af4bc8",
+          "excerpt": "hernando 5-2 tigers 7 final 42 tupelo 8-0 golden wave",
+          "subjects": [
+            "hernando",
+            "tupelo"
+          ]
+        }
+      },
+      {
+        "id": "tupelo-quarters",
+        "kind": "result",
+        "claim": "Tupelo scored 21 points in the first quarter and 14 in the second; Hernando scored its 7 points in the second quarter.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/hernando-vs-tupelo/10-15-2026/?c=3b9cedf7-ff8f-4767-8942-5182f2af4bc8",
+          "excerpt": "boxscore q1 q2 q3 q4 final hernando 0 7 0 0 7 tupelo 21 14 7 0 42",
+          "subjects": [
+            "hernando",
+            "tupelo"
+          ]
+        }
+      },
+      {
+        "id": "lumberton-record",
+        "kind": "record",
+        "claim": "Lumberton improved to 3-4 overall and 2-0 in district play.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/lumberton/lumberton-panthers/football/",
+          "excerpt": "lumberton panthers varsity football lumberton, ms 608 followers 26-27 overall 3-4 district 2-0 (1st)",
+          "subjects": [
+            "lumberton"
+          ]
+        }
+      },
+      {
+        "id": "lanier-record",
+        "kind": "record",
+        "claim": "Lanier improved to 7-1 after a 50-20 victory; Holmes County Central fell to 2-6.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/holmes-county-central-lexington-vs-lanier-jackson/10-15-2026/?c=449d4c0a-e0e0-4e1c-8248-07e64f2c7a64",
+          "excerpt": "lanier 7-1 bulldogs 50 final 20 holmes county central 2-6 jaguars",
+          "subjects": [
+            "lanier",
+            "holmes county central"
+          ]
+        }
+      },
+      {
+        "id": "jackson-academy-sets",
+        "kind": "result",
+        "claim": "Jackson Academy swept Jackson Prep 25-9, 25-15, 25-17.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/jackson-academy-vs-jackson-prep/10-15-2026/?c=b6807c66-cf6f-4f13-b8d7-18cd30dbdc83",
+          "excerpt": "boxscore s1 s2 s3 wins jackson prep 9 15 17 0 jackson academy 25 25 25 3",
+          "subjects": [
+            "jackson prep",
+            "jackson academy"
+          ]
+        }
+      },
+      {
+        "id": "jackson-academy-record",
+        "kind": "record",
+        "claim": "Jackson Academy finished 45-7 after its 3-0 win.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/jackson-academy-vs-jackson-prep/10-15-2026/?c=b6807c66-cf6f-4f13-b8d7-18cd30dbdc83",
+          "excerpt": "jackson prep 11-14 patriots 0 final 3 jackson academy 45-7 raiders",
+          "subjects": [
+            "jackson prep",
+            "jackson academy"
+          ]
+        }
+      },
+      {
+        "id": "pillow-sets",
+        "kind": "result",
+        "claim": "Pillow Academy beat Heritage Academy 3-2, winning the fifth set 15-11 after losing the fourth 17-25. The teams alternated set wins.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/heritage-academy-columbus-vs-pillow-academy-greenwood/10-15-2026/?c=f5c43189-021c-46ca-afd0-7e2bfef538d2",
+          "excerpt": "boxscore s1 s2 s3 s4 s5 wins heritage academy 25 25 23 25 11 2 pillow academy 27 20 25 17 15 3",
+          "subjects": [
+            "heritage academy",
+            "pillow academy"
+          ]
+        }
+      },
+      {
+        "id": "center-hill-path",
+        "kind": "result",
+        "claim": "Center Hill swept Callaway and Saltillo, then beat Neshoba Central 3-1 to reach the state final.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-15",
+        "evidence": {
+          "url": "https://desotocountynews.com/desoto-county-sports/respect-the-hill-center-hill-claims-the-2026-6a-volleyball-championship/",
+          "excerpt": "center hill swept callaway and saltillo, then beat neshoba central 3-1 in mondayâs north half final.",
+          "subjects": [
+            "center hill",
+            "neshoba central"
+          ]
+        }
+      }
+    ]
+  }
+}
