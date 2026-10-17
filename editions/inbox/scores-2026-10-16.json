@@ -1,0 +1,434 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-10-16",
+  "verified_at": "2026-10-17T13:05:31.236687+00:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "volleyball",
+    "cross country",
+    "swimming",
+    "golf",
+    "soccer",
+    "softball"
+  ],
+  "games": [
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-16",
+      "home": "Petal",
+      "away": "Brandon",
+      "status": "final",
+      "home_score": 35,
+      "away_score": 34,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/brandon-vs-petal/10-16-2026/?c=76fe5729-c821-4e10-b310-d1944b03fd02",
+        "excerpt": "high school football mississippi high school football brandon varsity football @ petal brandon 5-2 bulldogs 34 final 35 petal 7-1 panthers brandon varsity football @ petal game info on 10/16, the brandon varsity football team lost their away conference game against petal (ms) by a score of 35-34. recap scoretracker matchup roster boxscore q1 q2 q3 q4 final brandon 13 7 14 0 34 petal 14 7 7 7 35 final score provided by m. boyles mississippi high school football - petal nudges brandon the crowd at friday's league contest between the petal panthers (petal, ms) and the visiting brandon bulldogs (brandon, ms), witnessed petal's football squad edge brandon by a tally of 35-34. the panthers (7-1) will now prepare for their contest against pearl (pearl, ms). the pirates enter the 7a region 3 contest with a 2-6 record. in their last contest, pearl was nudged by northwest rankin (brandon, ms), 27-19, in a league contest. coming up next, the bulldogs confront the oak grove warriors (hattiesburg, ms) in a 7a region 3 contest, on friday, october 23. brandon will attempt to better on its 5-2 season record. the warriors enter the contest with a 6-1 record after their 21-20 league win over meridian (meridian, ms). october 16, 2026",
+        "date_excerpt": "october 16, 2026",
+        "home_name": "Petal",
+        "away_name": "Brandon"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-16",
+      "home": "Wesson",
+      "away": "Amite County",
+      "status": "final",
+      "home_score": 9,
+      "away_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/amite-county-liberty-vs-wesson/10-16-2026/?c=e6bfe28b-16f1-470c-8774-3d7398b41fe9",
+        "excerpt": "high school football mississippi high school football amite county varsity football @ wesson amite county 6-1 trojans 0 final 9 wesson 8-0 cobras amite county varsity football @ wesson game info on 10/16, the amite county varsity football team lost their away conference game against wesson (ms) by a score of 9-0. recap scoretracker matchup roster boxscore q1 q2 q3 q4 final amite county 0 0 0 0 0 wesson 0 6 0 3 9 final score provided by m. bridges mississippi high school football - wesson tops amite county the wesson cobras football squad scored 9 points and limited the visiting amite county trojans to 0 in the cobras league triumph on friday. the cobras now hold a 8-0 record. they take the field next when they travel to wilkinson county for a 2a region 7 test on friday, october 23. wesson will meet a wildcats squad coming off a 58-12 league loss to amite county (liberty, ms). the wildcats record now stands at 3-3. with the defeat, amite county drops to 6-1 on the campaign. the trojans host enterprise (brookhaven, ms) to meet the yellowjackets in a 2a region 7 test on friday, october 23. the yellowjackets come into the test with a record of 5-3. enterprise lost 32-28 in their recent league test against loyd star (brookhaven, ms) october 16, 2026",
+        "date_excerpt": "october 16, 2026",
+        "home_name": "Wesson",
+        "away_name": "Amite County"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-16",
+      "home": "Center Hill",
+      "away": "Lake Cormorant",
+      "status": "final",
+      "home_score": 9,
+      "away_score": 14,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-lake-cormorant/10-16-2026/?c=596305e3-8fec-478e-93f7-4eb20ab7b3fc",
+        "excerpt": "high school football mississippi high school football lake cormorant varsity football @ center hill lake cormorant 7-0 14 final 9 center hill 5-2 mustangs lake cormorant varsity football @ center hill game info on 10/16, the lake cormorant varsity football team won their away conference game against center hill (olive branch, ms) by a score of 14-9. recap scoretracker matchup roster boxscore q1 q2 q3 q4 final lake cormorant 7 7 0 0 14 center hill 3 0 0 6 9 final score provided by s. clark mississippi high school football - lake cormorant nips center hill the crowd at friday's league contest between the lake cormorant (lake cormorant, ms) and the host center hill mustangs (olive branch, ms), witnessed lake cormorant's football squad edge center hill by a tally of 14-9. the (7-0) will now prepare for their contest against saltillo (saltillo, ms). the tigers enter the 6a region 1 contest with a 1-7 record. in their last contest, saltillo was nudged by south panola (batesville, ms), 53-6, in a league contest. coming up next, the mustangs battle the olive branch conquistadors (olive branch, ms) in a 6a region 1 contest, on friday, october 23. center hill will attempt to better on its 5-2 season record. the conquistadors enter the contest with a 3-5 record after their 14-7 league loss to grenada (grenada, ms). october 16, 2026",
+        "date_excerpt": "october 16, 2026",
+        "home_name": "Center Hill",
+        "away_name": "Lake Cormorant"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-16",
+      "home": "D'Iberville",
+      "away": "St. Martin",
+      "status": "final",
+      "home_score": 55,
+      "away_score": 50,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/diberville-vs-st-martin-ocean-springs/10-16-2026/?c=cf7e56a3-9d5d-41d6-835a-6ecf2c5217dd",
+        "excerpt": "st. martin vs d'iberville | football | 10/16/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team tickets digital tickets don't miss the action – get official tickets sign in high school football mississippi high school football st. martin varsity football @ d'iberville st. martin 6-2 yellow jackets 50 final 55 d'iberville 8-0 warriors st. martin varsity football @ d'iberville game info on 10/16, the st. martin varsity football team lost their away conference game against d'iberville (ms) by a score of 55-50. recap stats scoretracker matchup roster boxscore q1 q2 q3 q4 final st. martin 20 17 0 13 50 d'iberville 21 14 7 13 55 ",
+        "date_excerpt": "10/16/2026",
+        "home_name": "D'Iberville",
+        "away_name": "St. Martin"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-16",
+      "home": "Germantown",
+      "away": "Oxford",
+      "status": "final",
+      "home_score": 24,
+      "away_score": 27,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/germantown-madison-vs-oxford/10-16-2026/?c=04db07bd-99d2-4172-8ba9-487103c11ce6",
+        "excerpt": "oxford vs germantown | football | 10/16/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team tickets digital tickets don't miss the action – get official tickets sign in high school football mississippi high school football oxford varsity football @ germantown oxford 6-1 chargers 27 final 24 germantown 4-3 mavericks oxford varsity football @ germantown game info on 10/16, the oxford varsity football team won their away conference game against germantown (madison, ms) by a score of 27-24. recap matchup roster boxscore q1 q2 q3 q4 final oxford -- -- -- -- 27 germantown -- -- -- -- 24 ",
+        "date_excerpt": "10/16/2026",
+        "home_name": "Germantown",
+        "away_name": "Oxford"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-16",
+      "home": "Kossuth",
+      "away": "Our Lady Academy",
+      "status": "final",
+      "home_score": 1,
+      "away_score": 3,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/kossuth-vs-our-lady-academy-bay-st-louis/10-16-2026/?c=234a3edc-0094-41bf-ae43-3d8cbbcbab41",
+        "excerpt": "high school volleyball mississippi high school volleyball our lady academy girls varsity volleyball @ kossuth our lady academy 31-10 crescents 3 final 1 kossuth 30-5 aggies our lady academy girls varsity volleyball @ kossuth streaming & ticketing watch recap game info on 10/16, the our lady academy varsity volleyball team won their away playoff match against kossuth (ms) by a score of 3-1. recap stats matchup roster boxscore s1 s2 s3 s4 wins our lady academy 25 20 25 25 3 kossuth 21 25 18 8 1 final score provided by k. mccubbin mississippi high school volleyball - our lady academy over kossuth the our lady academy crescents volleyball team scored 3 points and restricted the host kossuth aggies to 1 in the crescents non-league triumph on friday. the crescents now possess a 31-10 record. with the loss, kossuth drops to 30-5 on the campaign. october 16, 2026",
+        "date_excerpt": "october 16, 2026",
+        "home_name": "Kossuth",
+        "away_name": "Our Lady Academy"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-16",
+      "home": "Corinth",
+      "away": "Tishomingo County",
+      "status": "final",
+      "home_score": 55,
+      "away_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/corinth-vs-tishomingo-county-iuka/10-16-2026/?c=a7ba82d7-e200-40f1-bf09-ecbd5f3a6409",
+        "excerpt": "high school football mississippi high school football tishomingo county varsity football @ corinth tishomingo county 4-3 braves 0 final 55 corinth 5-2 warriors tishomingo county varsity football @ corinth game info on 10/16, the tishomingo county varsity football team lost their away conference game against corinth (ms) by a score of 55-0. recap scoretracker matchup roster fan chat boxscore q1 q2 q3 q4 final tishomingo county 0 0 0 0 0 corinth 14 24 14 3 55 final score provided by d. cavanaugh mississippi high school football - tishomingo county trounced by corinth the tishomingo county braves football team (iuka, ms), was crushed 55-0 in friday's league bout with the host corinth warriors (corinth, ms) with the win, corinth advances its record to 5-2 on the season. the warriors travel to amory (amory, ms) to encounter the panthers in a non-league bout on friday, october 23. the panthers go into the bout with a record of 4-4. amory lost 28-14 in their recent league bout against shannon (shannon, ms) the braves now own a 4-3 record. they play next when they host new albany for a 4a region 1 bout on friday, october 23. tishomingo county will encounter a bulldogs team coming off a 49-9 league win over south pontotoc (pontotoc, ms). the bulldogs record now stands at 5-2. october 16, 2026",
+        "date_excerpt": "october 16, 2026",
+        "home_name": "Corinth",
+        "away_name": "Tishomingo County"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-16",
+      "home": "DeSoto Central",
+      "away": "Horn Lake",
+      "status": "final",
+      "home_score": 39,
+      "away_score": 21,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/desoto-central-southaven-vs-horn-lake/10-16-2026/?c=afd93fe1-2c85-4366-a7c5-08ea4a8ea442",
+        "excerpt": "high school football mississippi high school football horn lake varsity football @ desoto central horn lake 0-7 eagles 21 final 39 desoto central 6-1 jaguars horn lake varsity football @ desoto central game info on 10/16, the horn lake varsity football team lost their away conference game against desoto central (southaven, ms) by a score of 39-21. recap stats scoretracker matchup roster boxscore q1 q2 q3 q4 final horn lake 6 15 0 0 21 desoto central 7 18 14 0 39 final score provided by j. o'bryant mississippi high school football - horn lake loses to desoto central desoto central jaguars (southaven, ms) followers went home pleased friday as they saw their football team gain a win over the visiting horn lake eagles (horn lake, ms), 39-21 in a league battle. with the win, desoto central advances its record to 6-1 on the season. the jaguars host southaven (southaven, ms) to play the chargers in a 7a region 1 battle on friday, october 23. the chargers go into the battle with a record of 1-5. southaven lost 28-7 in their recent league battle against lewisburg (olive branch, ms) the eagles now own a 0-7 record. they play next when they host tupelo for a 7a region 1 battle on friday, october 23. horn lake will play a golden wave team coming off a 42-7 league win over hernando (hernando, ms). the golden wave record now stands at 8-0. october 16, 2026",
+        "date_excerpt": "october 16, 2026",
+        "home_name": "DeSoto Central",
+        "away_name": "Horn Lake"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-16",
+      "home": "Madison-Ridgeland Academy",
+      "away": "Jackson Academy",
+      "status": "final",
+      "home_score": 28,
+      "away_score": 24,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/jackson-academy-vs-madison-ridgeland-academy/10-16-2026/?c=43f3189b-4cbc-4939-9aeb-5899f022a225",
+        "excerpt": "jackson academy vs madison-ridgeland academy | football | 10/16/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team tickets digital tickets don't miss the action – get official tickets sign in high school football mississippi high school football jackson academy varsity football @ mra jackson academy 7-2 raiders 24 final 28 madison-ridgeland academy 6-2 patriots jackson academy varsity football @ mra game info on 10/16, the jackson academy varsity football team lost their away conference game against madison-ridgeland academy (madison, ms) by a score of 28-24. recap scoretracker matchup roster boxscore q1 q2 q3 q4 final jackson academy 10 0 7 7 24 madison-ridgeland academy 7 7 14 0 28 ",
+        "date_excerpt": "10/16/2026",
+        "home_name": "Madison-Ridgeland Academy",
+        "away_name": "Jackson Academy"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-10-16/",
+      "title": "Friday preview: Unbeaten Amite County visits Wesson; district tests fill Friday slate"
+    },
+    {
+      "url": "https://sportsmississippi.com/prep-sports/sportsms-scores-2026-10-02/",
+      "title": "Earlier coverage of Petal’s unbeaten start"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Scores from last Night: Petal edges Brandon; Wesson stays perfect; OLA wins 3A title",
+    "headline_fact_ids": [
+      "game-0",
+      "game-1",
+      "game-5",
+      "wesson-records",
+      "ola-final"
+    ],
+    "html": "<p data-facts=\"game-0 game-1 game-5 petal-quarters wesson-records ola-final ola-sets\">Petal found the fourth quarter’s only points to edge Brandon 35–34, Wesson handed Amite County its first loss with a 9–0 shutout, and Our Lady Academy turned a split opening pair of sets into a Class 3A volleyball championship. Those results lead this selection of completed Mississippi varsity games from Friday, October 16.</p>\n<h2 data-facts=\"game-0 petal-quarters\">Petal finishes one point ahead of Brandon</h2>\n<p data-facts=\"game-0 petal-quarters petal-records\">Petal’s seven-point fourth quarter made the difference in a 35–34 home victory over Brandon. The Panthers scored in every quarter, while Brandon did not score in the fourth. MaxPreps lists Petal at 7–1 after the game and Brandon at 5–2.</p>\n<p data-facts=\"game-0\">Revisit our <a href=\"https://sportsmississippi.com/prep-sports/sportsms-scores-2026-10-02/\">earlier report on the Panthers’ unbeaten start</a> for the season’s earlier chapter.</p>\n<h2 data-facts=\"game-1 game-2 wesson-records lake-records\">Wesson and Lake Cormorant keep perfect records</h2>\n<p data-facts=\"game-1 wesson-records\">Wesson’s defense supplied the defining result in a meeting of unbeaten teams. The Cobras shut out visiting Amite County 9–0 to finish the night 8–0, while the Trojans took their first defeat and moved to 6–1. The final delivered a clear answer to one of the central questions in our <a href=\"https://sportsmississippi.com/sports/sportsms-preview-2026-10-16/\">Friday Games To Watch preview</a>.</p>\n<p data-facts=\"game-2 lake-records lake-quarters\">Lake Cormorant also stayed unbeaten, winning 14–9 at Center Hill. All of the visitors’ scoring came before halftime; their lead survived a scoreless second half on offense and a six-point fourth quarter from the Mustangs. Lake Cormorant is 7–0 after the win, with Center Hill at 5–2.</p>\n<h2 data-facts=\"game-3 game-4\">A high-scoring Coast finish and a close Oxford road win</h2>\n<p data-facts=\"game-3 coast-records\">D’Iberville protected its unbeaten record in a very different kind of game, beating St. Martin 55–50. The Warriors finished the night 8–0 despite allowing 50 points; St. Martin’s postgame record was 6–2.</p>\n<p data-facts=\"game-4 oxford-records\">Oxford won a close road game, 27–24 at Germantown. The Chargers’ postgame record stands at 6–1, while the Mavericks are 4–3. The result adds a road conference victory to the Chargers’ season.</p>\n<h2 data-facts=\"game-5 ola-final\">Girls volleyball: Our Lady Academy takes the Class 3A final</h2>\n<p data-facts=\"game-5 ola-final ola-sets ola-records\">Our Lady Academy beat Kossuth 3–1 in the Class 3A state final, winning the sets 25–21, 20–25, 25–18 and 25–8. After Kossuth drew level in the second, the Crescents won the final two sets and held the Aggies to eight points in the fourth. MaxPreps lists Our Lady Academy at 31–10 after the match and Kossuth at 30–5.</p>\n<p data-facts=\"game-5 ola-final\">The state-final setting was a neutral court at A.E. Wood Coliseum, as documented in <a href=\"https://alcornsportsms.com/2026/10/16/kossuths-state-final-opens-a-five-game-friday/\">Alcorn Sports’ Friday outlook</a>. The match listing’s home-and-away labels therefore should not be read as a home-court advantage for Kossuth.</p>\n<h2 data-facts=\"game-6 game-7 game-8\">Corinth shuts out Tishomingo County; DeSoto Central and MRA win</h2>\n<p data-facts=\"game-6 corinth-records game-7 desoto-records\">Corinth produced a 55–0 home victory over Tishomingo County, ending the night 5–2 while the Braves fell to 4–3. DeSoto Central beat Horn Lake 39–21 and moved to 6–1; Horn Lake remained winless at 0–7.</p>\n<p data-facts=\"game-8 mra-records\">Madison-Ridgeland Academy held off Jackson Academy 28–24. The Patriots’ postgame record is 6–2, and the Raiders are 7–2.</p>\n<p data-facts=\"game-5\">Reporting note: Other volleyball finals and results in the remaining checked sports are omitted where complete dated final evidence could not be independently rechecked. Missing reports do not establish that no games or meets were played.</p>",
+    "facts": [
+      {
+        "id": "petal-records",
+        "kind": "record",
+        "claim": "Petal finished the game 7-1; Brandon finished 5-2.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/brandon-vs-petal/10-16-2026/?c=76fe5729-c821-4e10-b310-d1944b03fd02",
+          "excerpt": "brandon 5-2 bulldogs 34 final 35 petal 7-1 panthers ",
+          "subjects": [
+            "brandon",
+            "petal"
+          ]
+        }
+      },
+      {
+        "id": "petal-quarters",
+        "kind": "result",
+        "claim": "Brandon scored 13, 7, 14 and 0 by quarter; Petal scored 14, 7, 7 and 7. Petal scored the fourth quarter’s only 7 points.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/brandon-vs-petal/10-16-2026/?c=76fe5729-c821-4e10-b310-d1944b03fd02",
+          "excerpt": "boxscore q1 q2 q3 q4 final brandon 13 7 14 0 34 petal 14 7 7 7 35 ",
+          "subjects": [
+            "brandon",
+            "petal"
+          ]
+        }
+      },
+      {
+        "id": "wesson-records",
+        "kind": "record",
+        "claim": "Wesson finished 8-0 and Amite County 6-1, its first loss.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/amite-county-liberty-vs-wesson/10-16-2026/?c=e6bfe28b-16f1-470c-8774-3d7398b41fe9",
+          "excerpt": "amite county 6-1 trojans 0 final 9 wesson 8-0 cobras ",
+          "subjects": [
+            "amite county",
+            "wesson"
+          ]
+        }
+      },
+      {
+        "id": "lake-records",
+        "kind": "record",
+        "claim": "Lake Cormorant finished 7-0; Center Hill finished 5-2.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-lake-cormorant/10-16-2026/?c=596305e3-8fec-478e-93f7-4eb20ab7b3fc",
+          "excerpt": "lake cormorant 7-0 14 final 9 center hill 5-2 mustangs ",
+          "subjects": [
+            "lake cormorant",
+            "center hill"
+          ]
+        }
+      },
+      {
+        "id": "lake-quarters",
+        "kind": "result",
+        "claim": "Lake Cormorant scored 7, 7, 0 and 0 by quarter; Center Hill scored 3, 0, 0 and 6. Lake Cormorant scored all its points before halftime and held on through a scoreless second half.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-lake-cormorant/10-16-2026/?c=596305e3-8fec-478e-93f7-4eb20ab7b3fc",
+          "excerpt": "boxscore q1 q2 q3 q4 final lake cormorant 7 7 0 0 14 center hill 3 0 0 6 9 ",
+          "subjects": [
+            "lake cormorant",
+            "center hill"
+          ]
+        }
+      },
+      {
+        "id": "coast-records",
+        "kind": "record",
+        "claim": "D'Iberville finished 8-0; St. Martin finished 6-2.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/diberville-vs-st-martin-ocean-springs/10-16-2026/?c=cf7e56a3-9d5d-41d6-835a-6ecf2c5217dd",
+          "excerpt": "st. martin 6-2 yellow jackets 50 final 55 d'iberville 8-0 warriors ",
+          "subjects": [
+            "st. martin",
+            "d'iberville"
+          ]
+        }
+      },
+      {
+        "id": "oxford-records",
+        "kind": "record",
+        "claim": "Oxford finished 6-1; Germantown finished 4-3.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/germantown-madison-vs-oxford/10-16-2026/?c=04db07bd-99d2-4172-8ba9-487103c11ce6",
+          "excerpt": "oxford 6-1 chargers 27 final 24 germantown 4-3 mavericks ",
+          "subjects": [
+            "oxford",
+            "germantown"
+          ]
+        }
+      },
+      {
+        "id": "ola-records",
+        "kind": "record",
+        "claim": "Our Lady Academy finished 31-10; Kossuth finished 30-5.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/kossuth-vs-our-lady-academy-bay-st-louis/10-16-2026/?c=234a3edc-0094-41bf-ae43-3d8cbbcbab41",
+          "excerpt": "our lady academy 31-10 crescents 3 final 1 kossuth 30-5 aggies ",
+          "subjects": [
+            "our lady academy",
+            "kossuth"
+          ]
+        }
+      },
+      {
+        "id": "ola-sets",
+        "kind": "result",
+        "claim": "Our Lady Academy won 25-21, 20-25, 25-18, 25-8. The teams split the first two sets before Our Lady Academy won the last two.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/kossuth-vs-our-lady-academy-bay-st-louis/10-16-2026/?c=234a3edc-0094-41bf-ae43-3d8cbbcbab41",
+          "excerpt": "boxscore s1 s2 s3 s4 wins our lady academy 25 20 25 25 3 kossuth 21 25 18 8 1 ",
+          "subjects": [
+            "our lady academy",
+            "kossuth"
+          ]
+        }
+      },
+      {
+        "id": "ola-final",
+        "kind": "context",
+        "claim": "Kossuth and Our Lady Academy were the October 16 Class 3A state finalists on a neutral court at A.E. Wood Coliseum.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-16",
+        "evidence": {
+          "url": "https://alcornsportsms.com/2026/10/16/kossuths-state-final-opens-a-five-game-friday/",
+          "excerpt": "kossuth can make its 23rd consecutive volleyball victory a state championship this morning. the 30â4 lady aggies meet 30â10 our lady academy at 10 a.m. friday, october 16, in the class 3a final at mississippi christian universityâs a.e. wood coliseum, opening a day that ends with all four county football teams in action. the mhsaa championship schedule places the match on a neutral court. ",
+          "subjects": [
+            "kossuth",
+            "our lady academy"
+          ]
+        }
+      },
+      {
+        "id": "corinth-records",
+        "kind": "record",
+        "claim": "Corinth finished 5-2; Tishomingo County finished 4-3.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/corinth-vs-tishomingo-county-iuka/10-16-2026/?c=a7ba82d7-e200-40f1-bf09-ecbd5f3a6409",
+          "excerpt": "tishomingo county 4-3 braves 0 final 55 corinth 5-2 warriors ",
+          "subjects": [
+            "tishomingo county",
+            "corinth"
+          ]
+        }
+      },
+      {
+        "id": "desoto-records",
+        "kind": "record",
+        "claim": "DeSoto Central finished 6-1; Horn Lake finished 0-7.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-10-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/desoto-central-southaven-vs-horn-lake/10-16-2026/?c=afd93fe1-2c85-4366-a7c5-08ea4a8ea442",
+          "excerpt": "horn lake 0-7 eagles 21 final 39 desoto central 6-1 jaguars ",
+          "subjects": [
+            "horn lake",
+            "desoto central"
+          ]
+        }
+      },
+      {
+        "id": "mra-records",
+        "kind": "record",
+        "claim": "Madison-Ridgeland Academy finished 6-2; Jackson Academy finished 7-2.",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-10-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/jackson-academy-vs-madison-ridgeland-academy/10-16-2026/?c=43f3189b-4cbc-4939-9aeb-5899f022a225",
+          "excerpt": "jackson academy 7-2 raiders 24 final 28 madison-ridgeland academy 6-2 patriots ",
+          "subjects": [
+            "jackson academy",
+            "madison-ridgeland academy"
+          ]
+        }
+      }
+    ]
+  }
+}
