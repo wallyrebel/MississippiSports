@@ -1,0 +1,133 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-10-17",
+  "verified_at": "2026-10-17T20:02:27.452044+00:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "volleyball",
+    "cross country",
+    "swimming",
+    "golf",
+    "soccer",
+    "softball"
+  ],
+  "games": [
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-17",
+      "home": "Meridian HomeSchool",
+      "away": "Faith Christian HomeSchool Academy",
+      "status": "scheduled",
+      "start_time": "2026-10-17T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/faith-christian-homeschool-academy-madison-vs-meridian-homeschool/10-17-2026/?c=1ca6c1be-bc18-454c-83de-1cc472b7c1cf",
+        "excerpt": "faith christian homeschool academy vs meridian homeschool | football | 10/17/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team tickets digital tickets don't miss the action – get official tickets sign in high school football mississippi high school football fchsa varsity football @ meridian homeschool f faith christian homeschool academy tornadoes 3-6 saturday, oct 17, 2026 7:00pm cdt meridian homeschool flyers 3-5 fchsa varsity football @ meridian homeschool game info the faith christian homeschool academy varsity football team has an away conference game @ meridian homeschool (meridian, ms) today @ 7p. scorekeeper no scorekeeper f no scorekeeper matchup roster game details saturday, oct 17, 2026 7:00pm cdt district mississippi tornadoes (district) - senior night ",
+        "date_excerpt": "10/17/2026",
+        "time_excerpt": "7:00pm cdt",
+        "home_name": "Meridian HomeSchool",
+        "away_name": "Faith Christian HomeSchool Academy"
+      }
+    }
+  ],
+  "related_links": [],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: Meridian HomeSchool hosts Faith Christian in Saturday district test",
+    "headline_fact_ids": [
+      "game-0",
+      "pregame-records"
+    ],
+    "html": "<p data-facts=\"game-0 pregame-records eight-man\">Meridian HomeSchool welcomes Faith Christian HomeSchool Academy of Madison for a Saturday evening district game between teams entering with level league records. The boys varsity eight-man football matchup is scheduled for 7 p.m. CDT on October 17 in Meridian, according to the current MaxPreps game listing.</p>\n<h2 data-facts=\"game-0 pregame-records\">A district test for two teams seeking momentum</h2>\n<p data-facts=\"game-0 pregame-records\">Faith Christian brings a 3–6 overall record and a 2–2 district mark. Meridian HomeSchool is 3–5 overall and 3–3 in district play. Those league records give the matchup its focus: both teams arrive with as many district wins as losses, despite losing overall records.</p>\n<p data-facts=\"game-0 home-road-records\">The Flyers’ home results provide a reason to watch. Meridian HomeSchool is listed at 3–1 at home and 0–4 away, while Faith Christian has gone 3–5 on the road. The contrast makes the Flyers’ home form a useful part of Saturday’s matchup.</p>\n<h2 data-facts=\"game-0 season-points\">Matching scoring totals, with work for both defenses</h2>\n<p data-facts=\"game-0 season-points\">Both teams enter with 198 reported points scored. The difference is on the other side of the season ledger: Faith Christian has allowed 343 points and Meridian HomeSchool 313. Those totals make defensive improvement a useful lens for the game, without assuming either offense will reproduce an earlier scoring performance.</p>\n<p data-facts=\"game-0 listing-designation\">MaxPreps labels the matchup a district contest and includes a Senior Night designation. Check the <a href=\"https://www.maxpreps.com/ms/football/game/faith-christian-homeschool-academy-madison-vs-meridian-homeschool/10-17-2026/?c=1ca6c1be-bc18-454c-83de-1cc472b7c1cf\">dated game listing</a> for updates before traveling.</p>\n<p data-facts=\"game-0\">This is a narrow preview of one verified evening matchup. Already-started events, unidentified opponents and schedules without sufficient current confirmation are excluded from this selection.</p>",
+    "facts": [
+      {
+        "id": "pregame-records",
+        "kind": "record",
+        "claim": "Faith Christian HomeSchool Academy enters 3-6 overall and 2-2 in district play. Meridian HomeSchool enters 3-5 overall and 3-3 in district play. Both enter with level district records.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-17",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/faith-christian-homeschool-academy-madison-vs-meridian-homeschool/10-17-2026/?c=1ca6c1be-bc18-454c-83de-1cc472b7c1cf",
+          "excerpt": "scoring averages final q1 q2 q3 q4 f faith christian homeschool academy 22.0 0.0 0.0 2.7 18.0 meridian homeschool 24.8 2.9 3.7 2.0 10.6 rankings f mississippi #24 #27 mississippi division 8 man #3 #5 season recap f overall record 3-6 3-5 district 2-2 3-3 non-district 1-4 0-2 head to head 0-0 0-0 home 0-0 3-1 away 3-5 0-4 neutral 0-1 0-0 common opponent 2-3 1-4 playoff 0-0 0-0 in-state 2-3 2-5 out-of-state 0-3 0-0 win % .333 .375 district % .500 .500 pf 198 198 pa 343 313 ",
+          "subjects": [
+            "faith christian homeschool academy",
+            "meridian homeschool"
+          ]
+        }
+      },
+      {
+        "id": "home-road-records",
+        "kind": "record",
+        "claim": "Meridian HomeSchool enters with a 3-1 home record and 0-4 away record. Faith Christian HomeSchool Academy enters with a 3-5 away record.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-17",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/faith-christian-homeschool-academy-madison-vs-meridian-homeschool/10-17-2026/?c=1ca6c1be-bc18-454c-83de-1cc472b7c1cf",
+          "excerpt": "scoring averages final q1 q2 q3 q4 f faith christian homeschool academy 22.0 0.0 0.0 2.7 18.0 meridian homeschool 24.8 2.9 3.7 2.0 10.6 rankings f mississippi #24 #27 mississippi division 8 man #3 #5 season recap f overall record 3-6 3-5 district 2-2 3-3 non-district 1-4 0-2 head to head 0-0 0-0 home 0-0 3-1 away 3-5 0-4 neutral 0-1 0-0 common opponent 2-3 1-4 playoff 0-0 0-0 in-state 2-3 2-5 out-of-state 0-3 0-0 win % .333 .375 district % .500 .500 pf 198 198 pa 343 313 ",
+          "subjects": [
+            "faith christian homeschool academy",
+            "meridian homeschool"
+          ]
+        }
+      },
+      {
+        "id": "season-points",
+        "kind": "context",
+        "claim": "Both Faith Christian HomeSchool Academy and Meridian HomeSchool have 198 reported points scored. Faith Christian HomeSchool Academy has allowed 343 and Meridian HomeSchool 313.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-17",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/faith-christian-homeschool-academy-madison-vs-meridian-homeschool/10-17-2026/?c=1ca6c1be-bc18-454c-83de-1cc472b7c1cf",
+          "excerpt": "scoring averages final q1 q2 q3 q4 f faith christian homeschool academy 22.0 0.0 0.0 2.7 18.0 meridian homeschool 24.8 2.9 3.7 2.0 10.6 rankings f mississippi #24 #27 mississippi division 8 man #3 #5 season recap f overall record 3-6 3-5 district 2-2 3-3 non-district 1-4 0-2 head to head 0-0 0-0 home 0-0 3-1 away 3-5 0-4 neutral 0-1 0-0 common opponent 2-3 1-4 playoff 0-0 0-0 in-state 2-3 2-5 out-of-state 0-3 0-0 win % .333 .375 district % .500 .500 pf 198 198 pa 343 313 ",
+          "subjects": [
+            "faith christian homeschool academy",
+            "meridian homeschool"
+          ]
+        }
+      },
+      {
+        "id": "listing-designation",
+        "kind": "context",
+        "claim": "The game listing identifies a district contest and carries the description Mississippi Tornadoes (District) - Senior Night.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-17",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/faith-christian-homeschool-academy-madison-vs-meridian-homeschool/10-17-2026/?c=1ca6c1be-bc18-454c-83de-1cc472b7c1cf",
+          "excerpt": "game details saturday, oct 17, 2026 7:00pm cdt district mississippi tornadoes (district) - senior night ",
+          "subjects": [
+            "mississippi tornadoes"
+          ]
+        }
+      },
+      {
+        "id": "eight-man",
+        "kind": "context",
+        "claim": "MaxPreps places Faith Christian HomeSchool Academy and Meridian HomeSchool in Mississippi Division 8 Man.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-17",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/faith-christian-homeschool-academy-madison-vs-meridian-homeschool/10-17-2026/?c=1ca6c1be-bc18-454c-83de-1cc472b7c1cf",
+          "excerpt": "scoring averages final q1 q2 q3 q4 f faith christian homeschool academy 22.0 0.0 0.0 2.7 18.0 meridian homeschool 24.8 2.9 3.7 2.0 10.6 rankings f mississippi #24 #27 mississippi division 8 man #3 #5 season recap f overall record 3-6 3-5 district 2-2 3-3 non-district 1-4 0-2 head to head 0-0 0-0 home 0-0 3-1 away 3-5 0-4 neutral 0-1 0-0 common opponent 2-3 1-4 playoff 0-0 0-0 in-state 2-3 2-5 out-of-state 0-3 0-0 win % .333 .375 district % .500 .500 pf 198 198 pa 343 313 ",
+          "subjects": [
+            "faith christian homeschool academy",
+            "meridian homeschool"
+          ]
+        }
+      }
+    ]
+  }
+}
