@@ -1,0 +1,204 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-10-20",
+  "verified_at": "2026-10-20T15:04:30.280345-05:00",
+  "publish": true,
+  "checked_sports": [
+    "volleyball",
+    "basketball",
+    "football",
+    "soccer",
+    "softball",
+    "cross country",
+    "golf",
+    "swimming"
+  ],
+  "games": [
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-20",
+      "home": "Jackson Academy",
+      "away": "Madison-Ridgeland Academy",
+      "status": "scheduled",
+      "start_time": "2026-10-20T18:30:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/jackson-academy-vs-madison-ridgeland-academy/10-20-2026/?c=82a0e228-5f7a-4b36-a1a0-67fb9321fe5f",
+        "excerpt": "Madison-Ridgeland Academy vs Jackson Academy | Volleyball | 10/20/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Volleyball Mississippi High School Volleyball MRA Girls Varsity Volleyball vs. Jackson Academy Madison-Ridgeland Academy Patriots 27-10 Tuesday, Oct 20, 2026 6:30pm CDT Jackson Academy Raiders 46-7 MRA Girls Varsity Volleyball vs. Jackson Academy Game Info The Madison-Ridgeland Academy varsity volleyball team has a neutral playoff match vs. Jackson Academy (Jackson, MS) today @ 6:30p. Matchup Roster Game Details Tuesday, Oct 20, 2026 6:30pm CDT Playoff MAIS D1 State Championship",
+        "date_excerpt": "10/20/2026",
+        "time_excerpt": "6:30pm CDT",
+        "home_name": "Jackson Academy",
+        "away_name": "Madison-Ridgeland Academy"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-20",
+      "home": "Kemper Academy",
+      "away": "Leake Academy",
+      "status": "scheduled",
+      "start_time": "2026-10-20T19:30:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/kemper-academy-dekalb-vs-leake-academy-madden/10-20-2026/?c=91ee9c88-1108-44eb-8b76-7927f139581b",
+        "excerpt": "Leake Academy vs Kemper Academy | Basketball | 10/20/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Leake Academy Boys Varsity Basketball @ Kemper Academy Leake Academy Rebels 0-0 Tuesday, Oct 20, 2026 7:30pm CDT K Kemper Academy Rams 0-0 Leake Academy Boys Varsity Basketball @ Kemper Academy Game Info The Leake Academy varsity basketball team has an away non-conference game @ Kemper Academy (DeKalb, MS) today @ 7:30p. Scorekeeper K No Scorekeeper No Scorekeeper Matchup Roster Game Details Tuesday, Oct 20, 2026 7:30pm CDT Non-District",
+        "date_excerpt": "10/20/2026",
+        "time_excerpt": "7:30pm CDT",
+        "home_name": "Kemper Academy",
+        "away_name": "Leake Academy"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-10-19/",
+      "title": "Jackson Academy sweeps Jackson Prep to reach MAIS volleyball final"
+    },
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-10-19/",
+      "title": "Monday’s MAIS semifinal preview"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: JA and MRA settle season split for MAIS volleyball title",
+    "headline_fact_ids": [
+      "game-0",
+      "title-stakes",
+      "august-meeting",
+      "september-meeting"
+    ],
+    "html": "<p data-facts=\"game-0 title-stakes august-meeting september-meeting\">Jackson Academy and Madison-Ridgeland Academy have already beaten each other this volleyball season. Tonight, their rematch carries the biggest prize: the MAIS Division I championship. The girls varsity final is scheduled for 6:30 p.m. CDT Tuesday, October 20, 2026, on a neutral court.</p>\n<p data-facts=\"game-0 ja-record ja-semifinal game-1 boys-opening-records boys-nonconference\">The Raiders bring a 46–7 record and a semifinal sweep into the title match. Elsewhere on the evening’s verified varsity schedule, Leake Academy visits Kemper Academy for a boys basketball matchup between teams listed at 0–0, with tipoff set for 7:30 p.m. CDT in DeKalb.</p>\n<h2 data-facts=\"game-0 august-meeting september-meeting title-stakes\">JA–MRA: a season split, then a championship</h2>\n<p data-facts=\"game-0 august-meeting september-meeting title-stakes\">The earlier meetings give both finalists a concrete reason to believe they can win. Jackson Academy swept MRA 3–0 at home on August 6. MRA answered on its own court September 22, taking a 3–1 victory. Each has beaten the opponent it must now defeat for the title.</p>\n<p data-facts=\"game-0 september-meeting\">MRA’s September win came after Jackson Academy took the opening set 25–22. The Patriots won the next three, 25–22, 25–18 and 25–19. That <a href=\"https://www.maxpreps.com/ms/volleyball/match/jackson-academy-vs-madison-ridgeland-academy/9-22-2026/?c=bc381d13-e9c9-45e5-8040-d2d3f2886110\">four-set result</a> shows MRA turning an early deficit against these Raiders into a victory. The Patriots won every set after dropping the opener.</p>\n<h2 data-facts=\"game-0 ja-semifinal ja-record\">Jackson Academy arrives off a decisive finish</h2>\n<p data-facts=\"game-0 ja-semifinal ja-record\">JA’s latest evidence of form came Monday against Jackson Prep. The Raiders edged the first set 25–23, then won 25–12 and 25–8 to complete a 3–0 semifinal sweep. Prep pushed JA closest in the opener; the Raiders allowed fewer points in each successive set. That performance sent Jackson Academy into tonight’s final at 46–7.</p>\n<p data-facts=\"game-0 ja-semifinal title-stakes\">Our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-10-19/\">report on Monday’s semifinal sweep</a> details how JA advanced. The championship now follows the semifinal round covered in <a href=\"https://sportsmississippi.com/sports/sportsms-preview-2026-10-19/\">Monday’s Games To Watch</a>. Tonight’s <a href=\"https://www.maxpreps.com/ms/volleyball/match/jackson-academy-vs-madison-ridgeland-academy/10-20-2026/?c=82a0e228-5f7a-4b36-a1a0-67fb9321fe5f\">match listing</a> identifies Jackson Academy and MRA as the opponents for the state-title match.</p>\n<h2 data-facts=\"game-1 boys-opening-records boys-nonconference\">Boys basketball: an opening measure in DeKalb</h2>\n<p data-facts=\"game-1 boys-opening-records boys-nonconference\">Leake Academy at Kemper Academy offers an early look at two teams with no results yet reflected in their listed records. MaxPreps shows both at 0–0 for the 7:30 p.m. CDT game. The <a href=\"https://www.maxpreps.com/ms/basketball/game/kemper-academy-dekalb-vs-leake-academy-madden/10-20-2026/?c=91ee9c88-1108-44eb-8b76-7927f139581b\">varsity listing</a> describes it as a nonconference contest, making it an opening measure of form rather than a district-standings game.</p>",
+    "facts": [
+      {
+        "id": "title-stakes",
+        "kind": "stakes",
+        "claim": "Jackson Academy and Madison-Ridgeland Academy meet in the MAIS D1 State Championship, a neutral girls varsity playoff match.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-20",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/jackson-academy-vs-madison-ridgeland-academy/10-20-2026/?c=82a0e228-5f7a-4b36-a1a0-67fb9321fe5f",
+          "excerpt": "Madison-Ridgeland Academy Patriots 27-10 Tuesday, Oct 20, 2026 6:30pm CDT Jackson Academy Raiders 46-7 MRA Girls Varsity Volleyball vs. Jackson Academy Game Info The Madison-Ridgeland Academy varsity volleyball team has a neutral playoff match vs. Jackson Academy (Jackson, MS) today @ 6:30p. Matchup Roster Game Details Tuesday, Oct 20, 2026 6:30pm CDT Playoff MAIS D1 State Championship",
+          "subjects": [
+            "Jackson Academy",
+            "Madison-Ridgeland Academy"
+          ]
+        }
+      },
+      {
+        "id": "ja-record",
+        "kind": "record",
+        "claim": "Jackson Academy enters the championship match with a 46-7 record.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-20",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/jackson-academy-vs-madison-ridgeland-academy/10-20-2026/?c=82a0e228-5f7a-4b36-a1a0-67fb9321fe5f",
+          "excerpt": "Madison-Ridgeland Academy Patriots 27-10 Tuesday, Oct 20, 2026 6:30pm CDT Jackson Academy Raiders 46-7 MRA Girls Varsity Volleyball vs. Jackson Academy",
+          "subjects": [
+            "Jackson Academy"
+          ]
+        }
+      },
+      {
+        "id": "ja-semifinal",
+        "kind": "history",
+        "claim": "On October 19, 2026, Jackson Academy swept Jackson Prep 3-0 in a neutral playoff match, winning 25-23, 25-12, 25-8.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-20",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/jackson-academy-vs-jackson-prep/10-19-2026/?c=d42a84b0-62c4-4783-aec1-5395a3706fcb",
+          "excerpt": "Jackson Prep vs Jackson Academy | Volleyball | 10/19/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Volleyball Mississippi High School Volleyball Jackson Prep Girls Varsity Volleyball vs. Jackson Academy Jackson Prep 11-15 Patriots 0 Final 3 Jackson Academy 46-7 Raiders Jackson Prep Girls Varsity Volleyball vs. Jackson Academy Game Info On 10/19, the Jackson Prep varsity volleyball team lost their neutral playoff match against Jackson Academy (Jackson, MS) by a score of 3-0. Recap Stats Matchup Roster Boxscore S1 S2 S3 Wins Jackson Prep 23 12 8 0 Jackson Academy 25 25 25 3 Final score provided by M. Denson",
+          "subjects": [
+            "Jackson Prep",
+            "Jackson Academy"
+          ],
+          "date_excerpt": "10/19/2026"
+        },
+        "fact_date": "2026-10-19"
+      },
+      {
+        "id": "august-meeting",
+        "kind": "history",
+        "claim": "Jackson Academy defeated Madison-Ridgeland Academy 3-0 on August 6, 2026, at Jackson Academy.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-20",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/jackson-academy-vs-madison-ridgeland-academy/8-6-2026/?c=9fc58ecb-cc99-4735-94f5-5677aa62c2d0",
+          "excerpt": "Madison-Ridgeland Academy vs Jackson Academy | Volleyball | 08/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Volleyball Mississippi High School Volleyball MRA Girls Varsity Volleyball @ Jackson Academy Madison-Ridgeland Academy 27-10 Patriots 0 Final 3 Jackson Academy 46-7 Raiders MRA Girls Varsity Volleyball @ Jackson Academy Game Info On 8/6, the Madison-Ridgeland Academy varsity volleyball team lost their away conference match against Jackson Academy (Jackson, MS) by a score of 3-0.",
+          "subjects": [
+            "Jackson Academy",
+            "Madison-Ridgeland Academy"
+          ],
+          "date_excerpt": "08/06/2026"
+        },
+        "fact_date": "2026-08-06"
+      },
+      {
+        "id": "september-meeting",
+        "kind": "history",
+        "claim": "Madison-Ridgeland Academy defeated Jackson Academy 3-1 on September 22, 2026, at MRA. Jackson Academy won the first set 25-22; MRA won the next three sets 25-22, 25-18, 25-19.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-20",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/jackson-academy-vs-madison-ridgeland-academy/9-22-2026/?c=bc381d13-e9c9-45e5-8040-d2d3f2886110",
+          "excerpt": "Jackson Academy vs Madison-Ridgeland Academy | Volleyball | 09/22/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Volleyball Mississippi High School Volleyball Jackson Academy Girls Varsity Volleyball @ MRA Jackson Academy 46-7 Raiders 1 Final 3 Madison-Ridgeland Academy 27-10 Patriots Jackson Academy Girls Varsity Volleyball @ MRA Game Info On 9/22, the Jackson Academy varsity volleyball team lost their away conference match against Madison-Ridgeland Academy (Madison, MS) by a score of 3-1. Recap Stats Matchup Roster Boxscore S1 S2 S3 S4 Wins Jackson Academy 25 22 18 19 1 Madison-Ridgeland Academy 22 25 25 25 3 Final score provided by M. Denson",
+          "subjects": [
+            "Jackson Academy",
+            "Madison-Ridgeland Academy"
+          ],
+          "date_excerpt": "09/22/2026"
+        },
+        "fact_date": "2026-09-22"
+      },
+      {
+        "id": "boys-opening-records",
+        "kind": "record",
+        "claim": "Leake Academy and Kemper Academy are each listed at 0-0 entering the boys varsity basketball game.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-20",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/kemper-academy-dekalb-vs-leake-academy-madden/10-20-2026/?c=91ee9c88-1108-44eb-8b76-7927f139581b",
+          "excerpt": "Leake Academy Rebels 0-0 Tuesday, Oct 20, 2026 7:30pm CDT K Kemper Academy Rams 0-0 Leake Academy Boys Varsity Basketball @ Kemper Academy",
+          "subjects": [
+            "Leake Academy",
+            "Kemper Academy"
+          ]
+        }
+      },
+      {
+        "id": "boys-nonconference",
+        "kind": "context",
+        "claim": "Leake Academy visits Kemper Academy in DeKalb in a boys varsity non-conference basketball game.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-20",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/kemper-academy-dekalb-vs-leake-academy-madden/10-20-2026/?c=91ee9c88-1108-44eb-8b76-7927f139581b",
+          "excerpt": "Leake Academy Boys Varsity Basketball @ Kemper Academy Leake Academy Rebels 0-0 Tuesday, Oct 20, 2026 7:30pm CDT K Kemper Academy Rams 0-0 Leake Academy Boys Varsity Basketball @ Kemper Academy Game Info The Leake Academy varsity basketball team has an away non-conference game @ Kemper Academy (DeKalb, MS) today @ 7:30p. Scorekeeper K No Scorekeeper No Scorekeeper Matchup Roster Game Details Tuesday, Oct 20, 2026 7:30pm CDT Non-District",
+          "subjects": [
+            "Leake Academy",
+            "Kemper Academy"
+          ]
+        }
+      }
+    ]
+  }
+}
