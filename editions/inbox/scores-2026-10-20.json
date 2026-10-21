@@ -1,0 +1,251 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-10-20",
+  "verified_at": "2026-10-21T13:08:55.494023+00:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "volleyball",
+    "basketball",
+    "soccer",
+    "softball",
+    "cross country",
+    "swimming",
+    "golf"
+  ],
+  "games": [
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-20",
+      "home": "Jackson Academy",
+      "away": "Madison-Ridgeland Academy",
+      "status": "final",
+      "home_score": 2,
+      "away_score": 3,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/volleyball/match/jackson-academy-vs-madison-ridgeland-academy/10-20-2026/?c=82a0e228-5f7a-4b36-a1a0-67fb9321fe5f",
+        "excerpt": "Madison-Ridgeland Academy vs Jackson Academy | Volleyball | 10/20/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Volleyball Mississippi High School Volleyball MRA Girls Varsity Volleyball vs. Jackson Academy Madison-Ridgeland Academy 29-10 Patriots 3 Final 2 Jackson Academy 46-8 Raiders MRA Girls Varsity Volleyball vs. Jackson Academy Game Info On 10/20, the Madison-Ridgeland Academy varsity volleyball team won their neutral playoff match against Jackson Academy (Jackson, MS) by a score of 3-2.",
+        "date_excerpt": "10/20/2026",
+        "home_name": "Jackson Academy",
+        "away_name": "Madison-Ridgeland Academy"
+      }
+    },
+    {
+      "sport": "volleyball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-20",
+      "home": "West Memphis Christian",
+      "away": "Lamar",
+      "status": "final",
+      "home_score": 3,
+      "away_score": 2,
+      "evidence": {
+        "url": "https://www.maxpreps.com/inter-state/volleyball/match/lamar-meridian-ms-vs-west-memphis-christian-ar/10-20-2026/?c=93e538c9-9f70-4768-8a15-918308da286c",
+        "excerpt": "Lamar vs West Memphis Christian | Volleyball | 10/20/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Volleyball Arkansas High School Volleyball Lamar Girls Varsity Volleyball vs. WMCHS Lamar 14-10 Raiders 2 Final 3 West Memphis Christian 25-2 Black Knights Lamar Girls Varsity Volleyball vs. WMCHS Game Info On 10/20, the Lamar varsity volleyball team lost their neutral conference tournament match against West Memphis Christian (West Memphis, AR) by a score of 3-2.",
+        "date_excerpt": "10/20/2026",
+        "home_name": "West Memphis Christian",
+        "away_name": "Lamar"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-20",
+      "home": "Lamar Christian",
+      "away": "Laurel HomeSchool",
+      "status": "final",
+      "home_score": 55,
+      "away_score": 37,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/lamar-christian-purvis-vs-laurel-homeschool/10-20-2026/?c=45d56911-f28c-47f8-b875-0969218c5851",
+        "excerpt": "Laurel HomeSchool vs Lamar Christian | Basketball | 10/20/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Laurel HomeSchool Boys Varsity Basketball @ Lamar Christian Laurel HomeSchool 0-1 Knighthawks 37 Final 55 Lamar Christian 1-0 Lions Laurel HomeSchool Boys Varsity Basketball @ Lamar Christian Streaming & Ticketing Watch Recap Game Info On 10/20, the Laurel HomeSchool varsity basketball team lost their away non-conference game against Lamar Christian (Purvis, MS) by a score of 55-37.",
+        "date_excerpt": "10/20/2026",
+        "home_name": "Lamar Christian",
+        "away_name": "Laurel HomeSchool"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-10-20/",
+      "title": "JA and MRA settle season split for MAIS volleyball title"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "MRA outlasts Jackson Academy in five sets for MAIS volleyball title",
+    "headline_fact_ids": [
+      "game-0",
+      "mra-title",
+      "mra-set-scores"
+    ],
+    "html": "<p data-facts=\"game-0 mra-title mra-set-scores\">Madison-Ridgeland Academy needed five sets and a 17–15 finish to settle the MAIS Division I volleyball championship Tuesday. The Patriots defeated Jackson Academy 3–2, answering each Raiders comeback before taking the deciding set.</p>\n<p data-facts=\"game-0 mra-title mra-ja-records mra-season-series\">The October 20, 2026, girls varsity final left MRA at 29–10 and Jackson Academy at 46–8. The Patriots also finished the season series with a 2–1 advantage over JA, turning the matchup featured in <a href=\"https://sportsmississippi.com/sports/sportsms-preview-2026-10-20/\">Tuesday’s Games To Watch</a> into a championship victory.</p>\n<h2 data-facts=\"game-0 mra-title mra-set-scores\">MRA finishes a final that kept returning to level</h2>\n<p data-facts=\"game-0 mra-set-scores\">MRA opened with a 26–24 set win, but Jackson Academy answered 25–15. The Patriots moved ahead again with a 25–19 third set. JA forced the deciding set by taking the fourth 25–22, leaving both teams one set from the title.</p>\n<p data-facts=\"game-0 mra-title mra-set-scores\">The fifth was another two-point decision, with MRA winning 17–15 to seal the <a href=\"https://www.maxpreps.com/ms/volleyball/match/jackson-academy-vs-madison-ridgeland-academy/10-20-2026/?c=82a0e228-5f7a-4b36-a1a0-67fb9321fe5f&tab=Matchup\">state championship</a>. MRA’s narrow wins in the opening and closing sets bracketed a final in which neither team won consecutive sets. The Patriots took the first, third and fifth, as the <a href=\"https://www.maxpreps.com/ms/volleyball/match/jackson-academy-vs-madison-ridgeland-academy/10-20-2026/?c=82a0e228-5f7a-4b36-a1a0-67fb9321fe5f\">final boxscore</a> records.</p>\n<h2 data-facts=\"game-1 lamar-set-scores lamar-identity\">Lamar’s two-set lead slips away</h2>\n<p data-facts=\"game-1 lamar-set-scores lamar-identity\">Meridian’s Lamar also played a five-set girls varsity match Tuesday, but its result ran in the opposite direction. The Raiders took the opening sets 25–22 and 25–21 against Arkansas opponent West Memphis Christian before the Black Knights won the next three.</p>\n<p data-facts=\"game-1 lamar-set-scores lamar-record\">West Memphis Christian won the third set 25–16, the fourth 25–18 and the fifth 15–11 to complete a 3–2 comeback. The <a href=\"https://www.maxpreps.com/inter-state/volleyball/match/lamar-meridian-ms-vs-west-memphis-christian-ar/10-20-2026/?c=93e538c9-9f70-4768-8a15-918308da286c\">reported result</a> left Lamar at 14–10 and West Memphis Christian at 25–2. Lamar’s early advantage was not enough to avoid a deciding-set loss.</p>\n<h2 data-facts=\"game-2 lamar-christian-location\">Boys basketball: Lamar Christian wins in Purvis</h2>\n<p data-facts=\"game-2 lamar-christian-records lamar-christian-location\">Lamar Christian <a href=\"https://www.maxpreps.com/ms/basketball/game/lamar-christian-purvis-vs-laurel-homeschool/10-20-2026/?c=45d56911-f28c-47f8-b875-0969218c5851\">defeated Laurel HomeSchool 55–37</a> in a boys varsity nonconference game in Purvis. The Lions’ record stood at 1–0 after the home victory, while Laurel HomeSchool was 0–1.</p>",
+    "facts": [
+      {
+        "id": "mra-title",
+        "kind": "stakes",
+        "claim": "Madison-Ridgeland Academy defeated Jackson Academy in the MAIS D1 State Championship, a neutral girls varsity playoff match on October 20, 2026.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-20",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/jackson-academy-vs-madison-ridgeland-academy/10-20-2026/?c=82a0e228-5f7a-4b36-a1a0-67fb9321fe5f&tab=Matchup",
+          "excerpt": "High School Volleyball Mississippi High School Volleyball MRA Girls Varsity Volleyball vs. Jackson Academy Madison-Ridgeland Academy 29-10 Patriots 3 Final 2 Jackson Academy 46-8 Raiders MRA Girls Varsity Volleyball vs. Jackson Academy Game Info On 10/20, the Madison-Ridgeland Academy varsity volleyball team won their neutral playoff match against Jackson Academy (Jackson, MS) by a score of 3-2. Recap Stats Matchup Roster Game Details Tuesday, Oct 20, 2026 6:30pm CDT Playoff MAIS D1 State Championship",
+          "subjects": [
+            "Madison-Ridgeland Academy",
+            "Jackson Academy",
+            "MAIS D1 State Championship"
+          ]
+        }
+      },
+      {
+        "id": "mra-set-scores",
+        "kind": "result",
+        "claim": "Madison-Ridgeland Academy won the five sets against Jackson Academy 26-24, 15-25, 25-19, 22-25, 17-15. Jackson Academy won the second and fourth sets; MRA won the first, third and fifth.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-20",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/jackson-academy-vs-madison-ridgeland-academy/10-20-2026/?c=82a0e228-5f7a-4b36-a1a0-67fb9321fe5f",
+          "excerpt": "Boxscore S1 S2 S3 S4 S5 Wins Madison-Ridgeland Academy 26 15 25 22 17 3 Jackson Academy 24 25 19 25 15 2 Final score provided by M. Denson",
+          "subjects": [
+            "Madison-Ridgeland Academy",
+            "Jackson Academy"
+          ]
+        }
+      },
+      {
+        "id": "mra-ja-records",
+        "kind": "record",
+        "claim": "After the championship match, Madison-Ridgeland Academy is 29-10 and Jackson Academy is 46-8.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-20",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/jackson-academy-vs-madison-ridgeland-academy/10-20-2026/?c=82a0e228-5f7a-4b36-a1a0-67fb9321fe5f",
+          "excerpt": "Madison-Ridgeland Academy 29-10 Patriots 3 Final 2 Jackson Academy 46-8 Raiders MRA Girls Varsity Volleyball vs. Jackson Academy",
+          "subjects": [
+            "Madison-Ridgeland Academy",
+            "Jackson Academy"
+          ]
+        }
+      },
+      {
+        "id": "mra-season-series",
+        "kind": "context",
+        "claim": "Madison-Ridgeland Academy finished with a 2-1 head-to-head record against Jackson Academy this season.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-20",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/volleyball/match/jackson-academy-vs-madison-ridgeland-academy/10-20-2026/?c=82a0e228-5f7a-4b36-a1a0-67fb9321fe5f&tab=Matchup",
+          "excerpt": "Scoring Averages Wins S1 S2 S3 S4 S5 Madison-Ridgeland Academy 2.1 24.2 22.7 19.6 23.8 12.3 Jackson Academy 2.0 24.6 24.4 21.4 22.7 15.0 Rankings National -- #99 Mississippi #15 #6 Mississippi MAIS Division I #2 #1 Jackson #4 #1 Season Recap Overall Record 29-10 46-8 District 3-1 4-1 Non-District 16-6 15-5 Head to Head 2-1 1-2",
+          "subjects": [
+            "Madison-Ridgeland Academy",
+            "Jackson Academy"
+          ]
+        }
+      },
+      {
+        "id": "lamar-set-scores",
+        "kind": "result",
+        "claim": "Lamar won the first two sets 25-22 and 25-21 against West Memphis Christian. West Memphis Christian won the next three sets 25-16, 25-18, 15-11 to win the match 3-2.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-20",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/volleyball/match/lamar-meridian-ms-vs-west-memphis-christian-ar/10-20-2026/?c=93e538c9-9f70-4768-8a15-918308da286c",
+          "excerpt": "Boxscore S1 S2 S3 S4 S5 Wins Lamar 25 25 16 18 11 2 West Memphis Christian 22 21 25 25 15 3 Final score provided by J. Faulkner",
+          "subjects": [
+            "Lamar",
+            "West Memphis Christian"
+          ]
+        }
+      },
+      {
+        "id": "lamar-record",
+        "kind": "record",
+        "claim": "Lamar finished the match at 14-10. West Memphis Christian is 25-2.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-20",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/volleyball/match/lamar-meridian-ms-vs-west-memphis-christian-ar/10-20-2026/?c=93e538c9-9f70-4768-8a15-918308da286c",
+          "excerpt": "Lamar 14-10 Raiders 2 Final 3 West Memphis Christian 25-2 Black Knights Lamar Girls Varsity Volleyball vs. WMCHS",
+          "subjects": [
+            "Lamar",
+            "West Memphis Christian"
+          ]
+        }
+      },
+      {
+        "id": "lamar-identity",
+        "kind": "context",
+        "claim": "Lamar is the Mississippi school in Meridian; West Memphis Christian is in West Memphis, Arkansas.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-20",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/volleyball/match/lamar-meridian-ms-vs-west-memphis-christian-ar/10-20-2026/?c=93e538c9-9f70-4768-8a15-918308da286c",
+          "excerpt": "High School Volleyball Arkansas High School Volleyball Lamar Girls Varsity Volleyball vs. WMCHS Lamar 14-10 Raiders 2 Final 3 West Memphis Christian 25-2 Black Knights Lamar Girls Varsity Volleyball vs. WMCHS Game Info On 10/20, the Lamar varsity volleyball team lost their neutral conference tournament match against West Memphis Christian (West Memphis, AR) by a score of 3-2. Recap Matchup Roster Boxscore S1 S2 S3 S4 S5 Wins Lamar 25 25 16 18 11 2 West Memphis Christian 22 21 25 25 15 3 Final score provided by J. Faulkner Mississippi High School Volleyball - West Memphis Christian tips Lamar The West Memphis Christian Black Knights volleyball team scored 3 points and restricted the host Lamar Raiders to 2 in the Black Knights non-league triumph on Tuesday. The Black Knights now possess a 25-2 record. With the loss, Lamar drops to 14-10 on the campaign. October 20, 2026 • Meridian, MS 39305",
+          "subjects": [
+            "Lamar",
+            "West Memphis Christian",
+            "Meridian, MS",
+            "West Memphis, AR"
+          ]
+        }
+      },
+      {
+        "id": "lamar-christian-records",
+        "kind": "record",
+        "claim": "Lamar Christian is 1-0 after its victory over Laurel HomeSchool, which is 0-1.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-20",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/lamar-christian-purvis-vs-laurel-homeschool/10-20-2026/?c=45d56911-f28c-47f8-b875-0969218c5851",
+          "excerpt": "Laurel HomeSchool 0-1 Knighthawks 37 Final 55 Lamar Christian 1-0 Lions Laurel HomeSchool Boys Varsity Basketball @ Lamar Christian",
+          "subjects": [
+            "Laurel HomeSchool",
+            "Lamar Christian"
+          ]
+        }
+      },
+      {
+        "id": "lamar-christian-location",
+        "kind": "context",
+        "claim": "Lamar Christian hosted Laurel HomeSchool in a boys varsity non-conference game in Purvis, Mississippi.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-20",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/lamar-christian-purvis-vs-laurel-homeschool/10-20-2026/?c=45d56911-f28c-47f8-b875-0969218c5851",
+          "excerpt": "High School Basketball Mississippi High School Basketball Laurel HomeSchool Boys Varsity Basketball @ Lamar Christian Laurel HomeSchool 0-1 Knighthawks 37 Final 55 Lamar Christian 1-0 Lions Laurel HomeSchool Boys Varsity Basketball @ Lamar Christian Streaming & Ticketing Watch Recap Game Info On 10/20, the Laurel HomeSchool varsity basketball team lost their away non-conference game against Lamar Christian (Purvis, MS) by a score of 55-37.",
+          "subjects": [
+            "Laurel HomeSchool",
+            "Lamar Christian",
+            "Purvis, MS"
+          ]
+        }
+      }
+    ]
+  }
+}
