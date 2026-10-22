@@ -1,0 +1,340 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-10-22",
+  "verified_at": "2026-10-22T15:10:47.420049-05:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "basketball",
+    "volleyball",
+    "cross country",
+    "soccer",
+    "softball",
+    "golf",
+    "swimming"
+  ],
+  "games": [
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-22",
+      "home": "Myrtle",
+      "away": "Bruce",
+      "status": "scheduled",
+      "start_time": "2026-10-22T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/bruce-vs-myrtle/10-22-2026/?c=0221d89a-0e77-4efb-bffb-6176b626758a",
+        "excerpt": "Bruce vs Myrtle | Football | 10/22/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Bruce Varsity Football @ Myrtle Bruce Trojans 8-0 Thursday, Oct 22, 2026 7:00pm CDT Myrtle Hawks 6-1 Bruce Varsity Football @ Myrtle Streaming & Ticketing Sign Up To Watch Game Info The Bruce varsity football team has an away conference game @ Myrtle (MS) today @ 7p.",
+        "date_excerpt": "10/22/2026",
+        "time_excerpt": "7:00pm CDT",
+        "home_name": "Myrtle",
+        "away_name": "Bruce"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-22",
+      "home": "Murrah",
+      "away": "Starkville",
+      "status": "scheduled",
+      "start_time": "2026-10-22T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/murrah-jackson-vs-starkville/10-22-2026/?c=07300142-6977-4a9e-89c9-368a162d3eea",
+        "excerpt": "Starkville vs Murrah | Football | 10/22/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Starkville Varsity Football @ Murrah Starkville Yellowjackets 5-2 Thursday, Oct 22, 2026 7:00pm CDT Murrah Mustangs 1-7 Starkville Varsity Football @ Murrah Streaming & Ticketing Purchase Tickets Game Info The Starkville varsity football team has an away conference game @ Murrah (Jackson, MS) today @ 7p.",
+        "date_excerpt": "10/22/2026",
+        "time_excerpt": "7:00pm CDT",
+        "home_name": "Murrah",
+        "away_name": "Starkville"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-22",
+      "home": "Smithville",
+      "away": "Biggersville",
+      "status": "scheduled",
+      "start_time": "2026-10-22T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-smithville/10-22-2026/?c=f714d599-9720-4852-92b1-1075510392cb",
+        "excerpt": "Biggersville vs Smithville | Football | 10/22/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Biggersville Varsity Football @ Smithville Biggersville Lions 2-6 Thursday, Oct 22, 2026 7:00pm CDT Smithville Seminoles 4-3 Biggersville Varsity Football @ Smithville Streaming & Ticketing Sign Up To Watch Game Info The Biggersville varsity football team has an away conference game @ Smithville (MS) today @ 7p.",
+        "date_excerpt": "10/22/2026",
+        "time_excerpt": "7:00pm CDT",
+        "home_name": "Smithville",
+        "away_name": "Biggersville"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-22",
+      "home": "Grace Christian",
+      "away": "Leake Academy",
+      "status": "scheduled",
+      "start_time": "2026-10-22T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/grace-christian-louisville-vs-leake-academy-madden/10-22-2026/?c=c2f353cb-6fa7-41ea-ac07-04855a70b925",
+        "excerpt": "Leake Academy vs Grace Christian | Basketball | 10/22/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Leake Academy Boys Varsity Basketball @ Grace Christian Leake Academy Rebels 2-0 Thursday, Oct 22, 2026 7:00pm CDT Grace Christian Eagles 0-0 Leake Academy Boys Varsity Basketball @ Grace Christian Game Info The Leake Academy varsity basketball team has an away non-conference game @ Grace Christian (Louisville, MS) today @ 7p.",
+        "date_excerpt": "10/22/2026",
+        "time_excerpt": "7:00pm CDT",
+        "home_name": "Grace Christian",
+        "away_name": "Leake Academy"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-10-09/",
+      "title": "October 9 football roundup"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: Unbeaten Bruce visits Myrtle in region showdown",
+    "headline_fact_ids": [
+      "game-0",
+      "bruce-form",
+      "myrtle-form"
+    ],
+    "html": "<p data-facts=\"game-0 bruce-form myrtle-form\">Bruce’s perfect football season faces a team with an unbeaten region record of its own tonight. The 8–0 Trojans visit 6–1 Myrtle on Thursday, October 22, 2026, pairing Bruce’s 2–0 start in Class 2A Region 2 with the Hawks’ 3–0 mark. Kickoff is scheduled for 7 p.m. CDT.</p>\n<p data-facts=\"game-0 game-1 game-2 game-3 starkville-record murrah-record biggersville-record smithville-record basketball-records\">The evening’s selection also follows Starkville’s effort to earn a second region victory at Murrah, Biggersville’s search for a first league win at Smithville, and Leake Academy’s unbeaten basketball start on the road at Grace Christian. All four boys varsity games are scheduled for 7 p.m. CDT.</p>\n<h2 data-facts=\"game-0 bruce-form myrtle-form\">Bruce at Myrtle: unbeaten region starts meet</h2>\n<p data-facts=\"game-0 bruce-form myrtle-form\">The <a href=\"https://www.maxpreps.com/ms/football/game/bruce-vs-myrtle/10-22-2026/?c=0221d89a-0e77-4efb-bffb-6176b626758a\">Myrtle matchup</a> brings together two teams that have kept winning through the region schedule. Bruce has won all eight of its games; Myrtle has won six straight after its opening loss. Their overall records make this a strong meeting, while the clean league marks give it a direct bearing on the region race.</p>\n<p data-facts=\"game-0 bruce-last-win myrtle-last-win myrtle-form\">Both arrive off October 16 victories, reached by different scores. Bruce defeated Palmer 41–6, while Myrtle held off Water Valley 24–18 in conference play. The Hawks’ latest win kept their league record clean before the visit from the unbeaten Trojans.</p>\n<h2 data-facts=\"game-1 starkville-record murrah-record\">Starkville at Murrah: a chance to build on Clinton</h2>\n<p data-facts=\"game-1 starkville-record murrah-record starkville-clinton starkville-october-loss\">Starkville enters Jackson at 5–2 overall and 1–1 in Class 7A Region 2. Its 31–17 victory at Clinton on October 16 followed a 38–28 loss to Germantown on October 9, giving the Yellowjackets a league win to build on. Murrah enters 1–7 overall and 0–2 in the region, still seeking its first league victory.</p>\n<p data-facts=\"game-1 starkville-october-loss starkville-clinton starkville-record murrah-record\">Our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-10-09/\">October 9 football roundup</a> covered Starkville’s loss to Germantown. The subsequent win at Clinton evened the Yellowjackets’ region record; tonight’s <a href=\"https://www.maxpreps.com/ms/football/game/murrah-jackson-vs-starkville/10-22-2026/?c=07300142-6977-4a9e-89c9-368a162d3eea\">conference game at Murrah</a> offers the chance to earn a second region victory.</p>\n<h2 data-facts=\"game-2 biggersville-record smithville-record\">Biggersville at Smithville: first region wins at stake</h2>\n<p data-facts=\"game-2 biggersville-record smithville-record biggersville-last-result\">Smithville brings a 4–3 record and two consecutive victories into its Class 1A Region 1 opener. Biggersville arrives 2–6 overall and 0–1 in the region after a 44–0 loss to Tupelo Christian Prep on October 16. The <a href=\"https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-smithville/10-22-2026/?c=f714d599-9720-4852-92b1-1075510392cb\">matchup</a> gives each team an opportunity to record its first league win, with the Lions trying to answer a shutout defeat.</p>\n<h2 data-facts=\"game-3 basketball-records\">Boys basketball: Leake Academy takes its unbeaten start to Louisville</h2>\n<p data-facts=\"game-3 basketball-records leake-amory\">Leake Academy enters its visit to Grace Christian with a 2–0 record. The Rebels defeated Amory Christian Academy 42–28 in a neutral-site nonconference game October 19; tonight they face a Grace Christian team listed at 0–0. The <a href=\"https://www.maxpreps.com/ms/basketball/game/grace-christian-louisville-vs-leake-academy-madden/10-22-2026/?c=c2f353cb-6fa7-41ea-ac07-04855a70b925\">Louisville game</a> is also nonconference, offering Leake another early test away from home.</p>",
+    "facts": [
+      {
+        "id": "bruce-form",
+        "kind": "record",
+        "claim": "Bruce enters 8-0 overall and 2-0 in Class 2A Region 2, with an eight-game winning streak.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/bruce/bruce-trojans/football/schedule/",
+          "excerpt": "Bruce Football Schedule 2026-27 Next Game Away • District Bruce 8-0 Myrtle 6-1 Bruce 8-0 Thu, 10/22 @ 7:00pm Preview Game Myrtle 6-1 Watch Preview Game Going to the game? Provide score updates Overall 8-0 1.000 Win Pct District 2-0 2nd 2A Region 2 Home 4-0 Away 4-0 Neutral 0-0 PF 311 PA 116 Streak 8W",
+          "subjects": [
+            "Bruce"
+          ]
+        }
+      },
+      {
+        "id": "myrtle-form",
+        "kind": "record",
+        "claim": "Myrtle enters 6-1 overall and 3-0 in Class 2A Region 2, with a six-game winning streak.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/myrtle/myrtle-hawks/football/schedule/",
+          "excerpt": "Myrtle Football Schedule 2026-27 Next Game Home • District Myrtle 6-1 Bruce 8-0 Myrtle 6-1 Thu, 10/22 @ 7:00pm Preview Game Bruce 8-0 Watch Preview Game Going to the game? Provide score updates Overall 6-1 0.857 Win Pct District 3-0 1st 2A Region 2 Home 3-1 Away 3-0 Neutral 0-0 PF 257 PA 87 Streak 6W",
+          "subjects": [
+            "Myrtle"
+          ]
+        }
+      },
+      {
+        "id": "bruce-last-win",
+        "kind": "history",
+        "claim": "Bruce beat Palmer 41-6 on October 16, 2026.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/bruce-vs-palmer-marks/10-16-2026/?c=651ad2d5-a45e-48ef-a40c-955c17a0ac08",
+          "excerpt": "Palmer vs Bruce | Football | 10/16/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Palmer Varsity Football @ Bruce Palmer 0-8 Dragons 6 Final 41 Bruce 8-0 Trojans Palmer Varsity Football @ Bruce Game Info On 10/16, the Palmer varsity football team lost their away non-conference game against Bruce (MS) by a score of 41-6.",
+          "subjects": [
+            "Bruce",
+            "Palmer"
+          ],
+          "date_excerpt": "10/16/2026"
+        },
+        "fact_date": "2026-10-16"
+      },
+      {
+        "id": "myrtle-last-win",
+        "kind": "history",
+        "claim": "Myrtle beat Water Valley 24-18 in a conference game on October 16, 2026.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/myrtle-vs-water-valley/10-16-2026/?c=d97d1e06-4f73-42e0-abb8-d43d14db9895",
+          "excerpt": "Water Valley vs Myrtle | Football | 10/16/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Water Valley Varsity Football @ Myrtle Water Valley 2-6 Blue Devils 18 Final 24 Myrtle 6-1 Hawks Water Valley Varsity Football @ Myrtle Streaming & Ticketing Watch Recap Game Info On 10/16, the Water Valley varsity football team lost their away conference game against Myrtle (MS) by a score of 24-18.",
+          "subjects": [
+            "Myrtle",
+            "Water Valley"
+          ],
+          "date_excerpt": "10/16/2026"
+        },
+        "fact_date": "2026-10-16"
+      },
+      {
+        "id": "starkville-record",
+        "kind": "record",
+        "claim": "Starkville enters 5-2 overall and 1-1 in Class 7A Region 2.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/starkville/starkville-yellowjackets/football/schedule/",
+          "excerpt": "Starkville Football Schedule 2026-27 Next Game Away • District Starkville 5-2 Murrah 1-7 Starkville 5-2 Thu, 10/22 @ 7:00pm Preview Game Murrah 1-7 Buy Tickets Preview Game Going to the game? Provide score updates Overall 5-2 0.714 Win Pct District 1-1 5th 7A Region 2 Home 2-2 Away 3-0 Neutral 0-0 PF 215 PA 156 Streak 1W",
+          "subjects": [
+            "Starkville"
+          ]
+        }
+      },
+      {
+        "id": "murrah-record",
+        "kind": "record",
+        "claim": "Murrah enters 1-7 overall and 0-2 in Class 7A Region 2.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/jackson/murrah-mustangs/football/schedule/",
+          "excerpt": "Murrah Football Schedule 2026-27 Next Game Home • District Murrah 1-7 Starkville 5-2 Murrah 1-7 Thu, 10/22 @ 7:00pm Preview Game Starkville 5-2 Buy Tickets Preview Game Going to the game? Provide score updates Overall 1-7 0.125 Win Pct District 0-2 6th 7A Region 2 Home 0-4 Away 1-3 Neutral 0-0 PF 142 PA 275 Streak 6L",
+          "subjects": [
+            "Murrah"
+          ]
+        }
+      },
+      {
+        "id": "starkville-clinton",
+        "kind": "history",
+        "claim": "Starkville won 31-17 at Clinton in a conference game on October 16, 2026.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/clinton-vs-starkville/10-16-2026/?c=a54c6a7c-b62d-414d-be9a-1ec41495d328",
+          "excerpt": "Starkville vs Clinton | Football | 10/16/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Starkville Varsity Football @ Clinton Starkville 5-2 Yellowjackets 31 Final 17 Clinton 2-5 C Arrows Starkville Varsity Football @ Clinton Game Info On 10/16, the Starkville varsity football team won their away conference game against Clinton (MS) by a score of 31-17.",
+          "subjects": [
+            "Starkville",
+            "Clinton"
+          ],
+          "date_excerpt": "10/16/2026"
+        },
+        "fact_date": "2026-10-16"
+      },
+      {
+        "id": "starkville-october-loss",
+        "kind": "history",
+        "claim": "Germantown won 38-28 at Starkville on October 9, 2026.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/germantown-madison-vs-starkville/10-9-2026/?c=1b6353e7-f5b2-42fa-b1f9-5239f6af0be9",
+          "excerpt": "Germantown vs Starkville | Football | 10/09/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Germantown Varsity Football @ Starkville Germantown 4-3 Mavericks 38 Final 28 Starkville 5-2 Yellowjackets Germantown Varsity Football @ Starkville Game Info On 10/9, the Germantown varsity football team won their away conference game against Starkville (MS) by a score of 38-28.",
+          "subjects": [
+            "Germantown",
+            "Starkville"
+          ],
+          "date_excerpt": "10/09/2026"
+        },
+        "fact_date": "2026-10-09"
+      },
+      {
+        "id": "biggersville-record",
+        "kind": "record",
+        "claim": "Biggersville enters 2-6 overall and 0-1 in Class 1A Region 1.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/corinth/biggersville-lions/football/schedule/",
+          "excerpt": "Biggersville Football Schedule 2026-27 Next Game Away • District Biggersville 2-6 Smithville 4-3 Biggersville 2-6 Thu, 10/22 @ 7:00pm Preview Game Smithville 4-3 Watch Preview Game Going to the game? Provide score updates Overall 2-6 0.250 Win Pct District 0-1 2nd 1A Region 1 Home 1-4 Away 1-2 Neutral 0-0 PF 76 PA 290 Streak 1L",
+          "subjects": [
+            "Biggersville"
+          ]
+        }
+      },
+      {
+        "id": "smithville-record",
+        "kind": "record",
+        "claim": "Smithville enters 4-3 overall and 0-0 in Class 1A Region 1, with two consecutive wins.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/smithville/smithville-seminoles/football/schedule/",
+          "excerpt": "Smithville Football Schedule 2026-27 Next Game Home • District Smithville 4-3 Biggersville 2-6 Smithville 4-3 Thu, 10/22 @ 7:00pm Preview Game Biggersville 2-6 Watch Preview Game Going to the game? Provide score updates Overall 4-3 0.571 Win Pct District 0-0 3rd 1A Region 1 Home 1-2 Away 3-1 Neutral 0-0 PF 221 PA 166 Streak 2W",
+          "subjects": [
+            "Smithville"
+          ]
+        }
+      },
+      {
+        "id": "biggersville-last-result",
+        "kind": "history",
+        "claim": "Biggersville lost 44-0 to Tupelo Christian Prep in a conference game on October 16, 2026.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-tupelo-christian-prep-belden/10-16-2026/?c=9c3c0986-4be0-4f64-aabc-f296fc57e645",
+          "excerpt": "Tupelo Christian Prep vs Biggersville | Football | 10/16/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football TCP Varsity Football @ Biggersville Tupelo Christian Prep 8-0 Eagles 44 Final 0 Biggersville 2-6 Lions TCP Varsity Football @ Biggersville Game Info On 10/16, the Tupelo Christian Prep varsity football team won their away conference game against Biggersville (Corinth, MS) by a score of 44-0.",
+          "subjects": [
+            "Biggersville",
+            "Tupelo Christian Prep"
+          ],
+          "date_excerpt": "10/16/2026"
+        },
+        "fact_date": "2026-10-16"
+      },
+      {
+        "id": "basketball-records",
+        "kind": "record",
+        "claim": "Leake Academy enters 2-0; Grace Christian is listed at 0-0. Leake Academy visits Grace Christian in Louisville in a boys varsity nonconference basketball game.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/grace-christian-louisville-vs-leake-academy-madden/10-22-2026/?c=c2f353cb-6fa7-41ea-ac07-04855a70b925",
+          "excerpt": "Leake Academy Rebels 2-0 Thursday, Oct 22, 2026 7:00pm CDT Grace Christian Eagles 0-0 Leake Academy Boys Varsity Basketball @ Grace Christian Game Info The Leake Academy varsity basketball team has an away non-conference game @ Grace Christian (Louisville, MS) today @ 7p.",
+          "subjects": [
+            "Leake Academy",
+            "Grace Christian"
+          ]
+        }
+      },
+      {
+        "id": "leake-amory",
+        "kind": "history",
+        "claim": "Leake Academy defeated Amory Christian Academy 42-28 in a neutral nonconference boys varsity basketball game on October 19, 2026.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/amory-christian-academy-vs-leake-academy-madden/10-19-2026/?c=21876d56-0ac8-4d24-a8dd-02e3009db40f",
+          "excerpt": "Amory Christian Academy vs Leake Academy | Basketball | 10/19/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball ACA Boys Varsity Basketball vs. Leake Academy Amory Christian Academy 0-1 28 Final 42 Leake Academy 2-0 Rebels ACA Boys Varsity Basketball vs. Leake Academy Game Info On 10/19, the Amory Christian Academy varsity basketball team lost their neutral non-conference game against Leake Academy (Madden, MS) by a score of 42-28.",
+          "subjects": [
+            "Leake Academy",
+            "Amory Christian Academy"
+          ],
+          "date_excerpt": "10/19/2026"
+        },
+        "fact_date": "2026-10-19"
+      }
+    ]
+  }
+}
