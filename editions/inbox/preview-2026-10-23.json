@@ -1,0 +1,412 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-10-23",
+  "verified_at": "2026-10-23T15:02:41.599351-05:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "volleyball",
+    "basketball",
+    "soccer",
+    "cross country",
+    "softball",
+    "golf",
+    "swimming"
+  ],
+  "games": [
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-23",
+      "home": "Booneville",
+      "away": "Alcorn Central",
+      "status": "scheduled",
+      "start_time": "2026-10-23T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-booneville/10-23-2026/?c=f7f4f6ea-4ffd-4848-8e68-6eb01dcbc654",
+        "excerpt": "Alcorn Central vs Booneville | Football | 10/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Alcorn Central Varsity Football @ Booneville Alcorn Central Golden Bears 5-3 Friday, Oct 23, 2026 7:00pm CDT Booneville Blue Devils 7-0 Alcorn Central Varsity Football @ Booneville Streaming & Ticketing Purchase Tickets Game Info The Alcorn Central varsity football team has an away conference game @ Booneville (MS) today @ 7p.",
+        "date_excerpt": "10/23/2026",
+        "time_excerpt": "7:00pm CDT",
+        "home_name": "Booneville",
+        "away_name": "Alcorn Central"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-23",
+      "home": "Warren Central",
+      "away": "Neshoba Central",
+      "status": "scheduled",
+      "start_time": "2026-10-23T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/neshoba-central-philadelphia-vs-warren-central-vicksburg/10-23-2026/?c=27d45866-eba0-4ec8-aa72-a25c4da7231a",
+        "excerpt": "Neshoba Central vs Warren Central | Football | 10/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Neshoba Central Varsity Football @ Warren Central Neshoba Central Rockets 5-2 Friday, Oct 23, 2026 7:00pm CDT Warren Central Vikings 7-0 Neshoba Central Varsity Football @ Warren Central Streaming & Ticketing Sign Up To Watch Purchase Tickets Game Info The Neshoba Central varsity football team has an away conference game @ Warren Central (Vicksburg, MS) today @ 7p.",
+        "date_excerpt": "10/23/2026",
+        "time_excerpt": "7:00pm CDT",
+        "home_name": "Warren Central",
+        "away_name": "Neshoba Central"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-23",
+      "home": "South Jones",
+      "away": "Brookhaven",
+      "status": "scheduled",
+      "start_time": "2026-10-23T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/brookhaven-vs-south-jones-ellisville/10-23-2026/?c=075afb20-4751-4428-9479-71f6f497811a",
+        "excerpt": "Brookhaven vs South Jones | Football | 10/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Brookhaven Varsity Football @ South Jones Brookhaven Panthers 7-0 Friday, Oct 23, 2026 7:00pm CDT South Jones Braves 6-2 Brookhaven Varsity Football @ South Jones Game Info The Brookhaven varsity football team has an away conference game @ South Jones (Ellisville, MS) today @ 7p.",
+        "date_excerpt": "10/23/2026",
+        "time_excerpt": "7:00pm CDT",
+        "home_name": "South Jones",
+        "away_name": "Brookhaven"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-23",
+      "home": "Brandon",
+      "away": "Oak Grove",
+      "status": "scheduled",
+      "start_time": "2026-10-23T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/brandon-vs-oak-grove-hattiesburg/10-23-2026/?c=770ef5fa-edfb-4de6-884a-52fa3650d7fc",
+        "excerpt": "Oak Grove vs Brandon | Football | 10/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Oak Grove Varsity Football @ Brandon Oak Grove Warriors 6-1 Friday, Oct 23, 2026 7:00pm CDT Brandon Bulldogs 5-2 Oak Grove Varsity Football @ Brandon Streaming & Ticketing Purchase Tickets Game Info The Oak Grove varsity football team has an away conference game @ Brandon (MS) today @ 7p.",
+        "date_excerpt": "10/23/2026",
+        "time_excerpt": "7:00pm CDT",
+        "home_name": "Brandon",
+        "away_name": "Oak Grove"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-23",
+      "home": "Olive Branch",
+      "away": "Center Hill",
+      "status": "scheduled",
+      "start_time": "2026-10-23T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-olive-branch/10-23-2026/?c=4e2f715d-5fc1-4aa8-99a3-c11380971433",
+        "excerpt": "Center Hill vs Olive Branch | Football | 10/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Center Hill Varsity Football @ Olive Branch Center Hill Mustangs 5-2 Friday, Oct 23, 2026 7:00pm CDT Olive Branch Conquistadors 3-5 Center Hill Varsity Football @ Olive Branch Streaming & Ticketing Purchase Tickets Game Info The Center Hill varsity football team has an away conference game @ Olive Branch (MS) today @ 7p.",
+        "date_excerpt": "10/23/2026",
+        "time_excerpt": "7:00pm CDT",
+        "home_name": "Olive Branch",
+        "away_name": "Center Hill"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-10-16/",
+      "title": "October 16 varsity roundup"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: Booneville, Warren Central and Brookhaven face region tests",
+    "headline_fact_ids": [
+      "game-0",
+      "game-1",
+      "game-2",
+      "booneville-record",
+      "warren-record",
+      "brookhaven-record",
+      "central-record",
+      "neshoba-record",
+      "southjones-record"
+    ],
+    "html": "<p data-facts=\"game-0 game-1 game-2 central-record booneville-record neshoba-record warren-record brookhaven-record southjones-record\">Booneville, Warren Central and Brookhaven are each 7–0, but their Friday opponents have yet to lose a region game either. Alcorn Central visits Booneville, Neshoba Central travels to Warren Central, and South Jones hosts Brookhaven in three meetings that put strong league starts directly against one another.</p>\n<p data-facts=\"game-0 game-1 game-2 game-3 game-4\">Those games lead this selection of five boys varsity football matchups for Friday, October 23, 2026. Oak Grove at Brandon and Center Hill at Olive Branch round out the evening. All five are scheduled for 7 p.m. CDT.</p>\n<h2 data-facts=\"game-0 central-record booneville-record\">Alcorn Central at Booneville: clean region records meet</h2>\n<p data-facts=\"game-0 central-record booneville-record\">Booneville’s perfect season includes a 3–0 start in Class 3A Region 1. Alcorn Central arrives 5–3 overall, with a 2–0 region mark that gives the Golden Bears a clear stake in the <a href=\"https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-booneville/10-23-2026/?c=f7f4f6ea-4ffd-4848-8e68-6eb01dcbc654\">road meeting</a>. Their overall records differ, but neither has taken a loss in league play.</p>\n<p data-facts=\"game-0 central-record booneville-record central-mooreville booneville-mantachie\">The teams also arrive off different October 16 results. Booneville defeated Mantachie 21–7 in conference play, while Alcorn Central lost 28–20 to Mooreville in a nonconference game. That loss left Central’s region record intact; tonight brings the Bears back into league competition against an unbeaten opponent.</p>\n<h2 data-facts=\"game-1 neshoba-record warren-record\">Neshoba Central at Warren Central: matching league starts</h2>\n<p data-facts=\"game-1 neshoba-record warren-record\">Warren Central is 7–0 overall and 2–0 in Class 6A Region 2. Neshoba Central brings a 5–2 record, its own 2–0 league start and three consecutive wins into the <a href=\"https://www.maxpreps.com/ms/football/game/neshoba-central-philadelphia-vs-warren-central-vicksburg/10-23-2026/?c=27d45866-eba0-4ec8-aa72-a25c4da7231a\">Vicksburg game</a>. The Rockets’ current run gives Warren a challenger carrying momentum as well as an unblemished region record.</p>\n<h2 data-facts=\"game-2 brookhaven-record southjones-record\">Brookhaven at South Jones: unbeaten visitors, unbeaten hosts at home</h2>\n<p data-facts=\"game-2 brookhaven-record southjones-record\">Brookhaven takes its 7–0 record and 2–0 Class 5A Region 3 start to Ellisville, where South Jones is 6–2 overall and also 2–0 in the region. The Braves have won five straight and are 4–0 at home. Brookhaven has won all three of its road games, setting up a <a href=\"https://www.maxpreps.com/ms/football/game/brookhaven-vs-south-jones-ellisville/10-23-2026/?c=075afb20-4751-4428-9479-71f6f497811a\">meeting</a> between a host that has protected its home field and a visitor that has kept winning away from home.</p>\n<h2 data-facts=\"game-3 oakgrove-record brandon-record oakgrove-meridian brandon-petal\">Oak Grove at Brandon: close finishes shape the matchup</h2>\n<p data-facts=\"game-3 oakgrove-record brandon-record oakgrove-meridian brandon-petal\">Oak Grove enters 6–1 overall and 2–0 in Class 7A Region 3 after six consecutive wins. Its latest was a 21–20 victory over Meridian on October 16. Brandon’s last game that same night went the other way, a 35–34 loss at Petal that left the Bulldogs 5–2 overall and 1–1 in the region. Tonight’s <a href=\"https://www.maxpreps.com/ms/football/game/brandon-vs-oak-grove-hattiesburg/10-23-2026/?c=770ef5fa-edfb-4de6-884a-52fa3650d7fc\">Brandon matchup</a> gives Oak Grove another league test and Brandon a chance to answer that narrow defeat at home.</p>\n<h2 data-facts=\"game-4 centerhill-record olivebranch-record\">Center Hill at Olive Branch: a response after region losses</h2>\n<p data-facts=\"game-4 centerhill-record olivebranch-record centerhill-lake olivebranch-grenada\">Center Hill and Olive Branch both return from October 16 league losses. Lake Cormorant beat Center Hill 14–9; Grenada defeated Olive Branch 14–7. The Mustangs now stand 5–2 overall and 1–1 in Class 6A Region 1, while the Conquistadors are 3–5 and 0–2. The <a href=\"https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-olive-branch/10-23-2026/?c=4e2f715d-5fc1-4aa8-99a3-c11380971433\">county matchup</a> offers Center Hill a chance for a second region victory and Olive Branch an opportunity for its first.</p>\n<p data-facts=\"game-3 game-4 brandon-petal centerhill-lake\">Our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-10-16/\">October 16 varsity roundup</a> revisits Brandon’s loss at Petal and Center Hill’s defeat against Lake Cormorant, providing the previous week’s context for two of tonight’s selections.</p>",
+    "facts": [
+      {
+        "id": "central-record",
+        "kind": "record",
+        "claim": "Alcorn Central enters 5-3 overall and 2-0 in Class 3A Region 1.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/glen/alcorn-central-golden-bears/football/schedule/",
+          "excerpt": "Alcorn Central Football Schedule 2026-27 Next Game Away • District Alcorn Central 5-3 Booneville 7-0 Alcorn Central 5-3 Fri, 10/23 @ 7:00pm Preview Game Booneville 7-0 Buy Tickets Preview Game Going to the game? Provide score updates Overall 5-3 0.625 Win Pct District 2-0 2nd 3A Region 1 Home 3-1 Away 2-2 Neutral 0-0 PF 178 PA 139 Streak 1L",
+          "subjects": [
+            "Alcorn Central"
+          ]
+        }
+      },
+      {
+        "id": "booneville-record",
+        "kind": "record",
+        "claim": "Booneville enters 7-0 overall and 3-0 in Class 3A Region 1.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/booneville/booneville-blue-devils/football/schedule/",
+          "excerpt": "Booneville Football Schedule 2026-27 Next Game Home • District Booneville 7-0 Alcorn Central 5-3 Booneville 7-0 Fri, 10/23 @ 7:00pm Preview Game Alcorn Central 5-3 Buy Tickets Preview Game Going to the game? Provide score updates Overall 7-0 1.000 Win Pct District 3-0 1st 3A Region 1 Home 4-0 Away 3-0 Neutral 0-0 PF 276 PA 101 Streak 7W",
+          "subjects": [
+            "Booneville"
+          ]
+        }
+      },
+      {
+        "id": "neshoba-record",
+        "kind": "record",
+        "claim": "Neshoba Central enters 5-2 overall and 2-0 in Class 6A Region 2, with three consecutive wins.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/philadelphia/neshoba-central-rockets/football/schedule/",
+          "excerpt": "Neshoba Central Football Schedule 2026-27 Next Game Away • District Neshoba Central 5-2 Warren Central 7-0 Neshoba Central 5-2 Fri, 10/23 @ 7:00pm Preview Game Warren Central 7-0 Watch Buy Tickets Going to the game? Provide score updates Overall 5-2 0.714 Win Pct District 2-0 2nd 6A Region 2 Home 3-1 Away 2-1 Neutral 0-0 PF 237 PA 191 Streak 3W",
+          "subjects": [
+            "Neshoba Central"
+          ]
+        }
+      },
+      {
+        "id": "warren-record",
+        "kind": "record",
+        "claim": "Warren Central enters 7-0 overall and 2-0 in Class 6A Region 2.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/vicksburg/warren-central-vikings/football/schedule/",
+          "excerpt": "Warren Central Football Schedule 2026-27 Next Game Home • District Warren Central 7-0 Neshoba Central 5-2 Warren Central 7-0 Fri, 10/23 @ 7:00pm Preview Game Neshoba Central 5-2 Watch Buy Tickets Going to the game? Provide score updates Overall 7-0 1.000 Win Pct District 2-0 1st 6A Region 2 Home 4-0 Away 3-0 Neutral 0-0 PF 298 PA 124 Streak 7W",
+          "subjects": [
+            "Warren Central"
+          ]
+        }
+      },
+      {
+        "id": "brookhaven-record",
+        "kind": "record",
+        "claim": "Brookhaven enters 7-0 overall and 2-0 in Class 5A Region 3, with a 3-0 road record.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/brookhaven/brookhaven-panthers/football/schedule/",
+          "excerpt": "Brookhaven Football Schedule 2026-27 Next Game Away • District Brookhaven 7-0 South Jones 6-2 Brookhaven 7-0 Fri, 10/23 @ 7:00pm Preview Game South Jones 6-2 Preview Game Going to the game? Provide score updates Overall 7-0 1.000 Win Pct District 2-0 1st 5A Region 3 Home 4-0 Away 3-0 Neutral 0-0 PF 295 PA 107 Streak 7W",
+          "subjects": [
+            "Brookhaven"
+          ]
+        }
+      },
+      {
+        "id": "southjones-record",
+        "kind": "record",
+        "claim": "South Jones enters 6-2 overall and 2-0 in Class 5A Region 3, with five consecutive wins and a 4-0 home record.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/ellisville/south-jones-braves/football/schedule/",
+          "excerpt": "South Jones Football Schedule 2026-27 Next Game Home • District South Jones 6-2 Brookhaven 7-0 South Jones 6-2 Fri, 10/23 @ 7:00pm Preview Game Brookhaven 7-0 Preview Game Going to the game? Provide score updates Overall 6-2 0.750 Win Pct District 2-0 2nd 5A Region 3 Home 4-0 Away 2-2 Neutral 0-0 PF 222 PA 181 Streak 5W",
+          "subjects": [
+            "South Jones"
+          ]
+        }
+      },
+      {
+        "id": "oakgrove-record",
+        "kind": "record",
+        "claim": "Oak Grove enters 6-1 overall and 2-0 in Class 7A Region 3, with six consecutive wins.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/hattiesburg/oak-grove-warriors/football/schedule/",
+          "excerpt": "Oak Grove Football Schedule 2026-27 Next Game Away • District Oak Grove 6-1 Brandon 5-2 Oak Grove 6-1 Fri, 10/23 @ 7:00pm Preview Game Brandon 5-2 Buy Tickets Preview Game Live scores will be provided by Brandon Coleman Overall 6-1 0.857 Win Pct District 2-0 1st 7A Region 3 Home 3-1 Away 3-0 Neutral 0-0 PF 219 PA 175 Streak 6W",
+          "subjects": [
+            "Oak Grove"
+          ]
+        }
+      },
+      {
+        "id": "brandon-record",
+        "kind": "record",
+        "claim": "Brandon enters 5-2 overall and 1-1 in Class 7A Region 3.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/brandon/brandon-bulldogs/football/schedule/",
+          "excerpt": "Brandon Football Schedule 2026-27 Next Game Home • District Brandon 5-2 Oak Grove 6-1 Brandon 5-2 Fri, 10/23 @ 7:00pm Preview Game Oak Grove 6-1 Buy Tickets Preview Game Live scores will be provided by Jeremiah Baker Overall 5-2 0.714 Win Pct District 1-1 3rd 7A Region 3 Home 3-0 Away 2-2 Neutral 0-0 PF 223 PA 182 Streak 1L",
+          "subjects": [
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "centerhill-record",
+        "kind": "record",
+        "claim": "Center Hill enters 5-2 overall and 1-1 in Class 6A Region 1.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/olive-branch/center-hill-mustangs/football/schedule/",
+          "excerpt": "Center Hill Football Schedule 2026-27 Next Game Away • District Center Hill 5-2 Olive Branch 3-5 Center Hill 5-2 Fri, 10/23 @ 7:00pm Preview Game Olive Branch 3-5 Buy Tickets Preview Game Going to the game? Provide score updates Overall 5-2 0.714 Win Pct District 1-1 2nd 6A Region 1 Home 3-2 Away 2-0 Neutral 0-0 PF 205 PA 131 Streak 1L",
+          "subjects": [
+            "Center Hill"
+          ]
+        }
+      },
+      {
+        "id": "olivebranch-record",
+        "kind": "record",
+        "claim": "Olive Branch enters 3-5 overall and 0-2 in Class 6A Region 1.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/olive-branch/olive-branch-conquistadors/football/schedule/",
+          "excerpt": "Olive Branch Football Schedule 2026-27 Next Game Home • District Olive Branch 3-5 Center Hill 5-2 Olive Branch 3-5 Fri, 10/23 @ 7:00pm Preview Game Center Hill 5-2 Buy Tickets Preview Game Going to the game? Provide score updates Overall 3-5 0.375 Win Pct District 0-2 6th 6A Region 1 Home 2-1 Away 1-4 Neutral 0-0 PF 175 PA 199 Streak 2L",
+          "subjects": [
+            "Olive Branch"
+          ]
+        }
+      },
+      {
+        "id": "central-mooreville",
+        "kind": "history",
+        "claim": "Alcorn Central lost 28-20 to Mooreville in a nonconference game on October 16, 2026.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-mooreville/10-16-2026/?c=c2a21201-bcfa-42b5-bd83-391c2fd94fb4",
+          "excerpt": "Mooreville vs Alcorn Central | Football | 10/16/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Mooreville Varsity Football @ Alcorn Central Mooreville 4-4 Troopers 28 Final 20 Alcorn Central 5-3 Golden Bears Mooreville Varsity Football @ Alcorn Central Game Info On 10/16, the Mooreville varsity football team won their away non-conference game against Alcorn Central (Glen, MS) by a score of 28-20.",
+          "subjects": [
+            "Alcorn Central",
+            "Mooreville"
+          ],
+          "date_excerpt": "10/16/2026"
+        },
+        "fact_date": "2026-10-16"
+      },
+      {
+        "id": "booneville-mantachie",
+        "kind": "history",
+        "claim": "Booneville won 21-7 at Mantachie in a conference game on October 16, 2026.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/booneville-vs-mantachie/10-16-2026/?c=03332999-aab9-41f1-a4c7-a0e83689e20d",
+          "excerpt": "Booneville vs Mantachie | Football | 10/16/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Booneville Varsity Football @ Mantachie Booneville 7-0 Blue Devils 21 Final 7 Mantachie 4-4 Mustangs Booneville Varsity Football @ Mantachie Game Info On 10/16, the Booneville varsity football team won their away conference game against Mantachie (MS) by a score of 21-7.",
+          "subjects": [
+            "Booneville",
+            "Mantachie"
+          ],
+          "date_excerpt": "10/16/2026"
+        },
+        "fact_date": "2026-10-16"
+      },
+      {
+        "id": "oakgrove-meridian",
+        "kind": "history",
+        "claim": "Oak Grove beat Meridian 21-20 in a conference game on October 16, 2026.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/meridian-vs-oak-grove-hattiesburg/10-16-2026/?c=2b7eba50-d6c6-44c7-8010-19ef0dbd88fe",
+          "excerpt": "Meridian vs Oak Grove | Football | 10/16/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Meridian Varsity Football @ Oak Grove Meridian 4-3 Wildcats 20 Final 21 Oak Grove 6-1 Warriors Meridian Varsity Football @ Oak Grove Game Info On 10/16, the Meridian varsity football team lost their away conference game against Oak Grove (Hattiesburg, MS) by a score of 21-20.",
+          "subjects": [
+            "Oak Grove",
+            "Meridian"
+          ],
+          "date_excerpt": "10/16/2026"
+        },
+        "fact_date": "2026-10-16"
+      },
+      {
+        "id": "brandon-petal",
+        "kind": "history",
+        "claim": "Brandon lost 35-34 at Petal in a conference game on October 16, 2026.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/brandon-vs-petal/10-16-2026/?c=76fe5729-c821-4e10-b310-d1944b03fd02",
+          "excerpt": "Brandon vs Petal | Football | 10/16/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Brandon Varsity Football @ Petal Brandon 5-2 Bulldogs 34 Final 35 Petal 7-1 Panthers Brandon Varsity Football @ Petal Game Info On 10/16, the Brandon varsity football team lost their away conference game against Petal (MS) by a score of 35-34.",
+          "subjects": [
+            "Brandon",
+            "Petal"
+          ],
+          "date_excerpt": "10/16/2026"
+        },
+        "fact_date": "2026-10-16"
+      },
+      {
+        "id": "centerhill-lake",
+        "kind": "history",
+        "claim": "Center Hill lost 14-9 to Lake Cormorant in a conference game on October 16, 2026.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-lake-cormorant/10-16-2026/?c=596305e3-8fec-478e-93f7-4eb20ab7b3fc",
+          "excerpt": "Lake Cormorant vs Center Hill | Football | 10/16/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Lake Cormorant Varsity Football @ Center Hill Lake Cormorant 7-0 14 Final 9 Center Hill 5-2 Mustangs Lake Cormorant Varsity Football @ Center Hill Game Info On 10/16, the Lake Cormorant varsity football team won their away conference game against Center Hill (Olive Branch, MS) by a score of 14-9.",
+          "subjects": [
+            "Center Hill",
+            "Lake Cormorant"
+          ],
+          "date_excerpt": "10/16/2026"
+        },
+        "fact_date": "2026-10-16"
+      },
+      {
+        "id": "olivebranch-grenada",
+        "kind": "history",
+        "claim": "Olive Branch lost 14-7 to Grenada in a conference game on October 16, 2026.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/grenada-vs-olive-branch/10-16-2026/?c=686b08f1-67f9-4e6e-82df-fe66e2facedd",
+          "excerpt": "Grenada vs Olive Branch | Football | 10/16/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Grenada Varsity Football @ Olive Branch Grenada 4-2 Chargers 14 Final 7 Olive Branch 3-5 Conquistadors Grenada Varsity Football @ Olive Branch Game Info On 10/16, the Grenada varsity football team won their away conference game against Olive Branch (MS) by a score of 14-7.",
+          "subjects": [
+            "Olive Branch",
+            "Grenada"
+          ],
+          "date_excerpt": "10/16/2026"
+        },
+        "fact_date": "2026-10-16"
+      }
+    ]
+  }
+}
