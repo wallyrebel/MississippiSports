@@ -1,0 +1,339 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-10-22",
+  "verified_at": "2026-10-23T13:05:57.467821+00:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "volleyball",
+    "basketball",
+    "soccer",
+    "softball",
+    "cross country",
+    "swimming",
+    "golf"
+  ],
+  "games": [
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-22",
+      "home": "Myrtle",
+      "away": "Bruce",
+      "status": "final",
+      "home_score": 38,
+      "away_score": 27,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/bruce-vs-myrtle/10-22-2026/?c=0221d89a-0e77-4efb-bffb-6176b626758a",
+        "excerpt": "Bruce vs Myrtle | Football | 10/22/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Bruce Varsity Football @ Myrtle Bruce 8-1 Trojans 27 Final 38 Myrtle 7-1 Hawks Bruce Varsity Football @ Myrtle Streaming & Ticketing Watch Recap Game Info On 10/22, the Bruce varsity football team lost their away conference game against Myrtle (MS) by a score of 38-27.",
+        "date_excerpt": "10/22/2026",
+        "home_name": "Myrtle",
+        "away_name": "Bruce"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-22",
+      "home": "Belmont",
+      "away": "East Union",
+      "status": "final",
+      "home_score": 66,
+      "away_score": 42,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/belmont-vs-east-union-blue-springs/10-22-2026/?c=b5ab8ada-b6e4-49bf-8ce2-f5d5ba214d3c",
+        "excerpt": "East Union vs Belmont | Football | 10/22/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football East Union Varsity Football @ Belmont East Union 2-7 Urchins 42 Final 66 Belmont 2-6 Cardinals East Union Varsity Football @ Belmont Streaming & Ticketing Watch Recap Game Info On 10/22, the East Union varsity football team lost their away non-conference game against Belmont (MS) by a score of 66-42.",
+        "date_excerpt": "10/22/2026",
+        "home_name": "Belmont",
+        "away_name": "East Union"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-22",
+      "home": "Murrah",
+      "away": "Starkville",
+      "status": "final",
+      "home_score": 12,
+      "away_score": 49,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/murrah-jackson-vs-starkville/10-22-2026/?c=07300142-6977-4a9e-89c9-368a162d3eea",
+        "excerpt": "Starkville vs Murrah | Football | 10/22/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Starkville Varsity Football @ Murrah Starkville 6-2 Yellowjackets 49 Final 12 Murrah 1-8 Mustangs Starkville Varsity Football @ Murrah Game Info On 10/22, the Starkville varsity football team won their away conference game against Murrah (Jackson, MS) by a score of 49-12.",
+        "date_excerpt": "10/22/2026",
+        "home_name": "Murrah",
+        "away_name": "Starkville"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-22",
+      "home": "Smithville",
+      "away": "Biggersville",
+      "status": "final",
+      "home_score": 20,
+      "away_score": 6,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-smithville/10-22-2026/?c=f714d599-9720-4852-92b1-1075510392cb",
+        "excerpt": "Biggersville vs Smithville | Football | 10/22/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Biggersville Varsity Football @ Smithville Biggersville 2-7 Lions 6 Final 20 Smithville 5-3 Seminoles Biggersville Varsity Football @ Smithville Streaming & Ticketing Watch Recap Game Info On 10/22, the Biggersville varsity football team lost their away conference game against Smithville (MS) by a score of 20-6.",
+        "date_excerpt": "10/22/2026",
+        "home_name": "Smithville",
+        "away_name": "Biggersville"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-22",
+      "home": "Callaway",
+      "away": "Greenville",
+      "status": "final",
+      "home_score": 27,
+      "away_score": 8,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/callaway-jackson-vs-greenville/10-22-2026/?c=dbf5cfcc-cef4-47d1-93a4-c7f271fe1242",
+        "excerpt": "Greenville vs Callaway | Football | 10/22/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Greenville Varsity Football @ Callaway Greenville 3-5 Hornets 8 Final 27 Callaway 4-5 Chargers Greenville Varsity Football @ Callaway Game Info On 10/22, the Greenville varsity football team lost their away conference game against Callaway (Jackson, MS) by a score of 27-8.",
+        "date_excerpt": "10/22/2026",
+        "home_name": "Callaway",
+        "away_name": "Greenville"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-22",
+      "home": "Strayhorn",
+      "away": "Water Valley",
+      "status": "final",
+      "home_score": 20,
+      "away_score": 52,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/strayhorn-sarah-vs-water-valley/10-22-2026/?c=0ea1b584-aee6-489d-9197-7cc36d240d1d",
+        "excerpt": "Water Valley vs Strayhorn | Football | 10/22/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Water Valley Varsity Football @ Strayhorn Water Valley 3-6 Blue Devils 52 Final 20 Strayhorn 1-8 Mustangs Water Valley Varsity Football @ Strayhorn Game Info On 10/22, the Water Valley varsity football team won their away conference game against Strayhorn (Sarah, MS) by a score of 52-20.",
+        "date_excerpt": "10/22/2026",
+        "home_name": "Strayhorn",
+        "away_name": "Water Valley"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-22",
+      "home": "Grace Christian",
+      "away": "Leake Academy",
+      "status": "final",
+      "home_score": 44,
+      "away_score": 64,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/grace-christian-louisville-vs-leake-academy-madden/10-22-2026/?c=c2f353cb-6fa7-41ea-ac07-04855a70b925",
+        "excerpt": "Leake Academy vs Grace Christian | Basketball | 10/22/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Leake Academy Boys Varsity Basketball @ Grace Christian Leake Academy 3-0 Rebels 64 Final 44 Grace Christian 0-1 Eagles Leake Academy Boys Varsity Basketball @ Grace Christian Game Info On 10/22, the Leake Academy varsity basketball team won their away non-conference game against Grace Christian (Louisville, MS) by a score of 64-44.",
+        "date_excerpt": "10/22/2026",
+        "home_name": "Grace Christian",
+        "away_name": "Leake Academy"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-10-22/",
+      "title": "Unbeaten Bruce visits Myrtle in region showdown"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Myrtle ends Bruce’s unbeaten run with 38–27 win",
+    "headline_fact_ids": [
+      "game-0",
+      "myrtle-bruce-records"
+    ],
+    "html": "<p data-facts=\"game-0 myrtle-bruce-records myrtle-bruce-quarters\">Myrtle handed Bruce its first football loss Thursday, scoring 16 points in the fourth quarter to finish a 38–27 home victory. The Hawks improved to 7–1, while the Trojans fell to 8–1.</p>\n<p data-facts=\"game-0 myrtle-bruce-league\">The October 22, 2026, result also kept Myrtle unbeaten in district play at 4–0 and left Bruce at 2–1. The featured matchup in <a href=\"https://sportsmississippi.com/sports/sportsms-preview-2026-10-22/\">Thursday’s Games To Watch</a> ended with the Hawks protecting their clean league record.</p>\n<h2 data-facts=\"game-0 myrtle-bruce-quarters\">Myrtle answers in the fourth</h2>\n<p data-facts=\"game-0 myrtle-bruce-quarters\">Bruce had the better opening quarter, outscoring Myrtle 12–8. The Hawks answered with 14 points in the second while holding the Trojans scoreless. Bruce returned the favor in the third, scoring seven points and allowing none.</p>\n<p data-facts=\"game-0 myrtle-bruce-quarters\">The fourth swung back to Myrtle. Its 16–8 edge in the final period closed the <a href=\"https://www.maxpreps.com/ms/football/game/bruce-vs-myrtle/10-22-2026/?c=0221d89a-0e77-4efb-bffb-6176b626758a\">38–27 win</a>. The quarter-by-quarter scoring shows both teams responding after a scoreless period, with Myrtle producing the stronger finish.</p>\n<h2 data-facts=\"game-1 belmont-records\">Belmont gets its second victory</h2>\n<p data-facts=\"game-1 belmont-records\">Belmont won a high-scoring nonconference game at home, beating East Union 66–42. The Cardinals’ <a href=\"https://www.maxpreps.com/ms/football/game/belmont-vs-east-union-blue-springs/10-22-2026/?c=b5ab8ada-b6e4-49bf-8ce2-f5d5ba214d3c\">second victory of the season</a> moved them to 2–6, while the Urchins fell to 2–7.</p>\n<h2 data-facts=\"game-2 game-3 starkville-records smithville-records\">Starkville wins away; Smithville limits Biggersville</h2>\n<p data-facts=\"game-2 starkville-records\">Starkville defeated Murrah 49–12 in a conference game in Jackson. The Yellowjackets improved to 6–2 with the <a href=\"https://www.maxpreps.com/ms/football/game/murrah-jackson-vs-starkville/10-22-2026/?c=07300142-6977-4a9e-89c9-368a162d3eea\">road victory</a>, while Murrah’s record stood at 1–8.</p>\n<p data-facts=\"game-3 smithville-records\">Smithville kept Biggersville to six points in a 20–6 home conference win. The <a href=\"https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-smithville/10-22-2026/?c=f714d599-9720-4852-92b1-1075510392cb\">Seminoles’ victory</a> moved them to 5–3, and Biggersville fell to 2–7.</p>\n<h2 data-facts=\"game-4 game-5 callaway-quarters water-valley-records\">Callaway shuts the door; Water Valley wins on the road</h2>\n<p data-facts=\"game-4 callaway-quarters callaway-records\">Callaway defeated Greenville 27–8 in Jackson, holding the Hornets scoreless after halftime. The Chargers scored seven points in both the third and fourth quarters, while Greenville’s only scoring came in the second. The <a href=\"https://www.maxpreps.com/ms/football/game/callaway-jackson-vs-greenville/10-22-2026/?c=dbf5cfcc-cef4-47d1-93a4-c7f271fe1242\">conference result</a> left Callaway at 4–5 and Greenville at 3–5.</p>\n<p data-facts=\"game-5 water-valley-records\">Water Valley won its conference game at Strayhorn 52–20. The Blue Devils improved to 3–6 with the <a href=\"https://www.maxpreps.com/ms/football/game/strayhorn-sarah-vs-water-valley/10-22-2026/?c=0ea1b584-aee6-489d-9197-7cc36d240d1d\">away win</a>, and Strayhorn fell to 1–8.</p>\n<h2 data-facts=\"game-6 leake-grace-records\">Boys basketball: Leake Academy remains unbeaten</h2>\n<p data-facts=\"game-6 leake-grace-records\">Leake Academy beat Grace Christian 64–44 in a boys varsity nonconference game in Louisville. The Rebels stayed unbeaten at 3–0, while Grace Christian was 0–1 after the <a href=\"https://www.maxpreps.com/ms/basketball/game/grace-christian-louisville-vs-leake-academy-madden/10-22-2026/?c=c2f353cb-6fa7-41ea-ac07-04855a70b925\">home loss</a>.</p>",
+    "facts": [
+      {
+        "id": "myrtle-bruce-records",
+        "kind": "record",
+        "claim": "Myrtle is 7-1 after defeating Bruce, which is 8-1. This was Bruce’s first loss of the season.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/bruce-vs-myrtle/10-22-2026/?c=0221d89a-0e77-4efb-bffb-6176b626758a",
+          "excerpt": "Bruce 8-1 Trojans 27 Final 38 Myrtle 7-1 Hawks Bruce Varsity Football @ Myrtle Streaming & Ticketing Watch Recap",
+          "subjects": [
+            "Bruce",
+            "Myrtle"
+          ]
+        }
+      },
+      {
+        "id": "myrtle-bruce-quarters",
+        "kind": "result",
+        "claim": "Bruce outscored Myrtle 12-8 in the first quarter. Myrtle scored 14 points to Bruce’s 0 in the second. Bruce scored 7 to Myrtle’s 0 in the third. Myrtle outscored Bruce 16-8 in the fourth.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/bruce-vs-myrtle/10-22-2026/?c=0221d89a-0e77-4efb-bffb-6176b626758a",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Bruce 12 0 7 8 27 Myrtle 8 14 0 16 38 Final score provided by C. Dillard",
+          "subjects": [
+            "Bruce",
+            "Myrtle"
+          ]
+        }
+      },
+      {
+        "id": "myrtle-bruce-league",
+        "kind": "record",
+        "claim": "Myrtle is 4-0 in district play and Bruce is 2-1 after their conference game.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/bruce-vs-myrtle/10-22-2026/?c=0221d89a-0e77-4efb-bffb-6176b626758a&tab=Matchup",
+          "excerpt": "Scoring Averages Final Q1 Q2 Q3 Q4 OT1 Bruce 37.6 14.2 8.5 9.0 3.3 8.0 Myrtle 36.9 10.2 12.8 8.2 8.0 -- Rankings Mississippi #152 #124 Mississippi Division 2A #17 #15 Columbus-Tupelo #37 #32 Season Recap Overall Record 8-1 7-1 District 2-1 4-0",
+          "subjects": [
+            "Bruce",
+            "Myrtle"
+          ]
+        }
+      },
+      {
+        "id": "belmont-records",
+        "kind": "record",
+        "claim": "Belmont is 2-6 after defeating East Union, which is 2-7. It was Belmont’s second win of the season.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/belmont-vs-east-union-blue-springs/10-22-2026/?c=b5ab8ada-b6e4-49bf-8ce2-f5d5ba214d3c",
+          "excerpt": "East Union 2-7 Urchins 42 Final 66 Belmont 2-6 Cardinals East Union Varsity Football @ Belmont Streaming & Ticketing Watch Recap",
+          "subjects": [
+            "East Union",
+            "Belmont"
+          ]
+        }
+      },
+      {
+        "id": "starkville-records",
+        "kind": "record",
+        "claim": "Starkville is 6-2 after its conference win at Murrah, which is 1-8.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/murrah-jackson-vs-starkville/10-22-2026/?c=07300142-6977-4a9e-89c9-368a162d3eea",
+          "excerpt": "Starkville 6-2 Yellowjackets 49 Final 12 Murrah 1-8 Mustangs Starkville Varsity Football @ Murrah",
+          "subjects": [
+            "Starkville",
+            "Murrah"
+          ]
+        }
+      },
+      {
+        "id": "smithville-records",
+        "kind": "record",
+        "claim": "Smithville is 5-3 after defeating Biggersville, which is 2-7.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-smithville/10-22-2026/?c=f714d599-9720-4852-92b1-1075510392cb",
+          "excerpt": "Biggersville 2-7 Lions 6 Final 20 Smithville 5-3 Seminoles Biggersville Varsity Football @ Smithville Streaming & Ticketing Watch Recap",
+          "subjects": [
+            "Biggersville",
+            "Smithville"
+          ]
+        }
+      },
+      {
+        "id": "callaway-records",
+        "kind": "record",
+        "claim": "Callaway is 4-5 after defeating Greenville, which is 3-5.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/callaway-jackson-vs-greenville/10-22-2026/?c=dbf5cfcc-cef4-47d1-93a4-c7f271fe1242",
+          "excerpt": "Greenville 3-5 Hornets 8 Final 27 Callaway 4-5 Chargers Greenville Varsity Football @ Callaway",
+          "subjects": [
+            "Greenville",
+            "Callaway"
+          ]
+        }
+      },
+      {
+        "id": "callaway-quarters",
+        "kind": "result",
+        "claim": "Callaway scored 7, 6, 7 and 7 points across the four quarters. Greenville scored 0, 8, 0 and 0. Callaway held Greenville scoreless after halftime and scored seven points in each of the third and fourth quarters.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/callaway-jackson-vs-greenville/10-22-2026/?c=dbf5cfcc-cef4-47d1-93a4-c7f271fe1242",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Greenville 0 8 0 0 8 Callaway 7 6 7 7 27 Final score provided by Q. Edwards",
+          "subjects": [
+            "Greenville",
+            "Callaway"
+          ]
+        }
+      },
+      {
+        "id": "water-valley-records",
+        "kind": "record",
+        "claim": "Water Valley is 3-6 after winning at Strayhorn, which is 1-8.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/strayhorn-sarah-vs-water-valley/10-22-2026/?c=0ea1b584-aee6-489d-9197-7cc36d240d1d",
+          "excerpt": "Water Valley 3-6 Blue Devils 52 Final 20 Strayhorn 1-8 Mustangs Water Valley Varsity Football @ Strayhorn",
+          "subjects": [
+            "Water Valley",
+            "Strayhorn"
+          ]
+        }
+      },
+      {
+        "id": "leake-grace-records",
+        "kind": "record",
+        "claim": "Leake Academy is 3-0 after defeating Grace Christian, which is 0-1.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-22",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/grace-christian-louisville-vs-leake-academy-madden/10-22-2026/?c=c2f353cb-6fa7-41ea-ac07-04855a70b925",
+          "excerpt": "Leake Academy 3-0 Rebels 64 Final 44 Grace Christian 0-1 Eagles Leake Academy Boys Varsity Basketball @ Grace Christian",
+          "subjects": [
+            "Leake Academy",
+            "Grace Christian"
+          ]
+        }
+      }
+    ]
+  }
+}
