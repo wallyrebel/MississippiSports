@@ -1,0 +1,409 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-10-23",
+  "verified_at": "2026-10-24T13:04:26.961066+00:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "volleyball",
+    "basketball",
+    "soccer",
+    "softball",
+    "cross country",
+    "swimming",
+    "golf"
+  ],
+  "games": [
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-23",
+      "home": "Brandon",
+      "away": "Oak Grove",
+      "status": "final",
+      "home_score": 43,
+      "away_score": 28,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/brandon-vs-oak-grove-hattiesburg/10-23-2026/?c=770ef5fa-edfb-4de6-884a-52fa3650d7fc",
+        "excerpt": "Oak Grove vs Brandon | Football | 10/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Oak Grove Varsity Football @ Brandon Oak Grove 6-2 Warriors 28 Final 43 Brandon 6-2 Bulldogs Oak Grove Varsity Football @ Brandon Game Info On 10/23, the Oak Grove varsity football team lost their away conference game against Brandon (MS) by a score of 43-28.",
+        "date_excerpt": "10/23/2026",
+        "home_name": "Brandon",
+        "away_name": "Oak Grove"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-23",
+      "home": "Olive Branch",
+      "away": "Center Hill",
+      "status": "final",
+      "home_score": 29,
+      "away_score": 38,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-olive-branch/10-23-2026/?c=4e2f715d-5fc1-4aa8-99a3-c11380971433",
+        "excerpt": "Center Hill vs Olive Branch | Football | 10/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Center Hill Varsity Football @ Olive Branch Center Hill 6-2 Mustangs 38 Final 29 Olive Branch 3-6 Conquistadors Center Hill Varsity Football @ Olive Branch Game Info On 10/23, the Center Hill varsity football team won their away conference game against Olive Branch (MS) by a score of 38-29.",
+        "date_excerpt": "10/23/2026",
+        "home_name": "Olive Branch",
+        "away_name": "Center Hill"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-23",
+      "home": "Booneville",
+      "away": "Alcorn Central",
+      "status": "final",
+      "home_score": 42,
+      "away_score": 6,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-booneville/10-23-2026/?c=f7f4f6ea-4ffd-4848-8e68-6eb01dcbc654",
+        "excerpt": "Alcorn Central vs Booneville | Football | 10/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Alcorn Central Varsity Football @ Booneville Alcorn Central 5-4 Golden Bears 6 Final 42 Booneville 8-0 Blue Devils Alcorn Central Varsity Football @ Booneville Game Info On 10/23, the Alcorn Central varsity football team lost their away conference game against Booneville (MS) by a score of 42-6.",
+        "date_excerpt": "10/23/2026",
+        "home_name": "Booneville",
+        "away_name": "Alcorn Central"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-23",
+      "home": "Warren Central",
+      "away": "Neshoba Central",
+      "status": "final",
+      "home_score": 34,
+      "away_score": 14,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/neshoba-central-philadelphia-vs-warren-central-vicksburg/10-23-2026/?c=27d45866-eba0-4ec8-aa72-a25c4da7231a",
+        "excerpt": "Neshoba Central vs Warren Central | Football | 10/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Neshoba Central Varsity Football @ Warren Central Neshoba Central 5-3 Rockets 14 Final 34 Warren Central 8-0 Vikings Neshoba Central Varsity Football @ Warren Central Streaming & Ticketing Watch Recap Game Info On 10/23, the Neshoba Central varsity football team lost their away conference game against Warren Central (Vicksburg, MS) by a score of 34-14.",
+        "date_excerpt": "10/23/2026",
+        "home_name": "Warren Central",
+        "away_name": "Neshoba Central"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-23",
+      "home": "South Jones",
+      "away": "Brookhaven",
+      "status": "final",
+      "home_score": 16,
+      "away_score": 49,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/brookhaven-vs-south-jones-ellisville/10-23-2026/?c=075afb20-4751-4428-9479-71f6f497811a",
+        "excerpt": "Brookhaven vs South Jones | Football | 10/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Brookhaven Varsity Football @ South Jones Brookhaven 8-0 Panthers 49 Final 16 South Jones 6-3 Braves Brookhaven Varsity Football @ South Jones Game Info On 10/23, the Brookhaven varsity football team won their away conference game against South Jones (Ellisville, MS) by a score of 49-16.",
+        "date_excerpt": "10/23/2026",
+        "home_name": "South Jones",
+        "away_name": "Brookhaven"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-23",
+      "home": "Horn Lake",
+      "away": "Tupelo",
+      "status": "final",
+      "home_score": 0,
+      "away_score": 40,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/horn-lake-vs-tupelo/10-23-2026/?c=a2f0e5d5-15fe-49ea-8928-9b14bcfc889b",
+        "excerpt": "Tupelo vs Horn Lake | Football | 10/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Tupelo Varsity Football @ Horn Lake Tupelo 9-0 Golden Wave 40 Final 0 Horn Lake 0-8 Eagles Tupelo Varsity Football @ Horn Lake Game Info On 10/23, the Tupelo varsity football team won their away conference game against Horn Lake (MS) by a score of 40-0.",
+        "date_excerpt": "10/23/2026",
+        "home_name": "Horn Lake",
+        "away_name": "Tupelo"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-23",
+      "home": "Biloxi",
+      "away": "Gulfport",
+      "status": "final",
+      "home_score": 3,
+      "away_score": 35,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/biloxi-vs-gulfport/10-23-2026/?c=4140a712-ff5c-40ae-aef3-160830589b84",
+        "excerpt": "Gulfport vs Biloxi | Football | 10/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Gulfport Varsity Football @ Biloxi Gulfport 7-1 Admirals 35 Final 3 Biloxi 2-6 Indians Gulfport Varsity Football @ Biloxi Streaming & Ticketing Watch Recap Game Info On 10/23, the Gulfport varsity football team won their away conference game against Biloxi (MS) by a score of 35-3.",
+        "date_excerpt": "10/23/2026",
+        "home_name": "Biloxi",
+        "away_name": "Gulfport"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-10-23/",
+      "title": "Unbeaten teams face Friday football tests"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Brandon, Center Hill turn second-half surges into Friday wins",
+    "headline_fact_ids": [
+      "game-0",
+      "game-1",
+      "quarters-0",
+      "quarters-1"
+    ],
+    "html": "<p data-facts=\"game-0 game-1 quarters-0 quarters-1\">Brandon and Center Hill turned second-half scoring surges into conference football wins Friday. Brandon put up 21 points in the fourth quarter to beat Oak Grove 43–28, while Center Hill’s 28-point third quarter powered a 38–29 victory at Olive Branch.</p>\n<p data-facts=\"game-0 game-1 game-2 game-3 game-4 game-5 quarters-0 quarters-1 quarters-2 quarters-4 record-2 record-3 record-4 record-5\">The verified October 23, 2026, results also kept several unbeaten teams moving. Booneville, Warren Central and Brookhaven each emerged at 8–0, and Tupelo reached 9–0. The games featured in <a href=\"https://sportsmississippi.com/sports/sportsms-preview-2026-10-23/\">Friday’s Games To Watch</a> supplied both comebacks and decisive starts.</p>\n<h2 data-facts=\"game-0 quarters-0\">Brandon finds its finish against Oak Grove</h2>\n<p data-facts=\"game-0 quarters-0 record-0\">After a scoreless first quarter, Oak Grove outscored Brandon 14–7 in the second. The Bulldogs answered with a 15–6 third quarter, then won the fourth 21–8. Brandon’s strongest scoring period came last, turning the earlier deficit into a <a href=\"https://www.maxpreps.com/ms/football/game/brandon-vs-oak-grove-hattiesburg/10-23-2026/?c=770ef5fa-edfb-4de6-884a-52fa3650d7fc\">43–28 home victory</a>. The conference result left both teams at 6–2 overall.</p>\n<h2 data-facts=\"game-1 quarters-1\">Center Hill’s third quarter reverses the game</h2>\n<p data-facts=\"game-1 quarters-1\">Center Hill scored the first quarter’s only three points before Olive Branch took control of the second, outscoring the Mustangs 21–7. The answer came in the third quarter: Center Hill scored 28 points and held Olive Branch scoreless.</p>\n<p data-facts=\"game-1 quarters-1 record-1\">The Conquistadors scored eight points in the fourth, but Center Hill’s third-quarter surge proved enough for the <a href=\"https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-olive-branch/10-23-2026/?c=4e2f715d-5fc1-4aa8-99a3-c11380971433\">38–29 road win</a>. The Mustangs improved to 6–2, and Olive Branch fell to 3–6.</p>\n<h2 data-facts=\"game-2 game-3 game-4 record-2 record-3 record-4\">Booneville, Warren Central and Brookhaven stay perfect</h2>\n<p data-facts=\"game-2 quarters-2 record-2\">Booneville took charge early against Alcorn Central, outscoring the Golden Bears 28–6 in the opening quarter of a <a href=\"https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-booneville/10-23-2026/?c=f7f4f6ea-4ffd-4848-8e68-6eb01dcbc654\">42–6 home victory</a>. Alcorn Central did not score again. The Blue Devils improved to 8–0, while the Golden Bears fell to 5–4.</p>\n<p data-facts=\"game-3 quarters-3 record-3\">Warren Central found separation from Neshoba Central in the second and fourth quarters of a 34–14 win. The teams each scored seven in the first and third, but the Vikings outscored the Rockets 10–0 in both the second and fourth. The <a href=\"https://www.maxpreps.com/ms/football/game/neshoba-central-philadelphia-vs-warren-central-vicksburg/10-23-2026/?c=27d45866-eba0-4ec8-aa72-a25c4da7231a\">conference victory in Vicksburg</a> left Warren Central 8–0 and Neshoba Central 5–3.</p>\n<p data-facts=\"game-4 quarters-4 record-4\">Brookhaven built its advantage with a 28–0 first quarter at South Jones. The Braves answered with 13 unanswered points in the second, but the Panthers outscored them 14–3 in the third and 7–0 in the fourth to finish a <a href=\"https://www.maxpreps.com/ms/football/game/brookhaven-vs-south-jones-ellisville/10-23-2026/?c=075afb20-4751-4428-9479-71f6f497811a\">49–16 win in Ellisville</a>. Brookhaven remained unbeaten at 8–0; South Jones was 6–3.</p>\n<h2 data-facts=\"game-5 game-6 quarters-5 quarters-6\">Tupelo shuts out Horn Lake; Gulfport keeps Biloxi to three</h2>\n<p data-facts=\"game-5 quarters-5 record-5\">Tupelo scored 14 points in the first quarter and 19 in the second on its way to a <a href=\"https://www.maxpreps.com/ms/football/game/horn-lake-vs-tupelo/10-23-2026/?c=a2f0e5d5-15fe-49ea-8928-9b14bcfc889b\">40–0 win at Horn Lake</a>. The Golden Wave scored again in the third and held the Eagles scoreless throughout. Tupelo improved to 9–0, while Horn Lake fell to 0–8.</p>\n<p data-facts=\"game-6 quarters-6 record-6\">Gulfport defeated Biloxi 35–3, with the Indians’ only points coming in the second quarter. The Admirals scored 14 points in both the first and fourth periods of the <a href=\"https://www.maxpreps.com/ms/football/game/biloxi-vs-gulfport/10-23-2026/?c=4140a712-ff5c-40ae-aef3-160830589b84\">road conference win</a>. Gulfport moved to 7–1, and Biloxi was 2–6 after the game.</p>",
+    "facts": [
+      {
+        "id": "record-0",
+        "kind": "record",
+        "claim": "Brandon and Oak Grove are both 6-2 after Brandon’s victory.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/brandon-vs-oak-grove-hattiesburg/10-23-2026/?c=770ef5fa-edfb-4de6-884a-52fa3650d7fc",
+          "excerpt": "Oak Grove 6-2 Warriors 28 Final 43 Brandon 6-2 Bulldogs Oak Grove Varsity Football @ Brandon",
+          "subjects": [
+            "Brandon",
+            "Oak Grove"
+          ]
+        }
+      },
+      {
+        "id": "record-1",
+        "kind": "record",
+        "claim": "Center Hill is 6-2 after the victory; Olive Branch is 3-6.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-olive-branch/10-23-2026/?c=4e2f715d-5fc1-4aa8-99a3-c11380971433",
+          "excerpt": "Center Hill 6-2 Mustangs 38 Final 29 Olive Branch 3-6 Conquistadors Center Hill Varsity Football @ Olive Branch",
+          "subjects": [
+            "Olive Branch",
+            "Center Hill"
+          ]
+        }
+      },
+      {
+        "id": "record-2",
+        "kind": "record",
+        "claim": "Booneville is unbeaten at 8-0; Alcorn Central is 5-4.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-booneville/10-23-2026/?c=f7f4f6ea-4ffd-4848-8e68-6eb01dcbc654",
+          "excerpt": "Alcorn Central 5-4 Golden Bears 6 Final 42 Booneville 8-0 Blue Devils Alcorn Central Varsity Football @ Booneville",
+          "subjects": [
+            "Booneville",
+            "Alcorn Central"
+          ]
+        }
+      },
+      {
+        "id": "record-3",
+        "kind": "record",
+        "claim": "Warren Central is unbeaten at 8-0; Neshoba Central is 5-3.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/neshoba-central-philadelphia-vs-warren-central-vicksburg/10-23-2026/?c=27d45866-eba0-4ec8-aa72-a25c4da7231a",
+          "excerpt": "Neshoba Central 5-3 Rockets 14 Final 34 Warren Central 8-0 Vikings Neshoba Central Varsity Football @ Warren Central Streaming & Ticketing Watch Recap",
+          "subjects": [
+            "Warren Central",
+            "Neshoba Central"
+          ]
+        }
+      },
+      {
+        "id": "record-4",
+        "kind": "record",
+        "claim": "Brookhaven is unbeaten at 8-0; South Jones is 6-3.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/brookhaven-vs-south-jones-ellisville/10-23-2026/?c=075afb20-4751-4428-9479-71f6f497811a",
+          "excerpt": "Brookhaven 8-0 Panthers 49 Final 16 South Jones 6-3 Braves Brookhaven Varsity Football @ South Jones",
+          "subjects": [
+            "South Jones",
+            "Brookhaven"
+          ]
+        }
+      },
+      {
+        "id": "record-5",
+        "kind": "record",
+        "claim": "Tupelo is unbeaten at 9-0; Horn Lake is 0-8.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/horn-lake-vs-tupelo/10-23-2026/?c=a2f0e5d5-15fe-49ea-8928-9b14bcfc889b",
+          "excerpt": "Tupelo 9-0 Golden Wave 40 Final 0 Horn Lake 0-8 Eagles Tupelo Varsity Football @ Horn Lake",
+          "subjects": [
+            "Horn Lake",
+            "Tupelo"
+          ]
+        }
+      },
+      {
+        "id": "record-6",
+        "kind": "record",
+        "claim": "Gulfport is 7-1; Biloxi is 2-6.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/biloxi-vs-gulfport/10-23-2026/?c=4140a712-ff5c-40ae-aef3-160830589b84",
+          "excerpt": "Gulfport 7-1 Admirals 35 Final 3 Biloxi 2-6 Indians Gulfport Varsity Football @ Biloxi Streaming & Ticketing Watch Recap",
+          "subjects": [
+            "Biloxi",
+            "Gulfport"
+          ]
+        }
+      },
+      {
+        "id": "quarters-0",
+        "kind": "result",
+        "claim": "Brandon and Oak Grove were both scoreless in the first quarter. Oak Grove outscored Brandon 14-7 in the second quarter. Brandon outscored Oak Grove 15-6 in the third and 21-8 in the fourth, rallying from a first-half deficit.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/brandon-vs-oak-grove-hattiesburg/10-23-2026/?c=770ef5fa-edfb-4de6-884a-52fa3650d7fc",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Oak Grove 0 14 6 8 28 Brandon 0 7 15 21 43",
+          "subjects": [
+            "Oak Grove",
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "quarters-1",
+        "kind": "result",
+        "claim": "Center Hill outscored Olive Branch 3-0 in the first quarter; Olive Branch outscored Center Hill 21-7 in the second. Center Hill won the third quarter 28-0, and Olive Branch won the fourth 8-0. Center Hill erased its first-half deficit with the third-quarter scoring.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-olive-branch/10-23-2026/?c=4e2f715d-5fc1-4aa8-99a3-c11380971433",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Center Hill 3 7 28 0 38 Olive Branch 0 21 0 8 29",
+          "subjects": [
+            "Center Hill",
+            "Olive Branch"
+          ]
+        }
+      },
+      {
+        "id": "quarters-2",
+        "kind": "result",
+        "claim": "Booneville outscored Alcorn Central 28-6 in the first quarter and 7-0 in both the second and third. Neither scored in the fourth. All six Alcorn Central points came in the first quarter.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-booneville/10-23-2026/?c=f7f4f6ea-4ffd-4848-8e68-6eb01dcbc654",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Alcorn Central 6 0 0 0 6 Booneville 28 7 7 0 42",
+          "subjects": [
+            "Alcorn Central",
+            "Booneville"
+          ]
+        }
+      },
+      {
+        "id": "quarters-3",
+        "kind": "result",
+        "claim": "Warren Central and Neshoba Central each scored 7 in the first and third quarters. Warren Central outscored Neshoba Central 10-0 in both the second and fourth.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/neshoba-central-philadelphia-vs-warren-central-vicksburg/10-23-2026/?c=27d45866-eba0-4ec8-aa72-a25c4da7231a",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Neshoba Central 7 0 7 0 14 Warren Central 7 10 7 10 34",
+          "subjects": [
+            "Neshoba Central",
+            "Warren Central"
+          ]
+        }
+      },
+      {
+        "id": "quarters-4",
+        "kind": "result",
+        "claim": "Brookhaven outscored South Jones 28-0 in the first quarter. South Jones won the second 13-0. Brookhaven outscored South Jones 14-3 in the third and 7-0 in the fourth.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/brookhaven-vs-south-jones-ellisville/10-23-2026/?c=075afb20-4751-4428-9479-71f6f497811a",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Brookhaven 28 0 14 7 49 South Jones 0 13 3 0 16",
+          "subjects": [
+            "Brookhaven",
+            "South Jones"
+          ]
+        }
+      },
+      {
+        "id": "quarters-5",
+        "kind": "result",
+        "claim": "Tupelo scored 14 in the first quarter, 19 in the second, 7 in the third and 0 in the fourth. Horn Lake was scoreless in all four quarters.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/horn-lake-vs-tupelo/10-23-2026/?c=a2f0e5d5-15fe-49ea-8928-9b14bcfc889b",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Tupelo 14 19 7 0 40 Horn Lake 0 0 0 0 0",
+          "subjects": [
+            "Tupelo",
+            "Horn Lake"
+          ]
+        }
+      },
+      {
+        "id": "quarters-6",
+        "kind": "result",
+        "claim": "Gulfport scored 14 in the first, 7 in the second, 0 in the third and 14 in the fourth. Biloxi scored all 3 points in the second quarter and was otherwise scoreless.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/biloxi-vs-gulfport/10-23-2026/?c=4140a712-ff5c-40ae-aef3-160830589b84",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Gulfport 14 7 0 14 35 Biloxi 0 3 0 0 3",
+          "subjects": [
+            "Gulfport",
+            "Biloxi"
+          ]
+        }
+      }
+    ]
+  }
+}
