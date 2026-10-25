@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-10-24",
+  "verified_at": "2026-10-25T13:05:51.060245+00:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "volleyball",
+    "cross country",
+    "swimming",
+    "golf",
+    "soccer",
+    "basketball",
+    "softball"
+  ],
+  "games": [
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-24",
+      "home": "Gulf Coast Elite Homeschool",
+      "away": "Magnolia",
+      "status": "final",
+      "home_score": 34,
+      "away_score": 36,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/gulf-coast-elite-homeschool-pascagoula-vs-magnolia-terry/10-24-2026/?c=2a4667fa-7a80-465c-a8de-15ea24b1d90c",
+        "excerpt": "Final score provided by J. Honeycutt Mississippi High School Football - Magnolia nudges Gulf Coast Elite Homeschool The crowd at Saturday's league contest between the Magnolia Wildcats (Terry, MS) and the host Gulf Coast Elite Homeschool Elite (Pascagoula, MS), witnessed Magnolia's football squad edge Gulf Coast Elite Homeschool by a tally of 36-34. Coming up next, the Elite confront the Meridian HomeSchool FLYERS (Meridian, MS) in a non-league contest, on Friday, October 30. Gulf Coast Elite Homeschool will attempt to better on its 1-7 season record. The FLYERS enter the contest with a 3-6 record after their 32-22 league loss to Faith Christian HomeSchool Academy (Madison, MS). October 24, 2026",
+        "date_excerpt": "October 24, 2026",
+        "home_name": "Gulf Coast Elite Homeschool",
+        "away_name": "Magnolia"
+      }
+    }
+  ],
+  "related_links": [],
+  "article": {
+    "reviewed": true,
+    "headline": "Scores from last Night: Magnolia ends road drought with 36–34 win",
+    "headline_fact_ids": [
+      "game-0",
+      "road-streak"
+    ],
+    "html": "<p data-facts=\"game-0 road-streak school-identity\">Magnolia finally left the road with a win. The Wildcats from Terry edged Gulf Coast Elite Homeschool 36–34 in Pascagoula on Saturday, October 24, 2026, ending an 11-game road losing streak, according to MaxPreps. The boys varsity football result gives this edition of Scores from last Night its focus: a close conference victory with a meaningful change in Magnolia’s recent road record.</p>\n<h2 data-facts=\"game-0 road-streak school-identity\">Boys football: Magnolia breaks through away from home</h2>\n<p data-facts=\"game-0 road-streak postgame-records\">The <a href=\"https://www.maxpreps.com/news/IzREDmR1PUGK28dtf6sMBw/football-recap-magnolias-win-ends-11-game-losing-streak-on-the-road.htm\">MaxPreps recap</a> places Magnolia at 2–7 after the victory and traces its road drought to the previous season. Gulf Coast Elite Homeschool’s updated record is 1–7, with six consecutive defeats. Saturday’s narrow result ended one losing run while extending the other.</p>\n<p data-facts=\"game-0 school-identity\">The <a href=\"https://www.maxpreps.com/ms/football/game/gulf-coast-elite-homeschool-pascagoula-vs-magnolia-terry/10-24-2026/?c=2a4667fa-7a80-465c-a8de-15ea24b1d90c\">dated matchup report</a> identifies Magnolia as the visiting winner and Gulf Coast Elite Homeschool as the host. Both programs are Mississippi teams, with the Wildcats based in Terry and the Elite in Pascagoula.</p>\n<h2 data-facts=\"game-0 unreported-quarters\">A verified final with limited scoring detail</h2>\n<p data-facts=\"game-0 unreported-quarters\">The posted boxscore supplies the 36–34 final but leaves every quarter’s scoring field blank. It supports the result without establishing when Magnolia took the lead or how either team’s scoring developed. No decisive play or individual performance can be identified from those fields.</p>",
+    "facts": [
+      {
+        "id": "postgame-records",
+        "kind": "record",
+        "claim": "Magnolia finished the game 2-7 overall; Gulf Coast Elite Homeschool was 1-7 after its sixth consecutive loss.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/news/IzREDmR1PUGK28dtf6sMBw/football-recap-magnolias-win-ends-11-game-losing-streak-on-the-road.htm",
+          "excerpt": "Magnolia's win ended an 11-game drought on the road dating back to last season and puts them at 2-7. Gulf Coast Elite Homeschool (1-7) has now lost six in a row.",
+          "subjects": [
+            "Magnolia",
+            "Gulf Coast Elite Homeschool"
+          ]
+        }
+      },
+      {
+        "id": "road-streak",
+        "kind": "context",
+        "claim": "Magnolia ended an 11-game road losing streak dating to the previous season with its win over Gulf Coast Elite Homeschool.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/news/IzREDmR1PUGK28dtf6sMBw/football-recap-magnolias-win-ends-11-game-losing-streak-on-the-road.htm",
+          "excerpt": "Magnolia's win ended an 11-game drought on the road dating back to last season and puts them at 2-7. Gulf Coast Elite Homeschool (1-7) has now lost six in a row.",
+          "subjects": [
+            "Magnolia",
+            "Gulf Coast Elite Homeschool"
+          ]
+        }
+      },
+      {
+        "id": "school-identity",
+        "kind": "context",
+        "claim": "Magnolia Wildcats are from Terry, Mississippi; Gulf Coast Elite Homeschool Elite are from Pascagoula, Mississippi. Gulf Coast Elite Homeschool hosted the conference football game.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/gulf-coast-elite-homeschool-pascagoula-vs-magnolia-terry/10-24-2026/?c=2a4667fa-7a80-465c-a8de-15ea24b1d90c",
+          "excerpt": "The crowd at Saturday's league contest between the Magnolia Wildcats (Terry, MS) and the host Gulf Coast Elite Homeschool Elite (Pascagoula, MS), witnessed Magnolia's football squad edge Gulf Coast Elite Homeschool by a tally of 36-34.",
+          "subjects": [
+            "Magnolia Wildcats",
+            "Gulf Coast Elite Homeschool Elite"
+          ]
+        }
+      },
+      {
+        "id": "unreported-quarters",
+        "kind": "context",
+        "claim": "The game boxscore reports final totals of Magnolia 36 and Gulf Coast Elite Homeschool 34; all quarter scoring fields are unreported.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/gulf-coast-elite-homeschool-pascagoula-vs-magnolia-terry/10-24-2026/?c=2a4667fa-7a80-465c-a8de-15ea24b1d90c",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Magnolia -- -- -- -- 36 Gulf Coast Elite Homeschool -- -- -- -- 34",
+          "subjects": [
+            "Magnolia",
+            "Gulf Coast Elite Homeschool"
+          ]
+        }
+      }
+    ]
+  }
+}
