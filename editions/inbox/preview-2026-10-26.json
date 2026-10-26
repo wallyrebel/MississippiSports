@@ -1,0 +1,493 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-10-26",
+  "verified_at": "2026-10-26T15:07:04-05:00",
+  "publish": true,
+  "checked_sports": [
+    "soccer",
+    "basketball",
+    "football",
+    "volleyball",
+    "softball",
+    "cross country",
+    "swimming",
+    "golf"
+  ],
+  "games": [
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-26",
+      "home": "St. Patrick High School",
+      "away": "Bay High School",
+      "status": "scheduled",
+      "start_time": "2026-10-26T19:30:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/bay-bay-st-louis-vs-st-patrick-biloxi/10-26-2026/?c=e31fb9d7-0408-43bc-ab16-858df36a2e3a",
+        "excerpt": "Bay vs St. Patrick | Soccer | 10/26/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Bay Boys Varsity Soccer @ St. Patrick Bay Tigers 0-1-1 Monday, Oct 26, 2026 7:30pm CDT St. Patrick Fighting Irish 1-0-1 Bay Boys Varsity Soccer @ St. Patrick Streaming & Ticketing Purchase Tickets",
+        "date_excerpt": "10/26/2026",
+        "home_name": "St. Patrick",
+        "away_name": "Bay",
+        "time_excerpt": "7:30pm CDT"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-26",
+      "home": "Northwest Rankin High School",
+      "away": "St. Stanislaus",
+      "status": "scheduled",
+      "start_time": "2026-10-26T18:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/northwest-rankin-brandon-vs-st-stanislaus-bay-st-louis/10-26-2026/?c=f238058c-270b-49f3-8482-9ead02c226f1",
+        "excerpt": "St. Stanislaus vs Northwest Rankin | Soccer | 10/26/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer St. Stanislaus Boys Varsity Soccer @ Northwest Rankin St. Stanislaus Rock-a-Chaws 2-0 Monday, Oct 26, 2026 6:00pm CDT Northwest Rankin Cougars 0-0 St. Stanislaus Boys Varsity Soccer @ Northwest Rankin Streaming & Ticketing Sign Up To Watch Purchase Tickets",
+        "date_excerpt": "10/26/2026",
+        "home_name": "Northwest Rankin",
+        "away_name": "St. Stanislaus",
+        "time_excerpt": "6:00pm CDT"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-26",
+      "home": "Hernando High School",
+      "away": "Lake Cormorant High School",
+      "status": "scheduled",
+      "start_time": "2026-10-26T17:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/hernando-vs-lake-cormorant/10-26-2026/?c=a1606b9f-8e2d-48be-923f-8bcb04b7e08a",
+        "excerpt": "Lake Cormorant vs Hernando | Soccer | 10/26/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Lake Cormorant Girls Varsity Soccer @ Hernando Lake Cormorant 0-0 Monday, Oct 26, 2026 5:00pm CDT Hernando Tigers 0-0 Lake Cormorant Girls Varsity Soccer @ Hernando Streaming & Ticketing Purchase Tickets",
+        "date_excerpt": "10/26/2026",
+        "home_name": "Hernando",
+        "away_name": "Lake Cormorant",
+        "time_excerpt": "5:00pm CDT"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-26",
+      "home": "Hernando High School",
+      "away": "Lake Cormorant High School",
+      "status": "scheduled",
+      "start_time": "2026-10-26T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/hernando-vs-lake-cormorant/10-26-2026/?c=aed00bef-2c8b-42f2-ab7d-5230cb0956ba",
+        "excerpt": "Lake Cormorant vs Hernando | Soccer | 10/26/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Lake Cormorant Boys Varsity Soccer @ Hernando Lake Cormorant 0-0 Monday, Oct 26, 2026 7:00pm CDT Hernando Tigers 0-0 Lake Cormorant Boys Varsity Soccer @ Hernando Streaming & Ticketing Purchase Tickets",
+        "date_excerpt": "10/26/2026",
+        "home_name": "Hernando",
+        "away_name": "Lake Cormorant",
+        "time_excerpt": "7:00pm CDT"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-26",
+      "home": "DeSoto Central High School",
+      "away": "Oxford High School",
+      "status": "scheduled",
+      "start_time": "2026-10-26T17:30:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/desoto-central-southaven-vs-oxford/10-26-2026/?c=7380f3f6-9c8c-4ba6-a33f-2817ecdccaae",
+        "excerpt": "Oxford vs DeSoto Central | Soccer | 10/26/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Oxford Girls Varsity Soccer @ DeSoto Central Oxford Chargers 0-0 Monday, Oct 26, 2026 5:30pm CDT DeSoto Central Jaguars 0-0 Oxford Girls Varsity Soccer @ DeSoto Central Streaming & Ticketing Purchase Tickets",
+        "date_excerpt": "10/26/2026",
+        "home_name": "DeSoto Central",
+        "away_name": "Oxford",
+        "time_excerpt": "5:30pm CDT"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-26",
+      "home": "DeSoto Central High School",
+      "away": "Oxford High School",
+      "status": "scheduled",
+      "start_time": "2026-10-26T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/desoto-central-southaven-vs-oxford/10-26-2026/?c=277474a9-fbbb-40a8-a7c4-c4f161ec22b4",
+        "excerpt": "Oxford vs DeSoto Central | Soccer | 10/26/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Oxford Boys Varsity Soccer @ DeSoto Central Oxford Chargers 0-0 Monday, Oct 26, 2026 7:00pm CDT DeSoto Central Jaguars 0-0 Oxford Boys Varsity Soccer @ DeSoto Central Streaming & Ticketing Purchase Tickets",
+        "date_excerpt": "10/26/2026",
+        "home_name": "DeSoto Central",
+        "away_name": "Oxford",
+        "time_excerpt": "7:00pm CDT"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-26",
+      "home": "Our Lady Academy",
+      "away": "Ocean Springs High School",
+      "status": "scheduled",
+      "start_time": "2026-10-26T17:30:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/ocean-springs-vs-our-lady-academy-bay-st-louis/10-26-2026/?c=cdd6e60a-2649-4b7e-87c1-a7cf49d04f34",
+        "excerpt": "Ocean Springs vs Our Lady Academy | Soccer | 10/26/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Ocean Springs Girls Varsity Soccer @ Our Lady Academy Ocean Springs Greyhounds 1-1 Monday, Oct 26, 2026 5:30pm CDT Our Lady Academy Crescents 1-1 Ocean Springs Girls Varsity Soccer @ Our Lady Academy Streaming & Ticketing Purchase Tickets",
+        "date_excerpt": "10/26/2026",
+        "home_name": "Our Lady Academy",
+        "away_name": "Ocean Springs",
+        "time_excerpt": "5:30pm CDT"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-10-16/",
+      "title": "Scores from last Night: Petal edges Brandon; Wesson stays perfect; OLA wins 3A title"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: Bay–St. Patrick rematch joins DeSoto soccer openers",
+    "headline_fact_ids": [
+      "game-0",
+      "saturday-draw",
+      "game-2",
+      "game-3",
+      "game-4",
+      "game-5"
+    ],
+    "html": "<p data-facts=\"game-0 saturday-draw game-2 game-3 game-4 game-5 opening-date stanislaus-form ola-form os-form\">A quick Coast rematch and a pair of DeSoto County doubleheaders lead Monday’s Games To Watch. Bay visits St. Patrick after their Saturday draw, while Hernando and DeSoto Central welcome opponents for girls and boys soccer. October 26 is the MHSAA calendar’s first-game date for soccer, although several teams’ MaxPreps records already include Saturday’s posted results.</p>\n<h2 data-facts=\"game-0 saturday-draw\">Bay and St. Patrick get an immediate rematch</h2>\n<p data-facts=\"game-0 saturday-draw record-0\">The most direct comparison on the slate is in Biloxi, where <a href=\"https://www.maxpreps.com/ms/soccer/match/bay-bay-st-louis-vs-st-patrick-biloxi/10-26-2026/?c=e31fb9d7-0408-43bc-ab16-858df36a2e3a\">St. Patrick hosts Bay at 7:30 p.m. CDT</a>. The teams finished 1–1 at St. Patrick on October 24. That gives this meeting a recent, concrete point of reference: neither side separated itself that afternoon. MaxPreps now lists the Fighting Irish at 1–0–1 and Bay at 0–1–1 entering Monday.</p>\n<h2 data-facts=\"game-1 record-1\">St. Stanislaus brings a winning start to Northwest Rankin</h2>\n<p data-facts=\"game-1 record-1 stanislaus-form\">St. Stanislaus travels to Northwest Rankin for a 6 p.m. CDT boys match in Brandon. The Rock-a-Chaws’ posted 2–0 record comes from Saturday victories at George County, 1–0, and Bay, 2–0. Neither opponent scored. Northwest Rankin’s current schedule and matchup list the Cougars at 0–0, making this a meeting between a side with two results already recorded and a host seeking its first posted result.</p>\n<h2 data-facts=\"game-2 game-3 game-4 game-5\">Two DeSoto doubleheaders start from a clean slate</h2>\n<p data-facts=\"game-2 game-3 record-2 record-3 nonconference-2 nonconference-3\">Hernando hosts Lake Cormorant, with the girls scheduled for 5 p.m. CDT and the boys for 7. Both schools’ girls and boys teams enter with 0–0 records on MaxPreps. These nonconference matches will supply their first posted results, an early reference point for the weeks ahead.</p>\n<p data-facts=\"game-4 game-5 record-4 record-5 nonconference-4 nonconference-5\">Oxford visits DeSoto Central in Southaven, girls at 5:30 p.m. CDT and boys at 7. All four teams are likewise listed at 0–0, and both fixtures are marked nonconference. As at Hernando, each side has an opportunity to put a first victory beside that clean slate.</p>\n<h2 data-facts=\"game-6 record-6\">Ocean Springs and Our Lady Academy look beyond split Saturdays</h2>\n<p data-facts=\"game-6 record-6 ola-form os-form\">Our Lady Academy hosts Ocean Springs in Bay St. Louis at 5:30 p.m. CDT. Both girls teams carry posted 1–1 records, but arrived there through different opponents. Our Lady Academy beat D’Iberville 3–1 before losing 2–0 to Bay. Ocean Springs beat St. Patrick 1–0 and then lost 1–0 to Brandon. Each now has a chance to follow a split Saturday with a winning result against the other.</p>\n<p data-facts=\"ola-volleyball\">For separate coverage of Our Lady Academy’s volleyball program, read <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-10-16/\">our report on its Class 3A state title</a>.</p>\n<p data-facts=\"ripley-conflict\">Reporting note: Ripley–Caledonia soccer is omitted because the school calendar and MaxPreps disagree about the host. That conflict must be resolved before directing readers to a venue. This edition selects verified upcoming soccer matches from the wider varsity sports review.</p>",
+    "facts": [
+      {
+        "id": "record-0",
+        "kind": "record",
+        "claim": "Bay is listed at 0-1-1 and St. Patrick at 1-0-1 entering the boys match.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/bay-bay-st-louis-vs-st-patrick-biloxi/10-26-2026/?c=e31fb9d7-0408-43bc-ab16-858df36a2e3a",
+          "excerpt": "Bay Tigers 0-1-1 Monday, Oct 26, 2026 7:30pm CDT St. Patrick Fighting Irish 1-0-1 Bay Boys Varsity Soccer @ St. Patrick Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "Bay",
+            "St. Patrick"
+          ]
+        }
+      },
+      {
+        "id": "record-1",
+        "kind": "record",
+        "claim": "St. Stanislaus is listed at 2-0 and Northwest Rankin at 0-0 entering the boys match.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/northwest-rankin-brandon-vs-st-stanislaus-bay-st-louis/10-26-2026/?c=f238058c-270b-49f3-8482-9ead02c226f1",
+          "excerpt": "St. Stanislaus Rock-a-Chaws 2-0 Monday, Oct 26, 2026 6:00pm CDT Northwest Rankin Cougars 0-0 St. Stanislaus Boys Varsity Soccer @ Northwest Rankin Streaming & Ticketing Sign Up To Watch Purchase Tickets",
+          "subjects": [
+            "St. Stanislaus",
+            "Northwest Rankin"
+          ]
+        }
+      },
+      {
+        "id": "record-2",
+        "kind": "record",
+        "claim": "Lake Cormorant and Hernando girls are each listed at 0-0 entering the match.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/hernando-vs-lake-cormorant/10-26-2026/?c=a1606b9f-8e2d-48be-923f-8bcb04b7e08a",
+          "excerpt": "Lake Cormorant Girls Varsity Soccer @ Hernando Lake Cormorant 0-0 Monday, Oct 26, 2026 5:00pm CDT Hernando Tigers 0-0 Lake Cormorant Girls Varsity Soccer @ Hernando Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "Lake Cormorant",
+            "Hernando"
+          ]
+        }
+      },
+      {
+        "id": "record-3",
+        "kind": "record",
+        "claim": "Lake Cormorant and Hernando boys are each listed at 0-0 entering the match.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/hernando-vs-lake-cormorant/10-26-2026/?c=aed00bef-2c8b-42f2-ab7d-5230cb0956ba",
+          "excerpt": "Lake Cormorant Boys Varsity Soccer @ Hernando Lake Cormorant 0-0 Monday, Oct 26, 2026 7:00pm CDT Hernando Tigers 0-0 Lake Cormorant Boys Varsity Soccer @ Hernando Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "Lake Cormorant",
+            "Hernando"
+          ]
+        }
+      },
+      {
+        "id": "record-4",
+        "kind": "record",
+        "claim": "Oxford and DeSoto Central girls are each listed at 0-0 entering the match.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/desoto-central-southaven-vs-oxford/10-26-2026/?c=7380f3f6-9c8c-4ba6-a33f-2817ecdccaae",
+          "excerpt": "Oxford Chargers 0-0 Monday, Oct 26, 2026 5:30pm CDT DeSoto Central Jaguars 0-0 Oxford Girls Varsity Soccer @ DeSoto Central Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "Oxford",
+            "DeSoto Central"
+          ]
+        }
+      },
+      {
+        "id": "record-5",
+        "kind": "record",
+        "claim": "Oxford and DeSoto Central boys are each listed at 0-0 entering the match.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/desoto-central-southaven-vs-oxford/10-26-2026/?c=277474a9-fbbb-40a8-a7c4-c4f161ec22b4",
+          "excerpt": "Oxford Chargers 0-0 Monday, Oct 26, 2026 7:00pm CDT DeSoto Central Jaguars 0-0 Oxford Boys Varsity Soccer @ DeSoto Central Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "Oxford",
+            "DeSoto Central"
+          ]
+        }
+      },
+      {
+        "id": "record-6",
+        "kind": "record",
+        "claim": "Ocean Springs and Our Lady Academy girls are each listed at 1-1 entering the match.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/ocean-springs-vs-our-lady-academy-bay-st-louis/10-26-2026/?c=cdd6e60a-2649-4b7e-87c1-a7cf49d04f34",
+          "excerpt": "Ocean Springs Greyhounds 1-1 Monday, Oct 26, 2026 5:30pm CDT Our Lady Academy Crescents 1-1 Ocean Springs Girls Varsity Soccer @ Our Lady Academy Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "Ocean Springs",
+            "Our Lady Academy"
+          ]
+        }
+      },
+      {
+        "id": "saturday-draw",
+        "kind": "history",
+        "claim": "Bay and St. Patrick tied 1-1 on October 24, 2026, at St. Patrick in Biloxi.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/bay-bay-st-louis-vs-st-patrick-biloxi/10-24-2026/?c=4390b900-1988-4ae3-b4b6-4a05c4f07456",
+          "excerpt": "Bay vs St. Patrick | Soccer | 10/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Bay Boys Varsity Soccer @ St. Patrick Bay 0-1-1 Tigers 1 Final 1 St. Patrick 1-0-1 Fighting Irish Bay Boys Varsity Soccer @ St. Patrick Game Info On 10/24, the Bay varsity soccer team tied their away non-conference match against St. Patrick (Biloxi, MS) by a score of 1-1.",
+          "subjects": [
+            "Bay",
+            "St. Patrick"
+          ],
+          "date_excerpt": "10/24/2026"
+        },
+        "fact_date": "2026-10-24"
+      },
+      {
+        "id": "stanislaus-form",
+        "kind": "context",
+        "claim": "St. Stanislaus has posted Saturday wins of 1-0 at George County and 2-0 at Bay; its recorded goals allowed are 0.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/bay-st-louis/st-stanislaus-rock-a-chaws/soccer/winter/schedule/",
+          "excerpt": "St. Stanislaus Soccer Schedule 2026-27 Next Match Away • Non-District St. Stanislaus 2-0 Northwest Rankin 0-0 St. Stanislaus 2-0 Mon, 10/26 @ 6:00pm Preview Match Northwest Rankin 0-0 Watch Buy Tickets Overall 2-0 1.000 Win Pct District 0-0 1st 1A Region 8 Home 0-0 Away 2-0 Neutral 0-0 GF 3 GA 0 Streak 2W * District ** Playoffs *** Tournament Date/Time Opponent Result Watch Match Info 10/24 10:00am @ George County W 1-0 Box Score 10/24 4:00pm @ Bay W 2-0 Box Score",
+          "subjects": [
+            "St. Stanislaus",
+            "George County",
+            "Bay"
+          ]
+        }
+      },
+      {
+        "id": "ola-form",
+        "kind": "context",
+        "claim": "Our Lady Academy posted a 3-1 win over D’Iberville and a 2-0 loss to Bay on Saturday.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/bay-st-louis/our-lady-academy-crescents/soccer/girls/winter/schedule/",
+          "excerpt": "Our Lady Academy Girls Soccer Schedule 2026-27 Next Match Home • Non-District Our Lady Academy 1-1 Ocean Springs 1-1 Our Lady Academy 1-1 Mon, 10/26 @ 5:30pm Preview Match Ocean Springs 1-1 Buy Tickets Preview Match Overall 1-1 0.500 Win Pct District 0-0 1st Class 1 Region 8 Home 1-1 Away 0-0 Neutral 0-0 GF 3 GA 3 Streak 1L * District ** Playoffs *** Tournament Date/Time Opponent Result Watch Match Info 10/24 9:00am vs D'Iberville W 3-1 Box Score 10/24 11:00am vs Bay L 2-0 Box Score",
+          "subjects": [
+            "Our Lady Academy",
+            "Bay"
+          ]
+        }
+      },
+      {
+        "id": "os-form",
+        "kind": "context",
+        "claim": "Ocean Springs posted a 1-0 win over St. Patrick and a 1-0 loss to Brandon on Saturday.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/ocean-springs/ocean-springs-greyhounds/soccer/girls/winter/schedule/",
+          "excerpt": "Ocean Springs Girls Soccer Schedule 2026-27 Next Match Away • Non-District Ocean Springs 1-1 Our Lady Academy 1-1 Ocean Springs 1-1 Mon, 10/26 @ 5:30pm Preview Match Our Lady Academy 1-1 Buy Tickets Preview Match Overall 1-1 0.500 Win Pct District 0-0 3rd 7A Region 4 Home 1-1 Away 0-0 Neutral 0-0 GF 1 GA 1 Streak 1L * District ** Playoffs *** Tournament Date/Time Opponent Result Watch Match Info 10/24 2:00pm vs St. Patrick W 1-0 Box Score 10/24 3:00pm vs Brandon L 1-0 Box Score",
+          "subjects": [
+            "Ocean Springs",
+            "St. Patrick",
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "opening-date",
+        "kind": "schedule",
+        "claim": "The MHSAA calendar lists October 26, 2026, as the first-game date for both soccer classification groups.",
+        "game_indexes": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.misshsaa.com/calendar/",
+          "excerpt": "Soccer 5A-6A-7A First Game October 26, 2026 Soccer 1A-2A-3A-4A First Game October 26, 2026",
+          "subjects": [
+            "Soccer"
+          ]
+        }
+      },
+      {
+        "id": "nonconference-2",
+        "kind": "context",
+        "claim": "The girls fixture between Lake Cormorant and Hernando is nonconference.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/hernando-vs-lake-cormorant/10-26-2026/?c=a1606b9f-8e2d-48be-923f-8bcb04b7e08a",
+          "excerpt": "Game Info The Lake Cormorant varsity soccer team has an away non-conference match @  Hernando (MS) today @ 5p.",
+          "subjects": [
+            "Lake Cormorant",
+            "Hernando"
+          ]
+        }
+      },
+      {
+        "id": "nonconference-3",
+        "kind": "context",
+        "claim": "The boys fixture between Lake Cormorant and Hernando is nonconference.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/hernando-vs-lake-cormorant/10-26-2026/?c=aed00bef-2c8b-42f2-ab7d-5230cb0956ba",
+          "excerpt": "Game Info The Lake Cormorant varsity soccer team has an away non-conference match @  Hernando (MS) today @ 7p.",
+          "subjects": [
+            "Lake Cormorant",
+            "Hernando"
+          ]
+        }
+      },
+      {
+        "id": "nonconference-4",
+        "kind": "context",
+        "claim": "The girls fixture between Oxford and DeSoto Central is nonconference.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/desoto-central-southaven-vs-oxford/10-26-2026/?c=7380f3f6-9c8c-4ba6-a33f-2817ecdccaae",
+          "excerpt": "Game Info The Oxford varsity soccer team has an away non-conference match @  DeSoto Central (Southaven, MS) today @ 5:30p.",
+          "subjects": [
+            "Oxford",
+            "DeSoto Central"
+          ]
+        }
+      },
+      {
+        "id": "nonconference-5",
+        "kind": "context",
+        "claim": "The boys fixture between Oxford and DeSoto Central is nonconference.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/desoto-central-southaven-vs-oxford/10-26-2026/?c=277474a9-fbbb-40a8-a7c4-c4f161ec22b4",
+          "excerpt": "Game Info The Oxford varsity soccer team has an away non-conference match @  DeSoto Central (Southaven, MS) today @ 7p.",
+          "subjects": [
+            "Oxford",
+            "DeSoto Central"
+          ]
+        }
+      },
+      {
+        "id": "ripley-conflict",
+        "kind": "context",
+        "claim": "Ripley–Caledonia soccer is omitted because South Tippah and MaxPreps disagree about the host.",
+        "game_indexes": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://tippahsports.com/blue-mountain/ripley-soccer-opens-busy-week-as-tippah-runners-look-toward-state/",
+          "excerpt": "calendar lists both matches at Ripley, while MaxPreps lists Caledonia as the host.",
+          "subjects": [
+            "Ripley",
+            "Caledonia"
+          ]
+        }
+      },
+      {
+        "id": "ola-volleyball",
+        "kind": "context",
+        "claim": "Sports Mississippi has separate coverage of Our Lady Academy’s Class 3A volleyball title.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-10-16/",
+          "excerpt": "Girls volleyball: Our Lady Academy takes the Class 3A final",
+          "subjects": [
+            "Our Lady Academy"
+          ]
+        }
+      }
+    ]
+  }
+}
