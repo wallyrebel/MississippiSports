@@ -25,11 +25,13 @@ def old_body(post):
     return str(s)
 r=OpenAIRewriter(os.environ['OPENAI_API_KEY'],model='gpt-6-luna',verify_facts=True)
 r.client=OpenAI(api_key=os.environ['OPENAI_API_KEY'],timeout=90,max_retries=0)
-usage=[];create=r.client.chat.completions.create
+usage=[];responses=[];create=r.client.chat.completions.create
 def tracked(**params):
     params['store']=False
     response=create(**params)
     usage.append(response.usage.model_dump())
+    responses.append({'output':response.choices[0].message.content,'finish_reason':response.choices[0].finish_reason})
+    ROOT.joinpath('responses.json').write_text(json.dumps(responses,indent=2))
     return response
 r.client.chat.completions.create=tracked
 negative_cases=[
@@ -60,6 +62,7 @@ for pid,feedurl in zip(IDS,FEEDS):
          'candidate':candidate,'candidate_body_words':len(words(candidate['body'])) if candidate else 0,
          'candidate_paragraphs':len(BeautifulSoup(candidate['body'],'html.parser').find_all('p')) if candidate else 0,
          'usage':usage[start:],'media_id':media['id'],'media_url':media['source_url'],
+         'raw_candidate_and_verdict':responses[start:],
          'media_sha256':hashlib.sha256(image).hexdigest(),'writes':0}
     if candidate:
         row['proposed_existing_post_patch']={'content':candidate['body']+f'<p><em>Source: <a href="{source}" target="_blank" rel="noopener">Original Article</a></em></p>'}
