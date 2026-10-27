@@ -16,6 +16,20 @@ from rss_to_wp.utils import get_logger
 
 logger = get_logger("feeds.parser")
 
+# The existing athletics feeds covered by the user's confirmed media permission.
+# This is deliberately not an authorization to expand arbitrary/news sources.
+AUTHORIZED_ATHLETICS_HOSTS = frozenset({
+    "careyathletics.com", "bmcusports.com", "nwccrangers.com", "gostatesmen.com",
+    "mvsusports.com", "alcornsports.com", "gojsutigers.com", "southernmiss.com",
+    "hailstate.com", "olemisssports.com", "gochoctaws.com", "blazers.belhaven.edu",
+    "gomajors.com", "owlsathletics.com", "jcbobcats.com", "sports.hindscc.edu",
+    "southwestbearathletics.com", "coahomasports.com",
+})
+
+
+def authorized_athletics_url(url: str) -> bool:
+    return (urlparse(url or "").hostname or "").lower().removeprefix("www.") in AUTHORIZED_ATHLETICS_HOSTS
+
 
 def parse_feed(url: str) -> Optional[dict[str, Any]]:
     """Parse an RSS/Atom feed from URL.
@@ -100,15 +114,14 @@ def scrape_article_content(url: str) -> Optional[str]:
         response.raise_for_status()
 
         hostname = (urlparse(response.url).hostname or "").lower()
+        if authorized_athletics_url(url) and not authorized_athletics_url(response.url):
+            logger.warning("scrape_redirect_outside_authorized_athletics", url=url)
+            return None
         if hostname == "youtu.be" or hostname == "youtube.com" or hostname.endswith(".youtube.com"):
             logger.info("scrape_non_article_platform", url=url, platform="youtube")
             return None
         
         soup = BeautifulSoup(response.content, "html.parser")
-        
-        # Remove unwanted elements
-        for element in soup(["script", "style", "nav", "header", "footer", "aside", "iframe", "noscript", "h1", "h2", "button", "form"]):
-            element.decompose()
         
         # Try to find the main article content using common selectors
         article_content = None
@@ -117,6 +130,7 @@ def scrape_article_content(url: str) -> Optional[str]:
         content_selectors = [
             ".sidearm-story-template-text",
             ".sidearm-story-body",
+            "#storyPageContentBody",
             "article .article-body",
             ".article-content",
             ".story-body",
@@ -132,8 +146,21 @@ def scrape_article_content(url: str) -> Optional[str]:
         for selector in content_selectors:
             element = soup.select_one(selector)
             if element:
+                # Identify the story FIRST: ASP.NET pages wrap the story in a
+                # structural <form>. Deleting that ancestor loses the article.
+                for unwanted in element.select(
+                    "script,style,nav,header,footer,aside,iframe,noscript,h1,button,"
+                    "input,select,textarea,[role='navigation'],[role='search'],"
+                    ".advertisement,.ad-container,.print-friendly-story-button,"
+                    ".sidearm-story-template-next-game,.sidearm-story-template-links"
+                ):
+                    unwanted.decompose()
+                for form in element.find_all("form"):
+                    form.unwrap()
                 # Get text content
                 text = element.get_text(separator=" ", strip=True)
+                text = re.split(r"For the latest news on|Find us here:", text,
+                                maxsplit=1, flags=re.I)[0].strip()
                 if not content_problem(text):
                     article_content = text
                     logger.info("scraped_content", length=len(text), selector=selector)
@@ -195,7 +222,7 @@ def get_entry_content(entry: dict[str, Any], scrape_if_short: bool = True) -> st
     # Strip HTML to get actual text length
     clean_content = plain_text(rss_content)
     
-    if scrape_if_short and len(clean_content) < 500:
+    if scrape_if_short and (len(clean_content) < 500 or authorized_athletics_url(entry.get("link", ""))):
         # Try to get the source URL and scrape
         source_url = entry.get("link", "")
         if not source_url and "links" in entry and entry["links"]:

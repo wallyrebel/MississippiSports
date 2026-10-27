@@ -28,6 +28,7 @@ from rss_to_wp.feeds import (
 from rss_to_wp.images import download_image, find_fallback_image, find_rss_image, scrape_image_from_url
 from rss_to_wp.content_quality import article_problem, source_hold_problem, source_problem
 from rss_to_wp.rewriter import OpenAIRewriter
+from rss_to_wp.rewriter.depth import DepthPolicy, article_depth_problem
 from rss_to_wp.storage import DedupeStore
 from rss_to_wp.utils import get_logger, setup_logging, send_email_notification, build_summary_email
 from rss_to_wp.wordpress import WordPressClient
@@ -142,6 +143,10 @@ def run(
     rewriter = OpenAIRewriter(
         api_key=settings.openai_api_key,
         model=settings.openai_model,
+        max_tokens=settings.article_max_output_tokens,
+        max_input_chars=settings.article_max_input_chars,
+        depth_policy=DepthPolicy(settings.article_substantive_words,
+                                 settings.article_minimum_fraction, settings.article_minimum_cap),
     )
 
     wp_client = None
@@ -392,6 +397,9 @@ def process_entry(
 
     # Validate before any media, taxonomy, or post writes, including test/custom rewriters.
     problem = article_problem(rewritten, content, title)
+    problem = problem or article_depth_problem(rewritten, content, title,
+                                               rewriter.depth_policy if isinstance(rewriter, OpenAIRewriter)
+                                               else DepthPolicy())
     if problem:
         logger.warning("entry_rewrite_rejected", title=title[:50], reason=problem)
         return None

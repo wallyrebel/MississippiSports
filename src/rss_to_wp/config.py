@@ -58,6 +58,11 @@ class AppSettings(BaseSettings):
     # OpenAI
     openai_api_key: str = Field(..., description="OpenAI API key")
     openai_model: str = Field(default="gpt-6-luna", description="OpenAI model to use")
+    article_max_output_tokens: int = Field(default=3000, ge=1000, le=5000)
+    article_max_input_chars: int = Field(default=24000, ge=2000, le=60000)
+    article_substantive_words: int = Field(default=120, ge=100, le=400)
+    article_minimum_fraction: float = Field(default=0.45, ge=0.2, le=0.7)
+    article_minimum_cap: int = Field(default=220, ge=80, le=400)
 
     # WordPress
     wordpress_base_url: str = Field(..., description="WordPress site URL")

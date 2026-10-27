@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 from rss_to_wp.rewriter.model_options import create_model_completion, resolve_retired_model
+from rss_to_wp.rewriter.depth import DEFAULT_DEPTH_POLICY, article_depth_problem
 
 import json
 import re
@@ -28,7 +29,7 @@ RULES:
 6. Avoid editorializing or adding opinions
 7. Do NOT fabricate facts, quotes, or details not present in the source
 8. If information is missing, do not invent it
-9. Keep the article factual and concise
+9. Write substantive original reporting proportional to the available facts; omit repetition and filler
 10. Use proper AP style for numbers, dates, titles, etc.
 11. Empty input, site navigation, video footer text, or access errors are not stories. Return null for headline and body when no article can be written.
 12. Preserve match results and set scores exactly. A four-set volleyball win is not a sweep. Do not combine conflicting or historical match details.
@@ -50,7 +51,7 @@ TAG RULES:
 - Do NOT include generic tags like "sports" or "news"
 
 IMPORTANT:
-- Use only as many paragraphs as the source supports; a short factual update may be one paragraph
+- Cover the significant sourced facts in a narrative, not just the RSS lead. Genuine briefs may stay short.
 - Use <p> tags to wrap each paragraph
 - Do NOT include the headline in the body
 - Do NOT include any markdown - use HTML only
@@ -65,7 +66,9 @@ class OpenAIRewriter:
         api_key: str,
         model: str = "gpt-5-mini",
         fallback_model: str = "gpt-6-luna",
-        max_tokens: int = 2000,
+        max_tokens: int = 3000,
+        max_input_chars: int = 24000,
+        depth_policy=DEFAULT_DEPTH_POLICY,
     ):
         """Initialize OpenAI rewriter.
 
@@ -79,6 +82,8 @@ class OpenAIRewriter:
         self.model = resolve_retired_model(model)
         self.fallback_model = resolve_retired_model(fallback_model)
         self.max_tokens = max_tokens
+        self.max_input_chars = max_input_chars
+        self.depth_policy = depth_policy
         self._last_request_time = 0.0
 
     def _rate_limit(self) -> None:
@@ -116,8 +121,10 @@ class OpenAIRewriter:
         self._rate_limit()
 
         # Truncate very long content
-        if len(clean_content) > 10000:
-            clean_content = clean_content[:10000] + "..."
+        if len(clean_content) > self.max_input_chars:
+            # Do not silently lose the second half of a rich source.
+            logger.warning("source_exceeds_input_budget", chars=len(clean_content))
+            return None
 
         logger.info(
             "rewriting_article",
@@ -132,6 +139,9 @@ ORIGINAL TITLE: {original_title}
 
 ORIGINAL CONTENT:
 {clean_content}
+
+DEPTH AND COVERAGE:
+{self.depth_policy.instruction(clean_content)}
 
 Remember to respond with valid JSON containing headline, excerpt, and body."""
 
@@ -159,6 +169,13 @@ Remember to respond with valid JSON containing headline, excerpt, and body."""
             
             response = create_model_completion(self.client, api_params)
 
+            if getattr(response, "usage", None):
+                usage = response.usage
+                logger.info("rewrite_usage", input_tokens=usage.prompt_tokens,
+                            output_tokens=usage.completion_tokens,
+                            reasoning_tokens=getattr(usage.completion_tokens_details,
+                                                     "reasoning_tokens", None))
+
             if response.choices[0].finish_reason != "stop":
                 logger.warning("rewrite_incomplete", finish_reason=response.choices[0].finish_reason)
                 return None
@@ -173,6 +190,8 @@ Remember to respond with valid JSON containing headline, excerpt, and body."""
                     result["headline"] = original_title
 
                 problem = article_problem(result, content, original_title)
+                problem = problem or article_depth_problem(result, clean_content, original_title,
+                                                            self.depth_policy)
                 if problem:
                     logger.warning("rewrite_content_rejected", reason=problem)
                     return None
@@ -211,6 +230,8 @@ Remember to respond with valid JSON containing headline, excerpt, and body."""
                         if use_original_title:
                             result["headline"] = original_title
                         problem = article_problem(result, content, original_title)
+                        problem = problem or article_depth_problem(result, clean_content, original_title,
+                                                                    self.depth_policy)
                         if problem:
                             logger.warning("fallback_content_rejected", reason=problem)
                             return None
