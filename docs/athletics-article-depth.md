@@ -31,6 +31,10 @@ uses one bounded 800-token source-to-candidate comparison of headline, excerpt
 and body. A mismatch, ambiguous assertion, malformed verdict or incomplete
 check holds the article; it does not trigger automatic rewriting. This check
 is a safeguard, not a factual guarantee. Non-RSS callers are not opted in.
+RSS provides the source feed timestamp and the actual America/Chicago reference
+time to both generation and checking. Old announcements must remain attributed
+as schedules; a past appointment cannot be described as still upcoming or as
+having occurred without evidence.
 Existing
 source holds, volleyball consistency, malformed-response and placeholder gates
 remain in force before image, taxonomy and post writes.

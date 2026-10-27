@@ -147,3 +147,36 @@ def test_truncated_fact_check_cannot_approve_article():
         finish_reason='length',message=SimpleNamespace(content='{"supported":true,"issues":[]}'))])
     assert not r._facts_supported({'headline':'Result','excerpt':'','body':'<p>Report</p>'},
                                   CASES[3]['story'],'Game','gpt-6-luna')
+
+
+def test_reference_and_source_time_reach_generation_and_factual_check(monkeypatch):
+    r=OpenAIRewriter('offline-test',model='gpt-6-luna',verify_facts=True);r.client=Mock()
+    monkeypatch.setattr(r,'_rate_limit',lambda:None)
+    article={'headline':'Calendar lists press conference','excerpt':'The calendar listed Monday at 11 a.m.',
+             'body':'<p>The calendar listed a press conference for Monday, October 26, at 11 a.m.</p>','tags':[]}
+    def completion(value):return SimpleNamespace(usage=None,choices=[SimpleNamespace(finish_reason='stop',message=SimpleNamespace(content=json.dumps(value)))])
+    r.client.chat.completions.create.side_effect=[completion(article),completion({'supported':True,'issues':[]})]
+    source='Monday, October 26: press conference at 11 a.m. The event will be streamed.'
+    ref='2026-10-27T11:30:00-05:00';published='Mon, 26 Oct 2026 12:00:00 +0000'
+    assert r.rewrite(source,'Weekly calendar',reference_time=ref,source_published=published)
+    calls=r.client.chat.completions.create.call_args_list
+    assert ref in calls[0].kwargs['messages'][1]['content'] and published in calls[0].kwargs['messages'][1]['content']
+    check=json.loads(calls[1].kwargs['messages'][1]['content'])
+    assert check['reference_time']==ref and check['source_published']==published
+    assert 'already past' in calls[1].kwargs['messages'][0]['content']
+
+
+def test_real_rss_rewriter_receives_local_clock_and_feed_timestamp(monkeypatch):
+    from rss_to_wp import cli
+    from rss_to_wp.config import FeedConfig
+    r=OpenAIRewriter('offline-test',model='gpt-6-luna');r.rewrite=Mock(return_value=None)
+    source='The calendar listed a press conference on Monday, October 26, at 11 a.m.'
+    monkeypatch.setattr(cli,'get_entry_content',lambda _:source)
+    published='Mon, 26 Oct 2026 12:00:00 +0000'
+    entry={'title':'Weekly calendar','link':'https://gostatesmen.com/news/calendar','published':published}
+    assert cli.process_entry(entry,FeedConfig(name='DSU',url='https://gostatesmen.com/rss'),
+                             Mock(),r,Mock(),True,Mock()) is None
+    kwargs=r.rewrite.call_args.kwargs
+    assert kwargs['source_published']==published
+    parsed=cli.pendulum.parse(kwargs['reference_time'])
+    assert parsed.utcoffset().total_seconds() in {-18000,-21600}

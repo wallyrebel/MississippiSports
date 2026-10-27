@@ -8,6 +8,7 @@ from pathlib import Path
 from typing import Optional
 
 import typer
+import pendulum
 from dotenv import load_dotenv
 
 from rss_to_wp import __version__
@@ -386,10 +387,15 @@ def process_entry(
         return None
 
     # Rewrite with OpenAI
+    context = {}
+    if isinstance(rewriter, OpenAIRewriter):
+        context = {"reference_time": pendulum.now("America/Chicago").isoformat(),
+                   "source_published": entry.get("published") or entry.get("updated")}
     rewritten = rewriter.rewrite(
         content=content,
         original_title=title,
         use_original_title=feed_config.use_original_title,
+        **context,
     )
 
     if not rewritten:
