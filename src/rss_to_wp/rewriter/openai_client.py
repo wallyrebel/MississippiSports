@@ -8,6 +8,9 @@ from rss_to_wp.rewriter.depth import DEFAULT_DEPTH_POLICY, article_depth_problem
 import json
 import re
 import time
+from datetime import datetime
+from email.utils import parsedate_to_datetime
+import pendulum
 from typing import Optional
 
 from openai import OpenAI
@@ -16,6 +19,23 @@ from rss_to_wp.content_quality import article_problem, source_problem
 from rss_to_wp.utils import get_logger
 
 logger = get_logger("rewriter.openai")
+
+
+def time_context(value):
+    """Give the inexpensive model one explicit local clock, not mixed zones."""
+    if not value:
+        return None
+    try:
+        moment = parsedate_to_datetime(str(value))
+    except (TypeError, ValueError, OverflowError):
+        try:
+            moment = datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+        except ValueError:
+            return str(value)
+    if moment.tzinfo is None:
+        return str(value)
+    return pendulum.instance(moment).in_timezone("America/Chicago").format(
+        "dddd, MMMM D, YYYY [at] h:mm A [America/Chicago] [(]ZZ[)]")
 
 # System prompt for AP-style rewriting
 AP_STYLE_PROMPT = """You are a professional news editor who rewrites press releases and articles into AP (Associated Press) style news articles.
@@ -151,8 +171,8 @@ ORIGINAL CONTENT:
 DEPTH AND COVERAGE:
 {self.depth_policy.instruction(clean_content)}
 
-REFERENCE_TIME: {reference_time or 'not supplied; keep source-attributed dated wording'}
-SOURCE_PUBLISHED: {source_published or 'not supplied'}
+REFERENCE_TIME: {time_context(reference_time) or 'not supplied; keep source-attributed dated wording'}
+SOURCE_PUBLISHED: {time_context(source_published) or 'not supplied'}
 
 Remember to respond with valid JSON containing headline, excerpt, and body."""
 
@@ -277,6 +297,11 @@ Remember to respond with valid JSON containing headline, excerpt, and body."""
                   "Use reference_time and source_published for chronology. Reject future/live "
                   "wording for a scheduled event already past at reference_time. A source "
                   "announcement supports 'the calendar listed', not proof that the event happened. "
+                  "An attributed statement of what a source calendar listed remains supported "
+                  "whether published before or after the scheduled time. 'Planned', 'scheduled', "
+                  "and 'announced' are compatible paraphrases of a source's future announcement; "
+                  "do not invent a contradiction by adding 'merely' or an in-person attendance "
+                  "claim the candidate did not make. "
                   "Hold unsupported, contradicted or ambiguous assertions. Do not demand omitted "
                   "facts, and do not judge stylistic differences as errors. Put only unsupported "
                   "claims in issues; never put a supported claim in that array. Return JSON only: "
@@ -288,7 +313,8 @@ Remember to respond with valid JSON containing headline, excerpt, and body."""
                          {"role": "user", "content": json.dumps({"source_title": title,
                             "source": source, "candidate": {k:article[k]
                                 for k in ("headline", "excerpt", "body")},
-                            "reference_time":reference_time,"source_published":source_published})}],
+                            "reference_time":time_context(reference_time),
+                            "source_published":time_context(source_published)})}],
         })
         if getattr(response, "usage", None):
             usage = response.usage
