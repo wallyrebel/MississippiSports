@@ -114,6 +114,7 @@ def test_bad_or_placeholder_payload_still_rejected(monkeypatch,bad):
  ({'supported':True,'issues':[]},True),
  ({'supported':False,'issues':[{'claim':'five-point halftime lead','evidence':'35-32'}]},False),
  ({'supported':False,'issues':[{'claim':'overcame penalties','evidence':'penalties extended drive'}]},False),
+ ({'supported':False,'issues':[{'claim':'two plays earlier','evidence':'two-play drive'}]},False),
  ({'supported':True,'issues':['conflict']},False), ({'supported':'true','issues':[]},False),
  ([],False), ({},False)])
 def test_fact_check_holds_relational_errors_and_malformed_verdicts(verdict,accepted):
