@@ -35,6 +35,8 @@ def tracked(**params):
     return response
 r.client.chat.completions.create=tracked
 negative_cases=[
+    ('The offense scored in two plays. Burleson completed a 58-yard pass to Philip, then a 14-yard touchdown pass to Winfield.',
+     {'headline':'Touchdown drive','excerpt':'','body':'<p>Burleson completed a 58-yard pass to Philip two plays before his touchdown pass to Winfield.</p>'}),
     ('BMCU led 35-32 at halftime. It led 50-45 after three quarters.',
      {'headline':'BMCU wins','excerpt':'BMCU had a five-point halftime lead.','body':'<p>BMCU led at halftime.</p>'}),
     ('The Knights drove 61 yards. A roughing-the-passer call and pass interference on fourth down extended their winning drive.',

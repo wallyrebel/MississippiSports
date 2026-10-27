@@ -1,4 +1,4 @@
-name: Isolated Carey calculation regression verification
+name: Isolated Belhaven play-sequence regression verification
 on:
   push:
     branches: [verify-athletics-article-depth]
@@ -20,7 +20,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           PYTHONPATH: src
-          VERIFY_POST_IDS: '25130'
+          VERIFY_POST_IDS: '25204'
         run: python scripts/verify_article_depth.py
       - uses: actions/upload-artifact@v4
         if: always()
