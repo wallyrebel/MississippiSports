@@ -1,0 +1,407 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-10-27",
+  "verified_at": "2026-10-27T20:07:15.675349+00:00",
+  "publish": true,
+  "checked_sports": [
+    "soccer",
+    "basketball",
+    "football",
+    "volleyball",
+    "cross country",
+    "swimming",
+    "golf",
+    "powerlifting"
+  ],
+  "games": [
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-27",
+      "home": "Warren Central",
+      "away": "Brandon",
+      "status": "scheduled",
+      "start_time": "2026-10-27T17:30:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/brandon-vs-warren-central-vicksburg/10-27-2026/?c=c0cba5c3-a9cc-4d1b-9e5c-7c451d0a1db2",
+        "excerpt": "Brandon vs Warren Central | Soccer | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Brandon Girls Varsity Soccer @ Warren Central Brandon Bulldogs 2-0 Tuesday, Oct 27, 2026 5:30pm CDT Warren Central Vikings 1-0-1 Brandon Girls Varsity Soccer @ Warren Central Streaming & Ticketing Sign Up To Watch Purchase Tickets Game Info The Brandon varsity soccer team has an away non-conference match @ Warren Central (Vicksburg, MS) today @ 5:30p.",
+        "date_excerpt": "10/27/2026",
+        "time_excerpt": "5:30pm CDT",
+        "home_name": "Warren Central",
+        "away_name": "Brandon"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-27",
+      "home": "South Jones",
+      "away": "Oak Grove",
+      "status": "scheduled",
+      "start_time": "2026-10-27T17:30:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/oak-grove-hattiesburg-vs-south-jones-ellisville/10-27-2026/?c=30b58253-def4-4cdb-b4e6-fb8bd589d19f",
+        "excerpt": "Oak Grove vs South Jones | Soccer | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Oak Grove Girls Varsity Soccer @ South Jones Oak Grove Warriors 0-0 Tuesday, Oct 27, 2026 5:30pm CDT South Jones Braves 2-0 Oak Grove Girls Varsity Soccer @ South Jones Game Info The Oak Grove varsity soccer team has an away non-conference match @ South Jones (Ellisville, MS) today @ 5:30p.",
+        "date_excerpt": "10/27/2026",
+        "time_excerpt": "5:30pm CDT",
+        "home_name": "South Jones",
+        "away_name": "Oak Grove"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-27",
+      "home": "South Jones",
+      "away": "Oak Grove",
+      "status": "scheduled",
+      "start_time": "2026-10-27T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/oak-grove-hattiesburg-vs-south-jones-ellisville/10-27-2026/?c=8b44b012-d4a9-43ae-b386-f898d6a09838",
+        "excerpt": "Oak Grove vs South Jones | Soccer | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Oak Grove Boys Varsity Soccer @ South Jones Oak Grove Warriors 3-0 Tuesday, Oct 27, 2026 7:00pm CDT South Jones Braves 0-0 Oak Grove Boys Varsity Soccer @ South Jones Game Info The Oak Grove varsity soccer team has an away non-conference match @ South Jones (Ellisville, MS) today @ 7p.",
+        "date_excerpt": "10/27/2026",
+        "time_excerpt": "7:00pm CDT",
+        "home_name": "South Jones",
+        "away_name": "Oak Grove"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-27",
+      "home": "South Panola",
+      "away": "Southaven",
+      "status": "scheduled",
+      "start_time": "2026-10-27T18:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/south-panola-batesville-vs-southaven/10-27-2026/?c=d5218113-8486-4bed-9178-6d120b0e31b3",
+        "excerpt": "Southaven vs South Panola | Soccer | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Southaven Girls Varsity Soccer @ South Panola Southaven Chargers 2-0 Tuesday, Oct 27, 2026 6:00pm CDT South Panola Tigers 0-0 Southaven Girls Varsity Soccer @ South Panola Streaming & Ticketing Purchase Tickets Game Info The Southaven varsity soccer team has an away non-conference match @ South Panola (Batesville, MS) today @ 6p.",
+        "date_excerpt": "10/27/2026",
+        "time_excerpt": "6:00pm CDT",
+        "home_name": "South Panola",
+        "away_name": "Southaven"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-27",
+      "home": "South Panola",
+      "away": "Southaven",
+      "status": "scheduled",
+      "start_time": "2026-10-27T20:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/south-panola-batesville-vs-southaven/10-27-2026/?c=c6a6c394-3b48-4e64-af47-145f197e52a9",
+        "excerpt": "Southaven vs South Panola | Soccer | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Southaven Boys Varsity Soccer @ South Panola Southaven Chargers 2-0 Tuesday, Oct 27, 2026 8:00pm CDT South Panola Tigers 0-0 Southaven Boys Varsity Soccer @ South Panola Streaming & Ticketing Purchase Tickets Game Info The Southaven varsity soccer team has an away non-conference match @ South Panola (Batesville, MS) today @ 8p.",
+        "date_excerpt": "10/27/2026",
+        "time_excerpt": "8:00pm CDT",
+        "home_name": "South Panola",
+        "away_name": "Southaven"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-27",
+      "home": "Long Beach",
+      "away": "Biloxi",
+      "status": "scheduled",
+      "start_time": "2026-10-27T19:30:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/biloxi-vs-long-beach/10-27-2026/?c=6a4874c6-b2df-4414-89f1-9fd02d6d0a53",
+        "excerpt": "Biloxi vs Long Beach | Soccer | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Biloxi Boys Varsity Soccer @ Long Beach Biloxi Indians 2-0 Tuesday, Oct 27, 2026 7:30pm CDT Long Beach Bearcats 0-0-1 Biloxi Boys Varsity Soccer @ Long Beach Streaming & Ticketing Sign Up To Watch Game Info The Biloxi varsity soccer team has an away non-conference match @ Long Beach (MS) today @ 7:30p.",
+        "date_excerpt": "10/27/2026",
+        "time_excerpt": "7:30pm CDT",
+        "home_name": "Long Beach",
+        "away_name": "Biloxi"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-27",
+      "home": "Laurel HomeSchool",
+      "away": "Leake Academy",
+      "status": "scheduled",
+      "start_time": "2026-10-27T18:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/laurel-homeschool-vs-leake-academy-madden/10-27-2026/?c=fd5b0759-b44d-4253-acd0-e98a973cbad4",
+        "excerpt": "Leake Academy vs Laurel HomeSchool | Basketball | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Leake Academy Boys Varsity Basketball @ Laurel HomeSchool Leake Academy Rebels 3-0 Tuesday, Oct 27, 2026 6:00pm CDT Laurel HomeSchool Knighthawks 0-2 Leake Academy Boys Varsity Basketball @ Laurel HomeSchool Game Info The Leake Academy varsity basketball team has an away non-conference game @ Laurel HomeSchool (Laurel, MS) today @ 6p. Scorekeeper No Scorekeeper No Scorekeeper",
+        "date_excerpt": "10/27/2026",
+        "time_excerpt": "6:00pm CDT",
+        "home_name": "Laurel HomeSchool",
+        "away_name": "Leake Academy"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-27",
+      "home": "Simpson Academy",
+      "away": "Silliman Institute",
+      "status": "scheduled",
+      "start_time": "2026-10-27T18:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/inter-state/basketball/girls/game/silliman-institute-clinton-la-vs-simpson-academy-mendenhall-ms/10-27-2026/?c=42d88339-184a-4c6b-babd-866731279c3b",
+        "excerpt": "Silliman Institute vs Simpson Academy | Basketball | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Silliman Institute Girls Varsity Basketball vs. Simpson Academy Silliman Institute Wildcats 0-0 Tuesday, Oct 27, 2026 6:00pm CDT Simpson Academy Cougars 1-0 Silliman Institute Girls Varsity Basketball vs. Simpson Academy Game Info The Silliman Institute varsity basketball team has a neutral tournament game vs. Simpson Academy (Mendenhall, MS) today @ 6p. Scorekeeper No Scorekeeper No Scorekeeper",
+        "date_excerpt": "10/27/2026",
+        "time_excerpt": "6:00pm CDT",
+        "home_name": "Simpson Academy",
+        "away_name": "Silliman Institute"
+      },
+      "neutral_site": true
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-10-26/",
+      "title": "Scores from last Night: Hernando sweeps shutouts; Oxford wins 3–2"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: Unbeaten Brandon meets Warren Central; Oak Grove visits South Jones",
+    "headline_fact_ids": [
+      "game-0",
+      "record-0",
+      "game-2"
+    ],
+    "html": "<p data-facts=\"game-0 record-0 game-2 record-2 game-6 record-6\">Brandon’s girls take an unbeaten record to unbeaten Warren Central, Oak Grove’s boys carry a 3–0 start into Ellisville, and Leake Academy brings the same record to the basketball court in Laurel. Those are among the clearest tests of winning starts on Mississippi’s Tuesday, October 27, varsity schedule. All times below are CDT.</p>\n<h2 data-facts=\"game-0 record-0\">Girls soccer: unbeaten teams meet in Vicksburg</h2>\n<p data-facts=\"game-0 record-0\">Brandon visits Warren Central at <strong>5:30 p.m.</strong> The Bulldogs enter 2–0; the Vikings are 1–0–1. Their <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/brandon-vs-warren-central-vicksburg/10-27-2026/?c=c0cba5c3-a9cc-4d1b-9e5c-7c451d0a1db2\">nonconference meeting</a> is a direct comparison between two teams that have already recorded victories and have yet to lose. Keeping that unbeaten start intact is the immediate measure for each side.</p>\n<p data-facts=\"brandon-defense warren-defense\">The defensive records sharpen the matchup. Brandon’s posted totals show four goals scored and none conceded; Warren Central’s show three scored and none conceded. This is an early chance to see which attack can break through against another side that has yet to allow a goal in its recorded results.</p>\n<h2 data-facts=\"game-1 game-2 record-1 record-2\">Soccer in Ellisville: the winning starts switch sides</h2>\n<p data-facts=\"game-1 record-1\">South Jones brings the established start in the girls match, hosting Oak Grove at <strong>5:30 p.m.</strong> The Braves are 2–0, while Oak Grove is listed at 0–0. The <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/oak-grove-hattiesburg-vs-south-jones-ellisville/10-27-2026/?c=30b58253-def4-4cdb-b4e6-fb8bd589d19f\">girls fixture</a> gives South Jones a chance to extend that winning start and Oak Grove its first posted result.</p>\n<p data-facts=\"game-2 record-2 oak-attack\">The records reverse in the <strong>7 p.m.</strong> boys match: Oak Grove arrives 3–0, and South Jones is 0–0. Oak Grove’s current totals show 17 goals scored and two conceded. That production makes the <a href=\"https://www.maxpreps.com/ms/soccer/match/oak-grove-hattiesburg-vs-south-jones-ellisville/10-27-2026/?c=8b44b012-d4a9-43ae-b386-f898d6a09838\">boys game</a> worth watching as the Warriors try to carry their early scoring form into another away match, while South Jones gets its first recorded measure of the season.</p>\n<h2 data-facts=\"game-3 game-4 record-3 record-4\">Soccer in Batesville: Southaven takes two winning records on the road</h2>\n<p data-facts=\"game-3 game-4 record-3 record-4\">Southaven’s girls and boys both enter 2–0 against South Panola teams listed at 0–0. The <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/south-panola-batesville-vs-southaven/10-27-2026/?c=d5218113-8486-4bed-9178-6d120b0e31b3\">girls play at 6 p.m.</a>; the <a href=\"https://www.maxpreps.com/ms/soccer/match/south-panola-batesville-vs-southaven/10-27-2026/?c=c6a6c394-3b48-4e64-af47-145f197e52a9\">boys follow at 8 p.m.</a>. Each nonconference game pairs a visitor with wins already recorded against a host seeking its first posted result. The doubleheader offers a useful look at whether both Charger teams can sustain those starts away from home.</p>\n<h2 data-facts=\"game-5 record-5\">Boys soccer on the Coast: Biloxi tests its clean-sheet start</h2>\n<p data-facts=\"game-5 record-5 biloxi-defense\">Biloxi visits Long Beach at <strong>7:30 p.m.</strong> with a 2–0 record and current totals of five goals scored and none conceded. Long Beach enters 0–0–1. The <a href=\"https://www.maxpreps.com/ms/soccer/match/biloxi-vs-long-beach/10-27-2026/?c=6a4874c6-b2df-4414-89f1-9fd02d6d0a53\">Coast matchup</a> puts Biloxi’s winning, clean-sheet start against a host that has avoided defeat but is still looking for its first victory.</p>\n<h2 data-facts=\"game-6 game-7 record-6 record-7\">Basketball: Leake Academy and Simpson build from winning starts</h2>\n<p data-facts=\"game-6 record-6\">Leake Academy’s boys visit Laurel HomeSchool at <strong>6 p.m.</strong> The Rebels enter 3–0, while the Knighthawks are 0–2. That makes the <a href=\"https://www.maxpreps.com/ms/basketball/game/laurel-homeschool-vs-leake-academy-madden/10-27-2026/?c=fd5b0759-b44d-4253-acd0-e98a973cbad4\">nonconference game</a> a meeting of contrasting starts: Leake has won every recorded outing, and Laurel is seeking its first victory. A home win would give the Knighthawks that breakthrough against a team that has yet to lose.</p>\n<p data-facts=\"game-7 record-7 simpson-neutral\">Simpson Academy’s girls, listed at 1–0, meet 0–0 Silliman Institute at <strong>6 p.m.</strong> This is a <a href=\"https://www.maxpreps.com/inter-state/basketball/girls/game/silliman-institute-clinton-la-vs-simpson-academy-mendenhall-ms/10-27-2026/?c=42d88339-184a-4c6b-babd-866731279c3b\">neutral-site tournament game</a>, listed by MaxPreps as “Brookhaven Aca. Pink Out!” Simpson is trying to follow a winning opener with another victory; Silliman is seeking its first posted result. Our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-10-26/\">morning edition</a> has the report on Simpson’s opener.</p>",
+    "facts": [
+      {
+        "id": "record-0",
+        "kind": "record",
+        "claim": "Brandon girls soccer enters 2-0; Warren Central enters 1-0-1.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/brandon-vs-warren-central-vicksburg/10-27-2026/?c=c0cba5c3-a9cc-4d1b-9e5c-7c451d0a1db2",
+          "excerpt": "Brandon Bulldogs 2-0 Tuesday, Oct 27, 2026 5:30pm CDT Warren Central Vikings 1-0-1 Brandon Girls Varsity Soccer @ Warren Central Streaming & Ticketing Sign Up To Watch Purchase Tickets",
+          "subjects": [
+            "Brandon Bulldogs",
+            "Warren Central Vikings"
+          ]
+        }
+      },
+      {
+        "id": "record-1",
+        "kind": "record",
+        "claim": "Oak Grove girls soccer enters 0-0; South Jones enters 2-0.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/oak-grove-hattiesburg-vs-south-jones-ellisville/10-27-2026/?c=30b58253-def4-4cdb-b4e6-fb8bd589d19f",
+          "excerpt": "Oak Grove Warriors 0-0 Tuesday, Oct 27, 2026 5:30pm CDT South Jones Braves 2-0 Oak Grove Girls Varsity Soccer @ South Jones",
+          "subjects": [
+            "Oak Grove Warriors",
+            "South Jones Braves"
+          ]
+        }
+      },
+      {
+        "id": "record-2",
+        "kind": "record",
+        "claim": "Oak Grove boys soccer enters 3-0; South Jones enters 0-0.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/oak-grove-hattiesburg-vs-south-jones-ellisville/10-27-2026/?c=8b44b012-d4a9-43ae-b386-f898d6a09838",
+          "excerpt": "Oak Grove Warriors 3-0 Tuesday, Oct 27, 2026 7:00pm CDT South Jones Braves 0-0 Oak Grove Boys Varsity Soccer @ South Jones",
+          "subjects": [
+            "Oak Grove Warriors",
+            "South Jones Braves"
+          ]
+        }
+      },
+      {
+        "id": "record-3",
+        "kind": "record",
+        "claim": "Southaven girls soccer enters 2-0; South Panola enters 0-0.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/south-panola-batesville-vs-southaven/10-27-2026/?c=d5218113-8486-4bed-9178-6d120b0e31b3",
+          "excerpt": "Southaven Chargers 2-0 Tuesday, Oct 27, 2026 6:00pm CDT South Panola Tigers 0-0 Southaven Girls Varsity Soccer @ South Panola Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "Southaven Chargers",
+            "South Panola Tigers"
+          ]
+        }
+      },
+      {
+        "id": "record-4",
+        "kind": "record",
+        "claim": "Southaven boys soccer enters 2-0; South Panola enters 0-0.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/south-panola-batesville-vs-southaven/10-27-2026/?c=c6a6c394-3b48-4e64-af47-145f197e52a9",
+          "excerpt": "Southaven Chargers 2-0 Tuesday, Oct 27, 2026 8:00pm CDT South Panola Tigers 0-0 Southaven Boys Varsity Soccer @ South Panola Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "Southaven Chargers",
+            "South Panola Tigers"
+          ]
+        }
+      },
+      {
+        "id": "record-5",
+        "kind": "record",
+        "claim": "Biloxi boys soccer enters 2-0; Long Beach enters 0-0-1.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/biloxi-vs-long-beach/10-27-2026/?c=6a4874c6-b2df-4414-89f1-9fd02d6d0a53",
+          "excerpt": "Biloxi Indians 2-0 Tuesday, Oct 27, 2026 7:30pm CDT Long Beach Bearcats 0-0-1 Biloxi Boys Varsity Soccer @ Long Beach Streaming & Ticketing Sign Up To Watch",
+          "subjects": [
+            "Biloxi Indians",
+            "Long Beach Bearcats"
+          ]
+        }
+      },
+      {
+        "id": "record-6",
+        "kind": "record",
+        "claim": "Leake Academy boys basketball enters 3-0; Laurel HomeSchool enters 0-2.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/laurel-homeschool-vs-leake-academy-madden/10-27-2026/?c=fd5b0759-b44d-4253-acd0-e98a973cbad4",
+          "excerpt": "Leake Academy Rebels 3-0 Tuesday, Oct 27, 2026 6:00pm CDT Laurel HomeSchool Knighthawks 0-2 Leake Academy Boys Varsity Basketball @ Laurel HomeSchool",
+          "subjects": [
+            "Leake Academy Rebels",
+            "Laurel HomeSchool Knighthawks"
+          ]
+        }
+      },
+      {
+        "id": "record-7",
+        "kind": "record",
+        "claim": "Silliman Institute girls basketball enters 0-0; Simpson Academy enters 1-0.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/girls/game/silliman-institute-clinton-la-vs-simpson-academy-mendenhall-ms/10-27-2026/?c=42d88339-184a-4c6b-babd-866731279c3b",
+          "excerpt": "Silliman Institute Wildcats 0-0 Tuesday, Oct 27, 2026 6:00pm CDT Simpson Academy Cougars 1-0 Silliman Institute Girls Varsity Basketball vs. Simpson Academy",
+          "subjects": [
+            "Silliman Institute Wildcats",
+            "Simpson Academy Cougars"
+          ]
+        }
+      },
+      {
+        "id": "brandon-defense",
+        "kind": "record",
+        "claim": "Brandon girls enter 2-0 with 4 goals for and 0 against.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/brandon/brandon-bulldogs/soccer/girls/winter/schedule/",
+          "excerpt": "Next Match Away • Non-District Brandon 2-0 Warren Central 1-0-1 Brandon 2-0 Tue, 10/27 @ 5:30pm Preview Match Warren Central 1-0-1 Watch Buy Tickets Overall 2-0 1.000 Win Pct District 0-0 1st 7A Region 3 Home 0-0 Away 2-0 Neutral 0-0 GF 4 GA 0 Streak 2W",
+          "subjects": [
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "warren-defense",
+        "kind": "record",
+        "claim": "Warren Central girls enter 1-0-1 with 3 goals for and 0 against.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/vicksburg/warren-central-vikings/soccer/girls/winter/schedule/",
+          "excerpt": "Next Match Home • Non-District Warren Central 1-0-1 Brandon 2-0 Warren Central 1-0-1 Tue, 10/27 @ 5:30pm Preview Match Brandon 2-0 Watch Buy Tickets Overall 1-0-1 0.750 Win Pct District 0-0 1st 6A Region 2 Home 0-0 Away 1-0-1 Neutral 0-0 GF 3 GA 0 Streak 1T",
+          "subjects": [
+            "Warren Central"
+          ]
+        }
+      },
+      {
+        "id": "oak-attack",
+        "kind": "record",
+        "claim": "Oak Grove boys enter 3-0 with 17 goals for and 2 against.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/hattiesburg/oak-grove-warriors/soccer/winter/schedule/",
+          "excerpt": "Next Match Away • Non-District Oak Grove 3-0 South Jones 0-0 Oak Grove 3-0 Tue, 10/27 @ 7:00pm Preview Match South Jones 0-0 Preview Match Overall 3-0 1.000 Win Pct District 0-0 1st 7A Region 3 Home 0-0 Away 3-0 Neutral 0-0 GF 17 GA 2 Streak 3W",
+          "subjects": [
+            "Oak Grove"
+          ]
+        }
+      },
+      {
+        "id": "biloxi-defense",
+        "kind": "record",
+        "claim": "Biloxi boys enter 2-0 with 5 goals for and 0 against.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/biloxi/biloxi-indians/soccer/winter/schedule/",
+          "excerpt": "Next Match Away • Non-District Biloxi 2-0 Long Beach 0-0-1 Biloxi 2-0 Tue, 10/27 @ 7:30pm Preview Match Long Beach 0-0-1 Watch Preview Match Overall 2-0 1.000 Win Pct District 0-0 1st 7A Region 4 Home 2-0 Away 0-0 Neutral 0-0 GF 5 GA 0 Streak 2W",
+          "subjects": [
+            "Biloxi"
+          ]
+        }
+      },
+      {
+        "id": "simpson-neutral",
+        "kind": "context",
+        "claim": "Silliman Institute girls play Simpson Academy at a neutral-site tournament, listed as Brookhaven Aca. Pink Out!, at 6:00pm CDT.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/girls/game/silliman-institute-clinton-la-vs-simpson-academy-mendenhall-ms/10-27-2026/?c=42d88339-184a-4c6b-babd-866731279c3b",
+          "excerpt": "Game Info The Silliman Institute varsity basketball team has a neutral tournament game vs. Simpson Academy (Mendenhall, MS) today @ 6p. Scorekeeper No Scorekeeper No Scorekeeper Matchup Roster Game Details Tuesday, Oct 27, 2026 6:00pm CDT Tournament Brookhaven Aca. Pink Out!",
+          "subjects": [
+            "Silliman Institute",
+            "Simpson Academy"
+          ]
+        }
+      }
+    ]
+  }
+}
