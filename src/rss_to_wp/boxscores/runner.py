@@ -6,6 +6,8 @@ Operates independently from the RSS feed pipeline.
 
 from __future__ import annotations
 
+from rss_to_wp.rewriter.model_options import chat_model_params, resolve_retired_model
+
 import json
 import os
 import time
@@ -85,7 +87,7 @@ def _rewrite_boxscore(
     sport_type: str,
     api_key: str,
     model: str = "gpt-5-mini",
-    fallback_model: str = "gpt-4.1-nano",
+    fallback_model: str = "gpt-6-luna",
 ) -> Optional[dict]:
     """Rewrite box score stats into an AP-style article using OpenAI.
 
@@ -104,7 +106,7 @@ def _rewrite_boxscore(
 
     client = OpenAI(api_key=api_key)
 
-    for attempt_model in [model, fallback_model]:
+    for attempt_model in [resolve_retired_model(model), resolve_retired_model(fallback_model)]:
         try:
             logger.info(
                 "rewriting_boxscore",
@@ -112,15 +114,15 @@ def _rewrite_boxscore(
                 stats_length=len(stats_text),
             )
 
-            response = client.chat.completions.create(
-                model=attempt_model,
-                messages=[
+            response = client.chat.completions.create(**chat_model_params({
+                "model": attempt_model,
+                "messages": [
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": user_message},
                 ],
-                max_tokens=2000,
-                temperature=0.4,
-            )
+                "max_tokens": 2000,
+                "temperature": 0.4,
+            }))
 
             response_text = response.choices[0].message.content or ""
 
@@ -277,7 +279,7 @@ def run_boxscores(
                 sport_type=bs_info["sport_type"],
                 api_key=settings.openai_api_key,
                 model="gpt-5-mini",              # Primary model
-                fallback_model="gpt-4.1-nano",    # Fallback if primary fails
+                fallback_model="gpt-6-luna",    # Fallback if primary fails
             )
 
             if not rewritten:

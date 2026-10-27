@@ -27,7 +27,7 @@ To balance quality and cost/availability, we use a fallback integration strategy
 - Used for 99% of requests.
 - Offers the best balance of reasoning and speed.
 
-**Fallback Model:** `gpt-4.1-nano` (or similar configured backup)
+**Fallback Model:** `gpt-6-luna` (or similar configured backup)
 - If the primary model call fails (API error, rate limit), the system automatically retries with the lighter model.
 - This ensures the pipeline doesn't break due to a temporary outage of the flagship model.
 

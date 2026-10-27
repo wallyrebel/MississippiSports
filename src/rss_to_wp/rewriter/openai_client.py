@@ -2,6 +2,8 @@
 
 from __future__ import annotations
 
+from rss_to_wp.rewriter.model_options import chat_model_params, resolve_retired_model
+
 import json
 import re
 import time
@@ -62,7 +64,7 @@ class OpenAIRewriter:
         self,
         api_key: str,
         model: str = "gpt-5-mini",
-        fallback_model: str = "gpt-4.1-nano",
+        fallback_model: str = "gpt-6-luna",
         max_tokens: int = 2000,
     ):
         """Initialize OpenAI rewriter.
@@ -70,12 +72,12 @@ class OpenAIRewriter:
         Args:
             api_key: OpenAI API key.
             model: Primary model to use (default: gpt-5-mini).
-            fallback_model: Fallback model if primary fails (default: gpt-4.1-nano).
+            fallback_model: Fallback model if primary fails (default: gpt-6-luna).
             max_tokens: Maximum tokens in response.
         """
         self.client = OpenAI(api_key=api_key)
-        self.model = model
-        self.fallback_model = fallback_model
+        self.model = resolve_retired_model(model)
+        self.fallback_model = resolve_retired_model(fallback_model)
         self.max_tokens = max_tokens
         self._last_request_time = 0.0
 
@@ -155,7 +157,7 @@ Remember to respond with valid JSON containing headline, excerpt, and body."""
             if "o1" not in self.model.lower():
                 api_params["response_format"] = {"type": "json_object"}
             
-            response = self.client.chat.completions.create(**api_params)
+            response = self.client.chat.completions.create(**chat_model_params(api_params))
 
             if response.choices[0].finish_reason != "stop":
                 logger.warning("rewrite_incomplete", finish_reason=response.choices[0].finish_reason)
@@ -198,7 +200,7 @@ Remember to respond with valid JSON containing headline, excerpt, and body."""
                         api_params.pop("max_tokens", None)
                         api_params["max_completion_tokens"] = self.max_tokens
                     
-                    response = self.client.chat.completions.create(**api_params)
+                    response = self.client.chat.completions.create(**chat_model_params(api_params))
                     if response.choices[0].finish_reason != "stop":
                         logger.warning("fallback_rewrite_incomplete", finish_reason=response.choices[0].finish_reason)
                         return None
@@ -309,7 +311,7 @@ def rewrite_with_openai(
     original_title: str,
     api_key: str,
     model: str = "gpt-5-mini",
-    fallback_model: str = "gpt-4.1-nano",
+    fallback_model: str = "gpt-6-luna",
     use_original_title: bool = False,
 ) -> Optional[dict]:
     """Convenience function to rewrite content.
