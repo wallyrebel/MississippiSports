@@ -1,0 +1,427 @@
+{
+  "site": "https://sportsmississippi.com",
+  "version": 1,
+  "posts": [
+    {
+      "id": 25130,
+      "source_url": "https://careyathletics.com/news/2026/10/26/mens-soccer-crusaders-close-regular-season-with-6-0-win-over-andrew-college.aspx",
+      "source_sha256": "1173edc700a32547458f29ffa0a45e9daca44a33713b417e53cc317c1fd53263",
+      "media_sha256": "49c8e5d8cfc2de3efebeb5e80fb0b23e6bde457b843249ffd10a7e2021b0a3b6",
+      "expected_public": {
+        "id": 25130,
+        "slug": "william-carey-closes-regular-season-with-6-0-win-over-andrew-college",
+        "link": "https://sportsmississippi.com/college/william-carey-closes-regular-season-with-6-0-win-over-andrew-college/",
+        "status": "publish",
+        "date": "2026-10-27T04:11:18",
+        "date_gmt": "2026-10-27T04:11:18",
+        "modified": "2026-10-27T04:11:18",
+        "modified_gmt": "2026-10-27T04:11:18",
+        "author": 1,
+        "featured_media": 25129,
+        "categories": [
+          6,
+          1853,
+          1867
+        ],
+        "tags": [
+          5435,
+          579,
+          1869
+        ],
+        "title": {
+          "rendered": "William Carey closes regular season with 6-0 win over Andrew College"
+        },
+        "content": {
+          "rendered": "<p>William Carey beat Andrew College 6-0 on Monday at Danny Owens Field in Hattiesburg, Mississippi, to close the men&#8217;s soccer regular season.</p>\n<p><em>Source: <a href=\"https://careyathletics.com/news/2026/10/26/mens-soccer-crusaders-close-regular-season-with-6-0-win-over-andrew-college.aspx\" target=\"_blank\" rel=\"noopener\">Original Article</a></em></p>\n",
+          "protected": false
+        },
+        "excerpt": {
+          "rendered": "<p>William Carey defeated Andrew College 6-0 Monday at Danny Owens Field to close the men&#8217;s soccer regular season.</p>\n",
+          "protected": false
+        },
+        "meta": {
+          "_seopress_titles_title": "",
+          "_seopress_titles_desc": "",
+          "_seopress_robots_index": "",
+          "_seopress_robots_follow": "",
+          "_seopress_robots_imageindex": "",
+          "_seopress_robots_snippet": "",
+          "_seopress_robots_primary_cat": "",
+          "_seopress_robots_breadcrumbs": "",
+          "_seopress_robots_freeze_modified_date": "",
+          "_seopress_robots_custom_modified_date": "",
+          "_seopress_robots_canonical": "",
+          "_seopress_social_fb_title": "",
+          "_seopress_social_fb_desc": "",
+          "_seopress_social_fb_img": "",
+          "_seopress_social_fb_img_attachment_id": 0,
+          "_seopress_social_fb_img_width": 0,
+          "_seopress_social_fb_img_height": 0,
+          "_seopress_social_twitter_title": "",
+          "_seopress_social_twitter_desc": "",
+          "_seopress_social_twitter_img": "",
+          "_seopress_social_twitter_img_attachment_id": 0,
+          "_seopress_social_twitter_img_width": 0,
+          "_seopress_social_twitter_img_height": 0,
+          "_seopress_redirections_value": "",
+          "_seopress_redirections_enabled": "",
+          "_seopress_redirections_enabled_regex": "",
+          "_seopress_redirections_logged_status": "",
+          "_seopress_redirections_param": "",
+          "_seopress_redirections_type": 0,
+          "_seopress_analysis_target_kw": "",
+          "_seopress_news_disabled": "",
+          "_seopress_video_disabled": "",
+          "_seopress_video": [],
+          "_seopress_pro_schemas_manual": [],
+          "_seopress_pro_rich_snippets_disable_all": "",
+          "_seopress_pro_rich_snippets_disable": [],
+          "_seopress_pro_schemas": [],
+          "colormag_page_container_layout": "default_layout",
+          "colormag_page_sidebar_layout": "default_layout",
+          "footnotes": ""
+        }
+      },
+      "content": "<p>William Carey closed its regular season with a 6-0 victory over Andrew College on Monday at Danny Owens Field in Hattiesburg, Mississippi.</p><p>Pedro Sao Tiago opened the scoring in the 13th minute, converting a rebound after Andrew’s goalkeeper saved an Enzo Galli shot. Josef Wilson intercepted a pass and set up Jean Danitanga, who scored in the 39th minute to give Carey a 2-0 halftime lead.</p><p>Daniel Mulero made it 3-0 in the 77th minute, finishing a cross from Isaiah Harvey. Sao Tiago scored again in the 82nd minute, then assisted Cian Morling’s headed goal three minutes later. Mulero added his second in the 87th minute, gathering a loose ball and scoring to complete the 6-0 result.</p><p>William Carey is scheduled to host Mobile on Friday, Oct. 30, in the quarterfinal round of the SSAC Championship. Kickoff is set for 4 p.m. at Danny Owens Field.</p>\n<p><em>Update: This article has been expanded with additional details from the original athletics report.</em></p>\n<p><em>Source: <a href=\"https://careyathletics.com/news/2026/10/26/mens-soccer-crusaders-close-regular-season-with-6-0-win-over-andrew-college.aspx\" target=\"_blank\" rel=\"noopener\">Original Article</a></em></p>",
+      "patch_sha256": "426c0c296df11969d7cc66e14290d9f112a6bf0c8e82a7973bb95b1d94f24e79"
+    },
+    {
+      "id": 25134,
+      "source_url": "https://bmcusports.com/news/2026/10/26/womens-basketball-bmcu-womens-basketball-opens-season-with-67-62-victory-over-tougaloo.aspx",
+      "source_sha256": "3d72fe1d249a3c8f1a492ba26b7bc15436c821443c03e09a269924c0555138a5",
+      "media_sha256": "c8f938858c61a8ceb39df8e01213cbd9004c78590589aa31226747c45d70799a",
+      "expected_public": {
+        "id": 25134,
+        "slug": "blue-mountain-christian-opens-season-with-67-62-win-over-tougaloo",
+        "link": "https://sportsmississippi.com/college/blue-mountain-christian-opens-season-with-67-62-win-over-tougaloo/",
+        "status": "publish",
+        "date": "2026-10-27T04:12:06",
+        "date_gmt": "2026-10-27T04:12:06",
+        "modified": "2026-10-27T04:12:06",
+        "modified_gmt": "2026-10-27T04:12:06",
+        "author": 1,
+        "featured_media": 25133,
+        "categories": [
+          5433,
+          6,
+          1853
+        ],
+        "tags": [
+          932,
+          1860,
+          5623,
+          674
+        ],
+        "title": {
+          "rendered": "Blue Mountain Christian opens season with 67-62 win over Tougaloo"
+        },
+        "content": {
+          "rendered": "<p>Blue Mountain Christian University opened its 2026-27 women’s basketball season Monday with a 67-62 victory over Tougaloo College at Kroger Gym in Jackson, Mississippi.</p>\n<p><em>Source: <a href=\"https://bmcusports.com/news/2026/10/26/womens-basketball-bmcu-womens-basketball-opens-season-with-67-62-victory-over-tougaloo.aspx\" target=\"_blank\" rel=\"noopener\">Original Article</a></em></p>\n",
+          "protected": false
+        },
+        "excerpt": {
+          "rendered": "<p>Blue Mountain Christian University opened its 2026-27 women’s basketball season Monday with a 67-62 victory over Tougaloo College.</p>\n",
+          "protected": false
+        },
+        "meta": {
+          "_seopress_titles_title": "",
+          "_seopress_titles_desc": "",
+          "_seopress_robots_index": "",
+          "_seopress_robots_follow": "",
+          "_seopress_robots_imageindex": "",
+          "_seopress_robots_snippet": "",
+          "_seopress_robots_primary_cat": "",
+          "_seopress_robots_breadcrumbs": "",
+          "_seopress_robots_freeze_modified_date": "",
+          "_seopress_robots_custom_modified_date": "",
+          "_seopress_robots_canonical": "",
+          "_seopress_social_fb_title": "",
+          "_seopress_social_fb_desc": "",
+          "_seopress_social_fb_img": "",
+          "_seopress_social_fb_img_attachment_id": 0,
+          "_seopress_social_fb_img_width": 0,
+          "_seopress_social_fb_img_height": 0,
+          "_seopress_social_twitter_title": "",
+          "_seopress_social_twitter_desc": "",
+          "_seopress_social_twitter_img": "",
+          "_seopress_social_twitter_img_attachment_id": 0,
+          "_seopress_social_twitter_img_width": 0,
+          "_seopress_social_twitter_img_height": 0,
+          "_seopress_redirections_value": "",
+          "_seopress_redirections_enabled": "",
+          "_seopress_redirections_enabled_regex": "",
+          "_seopress_redirections_logged_status": "",
+          "_seopress_redirections_param": "",
+          "_seopress_redirections_type": 0,
+          "_seopress_analysis_target_kw": "",
+          "_seopress_news_disabled": "",
+          "_seopress_video_disabled": "",
+          "_seopress_video": [],
+          "_seopress_pro_schemas_manual": [],
+          "_seopress_pro_rich_snippets_disable_all": "",
+          "_seopress_pro_rich_snippets_disable": [],
+          "_seopress_pro_schemas": [],
+          "colormag_page_container_layout": "default_layout",
+          "colormag_page_sidebar_layout": "default_layout",
+          "footnotes": ""
+        }
+      },
+      "content": "<p>Blue Mountain Christian University opened its 2026-27 women’s basketball season with a 67-62 win over Tougaloo College on Monday at Kroger Gym in Jackson, Mississippi.</p><p>Tougaloo led 19-17 after the first quarter, but the Toppers took control with an 18-13 advantage in the second to lead 35-32 at halftime. Blue Mountain Christian added to its edge in the third quarter, outscoring the Bulldogs 15-13. Both teams scored 17 in the fourth.</p><p>Channing Lane led the Toppers with 18 points, shooting 7 of 10 from the field. She also had six rebounds and two steals in 24 minutes off the bench. Lena Taylor finished with 15 points, eight rebounds and a team-high four steals.</p><p>McKenzie Williams posted a double-double with 11 points and a game-high 11 rebounds. Isabella Aversa added 10 points and five rebounds, while Brooklyn Hodum scored eight points, including two 3-pointers.</p><p>Blue Mountain Christian shot 41.1% from the field, making 23 of 56 attempts, and hit six 3-pointers. The Toppers collected 44 rebounds, including 16 on offense, along with 12 steals and two blocked shots.</p>\n<p><em>Update: This article has been expanded with additional details from the original athletics report.</em></p>\n<p><em>Source: <a href=\"https://bmcusports.com/news/2026/10/26/womens-basketball-bmcu-womens-basketball-opens-season-with-67-62-victory-over-tougaloo.aspx\" target=\"_blank\" rel=\"noopener\">Original Article</a></em></p>",
+      "patch_sha256": "1883dc777768809d7a6398abb2de0d1aac11f99b183f9c040935cb085d9c7e12"
+    },
+    {
+      "id": 25148,
+      "source_url": "https://gostatesmen.com/news/2026/10/26/football-clark-earns-gulf-south-conference-offensive-player-of-the-week.aspx",
+      "source_sha256": "1bbca93dd11ec8d262d869d9b42c0f7433f1ae9e78feecc9f3bd02b0e01417a1",
+      "media_sha256": "6a585e600914b8f252c4da6a4b6300054cd514414fd8151fda6be88ce7d6ff80",
+      "expected_public": {
+        "id": 25148,
+        "slug": "delta-states-nick-clark-named-gulf-south-conference-offensive-player-of-the-week",
+        "link": "https://sportsmississippi.com/college/delta-states-nick-clark-named-gulf-south-conference-offensive-player-of-the-week/",
+        "status": "publish",
+        "date": "2026-10-27T04:14:35",
+        "date_gmt": "2026-10-27T04:14:35",
+        "modified": "2026-10-27T04:14:35",
+        "modified_gmt": "2026-10-27T04:14:35",
+        "author": 1,
+        "featured_media": 25147,
+        "categories": [
+          6,
+          5426,
+          1853
+        ],
+        "tags": [
+          1657,
+          179,
+          1908,
+          4952,
+          6007
+        ],
+        "title": {
+          "rendered": "Delta State’s Nick Clark named Gulf South Conference offensive player of the week"
+        },
+        "content": {
+          "rendered": "<p>Delta State redshirt sophomore running back Nick Clark was named Gulf South Conference offensive player of the week, the university announced.</p>\n<p>Clark is the second consecutive Statesmen running back to earn the weekly honor. Graduate running back Qualon Farrar received it last week.</p>\n<p><em>Source: <a href=\"https://gostatesmen.com/news/2026/10/26/football-clark-earns-gulf-south-conference-offensive-player-of-the-week.aspx\" target=\"_blank\" rel=\"noopener\">Original Article</a></em></p>\n",
+          "protected": false
+        },
+        "excerpt": {
+          "rendered": "<p>Redshirt sophomore running back Nick Clark earned the Gulf South Conference honor. He is the second consecutive Delta State running back to receive the award.</p>\n",
+          "protected": false
+        },
+        "meta": {
+          "_seopress_titles_title": "",
+          "_seopress_titles_desc": "",
+          "_seopress_robots_index": "",
+          "_seopress_robots_follow": "",
+          "_seopress_robots_imageindex": "",
+          "_seopress_robots_snippet": "",
+          "_seopress_robots_primary_cat": "",
+          "_seopress_robots_breadcrumbs": "",
+          "_seopress_robots_freeze_modified_date": "",
+          "_seopress_robots_custom_modified_date": "",
+          "_seopress_robots_canonical": "",
+          "_seopress_social_fb_title": "",
+          "_seopress_social_fb_desc": "",
+          "_seopress_social_fb_img": "",
+          "_seopress_social_fb_img_attachment_id": 0,
+          "_seopress_social_fb_img_width": 0,
+          "_seopress_social_fb_img_height": 0,
+          "_seopress_social_twitter_title": "",
+          "_seopress_social_twitter_desc": "",
+          "_seopress_social_twitter_img": "",
+          "_seopress_social_twitter_img_attachment_id": 0,
+          "_seopress_social_twitter_img_width": 0,
+          "_seopress_social_twitter_img_height": 0,
+          "_seopress_redirections_value": "",
+          "_seopress_redirections_enabled": "",
+          "_seopress_redirections_enabled_regex": "",
+          "_seopress_redirections_logged_status": "",
+          "_seopress_redirections_param": "",
+          "_seopress_redirections_type": 0,
+          "_seopress_analysis_target_kw": "",
+          "_seopress_news_disabled": "",
+          "_seopress_video_disabled": "",
+          "_seopress_video": [],
+          "_seopress_pro_schemas_manual": [],
+          "_seopress_pro_rich_snippets_disable_all": "",
+          "_seopress_pro_rich_snippets_disable": [],
+          "_seopress_pro_schemas": [],
+          "colormag_page_container_layout": "default_layout",
+          "colormag_page_sidebar_layout": "default_layout",
+          "footnotes": ""
+        }
+      },
+      "content": "<p>Delta State redshirt sophomore running back Nick Clark was named Gulf South Conference Offensive Player of the Week after helping the Statesmen beat nationally ranked West Alabama 37-33 last weekend.</p><p>Clark rushed for a career-high 178 yards and scored a touchdown in the homecoming game in Cleveland. It was his second 100-yard rushing performance of the season. Graduate running back Qualon Farrar received the conference honor the previous week, making it the second straight week a Delta State running back has been recognized.</p><p>Through seven games, Clark has 500 rushing yards and three touchdowns. During Delta State’s four-game winning streak, he has averaged 119.5 rushing yards and 5.2 yards per carry, with three touchdowns.</p><p>The Statesmen travel to Maryland this weekend to play Frostburg State in their final nonconference game of the regular season.</p>\n<p><em>Update: This article has been expanded with additional details from the original athletics report.</em></p>\n<p><em>Source: <a href=\"https://gostatesmen.com/news/2026/10/26/football-clark-earns-gulf-south-conference-offensive-player-of-the-week.aspx\" target=\"_blank\" rel=\"noopener\">Original Article</a></em></p>",
+      "patch_sha256": "008a9ddc271140af17dd7c07b32beacabb1cbf31ad2161baf2fdf73257bc655c"
+    },
+    {
+      "id": 25204,
+      "source_url": "https://blazers.belhaven.edu/news/2026/10/24/football-late-touchdown-spoils-belhaven-homecoming-23-19.aspx",
+      "source_sha256": "0e5a0044fdd649dc0ab9f999dac6a7a13c42fd2f0f051fb01d986cd8b724beda",
+      "media_sha256": "40518c254c8d0d4b59dfd9f823feebc2e0c86bf181063d5e5d623f4ee1573bc7",
+      "expected_public": {
+        "id": 25204,
+        "slug": "belhaven-falls-late-to-southern-virginia",
+        "link": "https://sportsmississippi.com/college/belhaven-falls-late-to-southern-virginia/",
+        "status": "publish",
+        "date": "2026-10-27T04:23:12",
+        "date_gmt": "2026-10-27T04:23:12",
+        "modified": "2026-10-27T04:23:12",
+        "modified_gmt": "2026-10-27T04:23:12",
+        "author": 1,
+        "featured_media": 25203,
+        "categories": [
+          5399,
+          6,
+          1853
+        ],
+        "tags": [
+          1950,
+          179,
+          1317,
+          6020
+        ],
+        "title": {
+          "rendered": "Belhaven Falls Late to Southern Virginia"
+        },
+        "content": {
+          "rendered": "<p>Belhaven was less than a minute from another Homecoming win before Southern Virginia scored a late touchdown.</p>\n<p><em>Source: <a href=\"https://blazers.belhaven.edu/news/2026/10/24/football-late-touchdown-spoils-belhaven-homecoming-23-19.aspx\" target=\"_blank\" rel=\"noopener\">Original Article</a></em></p>\n",
+          "protected": false
+        },
+        "excerpt": {
+          "rendered": "<p>Belhaven was less than a minute from another Homecoming win before Southern Virginia scored a late touchdown.</p>\n",
+          "protected": false
+        },
+        "meta": {
+          "_seopress_titles_title": "",
+          "_seopress_titles_desc": "",
+          "_seopress_robots_index": "",
+          "_seopress_robots_follow": "",
+          "_seopress_robots_imageindex": "",
+          "_seopress_robots_snippet": "",
+          "_seopress_robots_primary_cat": "",
+          "_seopress_robots_breadcrumbs": "",
+          "_seopress_robots_freeze_modified_date": "",
+          "_seopress_robots_custom_modified_date": "",
+          "_seopress_robots_canonical": "",
+          "_seopress_social_fb_title": "",
+          "_seopress_social_fb_desc": "",
+          "_seopress_social_fb_img": "",
+          "_seopress_social_fb_img_attachment_id": 0,
+          "_seopress_social_fb_img_width": 0,
+          "_seopress_social_fb_img_height": 0,
+          "_seopress_social_twitter_title": "",
+          "_seopress_social_twitter_desc": "",
+          "_seopress_social_twitter_img": "",
+          "_seopress_social_twitter_img_attachment_id": 0,
+          "_seopress_social_twitter_img_width": 0,
+          "_seopress_social_twitter_img_height": 0,
+          "_seopress_redirections_value": "",
+          "_seopress_redirections_enabled": "",
+          "_seopress_redirections_enabled_regex": "",
+          "_seopress_redirections_logged_status": "",
+          "_seopress_redirections_param": "",
+          "_seopress_redirections_type": 0,
+          "_seopress_analysis_target_kw": "",
+          "_seopress_news_disabled": "",
+          "_seopress_video_disabled": "",
+          "_seopress_video": [],
+          "_seopress_pro_schemas_manual": [],
+          "_seopress_pro_rich_snippets_disable_all": "",
+          "_seopress_pro_rich_snippets_disable": [],
+          "_seopress_pro_schemas": [],
+          "colormag_page_container_layout": "default_layout",
+          "colormag_page_sidebar_layout": "default_layout",
+          "footnotes": ""
+        }
+      },
+      "content": "<p>Southern Virginia scored a touchdown with 46 seconds remaining Saturday to beat Belhaven 23-19, ending the Blazers’ four-game Homecoming winning streak before 2,478 fans at Belhaven Bowl Stadium in Jackson, Mississippi.</p><p>Belhaven led 19-8 entering the fourth quarter, but the Knights scored the game’s final 15 points. Backup quarterback Rylen Balser connected with Jalen Lackey for a 37-yard touchdown on third-and-12 to put Southern Virginia ahead.</p><p>The Blazers had a chance to extend their lead after Mathew Cacamo intercepted Balser and returned the ball 23 yards to the Southern Virginia 30 with 4:16 remaining. Two plays later, the Knights recovered a sack-fumble. Southern Virginia then drove 61 yards for the winning score, extending the possession with a roughing-the-passer penalty and a pass-interference call on fourth down.</p><p>Belhaven moved to the Southern Virginia 32 on its final possession. Matthew Dial completed a 27-yard pass to Johnathan Lampkin, and a pass-interference penalty advanced the Blazers further. Dial’s final pass fell incomplete as time expired.</p><p>Southern Virginia began its fourth-quarter comeback with a 16-play, 88-yard drive. Balser ran for nine yards on fourth-and-eight, and Kendrick Worthington scored on a 21-yard run. Brandon DuPaix ran in the two-point conversion to make it 19-16 with 7:22 left.</p><p>Belhaven had built its lead with a 72-yard touchdown drive in the third quarter. Ian Burleson completed a 58-yard pass to Nehemiah Philip, then found Dwayne Winfield for a 14-yard score. The two-play drive took 47 seconds and put the Blazers ahead 19-8.</p><p>Dial finished 13 of 23 for 147 yards and a touchdown. Burleson completed all three of his attempts for 69 yards and a score. Philip led Belhaven with four catches for 87 yards, while Lampkin had four receptions for 76 yards and a touchdown. Jimmy Byrd recorded 10 tackles, three tackles for loss and two sacks. The Blazers totaled seven sacks and 10 tackles for loss but managed 11 net rushing yards.</p><p>Lackey caught 11 passes for 215 yards and both Southern Virginia receiving touchdowns. The Knights gained 411 yards to Belhaven’s 227 and earned their first win over the Blazers in five meetings. Both teams are 3-4 overall and 2-2 in USA South play.</p><p>Belhaven is scheduled to visit Methodist in Fayetteville, North Carolina, next Saturday. Kickoff is set for noon Central.</p>\n<p><em>Update: This article has been expanded with additional details from the original athletics report.</em></p>\n<p><em>Source: <a href=\"https://blazers.belhaven.edu/news/2026/10/24/football-late-touchdown-spoils-belhaven-homecoming-23-19.aspx\" target=\"_blank\" rel=\"noopener\">Original Article</a></em></p>",
+      "patch_sha256": "a450b1fcc8dc75cc267657070af7074a51334b4192b9e0f0b58470a9144a91c2"
+    },
+    {
+      "id": 25220,
+      "source_url": "https://sports.hindscc.edu/news/2026/10/26/chambers-brace-lifts-hinds-mens-soccer-past-northwest-mississippi-cc.aspx",
+      "source_sha256": "dd3fd75c807f771c589ffc988ff5d136b03f36a06fd03c6085efc91d9462e109",
+      "media_sha256": "0a2b737a9b2f3dee19f9228a9f4f282b368feda018ff3b9c1b00005137ed691b",
+      "expected_public": {
+        "id": 25220,
+        "slug": "chambers-two-goals-lift-hinds-past-northwest-mississippi",
+        "link": "https://sportsmississippi.com/juco-news/chambers-two-goals-lift-hinds-past-northwest-mississippi/",
+        "status": "publish",
+        "date": "2026-10-27T04:26:29",
+        "date_gmt": "2026-10-27T04:26:29",
+        "modified": "2026-10-27T04:26:29",
+        "modified_gmt": "2026-10-27T04:26:29",
+        "author": 1,
+        "featured_media": 25219,
+        "categories": [
+          6,
+          5452,
+          5,
+          1853
+        ],
+        "tags": [
+          6022,
+          775,
+          579,
+          2247
+        ],
+        "title": {
+          "rendered": "Chambers&#8217; Two Goals Lift Hinds Past Northwest Mississippi"
+        },
+        "content": {
+          "rendered": "<p>D&#8217;neit Chambers scored twice to lead Hinds Community College to a 2-1 road victory over Northwest Mississippi Community College on Friday night, Oct. 23.</p>\n<p><em>Source: <a href=\"https://sports.hindscc.edu/news/2026/10/26/chambers-brace-lifts-hinds-mens-soccer-past-northwest-mississippi-cc.aspx\" target=\"_blank\" rel=\"noopener\">Original Article</a></em></p>\n",
+          "protected": false
+        },
+        "excerpt": {
+          "rendered": "<p>D&#8217;neit Chambers scored twice as Hinds Community College earned a 2-1 road win over Northwest Mississippi Community College on Friday night.</p>\n",
+          "protected": false
+        },
+        "meta": {
+          "_seopress_titles_title": "",
+          "_seopress_titles_desc": "",
+          "_seopress_robots_index": "",
+          "_seopress_robots_follow": "",
+          "_seopress_robots_imageindex": "",
+          "_seopress_robots_snippet": "",
+          "_seopress_robots_primary_cat": "",
+          "_seopress_robots_breadcrumbs": "",
+          "_seopress_robots_freeze_modified_date": "",
+          "_seopress_robots_custom_modified_date": "",
+          "_seopress_robots_canonical": "",
+          "_seopress_social_fb_title": "",
+          "_seopress_social_fb_desc": "",
+          "_seopress_social_fb_img": "",
+          "_seopress_social_fb_img_attachment_id": 0,
+          "_seopress_social_fb_img_width": 0,
+          "_seopress_social_fb_img_height": 0,
+          "_seopress_social_twitter_title": "",
+          "_seopress_social_twitter_desc": "",
+          "_seopress_social_twitter_img": "",
+          "_seopress_social_twitter_img_attachment_id": 0,
+          "_seopress_social_twitter_img_width": 0,
+          "_seopress_social_twitter_img_height": 0,
+          "_seopress_redirections_value": "",
+          "_seopress_redirections_enabled": "",
+          "_seopress_redirections_enabled_regex": "",
+          "_seopress_redirections_logged_status": "",
+          "_seopress_redirections_param": "",
+          "_seopress_redirections_type": 0,
+          "_seopress_analysis_target_kw": "",
+          "_seopress_news_disabled": "",
+          "_seopress_video_disabled": "",
+          "_seopress_video": [],
+          "_seopress_pro_schemas_manual": [],
+          "_seopress_pro_rich_snippets_disable_all": "",
+          "_seopress_pro_rich_snippets_disable": [],
+          "_seopress_pro_schemas": [],
+          "colormag_page_container_layout": "default_layout",
+          "colormag_page_sidebar_layout": "default_layout",
+          "footnotes": ""
+        }
+      },
+      "content": "<p>D'neit Chambers scored twice, including the winner in the 84th minute, as Hinds Community College earned a 2-1 road victory over Northwest Mississippi Community College on Friday, Oct. 23, in Senatobia.</p><p>After a scoreless first half, Chambers put Hinds ahead in the 49th minute with a shot from 18 yards. Northwest Mississippi tied the match in the 80th minute when Osvaldo Macias finished a corner kick assisted by Joseph Jackson.</p><p>Chambers restored the Eagles' lead less than four minutes later, scoring on a one-on-one chance against the goalkeeper. He led Hinds with four shots, including two on goal, and scored both of the team's goals.</p><p>Juan Paredas-Montaño had two shots, while Nicholas Baker recorded two and Quade Hollingsworth three. Hinds goalkeeper Bray Wilson played all 90 minutes, making four saves and allowing one goal.</p><p>Hinds is scheduled to host Jones College on Tuesday, Oct. 27, at Tom Shepherd Field. Kickoff is set for 4 p.m.</p>\n<p><em>Update: This article has been expanded with additional details from the original athletics report.</em></p>\n<p><em>Source: <a href=\"https://sports.hindscc.edu/news/2026/10/26/chambers-brace-lifts-hinds-mens-soccer-past-northwest-mississippi-cc.aspx\" target=\"_blank\" rel=\"noopener\">Original Article</a></em></p>",
+      "patch_sha256": "2d21ebca136f06f2c6e6d9b604cbf745724ee18755f476be4a7ec668bed6ae1c"
+    }
+  ]
+}
