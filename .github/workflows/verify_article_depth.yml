@@ -1,0 +1,29 @@
+name: Isolated athletics article depth verification
+on:
+  push:
+    branches: [verify-athletics-article-depth]
+    paths: ['.github/workflows/verify_article_depth.yml']
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt pytest
+      - run: PYTHONPATH=src python -m pytest -q
+      - name: Generate six unpublished factual comparisons
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          PYTHONPATH: src
+        run: python scripts/verify_article_depth.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: athletics-depth-unpublished-comparisons
+          path: depth-verification/
+          retention-days: 14
