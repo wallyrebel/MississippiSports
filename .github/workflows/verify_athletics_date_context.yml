@@ -1,0 +1,29 @@
+name: Isolated athletics chronology verification
+on:
+  push:
+    branches: [verify-athletics-date-context-20261027]
+    paths: ['.github/workflows/verify_athletics_date_context.yml']
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt pytest
+      - run: PYTHONPATH=src python -m pytest -q
+      - name: Four fixed unpublished source-date checks
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          PYTHONPATH: src
+        run: python scripts/verify_athletics_date_context.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: athletics-date-context-decisions
+          path: date-context-verification/
+          retention-days: 14
