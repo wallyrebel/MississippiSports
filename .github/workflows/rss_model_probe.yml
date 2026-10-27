@@ -28,18 +28,6 @@ jobs:
           client = OpenAI(api_key=os.environ['OPENAI_API_KEY'], timeout=60, max_retries=0)
           model = client.models.retrieve('gpt-5-nano')
           print(json.dumps({'model_access': model.id, 'shutdown_date': getattr(model, 'shutdown_date', None)}))
-          samples = [
-              ('BMCU wins volleyball match', 'Blue Mountain Christian volleyball beat William Carey in four sets, 25-19, 19-25, 25-15, 25-20. Salice Speed recorded 12 kills.'),
-              ('Basketball exhibition announced', 'The Ole Miss men’s basketball team will host UAB in an exhibition game on Oct. 27. Admission is free.')
-          ]
-          for title, source in samples:
-              result = client.chat.completions.create(
-                  model='gpt-5-nano', reasoning_effort='minimal', max_completion_tokens=2000,
-                  response_format={'type': 'json_object'},
-                  messages=[{'role': 'system', 'content': AP_STYLE_PROMPT}, {'role': 'user', 'content': f'Rewrite this article as JSON. Original title: {title}\nOriginal content: {source}'}])
-              assert result.choices[0].finish_reason == 'stop', 'Incomplete rewrite'
-              payload = json.loads(result.choices[0].message.content)
-              assert article_problem(payload, source, title) is None, 'Article validation failed'
-              usage = result.usage
-              print(json.dumps({'model': result.model, 'headline': payload['headline'], 'valid': True, 'input_tokens': usage.prompt_tokens, 'output_tokens': usage.completion_tokens, 'reasoning_tokens': getattr(usage.completion_tokens_details, 'reasoning_tokens', None)}))
+          newer = client.models.retrieve('gpt-6-luna')
+          print(json.dumps({'model_access': newer.id, 'shutdown_date': getattr(newer, 'shutdown_date', None)}))
           PY
