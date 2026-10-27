@@ -147,6 +147,7 @@ def run(
         max_input_chars=settings.article_max_input_chars,
         depth_policy=DepthPolicy(settings.article_substantive_words,
                                  settings.article_minimum_fraction, settings.article_minimum_cap),
+        verify_facts=True,
     )
 
     wp_client = None
