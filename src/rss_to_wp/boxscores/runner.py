@@ -6,7 +6,7 @@ Operates independently from the RSS feed pipeline.
 
 from __future__ import annotations
 
-from rss_to_wp.rewriter.model_options import chat_model_params, resolve_retired_model
+from rss_to_wp.rewriter.model_options import create_model_completion, resolve_retired_model
 
 import json
 import os
@@ -114,7 +114,7 @@ def _rewrite_boxscore(
                 stats_length=len(stats_text),
             )
 
-            response = client.chat.completions.create(**chat_model_params({
+            response = create_model_completion(client, {
                 "model": attempt_model,
                 "messages": [
                     {"role": "system", "content": system_prompt},
@@ -122,7 +122,7 @@ def _rewrite_boxscore(
                 ],
                 "max_tokens": 2000,
                 "temperature": 0.4,
-            }))
+            })
 
             response_text = response.choices[0].message.content or ""
 

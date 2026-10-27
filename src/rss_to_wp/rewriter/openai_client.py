@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from rss_to_wp.rewriter.model_options import chat_model_params, resolve_retired_model
+from rss_to_wp.rewriter.model_options import create_model_completion, resolve_retired_model
 
 import json
 import re
@@ -157,7 +157,7 @@ Remember to respond with valid JSON containing headline, excerpt, and body."""
             if "o1" not in self.model.lower():
                 api_params["response_format"] = {"type": "json_object"}
             
-            response = self.client.chat.completions.create(**chat_model_params(api_params))
+            response = create_model_completion(self.client, api_params)
 
             if response.choices[0].finish_reason != "stop":
                 logger.warning("rewrite_incomplete", finish_reason=response.choices[0].finish_reason)
@@ -200,7 +200,7 @@ Remember to respond with valid JSON containing headline, excerpt, and body."""
                         api_params.pop("max_tokens", None)
                         api_params["max_completion_tokens"] = self.max_tokens
                     
-                    response = self.client.chat.completions.create(**chat_model_params(api_params))
+                    response = create_model_completion(self.client, api_params)
                     if response.choices[0].finish_reason != "stop":
                         logger.warning("fallback_rewrite_incomplete", finish_reason=response.choices[0].finish_reason)
                         return None
