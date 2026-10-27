@@ -59,20 +59,26 @@ def test_substantive_source_cannot_be_reduced_to_one_sentence():
 
 def test_thin_award_source_does_not_require_padding():
     thin=CASES[-1]['story']
-    assert article_depth_problem({'body':f'<p>{thin}</p>'},thin) is None
+    brief="MUW's Reagan Shinn earned Owl of the Week recognition for October 19-25. Her seventh goal came in the 3-2 defeat by Westminster. She has one match remaining and is tied for third in school history for season goals."
+    assert article_depth_problem({'body':f'<p>{brief}</p>'},thin) is None
     assert 'Do not stretch' in DepthPolicy().instruction(thin)
     padded={'body':'<p>'+thin+' '+('The program continues its important work within the community. '*8)+'</p>'}
     assert article_depth_problem(padded,thin)=='thin_source_overexpanded'
 
 
 def test_rich_report_keeps_supported_facts_and_rejects_padding_and_invented_statistics():
-    source=CASES[3]['story'];sentences=source.split('. ')
-    result={'body':''.join('<p>'+'. '.join(sentences[i:i+4])+'</p>' for i in range(0,len(sentences),4))}
+    source=CASES[3]['story'];sentences=[s.strip('. ') for s in reversed(source.split('. '))]
+    result={'body':''.join('<p>'+'. '.join(sentences[i:i+4])+'.</p>' for i in range(0,len(sentences),4))}
     assert article_depth_problem(result,source) is None
     invented={**result,'body':result['body']+'<p>The team scored 999 points.</p>'}
     assert article_depth_problem(invented,source)=='unsupported_numeric_detail'
     repeated={**result,'body':result['body']+f'<p>{sentences[0]}.</p>'}
     assert article_depth_problem(repeated,source)=='repeated_sentence_padding'
+
+
+def test_extended_copied_source_passage_is_held():
+    source=CASES[3]['story'];chunks=source.split();body=''.join('<p>'+' '.join(chunks[i:i+35])+'</p>' for i in range(0,len(chunks),35))
+    assert article_depth_problem({'body':body},source)=='near_verbatim_source_passage'
 
 
 def test_numeric_guard_accepts_ap_number_and_ordinal_formatting():

@@ -3,6 +3,7 @@
 These checks catch measurable loss/padding; they are not a general fact checker.
 """
 from dataclasses import dataclass
+from difflib import SequenceMatcher
 import re
 from bs4 import BeautifulSoup
 from rss_to_wp.content_quality import plain_text
@@ -73,6 +74,11 @@ def article_depth_problem(article, source, title="", policy=DEFAULT_DEPTH_POLICY
                  for s in re.split(r"(?<=[.!?])\s+", text) if len(words(s)) >= 9]
     if len(sentences) != len(set(sentences)):
         return "repeated_sentence_padding"
+    # A conservative editorial overlap flag, not a legal safe-harbor formula.
+    overlap = SequenceMatcher(None, [w.casefold() for w in words(source)],
+                              [w.casefold() for w in words(text)], autojunk=False)
+    if overlap.find_longest_match().size >= 28:
+        return "near_verbatim_source_passage"
     # A narrow, inspectable numeric guard; numbers must already be in source/title.
     article_text = " ".join((article.get("headline", ""), article.get("excerpt", ""), text))
     if numeric_details(article_text) - numeric_details(source + " " + title):

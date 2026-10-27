@@ -19,7 +19,9 @@ supported. Brief sources remain brief. For sources of at least 120 words, a
 coverage floor is 45% of source words, capped at 220 words, with three meaningful
 paragraphs (four for sources of 400+ words). These are configurable loss checks,
 not a license to pad. A source that cannot support them is held, not inflated.
-Repeated long sentences and numbers absent from source/title are rejected.
+Repeated long sentences, extended copied passages and numbers absent from source/title are rejected.
+The overlap flag catches runs of 28 source words; this is an editorial review
+trigger, not a copyright permission threshold or a legal safe harbor.
 The numeric check normalizes common AP numbers, ordinals and thousands commas;
 it is a narrow guard, not a complete factual or plagiarism checker. RSS also
 uses one bounded 800-token source-to-candidate comparison of headline, excerpt
