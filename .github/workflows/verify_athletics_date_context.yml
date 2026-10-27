@@ -1,4 +1,4 @@
-name: Isolated athletics chronology verification
+name: Isolated athletics chronology with explicit local clocks
 on:
   push:
     branches: [verify-athletics-date-context-20261027]
