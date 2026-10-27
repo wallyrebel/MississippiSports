@@ -1,0 +1,63 @@
+{
+  "run_id": "40535625096",
+  "commit": "c89eed107014cd24bda35fa5d346c110a320536f",
+  "plan_sha256": "993c440a5a78891e4789efdcd45d59656aee072de2cd1e0194d7dad4a89ed05f",
+  "posts": [
+    {
+      "id": 25130,
+      "url": "https://sportsmississippi.com/college/william-carey-closes-regular-season-with-6-0-win-over-andrew-college/",
+      "patch_sha256": "426c0c296df11969d7cc66e14290d9f112a6bf0c8e82a7973bb95b1d94f24e79",
+      "before_sha256": "16b404295a90c962399bc3d260b66bb4f85a9c682b2f54a12e41d738891efa22",
+      "after_raw_content_sha256": "426c0c296df11969d7cc66e14290d9f112a6bf0c8e82a7973bb95b1d94f24e79",
+      "identity_title_excerpt_dates_media_taxonomy_preserved": true,
+      "public_rest_canonical_body_verified": true,
+      "h1_descriptions_canonical_indexability_preserved": true,
+      "image_file_preserved": true
+    },
+    {
+      "id": 25134,
+      "url": "https://sportsmississippi.com/college/blue-mountain-christian-opens-season-with-67-62-win-over-tougaloo/",
+      "patch_sha256": "1883dc777768809d7a6398abb2de0d1aac11f99b183f9c040935cb085d9c7e12",
+      "before_sha256": "804f4e1267c7167d0ce0eb4e7fbd4b48e80a364017d3b4eb7719508ff7cbba68",
+      "after_raw_content_sha256": "1883dc777768809d7a6398abb2de0d1aac11f99b183f9c040935cb085d9c7e12",
+      "identity_title_excerpt_dates_media_taxonomy_preserved": true,
+      "public_rest_canonical_body_verified": true,
+      "h1_descriptions_canonical_indexability_preserved": true,
+      "image_file_preserved": true
+    },
+    {
+      "id": 25148,
+      "url": "https://sportsmississippi.com/college/delta-states-nick-clark-named-gulf-south-conference-offensive-player-of-the-week/",
+      "patch_sha256": "008a9ddc271140af17dd7c07b32beacabb1cbf31ad2161baf2fdf73257bc655c",
+      "before_sha256": "040baa4cd54098619c5198dd6d50c8e95ffcce4be8b7eb494a0411b69c6a98b4",
+      "after_raw_content_sha256": "008a9ddc271140af17dd7c07b32beacabb1cbf31ad2161baf2fdf73257bc655c",
+      "identity_title_excerpt_dates_media_taxonomy_preserved": true,
+      "public_rest_canonical_body_verified": true,
+      "h1_descriptions_canonical_indexability_preserved": true,
+      "image_file_preserved": true
+    },
+    {
+      "id": 25204,
+      "url": "https://sportsmississippi.com/college/belhaven-falls-late-to-southern-virginia/",
+      "patch_sha256": "a450b1fcc8dc75cc267657070af7074a51334b4192b9e0f0b58470a9144a91c2",
+      "before_sha256": "08c8d414068e5f2fcdc808b1f37bf9cfb831507830f2c3d4c694732f6bff390c",
+      "after_raw_content_sha256": "a450b1fcc8dc75cc267657070af7074a51334b4192b9e0f0b58470a9144a91c2",
+      "identity_title_excerpt_dates_media_taxonomy_preserved": true,
+      "public_rest_canonical_body_verified": true,
+      "h1_descriptions_canonical_indexability_preserved": true,
+      "image_file_preserved": true
+    },
+    {
+      "id": 25220,
+      "url": "https://sportsmississippi.com/juco-news/chambers-two-goals-lift-hinds-past-northwest-mississippi/",
+      "patch_sha256": "2d21ebca136f06f2c6e6d9b604cbf745724ee18755f476be4a7ec668bed6ae1c",
+      "before_sha256": "bba53392277eaea33d85996df04ec58d25fc954772389be19aaad8969ef2b948",
+      "after_raw_content_sha256": "2d21ebca136f06f2c6e6d9b604cbf745724ee18755f476be4a7ec668bed6ae1c",
+      "identity_title_excerpt_dates_media_taxonomy_preserved": true,
+      "public_rest_canonical_body_verified": true,
+      "h1_descriptions_canonical_indexability_preserved": true,
+      "image_file_preserved": true
+    }
+  ],
+  "writes": 5
+}
