@@ -1,0 +1,446 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-10-26",
+  "verified_at": "2026-10-27T13:10:39.626223+00:00",
+  "publish": true,
+  "checked_sports": [
+    "soccer",
+    "basketball",
+    "football",
+    "volleyball",
+    "softball",
+    "golf",
+    "cross country",
+    "swimming"
+  ],
+  "games": [
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-26",
+      "home": "Hernando",
+      "away": "Lake Cormorant",
+      "status": "final",
+      "home_score": 8,
+      "away_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/scores/?date=10%2F26%2F2026",
+        "excerpt": "There were 12 matches for Mississippi girls soccer on Mon, 10/26/2026 . The first match, Lake Cormorant (MS) @  Hernando (MS) , started at 5p. Related Content Mississippi Girls Soccer Stat Leaders Mississippi Girls Soccer Playoffs Mississippi Girls Soccer Rankings Mississippi High School Soccer Scores 12 Matches 0 Lake Cormorant 8 Hernando Final 3 Tishomingo County 5 Byhalia Final 0 Ripley 6 Caledonia Final Oxford DeSoto Central Missing score Report final score 0 Resurrection Catholic 7 St. Martin Final 0 Pascagoula 4 Pass Christian Final Forrest County Agricultural Hattiesburg HomeSchool Missing score Report final score 0 Perry Central 6 Moss Point Final 0 Meridian 4 Northeast Lauderdale Final Ocean Springs Our Lady Academy Missing score Report final score 0 George County 4 Gulfport Final 0 Leake 10 Pearl Final",
+        "date_excerpt": "10/26/2026",
+        "home_name": "Hernando",
+        "away_name": "Lake Cormorant"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-26",
+      "home": "Hernando",
+      "away": "Lake Cormorant",
+      "status": "final",
+      "home_score": 5,
+      "away_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/scores/?date=10%2F26%2F2026",
+        "excerpt": "There were 12 matches for Mississippi soccer on Mon, 10/26/2026 . The first match, St. Stanislaus (Bay St. Louis, MS) @  Northwest Rankin (Brandon, MS) , started at 6p. Related Content Mississippi Boys Soccer Stat Leaders Mississippi Boys Soccer Playoffs Mississippi Boys Soccer Rankings Mississippi High School Soccer Scores 12 Matches 0 St. Stanislaus 3 Northwest Rankin Final 1 Tishomingo County 7 Byhalia Final 0 Lake Cormorant 5 Hernando Final 3 Oxford 2 DeSoto Central Final 1 Meridian 3 Northeast Lauderdale Final Forrest County Agricultural Hattiesburg HomeSchool Missing score Report final score 3 Ripley 2 Caledonia Final 0 Perry Central 4 Moss Point Final 0 George County 2 Gulfport Final 3 Bay 1 St. Patrick Final 1 Pascagoula 0 Pass Christian Final 1 Leake 1 Pearl Final",
+        "date_excerpt": "10/26/2026",
+        "home_name": "Hernando",
+        "away_name": "Lake Cormorant"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-26",
+      "home": "DeSoto Central",
+      "away": "Oxford",
+      "status": "final",
+      "home_score": 2,
+      "away_score": 3,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/scores/?date=10%2F26%2F2026",
+        "excerpt": "There were 12 matches for Mississippi soccer on Mon, 10/26/2026 . The first match, St. Stanislaus (Bay St. Louis, MS) @  Northwest Rankin (Brandon, MS) , started at 6p. Related Content Mississippi Boys Soccer Stat Leaders Mississippi Boys Soccer Playoffs Mississippi Boys Soccer Rankings Mississippi High School Soccer Scores 12 Matches 0 St. Stanislaus 3 Northwest Rankin Final 1 Tishomingo County 7 Byhalia Final 0 Lake Cormorant 5 Hernando Final 3 Oxford 2 DeSoto Central Final 1 Meridian 3 Northeast Lauderdale Final Forrest County Agricultural Hattiesburg HomeSchool Missing score Report final score 3 Ripley 2 Caledonia Final 0 Perry Central 4 Moss Point Final 0 George County 2 Gulfport Final 3 Bay 1 St. Patrick Final 1 Pascagoula 0 Pass Christian Final 1 Leake 1 Pearl Final",
+        "date_excerpt": "10/26/2026",
+        "home_name": "DeSoto Central",
+        "away_name": "Oxford"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-26",
+      "home": "Northwest Rankin",
+      "away": "St. Stanislaus",
+      "status": "final",
+      "home_score": 3,
+      "away_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/scores/?date=10%2F26%2F2026",
+        "excerpt": "There were 12 matches for Mississippi soccer on Mon, 10/26/2026 . The first match, St. Stanislaus (Bay St. Louis, MS) @  Northwest Rankin (Brandon, MS) , started at 6p. Related Content Mississippi Boys Soccer Stat Leaders Mississippi Boys Soccer Playoffs Mississippi Boys Soccer Rankings Mississippi High School Soccer Scores 12 Matches 0 St. Stanislaus 3 Northwest Rankin Final 1 Tishomingo County 7 Byhalia Final 0 Lake Cormorant 5 Hernando Final 3 Oxford 2 DeSoto Central Final 1 Meridian 3 Northeast Lauderdale Final Forrest County Agricultural Hattiesburg HomeSchool Missing score Report final score 3 Ripley 2 Caledonia Final 0 Perry Central 4 Moss Point Final 0 George County 2 Gulfport Final 3 Bay 1 St. Patrick Final 1 Pascagoula 0 Pass Christian Final 1 Leake 1 Pearl Final",
+        "date_excerpt": "10/26/2026",
+        "home_name": "Northwest Rankin",
+        "away_name": "St. Stanislaus"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-26",
+      "home": "St. Patrick",
+      "away": "Bay",
+      "status": "final",
+      "home_score": 1,
+      "away_score": 3,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/scores/?date=10%2F26%2F2026",
+        "excerpt": "There were 12 matches for Mississippi soccer on Mon, 10/26/2026 . The first match, St. Stanislaus (Bay St. Louis, MS) @  Northwest Rankin (Brandon, MS) , started at 6p. Related Content Mississippi Boys Soccer Stat Leaders Mississippi Boys Soccer Playoffs Mississippi Boys Soccer Rankings Mississippi High School Soccer Scores 12 Matches 0 St. Stanislaus 3 Northwest Rankin Final 1 Tishomingo County 7 Byhalia Final 0 Lake Cormorant 5 Hernando Final 3 Oxford 2 DeSoto Central Final 1 Meridian 3 Northeast Lauderdale Final Forrest County Agricultural Hattiesburg HomeSchool Missing score Report final score 3 Ripley 2 Caledonia Final 0 Perry Central 4 Moss Point Final 0 George County 2 Gulfport Final 3 Bay 1 St. Patrick Final 1 Pascagoula 0 Pass Christian Final 1 Leake 1 Pearl Final",
+        "date_excerpt": "10/26/2026",
+        "home_name": "St. Patrick",
+        "away_name": "Bay"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-26",
+      "home": "Gulfport",
+      "away": "George County",
+      "status": "final",
+      "home_score": 2,
+      "away_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/scores/?date=10%2F26%2F2026",
+        "excerpt": "There were 12 matches for Mississippi soccer on Mon, 10/26/2026 . The first match, St. Stanislaus (Bay St. Louis, MS) @  Northwest Rankin (Brandon, MS) , started at 6p. Related Content Mississippi Boys Soccer Stat Leaders Mississippi Boys Soccer Playoffs Mississippi Boys Soccer Rankings Mississippi High School Soccer Scores 12 Matches 0 St. Stanislaus 3 Northwest Rankin Final 1 Tishomingo County 7 Byhalia Final 0 Lake Cormorant 5 Hernando Final 3 Oxford 2 DeSoto Central Final 1 Meridian 3 Northeast Lauderdale Final Forrest County Agricultural Hattiesburg HomeSchool Missing score Report final score 3 Ripley 2 Caledonia Final 0 Perry Central 4 Moss Point Final 0 George County 2 Gulfport Final 3 Bay 1 St. Patrick Final 1 Pascagoula 0 Pass Christian Final 1 Leake 1 Pearl Final",
+        "date_excerpt": "10/26/2026",
+        "home_name": "Gulfport",
+        "away_name": "George County"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-26",
+      "home": "Gulfport",
+      "away": "George County",
+      "status": "final",
+      "home_score": 4,
+      "away_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/scores/?date=10%2F26%2F2026",
+        "excerpt": "There were 12 matches for Mississippi girls soccer on Mon, 10/26/2026 . The first match, Lake Cormorant (MS) @  Hernando (MS) , started at 5p. Related Content Mississippi Girls Soccer Stat Leaders Mississippi Girls Soccer Playoffs Mississippi Girls Soccer Rankings Mississippi High School Soccer Scores 12 Matches 0 Lake Cormorant 8 Hernando Final 3 Tishomingo County 5 Byhalia Final 0 Ripley 6 Caledonia Final Oxford DeSoto Central Missing score Report final score 0 Resurrection Catholic 7 St. Martin Final 0 Pascagoula 4 Pass Christian Final Forrest County Agricultural Hattiesburg HomeSchool Missing score Report final score 0 Perry Central 6 Moss Point Final 0 Meridian 4 Northeast Lauderdale Final Ocean Springs Our Lady Academy Missing score Report final score 0 George County 4 Gulfport Final 0 Leake 10 Pearl Final",
+        "date_excerpt": "10/26/2026",
+        "home_name": "Gulfport",
+        "away_name": "George County"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-26",
+      "home": "Simpson Academy",
+      "away": "Amite School Center",
+      "status": "final",
+      "home_score": 66,
+      "away_score": 31,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/scores/?date=10%2F26%2F2026",
+        "excerpt": "There were 4 games for Mississippi girls basketball on Mon, 10/26/2026 . The first game, Amite School Center (Liberty, MS) vs.  Simpson Academy (Mendenhall, MS) , started at 3p. Related Content Mississippi Girls Basketball Stat Leaders Mississippi Girls Basketball Playoffs Mississippi Girls Basketball Rankings Mississippi High School Basketball Scores 4 Games 31 Amite School Center 66 Simpson Academy Final 63 Pillow Academy 26 East Rankin Academy Final 54 Parklane Academy 42 Hartfield Academy Final Columbus Christian Academy Heritage Academy Missing score Report final score",
+        "date_excerpt": "10/26/2026",
+        "home_name": "Simpson Academy",
+        "away_name": "Amite School Center"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-26",
+      "home": "East Rankin Academy",
+      "away": "Pillow Academy",
+      "status": "final",
+      "home_score": 26,
+      "away_score": 63,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/scores/?date=10%2F26%2F2026",
+        "excerpt": "There were 4 games for Mississippi girls basketball on Mon, 10/26/2026 . The first game, Amite School Center (Liberty, MS) vs.  Simpson Academy (Mendenhall, MS) , started at 3p. Related Content Mississippi Girls Basketball Stat Leaders Mississippi Girls Basketball Playoffs Mississippi Girls Basketball Rankings Mississippi High School Basketball Scores 4 Games 31 Amite School Center 66 Simpson Academy Final 63 Pillow Academy 26 East Rankin Academy Final 54 Parklane Academy 42 Hartfield Academy Final Columbus Christian Academy Heritage Academy Missing score Report final score",
+        "date_excerpt": "10/26/2026",
+        "home_name": "East Rankin Academy",
+        "away_name": "Pillow Academy"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-26",
+      "home": "Hartfield Academy",
+      "away": "Parklane Academy",
+      "status": "final",
+      "home_score": 42,
+      "away_score": 54,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/scores/?date=10%2F26%2F2026",
+        "excerpt": "There were 4 games for Mississippi girls basketball on Mon, 10/26/2026 . The first game, Amite School Center (Liberty, MS) vs.  Simpson Academy (Mendenhall, MS) , started at 3p. Related Content Mississippi Girls Basketball Stat Leaders Mississippi Girls Basketball Playoffs Mississippi Girls Basketball Rankings Mississippi High School Basketball Scores 4 Games 31 Amite School Center 66 Simpson Academy Final 63 Pillow Academy 26 East Rankin Academy Final 54 Parklane Academy 42 Hartfield Academy Final Columbus Christian Academy Heritage Academy Missing score Report final score",
+        "date_excerpt": "10/26/2026",
+        "home_name": "Hartfield Academy",
+        "away_name": "Parklane Academy"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-10-26/",
+      "title": "Games To Watch: Bay\u2013St. Patrick rematch joins DeSoto soccer openers"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Scores from last Night: Hernando sweeps shutouts; Oxford wins 3\u20132",
+    "headline_fact_ids": [
+      "game-0",
+      "game-1",
+      "game-2"
+    ],
+    "html": "<p data-facts=\"game-0 game-1 game-2 game-7 game-8 game-9 hernando-girls hernando-boys simpson-records pillow-records parklane-records\">Hernando began its girls and boys soccer schedules without conceding a goal Monday, October 26, beating Lake Cormorant 8\u20130 and 5\u20130. Oxford took a narrower route to its boys victory, winning 3\u20132, while the night also brought opening wins for Simpson Academy, Pillow Academy and Parklane Academy in girls basketball.</p>\n<h2 data-facts=\"game-0 game-1\">Hernando sets the pace with two shutouts</h2>\n<p data-facts=\"game-0 game-1 hernando-girls hernando-boys hernando-halves\"><a href=\"https://www.maxpreps.com/ms/soccer/girls/match/hernando-vs-lake-cormorant/10-26-2026/?c=a1606b9f-8e2d-48be-923f-8bcb04b7e08a\">Hernando\u2019s girls</a> established control before halftime, scoring seven times in the opening half and adding another goal after the break. <a href=\"https://www.maxpreps.com/ms/soccer/match/hernando-vs-lake-cormorant/10-26-2026/?c=aed00bef-2c8b-42f2-ab7d-5230cb0956ba\">The boys followed</a> with a 5\u20130 victory over Lake Cormorant. Both Hernando teams finished the night 1\u20130; both Lake Cormorant teams were 0\u20131.</p>\n<p data-facts=\"game-2 oxford-records oxford-halves\"><a href=\"https://www.maxpreps.com/ms/soccer/match/desoto-central-southaven-vs-oxford/10-26-2026/?c=277474a9-fbbb-40a8-a7c4-c4f161ec22b4\">Oxford\u2019s boys</a> had less room to spare at DeSoto Central. The Chargers led 1\u20130 at halftime, and each side scored twice in the second half, leaving Oxford with a 3\u20132 win. The result gave Oxford a 1\u20130 record and left DeSoto Central 0\u20131. These were among the matchups highlighted in our <a href=\"https://sportsmississippi.com/sports/sportsms-preview-2026-10-26/\">Monday soccer preview</a>.</p>\n<h2 data-facts=\"game-3\">Northwest Rankin opens with a clean sheet</h2>\n<p data-facts=\"game-3 game-2 northwest-records\"><a href=\"https://www.maxpreps.com/ms/soccer/match/northwest-rankin-brandon-vs-st-stanislaus-bay-st-louis/10-26-2026/?c=f238058c-270b-49f3-8482-9ead02c226f1\">Northwest Rankin opened</a> with a 3\u20130 boys victory over St. Stanislaus. The clean sheet put the Cougars at 1\u20130 and handed the Rock-a-Chaws their first loss, leaving St. Stanislaus 2\u20131.</p>\n\n<h2 data-facts=\"game-4 game-5 game-6\">Bay wins at St. Patrick; Gulfport keeps two clean sheets</h2>\n<p data-facts=\"game-4 game-2 bay-records\"><a href=\"https://www.maxpreps.com/ms/soccer/match/bay-bay-st-louis-vs-st-patrick-biloxi/10-26-2026/?c=e31fb9d7-0408-43bc-ab16-858df36a2e3a\">Bay\u2019s boys</a> won 3\u20131 at St. Patrick, moving the Tigers to 1\u20131\u20131. St. Patrick finished the match 0\u20131\u20131. Bay\u2019s victory added another road result to a night that also saw Oxford win at DeSoto Central.</p>\n<p data-facts=\"game-5 game-6 game-0 game-1 gulfport-boys-record gulfport-girls-record\">Gulfport joined Hernando in recording boys and girls shutouts against the same opponent. The Admirals beat George County 2\u20130 in boys soccer and 4\u20130 in girls soccer. <a href=\"https://www.maxpreps.com/ms/soccer/match/george-county-lucedale-vs-gulfport/10-26-2026/?c=f9737efb-18e3-4b99-90fd-3f570b961523\">Gulfport\u2019s boys</a> finished 1\u20130, while <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/george-county-lucedale-vs-gulfport/10-26-2026/?c=f6909ac3-d00e-4af3-bc9b-dbb56eedcf83\">the girls moved</a> to 1\u20131\u20131.</p>\n<h2 data-facts=\"game-7 game-8 game-9\">Simpson, Pillow and Parklane start girls basketball with wins</h2>\n<p data-facts=\"game-7 simpson-records simpson-quarters\"><a href=\"https://www.maxpreps.com/ms/basketball/girls/game/amite-school-center-liberty-vs-simpson-academy-mendenhall/10-26-2026/?c=67cadd01-8bd5-42fc-8e7a-795c56ec01a4\">Simpson Academy built</a> its 66\u201331 victory over Amite School Center with a fast first half. The Cougars outscored Amite 27\u20137 in the opening quarter and 18\u20135 in the second. Simpson finished 1\u20130, with Amite School Center at 0\u20131.</p>\n<p data-facts=\"game-8 game-9 pillow-records parklane-records\"><a href=\"https://www.maxpreps.com/ms/basketball/girls/game/east-rankin-academy-pelahatchie-vs-pillow-academy-greenwood/10-26-2026/?c=e53c37ac-36f6-4efa-a1f2-0635440db1dc\">Pillow Academy beat</a> East Rankin Academy 63\u201326, and <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/hartfield-academy-flowood-vs-parklane-academy-mccomb/10-26-2026/?c=1f12c899-d494-4469-879f-135d9f336763\">Parklane Academy defeated</a> Hartfield Academy 54\u201342. Both winners finished 1\u20130; East Rankin and Hartfield were 0\u20131.</p><p data-facts=\"game-0 game-1 game-2 game-3 game-4 game-5 game-6 game-7 game-8 game-9\">Scoreboard sources: <a href=\"https://www.maxpreps.com/ms/soccer/scores/?date=10%2F26%2F2026\">boys soccer</a>, <a href=\"https://www.maxpreps.com/ms/soccer/girls/scores/?date=10%2F26%2F2026\">girls soccer</a> and <a href=\"https://www.maxpreps.com/ms/basketball/girls/scores/?date=10%2F26%2F2026\">girls basketball</a>.</p>",
+    "facts": [
+      {
+        "id": "hernando-girls",
+        "kind": "record",
+        "claim": "Hernando girls finished 1-0; Lake Cormorant girls finished 0-1.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/hernando-vs-lake-cormorant/10-26-2026/?c=a1606b9f-8e2d-48be-923f-8bcb04b7e08a",
+          "excerpt": "Lake Cormorant 0-1 0 Final 8 Hernando 1-0 Tigers",
+          "subjects": [
+            "Hernando",
+            "Lake Cormorant"
+          ]
+        }
+      },
+      {
+        "id": "hernando-boys",
+        "kind": "record",
+        "claim": "Hernando boys finished 1-0; Lake Cormorant boys finished 0-1.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/hernando-vs-lake-cormorant/10-26-2026/?c=aed00bef-2c8b-42f2-ab7d-5230cb0956ba",
+          "excerpt": "Lake Cormorant 0-1 0 Final 5 Hernando 1-0 Tigers",
+          "subjects": [
+            "Hernando",
+            "Lake Cormorant"
+          ]
+        }
+      },
+      {
+        "id": "oxford-records",
+        "kind": "record",
+        "claim": "Oxford boys finished 1-0; DeSoto Central boys finished 0-1.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/desoto-central-southaven-vs-oxford/10-26-2026/?c=277474a9-fbbb-40a8-a7c4-c4f161ec22b4",
+          "excerpt": "Oxford 1-0 Chargers 3 Final 2 DeSoto Central 0-1 Jaguars",
+          "subjects": [
+            "Oxford",
+            "DeSoto Central"
+          ]
+        }
+      },
+      {
+        "id": "northwest-records",
+        "kind": "record",
+        "claim": "Northwest Rankin boys finished 1-0; St. Stanislaus boys finished 2-1.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/northwest-rankin-brandon-vs-st-stanislaus-bay-st-louis/10-26-2026/?c=f238058c-270b-49f3-8482-9ead02c226f1",
+          "excerpt": "St. Stanislaus 2-1 Rock-a-Chaws 0 Final 3 Northwest Rankin 1-0 Cougars",
+          "subjects": [
+            "Northwest Rankin",
+            "St. Stanislaus"
+          ]
+        }
+      },
+      {
+        "id": "bay-records",
+        "kind": "record",
+        "claim": "Bay boys finished 1-1-1; St. Patrick boys finished 0-1-1.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/bay-bay-st-louis-vs-st-patrick-biloxi/10-26-2026/?c=e31fb9d7-0408-43bc-ab16-858df36a2e3a",
+          "excerpt": "Bay 1-1-1 Tigers 3 Final 1 St. Patrick 0-1-1 Fighting Irish",
+          "subjects": [
+            "Bay",
+            "St. Patrick"
+          ]
+        }
+      },
+      {
+        "id": "gulfport-boys-record",
+        "kind": "record",
+        "claim": "Gulfport boys finished 1-0.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/george-county-lucedale-vs-gulfport/10-26-2026/?c=f9737efb-18e3-4b99-90fd-3f570b961523",
+          "excerpt": "George County 0-3 Rebels 0 Final 2 Gulfport 1-0 Admirals",
+          "subjects": [
+            "Gulfport"
+          ]
+        }
+      },
+      {
+        "id": "gulfport-girls-record",
+        "kind": "record",
+        "claim": "Gulfport girls finished 1-1-1.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/george-county-lucedale-vs-gulfport/10-26-2026/?c=f6909ac3-d00e-4af3-bc9b-dbb56eedcf83",
+          "excerpt": "George County 0-3 Rebels 0 Final 4 Gulfport 1-1-1 Admirals",
+          "subjects": [
+            "Gulfport"
+          ]
+        }
+      },
+      {
+        "id": "simpson-records",
+        "kind": "record",
+        "claim": "Simpson Academy girls finished 1-0; Amite School Center finished 0-1.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/amite-school-center-liberty-vs-simpson-academy-mendenhall/10-26-2026/?c=67cadd01-8bd5-42fc-8e7a-795c56ec01a4",
+          "excerpt": "Amite School Center 0-1 Rebels 31 Final 66 Simpson Academy 1-0 Cougars",
+          "subjects": [
+            "Simpson Academy",
+            "Amite School Center"
+          ]
+        }
+      },
+      {
+        "id": "pillow-records",
+        "kind": "record",
+        "claim": "Pillow Academy girls finished 1-0; East Rankin Academy finished 0-1.",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/east-rankin-academy-pelahatchie-vs-pillow-academy-greenwood/10-26-2026/?c=e53c37ac-36f6-4efa-a1f2-0635440db1dc",
+          "excerpt": "Pillow Academy 1-0 Mustangs 63 Final 26 East Rankin Academy 0-1 Patriots",
+          "subjects": [
+            "Pillow Academy",
+            "East Rankin Academy"
+          ]
+        }
+      },
+      {
+        "id": "parklane-records",
+        "kind": "record",
+        "claim": "Parklane Academy girls finished 1-0; Hartfield Academy finished 0-1.",
+        "game_indexes": [
+          9
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/hartfield-academy-flowood-vs-parklane-academy-mccomb/10-26-2026/?c=1f12c899-d494-4469-879f-135d9f336763",
+          "excerpt": "Parklane Academy 1-0 Pioneers 54 Final 42 Hartfield Academy 0-1 Hawks",
+          "subjects": [
+            "Parklane Academy",
+            "Hartfield Academy"
+          ]
+        }
+      },
+      {
+        "id": "hernando-halves",
+        "kind": "result",
+        "claim": "Hernando girls scored 7 goals in the first half and 1 in the second; Lake Cormorant scored 0 in both halves.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/hernando-vs-lake-cormorant/10-26-2026/?c=a1606b9f-8e2d-48be-923f-8bcb04b7e08a",
+          "excerpt": "Boxscore 1 2 Final Lake Cormorant 0 0 0 Hernando 7 1 8",
+          "subjects": [
+            "Hernando",
+            "Lake Cormorant"
+          ]
+        }
+      },
+      {
+        "id": "oxford-halves",
+        "kind": "result",
+        "claim": "Oxford led 1-0 at halftime. Oxford and DeSoto Central each scored 2 in the second half.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/desoto-central-southaven-vs-oxford/10-26-2026/?c=277474a9-fbbb-40a8-a7c4-c4f161ec22b4",
+          "excerpt": "Boxscore 1 2 Final Oxford 1 2 3 DeSoto Central 0 2 2",
+          "subjects": [
+            "Oxford",
+            "DeSoto Central"
+          ]
+        }
+      },
+      {
+        "id": "simpson-quarters",
+        "kind": "result",
+        "claim": "Simpson Academy outscored Amite School Center 27-7 in the first quarter and 18-5 in the second quarter.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-10-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/amite-school-center-liberty-vs-simpson-academy-mendenhall/10-26-2026/?c=67cadd01-8bd5-42fc-8e7a-795c56ec01a4",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Amite School Center 7 5 11 8 31 Simpson Academy 27 18 16 5 66",
+          "subjects": [
+            "Simpson Academy",
+            "Amite School Center"
+          ]
+        }
+      }
+    ]
+  }
+}
