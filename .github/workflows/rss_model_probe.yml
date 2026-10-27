@@ -1,0 +1,45 @@
+name: Bounded RSS model compatibility check
+on:
+  push:
+    branches: [rss-nano-compatibility-check]
+    paths: ['.github/workflows/rss_model_probe.yml']
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - name: Check supported model and bounded JSON rewrite without WordPress
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          PYTHONPATH: src
+        run: |
+          python - <<'PY'
+          import json, os
+          from openai import OpenAI
+          from rss_to_wp.rewriter.openai_client import AP_STYLE_PROMPT
+          from rss_to_wp.content_quality import article_problem
+          client = OpenAI(api_key=os.environ['OPENAI_API_KEY'], timeout=60, max_retries=0)
+          model = client.models.retrieve('gpt-5-nano')
+          print(json.dumps({'model_access': model.id, 'shutdown_date': getattr(model, 'shutdown_date', None)}))
+          samples = [
+              ('BMCU wins volleyball match', 'Blue Mountain Christian volleyball beat William Carey in four sets, 25-19, 19-25, 25-15, 25-20. Salice Speed recorded 12 kills.'),
+              ('Basketball exhibition announced', 'The Ole Miss men’s basketball team will host UAB in an exhibition game on Oct. 27. Admission is free.')
+          ]
+          for title, source in samples:
+              result = client.chat.completions.create(
+                  model='gpt-5-nano', reasoning_effort='minimal', max_completion_tokens=2000,
+                  response_format={'type': 'json_object'},
+                  messages=[{'role': 'system', 'content': AP_STYLE_PROMPT}, {'role': 'user', 'content': f'Rewrite this article as JSON. Original title: {title}\nOriginal content: {source}'}])
+              assert result.choices[0].finish_reason == 'stop', 'Incomplete rewrite'
+              payload = json.loads(result.choices[0].message.content)
+              assert article_problem(payload, source, title) is None, 'Article validation failed'
+              usage = result.usage
+              print(json.dumps({'model': result.model, 'headline': payload['headline'], 'valid': True, 'input_tokens': usage.prompt_tokens, 'output_tokens': usage.completion_tokens, 'reasoning_tokens': getattr(usage.completion_tokens_details, 'reasoning_tokens', None)}))
+          PY
