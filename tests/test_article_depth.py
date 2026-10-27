@@ -81,6 +81,19 @@ def test_extended_copied_source_passage_is_held():
     assert article_depth_problem({'body':body},source)=='near_verbatim_source_passage'
 
 
+def test_numbers_present_elsewhere_cannot_support_an_invented_interval():
+    source=CASES[0]['story']+' Carey added three goals in the final eight minutes.'
+    article={'headline':'Carey wins','excerpt':'Four goals came in the final 13 minutes.',
+             'body':'<p>William Carey won 6-0 against Andrew College.</p>'}
+    assert article_depth_problem(article,source)=='unsupported_time_or_play_interval'
+
+
+def test_two_play_drive_is_not_two_plays_earlier():
+    source='The offense scored in two plays. Burleson threw a 58-yard pass, then a 14-yard touchdown.'
+    article={'body':'<p>Burleson threw a 58-yard pass two plays before his 14-yard touchdown.</p>'}
+    assert article_depth_problem(article,source)=='unsupported_time_or_play_interval'
+
+
 def test_numeric_guard_accepts_ap_number_and_ordinal_formatting():
     assert numeric_details('seventh goal, 7th goal, seven goals')=={'7'}
 

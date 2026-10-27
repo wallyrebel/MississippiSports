@@ -20,6 +20,9 @@ coverage floor is 45% of source words, capped at 220 words, with three meaningfu
 paragraphs (four for sources of 400+ words). These are configurable loss checks,
 not a license to pad. A source that cannot support them is held, not inflated.
 Repeated long sentences, extended copied passages and numbers absent from source/title are rejected.
+Time/play intervals also require their actual source modifier: a goal in the
+13th minute does not support a claim about the final 13 minutes, and a two-play
+drive does not support saying the first completion came two plays earlier.
 The overlap flag catches runs of 28 source words; this is an editorial review
 trigger, not a copyright permission threshold or a legal safe harbor.
 The numeric check normalizes common AP numbers, ordinals and thousands commas;

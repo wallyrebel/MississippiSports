@@ -45,6 +45,24 @@ class DepthPolicy:
 DEFAULT_DEPTH_POLICY = DepthPolicy()
 
 
+def interval_details(text):
+    """Bind time/play counts to their modifier, not just a bag of numbers."""
+    text = plain_text(text).casefold()
+    for value, name in enumerate(("zero one two three four five six seven eight nine ten "
+                                 "eleven twelve thirteen fourteen fifteen sixteen seventeen "
+                                 "eighteen nineteen twenty").split()):
+        text = re.sub(r"\b" + name + r"\b", str(value), text)
+    values=set()
+    for modifier, count, unit in re.findall(
+            r"\b(final|last|opening|closing|remaining)\s+(\d+)\s+(minutes?|seconds?|plays?)\b", text):
+        values.add(("final" if modifier in {"final","last","closing","remaining"} else modifier,
+                    count, unit.rstrip("s")))
+    for count, unit, direction in re.findall(
+            r"\b(\d+)\s+(minutes?|seconds?|plays?)\s+(earlier|later|before|after|remaining|left)\b", text):
+        values.add(("final" if direction in {"remaining","left"} else direction, count, unit.rstrip("s")))
+    return values
+
+
 def numeric_details(text):
     text = plain_text(text).casefold()
     text = re.sub(r"(?<=\d),(?=\d{3}(?:\D|$))", "", text)
@@ -81,6 +99,8 @@ def article_depth_problem(article, source, title="", policy=DEFAULT_DEPTH_POLICY
         return "near_verbatim_source_passage"
     # A narrow, inspectable numeric guard; numbers must already be in source/title.
     article_text = " ".join((article.get("headline", ""), article.get("excerpt", ""), text))
+    if interval_details(article_text) - interval_details(source + " " + title):
+        return "unsupported_time_or_play_interval"
     if numeric_details(article_text) - numeric_details(source + " " + title):
         return "unsupported_numeric_detail"
     return None
