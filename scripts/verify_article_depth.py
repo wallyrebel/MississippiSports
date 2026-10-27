@@ -42,8 +42,11 @@ negative_cases=[
 ]
 for source,bad in negative_cases:
     assert not r._facts_supported(bad,source,'Game report','gpt-6-luna'),'Known relational error escaped check'
+selected=set(int(x) for x in os.environ.get('VERIFY_POST_IDS',','.join(map(str,IDS))).split(','))
+assert selected and selected <= set(IDS)
 results=[]
 for pid,feedurl in zip(IDS,FEEDS):
+    if pid not in selected:continue
     post=get(f'https://sportsmississippi.com/wp-json/wp/v2/posts/{pid}').json()
     assert post['id']==pid and post['status']=='publish'
     s=BeautifulSoup(post['content']['rendered'],'html.parser')
@@ -69,6 +72,6 @@ for pid,feedurl in zip(IDS,FEEDS):
     results.append(row);ROOT.joinpath('results.json').write_text(json.dumps(results,indent=2))
     print(json.dumps({k:row[k] for k in ['id','source_words','before_body_words','candidate_body_words','candidate_paragraphs','writes']}))
 ROOT.joinpath('summary.json').write_text(json.dumps({'run_id':os.environ['GITHUB_RUN_ID'],'commit':os.environ['GITHUB_SHA'],
-    'model':'gpt-6-luna','reasoning_effort':'none','posts':list(IDS),'candidates':sum(bool(x['candidate']) for x in results),
+    'model':'gpt-6-luna','reasoning_effort':'none','posts':sorted(selected),'candidates':sum(bool(x['candidate']) for x in results),
     'writes':0,'input_tokens':sum(x['prompt_tokens'] for x in usage),'output_tokens':sum(x['completion_tokens'] for x in usage)},indent=2))
 assert all(x['candidate'] for x in results),'One or more samples held; review artifacts before deployment'
