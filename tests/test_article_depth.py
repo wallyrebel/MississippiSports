@@ -5,7 +5,7 @@ from unittest.mock import Mock
 import pytest
 from rss_to_wp.feeds import parser
 from rss_to_wp.rewriter.depth import DepthPolicy, article_depth_problem, numeric_details
-from rss_to_wp.rewriter.openai_client import OpenAIRewriter
+from rss_to_wp.rewriter.openai_client import OpenAIRewriter, time_context
 
 CASES = json.loads((Path(__file__).parent / 'fixtures/athletics_depth_cases.json').read_text())
 
@@ -160,9 +160,9 @@ def test_reference_and_source_time_reach_generation_and_factual_check(monkeypatc
     ref='2026-10-27T11:30:00-05:00';published='Mon, 26 Oct 2026 12:00:00 +0000'
     assert r.rewrite(source,'Weekly calendar',reference_time=ref,source_published=published)
     calls=r.client.chat.completions.create.call_args_list
-    assert ref in calls[0].kwargs['messages'][1]['content'] and published in calls[0].kwargs['messages'][1]['content']
+    assert time_context(ref) in calls[0].kwargs['messages'][1]['content'] and time_context(published) in calls[0].kwargs['messages'][1]['content']
     check=json.loads(calls[1].kwargs['messages'][1]['content'])
-    assert check['reference_time']==ref and check['source_published']==published
+    assert check['reference_time']==time_context(ref) and check['source_published']==time_context(published)
     assert 'already past' in calls[1].kwargs['messages'][0]['content']
 
 
@@ -180,3 +180,8 @@ def test_real_rss_rewriter_receives_local_clock_and_feed_timestamp(monkeypatch):
     assert kwargs['source_published']==published
     parsed=cli.pendulum.parse(kwargs['reference_time'])
     assert parsed.utcoffset().total_seconds() in {-18000,-21600}
+
+
+def test_source_utc_timestamp_is_converted_to_local_event_clock():
+    assert time_context('Mon, 26 Oct 2026 12:00:00 +0000')=='Monday, October 26, 2026 at 7:00 AM America/Chicago (-0500)'
+    assert time_context('2026-10-27T11:30:00-05:00')=='Tuesday, October 27, 2026 at 11:30 AM America/Chicago (-0500)'
