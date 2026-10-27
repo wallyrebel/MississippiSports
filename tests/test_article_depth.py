@@ -102,3 +102,28 @@ def test_bad_or_placeholder_payload_still_rejected(monkeypatch,bad):
     r=OpenAIRewriter('offline-test',model='gpt-6-luna');r.client=Mock();monkeypatch.setattr(r,'_rate_limit',lambda:None)
     r.client.chat.completions.create.return_value=SimpleNamespace(usage=None,choices=[SimpleNamespace(finish_reason='stop',message=SimpleNamespace(content=json.dumps(bad)))])
     assert r.rewrite(CASES[3]['story'],'Belhaven game report') is None
+
+
+@pytest.mark.parametrize('verdict,accepted', [
+ ({'supported':True,'issues':[]},True),
+ ({'supported':False,'issues':[{'claim':'five-point halftime lead','evidence':'35-32'}]},False),
+ ({'supported':False,'issues':[{'claim':'overcame penalties','evidence':'penalties extended drive'}]},False),
+ ({'supported':True,'issues':['conflict']},False), ({'supported':'true','issues':[]},False),
+ ([],False), ({},False)])
+def test_fact_check_holds_relational_errors_and_malformed_verdicts(verdict,accepted):
+    r=OpenAIRewriter('offline-test',model='gpt-6-luna',verify_facts=True);r.client=Mock()
+    r.client.chat.completions.create.return_value=SimpleNamespace(usage=None,choices=[SimpleNamespace(
+        finish_reason='stop',message=SimpleNamespace(content=json.dumps(verdict)))])
+    article={'headline':'Result','excerpt':'A game report','body':'<p>Belhaven lost.</p>'}
+    assert r._facts_supported(article,CASES[3]['story'],'Game','gpt-6-luna') is accepted
+    params=r.client.chat.completions.create.call_args.kwargs
+    assert params['max_completion_tokens']==800 and params['reasoning_effort']=='none'
+    assert 'headline' in params['messages'][1]['content'] and 'excerpt' in params['messages'][1]['content']
+
+
+def test_truncated_fact_check_cannot_approve_article():
+    r=OpenAIRewriter('offline-test',model='gpt-6-luna',verify_facts=True);r.client=Mock()
+    r.client.chat.completions.create.return_value=SimpleNamespace(usage=None,choices=[SimpleNamespace(
+        finish_reason='length',message=SimpleNamespace(content='{"supported":true,"issues":[]}'))])
+    assert not r._facts_supported({'headline':'Result','excerpt':'','body':'<p>Report</p>'},
+                                  CASES[3]['story'],'Game','gpt-6-luna')

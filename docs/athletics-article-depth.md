@@ -21,7 +21,12 @@ paragraphs (four for sources of 400+ words). These are configurable loss checks,
 not a license to pad. A source that cannot support them is held, not inflated.
 Repeated long sentences and numbers absent from source/title are rejected.
 The numeric check normalizes common AP numbers, ordinals and thousands commas;
-it is a narrow guard, not a complete factual or plagiarism checker. Existing
+it is a narrow guard, not a complete factual or plagiarism checker. RSS also
+uses one bounded 800-token source-to-candidate comparison of headline, excerpt
+and body. A mismatch, ambiguous assertion, malformed verdict or incomplete
+check holds the article; it does not trigger automatic rewriting. This check
+is a safeguard, not a factual guarantee. Non-RSS callers are not opted in.
+Existing
 source holds, volleyball consistency, malformed-response and placeholder gates
 remain in force before image, taxonomy and post writes.
 
@@ -31,8 +36,10 @@ Settings: `ARTICLE_MAX_INPUT_CHARS=24000`, `ARTICLE_MAX_OUTPUT_TOKENS=3000`,
 truncated. GPT-6 Luna and reasoning effort `none` remain unchanged. Token use
 is logged without prompts or credentials. At the approved $0.10/M input and
 $0.50/M output prices, the visible-output cap rises from $0.001 to $0.0015
-per request; full-source input increases actual input cost proportionally.
-This is a cap, not expected use. No added automatic generation retry is used.
+per generation request; the additional fact-check output cap is $0.0004.
+Full-source input and the check's source/candidate input increase actual input
+cost proportionally. These are caps, not expected use. No added automatic
+generation retry is used.
 
 `tests/test_article_depth.py` exercises six diagnosed school stories using
 compact original factual fixtures, form wrappers/controls, longer teasers,
