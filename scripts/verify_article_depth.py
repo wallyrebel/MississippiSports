@@ -23,7 +23,7 @@ def old_body(post):
     for p in s.find_all('p'):
         if p.get_text(' ',strip=True).startswith('Source:'):p.decompose()
     return str(s)
-r=OpenAIRewriter(os.environ['OPENAI_API_KEY'],model='gpt-6-luna')
+r=OpenAIRewriter(os.environ['OPENAI_API_KEY'],model='gpt-6-luna',verify_facts=True)
 r.client=OpenAI(api_key=os.environ['OPENAI_API_KEY'],timeout=90,max_retries=0)
 usage=[];create=r.client.chat.completions.create
 def tracked(**params):
@@ -32,6 +32,14 @@ def tracked(**params):
     usage.append(response.usage.model_dump())
     return response
 r.client.chat.completions.create=tracked
+negative_cases=[
+    ('BMCU led 35-32 at halftime. It led 50-45 after three quarters.',
+     {'headline':'BMCU wins','excerpt':'BMCU had a five-point halftime lead.','body':'<p>BMCU led at halftime.</p>'}),
+    ('The Knights drove 61 yards. A roughing-the-passer call and pass interference on fourth down extended their winning drive.',
+     {'headline':'Knights win','excerpt':'','body':'<p>The Knights overcame roughing-the-passer and pass-interference penalties on their winning drive.</p>'}),
+]
+for source,bad in negative_cases:
+    assert not r._facts_supported(bad,source,'Game report','gpt-6-luna'),'Known relational error escaped check'
 results=[]
 for pid,feedurl in zip(IDS,FEEDS):
     post=get(f'https://sportsmississippi.com/wp-json/wp/v2/posts/{pid}').json()

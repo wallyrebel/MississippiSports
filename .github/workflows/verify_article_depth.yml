@@ -1,4 +1,4 @@
-name: Isolated athletics article depth verification
+name: Isolated athletics depth and factual consistency verification
 on:
   push:
     branches: [verify-athletics-article-depth]
