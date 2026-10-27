@@ -74,10 +74,17 @@ class Worker:
         require(r.status_code==200,f'Public verification failed HTTP{r.status_code}')
         return r
     def surface(self,post):
-        page=self.public_get(post['link']);s=BeautifulSoup(page.text,'html.parser')
+        # Static page caches can omit charset in Content-Type. Let the HTML
+        # declaration decode bytes instead of requests' ISO-8859-1 fallback.
+        page=self.public_get(post['link']);s=BeautifulSoup(page.content,'html.parser')
         canonical=s.find('link',rel='canonical')
         require(canonical and canonical.get('href','').rstrip('/')==post['link'].rstrip('/'),'Canonical changed')
-        require(any(plain(str(h))==plain(post['title']) for h in s.find_all('h1')),'H1 differs from retained title')
+        h1s=[plain(str(h)) for h in s.find_all('h1')]
+        if plain(post['title']) not in h1s:
+            self.save(f'public-h1-mismatch-{post["id"]}.json',{'url':post['link'],
+                      'expected':plain(post['title']),'observed':h1s,
+                      'content_type':page.headers.get('Content-Type','')})
+            raise Stop(f'Post{post["id"]} H1 differs from retained title')
         descriptions={}
         for name in ('description','dc.description','og:description','twitter:description'):
             tag=s.find('meta',attrs={'name':name}) or s.find('meta',attrs={'property':name})

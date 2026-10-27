@@ -33,7 +33,7 @@ def test_raw_snapshot_is_mandatory():
 
 class Response:
     def __init__(self,data=None,text='',content=b'fixture',headers=None):
-        self.data=data;self.text=text;self.content=content;self.status_code=200;self.headers=headers or {}
+        self.data=data;self.text=text;self.content=text.encode() if text else content;self.status_code=200;self.headers=headers or {}
     def json(self):return copy.deepcopy(self.data)
 
 class API:
@@ -59,7 +59,7 @@ class API:
         if '/wp-content/' in url:return Response(content=b'fixture')
         p=next(p for p in self.posts.values() if p['link']==url)
         desc=html.escape(m.plain(p['excerpt']['rendered']),quote=True)
-        page=f'<html><head><link rel="canonical" href="{url}">'
+        page=f'<html><head><meta charset="utf-8"><link rel="canonical" href="{url}">'
         for name in ('description','dc.description','og:description','twitter:description'):page+=f'<meta name="{name}" content="{desc}">'
         page+=f'</head><body><h1>{p["title"]["rendered"]}</h1><div class="entry-content">{p["content"]["rendered"]}</div></body></html>'
         return Response(text=page)
@@ -85,6 +85,25 @@ def test_serial_apply_is_body_only_and_preserves_all_other_fields(setup):
     assert [p[0] for p in api.writes]==[f'posts/{p}' for p in m.IDS]
     assert all(set(payload)=={'content'} for _,payload in api.writes)
     assert receipt['writes']==5 and all(a['state']=='confirmed' for a in w.actions)
+
+def test_static_cache_missing_http_charset_uses_html_encoding(setup):
+    data,api,w=setup;get=api.get
+    def latin1(url,**kwargs):
+        response=get(url,**kwargs)
+        if response.text:response.text=response.content.decode('iso-8859-1');response.headers={'Content-Type':'text/html'}
+        return response
+    api.get=latin1
+    assert len(w.preflight(data)['posts'])==5 and not api.writes
+
+def test_real_h1_drift_still_fails_closed(setup):
+    data,api,w=setup;get=api.get
+    def changed(url,**kwargs):
+        response=get(url,**kwargs)
+        if response.text:response.content=response.content.replace(b'<h1>',b'<h1>Changed ')
+        return response
+    api.get=changed
+    with pytest.raises(m.Stop,match='H1 differs'):w.preflight(data)
+    assert not api.writes
 
 @pytest.mark.parametrize('case',['plan_drift','post_drift','second_attempt','wrong_branch','completed'])
 def test_apply_guards_stop_before_first_write(setup,monkeypatch,case):

@@ -1,6 +1,3 @@
 {
-  "apply": true,
-  "approved_plan_sha256": "993c440a5a78891e4789efdcd45d59656aee072de2cd1e0194d7dad4a89ed05f",
-  "preflight_run_id": "40534043734",
-  "preflight_commit": "7391339baa2bebf661ed929486a0f1910eb6b9d2"
+  "apply": false
 }
