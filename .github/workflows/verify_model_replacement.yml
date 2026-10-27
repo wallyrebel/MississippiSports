@@ -43,3 +43,20 @@ jobs:
               usage=response.usage
               print(json.dumps({'model':response.model,'format':response_format['type'],'valid':True,'input_tokens':usage.prompt_tokens,'output_tokens':usage.completion_tokens,'reasoning_tokens':getattr(usage.completion_tokens_details,'reasoning_tokens',None),'shutdown_date':getattr(model,'shutdown_date',None)}))
           PY
+      - name: Exercise one current RSS feed in enforced dry-run mode
+        env:
+          PYTHONPATH: src
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-6-luna
+          WORDPRESS_BASE_URL: https://example.invalid
+          WORDPRESS_USERNAME: dry-run-placeholder
+          WORDPRESS_APP_PASSWORD: dry-run-placeholder
+        run: |
+          set -o pipefail
+          python -m rss_to_wp run --dry-run --single-feed "Carey Women's Soccer" 2>&1 | tee /tmp/rss-model-dry-run.log
+          python - <<'PYCODE'
+          import pathlib
+          text=pathlib.Path('/tmp/rss-model-dry-run.log').read_text()
+          assert 'dry_run_would_publish' in text, 'No complete validated RSS article observed'
+          assert 'post_created' not in text, 'Unexpected publication'
+          PYCODE
