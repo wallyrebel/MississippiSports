@@ -1,0 +1,712 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-10-27",
+  "verified_at": "2026-10-28T13:14:31.554775+00:00",
+  "publish": true,
+  "checked_sports": [
+    "soccer",
+    "basketball",
+    "football",
+    "volleyball",
+    "softball",
+    "golf",
+    "cross country",
+    "swimming"
+  ],
+  "games": [
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-27",
+      "home": "Saltillo",
+      "away": "Starkville",
+      "status": "final",
+      "home_score": 4,
+      "away_score": 3,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/saltillo-vs-starkville/10-27-2026/?c=a2a7c24d-45f7-4edd-8ea7-8ed2ee9b1b1f",
+        "excerpt": "Starkville vs Saltillo | Soccer | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Starkville Girls Varsity Soccer @ Saltillo Starkville 0-1 Yellowjackets 3 Final 4 Saltillo 1-0 Tigers Starkville Girls Varsity Soccer @ Saltillo Game Info On 10/27, the Starkville varsity soccer team lost their away non-conference match against Saltillo (MS) by a score of 4-3.",
+        "date_excerpt": "10/27/2026",
+        "home_name": "Saltillo",
+        "away_name": "Starkville"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-27",
+      "home": "Saltillo",
+      "away": "Starkville",
+      "status": "final",
+      "home_score": 1,
+      "away_score": 3,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/saltillo-vs-starkville/10-27-2026/?c=21744a03-3376-4ba2-99f3-f6e859bdf068",
+        "excerpt": "Starkville vs Saltillo | Soccer | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Starkville Boys Varsity Soccer @ Saltillo Starkville 1-0 Yellowjackets 3 Final 1 Saltillo 0-1 Tigers Starkville Boys Varsity Soccer @ Saltillo Game Info On 10/27, the Starkville varsity soccer team won their away non-conference match against Saltillo (MS) by a score of 3-1.",
+        "date_excerpt": "10/27/2026",
+        "home_name": "Saltillo",
+        "away_name": "Starkville"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-27",
+      "home": "Lewisburg",
+      "away": "Madison Central",
+      "status": "final",
+      "home_score": 2,
+      "away_score": 1,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/lewisburg-olive-branch-vs-madison-central/10-27-2026/?c=b02e28c5-cccc-4682-97ff-2e21aadf23f9",
+        "excerpt": "Madison Central vs Lewisburg | Soccer | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Madison Central Girls Varsity Soccer @ Lewisburg Madison Central 0-1 Jaguars 1 Final 2 Lewisburg 1-0 Patriots Madison Central Girls Varsity Soccer @ Lewisburg Game Info On 10/27, the Madison Central varsity soccer team lost their away non-conference match against Lewisburg (Olive Branch, MS) by a score of 2-1.",
+        "date_excerpt": "10/27/2026",
+        "home_name": "Lewisburg",
+        "away_name": "Madison Central"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-27",
+      "home": "Olive Branch",
+      "away": "Lewisburg",
+      "status": "final",
+      "home_score": 0,
+      "away_score": 7,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/lewisburg-olive-branch-vs-olive-branch/10-27-2026/?c=2724b2f2-304a-4a48-a209-4838f1a834dd",
+        "excerpt": "Lewisburg vs Olive Branch | Soccer | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Lewisburg Boys Varsity Soccer @ Olive Branch Lewisburg 1-0 Patriots 7 Final 0 Olive Branch 0-1 Conquistadors Lewisburg Boys Varsity Soccer @ Olive Branch Game Info On 10/27, the Lewisburg varsity soccer team won their away non-conference match against Olive Branch (MS) by a score of 7-0.",
+        "date_excerpt": "10/27/2026",
+        "home_name": "Olive Branch",
+        "away_name": "Lewisburg"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-27",
+      "home": "South Panola",
+      "away": "Southaven",
+      "status": "final",
+      "home_score": 0,
+      "away_score": 3,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/south-panola-batesville-vs-southaven/10-27-2026/?c=d5218113-8486-4bed-9178-6d120b0e31b3",
+        "excerpt": "Southaven vs South Panola | Soccer | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Southaven Girls Varsity Soccer @ South Panola Southaven 3-0 Chargers 3 Final 0 South Panola 0-1 Tigers Southaven Girls Varsity Soccer @ South Panola Game Info On 10/27, the Southaven varsity soccer team won their away non-conference match against South Panola (Batesville, MS) by a score of 3-0.",
+        "date_excerpt": "10/27/2026",
+        "home_name": "South Panola",
+        "away_name": "Southaven"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-27",
+      "home": "South Panola",
+      "away": "Southaven",
+      "status": "final",
+      "home_score": 1,
+      "away_score": 1,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/south-panola-batesville-vs-southaven/10-27-2026/?c=c6a6c394-3b48-4e64-af47-145f197e52a9",
+        "excerpt": "Southaven vs South Panola | Soccer | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Southaven Boys Varsity Soccer @ South Panola Southaven 2-0-1 Chargers 1 Final 1 South Panola 0-0-1 Tigers Southaven Boys Varsity Soccer @ South Panola Game Info On 10/27, the Southaven varsity soccer team tied their away non-conference match against South Panola (Batesville, MS) by a score of 1-1.",
+        "date_excerpt": "10/27/2026",
+        "home_name": "South Panola",
+        "away_name": "Southaven"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-27",
+      "home": "Long Beach",
+      "away": "Biloxi",
+      "status": "final",
+      "home_score": 0,
+      "away_score": 1,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/biloxi-vs-long-beach/10-27-2026/?c=6a4874c6-b2df-4414-89f1-9fd02d6d0a53",
+        "excerpt": "Biloxi vs Long Beach | Soccer | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Biloxi Boys Varsity Soccer @ Long Beach Biloxi 3-0 Indians 1 Final 0 Long Beach 0-1-1 Bearcats Biloxi Boys Varsity Soccer @ Long Beach Streaming & Ticketing Watch Recap Game Info On 10/27, the Biloxi varsity soccer team won their away non-conference match against Long Beach (MS) by a score of 1-0.",
+        "date_excerpt": "10/27/2026",
+        "home_name": "Long Beach",
+        "away_name": "Biloxi"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-27",
+      "home": "Long Beach",
+      "away": "Biloxi",
+      "status": "final",
+      "home_score": 2,
+      "away_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/biloxi-vs-long-beach/10-27-2026/?c=7d570614-ba3f-4088-8dc5-7a395da9f1f5",
+        "excerpt": "Biloxi vs Long Beach | Soccer | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Biloxi Girls Varsity Soccer @ Long Beach Biloxi 0-1 Indians 0 Final 2 Long Beach 1-0 Bearcats Biloxi Girls Varsity Soccer @ Long Beach Streaming & Ticketing Watch Recap Game Info On 10/27, the Biloxi varsity soccer team lost their away non-conference match against Long Beach (MS) by a score of 2-0.",
+        "date_excerpt": "10/27/2026",
+        "home_name": "Long Beach",
+        "away_name": "Biloxi"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-27",
+      "home": "Warren Central",
+      "away": "Brandon",
+      "status": "final",
+      "home_score": 0,
+      "away_score": 7,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/brandon-vs-warren-central-vicksburg/10-27-2026/?c=c0cba5c3-a9cc-4d1b-9e5c-7c451d0a1db2",
+        "excerpt": "Brandon vs Warren Central | Soccer | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Brandon Girls Varsity Soccer @ Warren Central Brandon 3-0 Bulldogs 7 Final 0 Warren Central 1-1-1 Vikings Brandon Girls Varsity Soccer @ Warren Central Game Info On 10/27, the Brandon varsity soccer team won their away non-conference match against Warren Central (Vicksburg, MS) by a score of 7-0.",
+        "date_excerpt": "10/27/2026",
+        "home_name": "Warren Central",
+        "away_name": "Brandon"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-27",
+      "home": "Warren Central",
+      "away": "Brandon",
+      "status": "final",
+      "home_score": 1,
+      "away_score": 3,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/brandon-vs-warren-central-vicksburg/10-27-2026/?c=daf47d2b-2ef0-43c1-8c1b-f8546881354c",
+        "excerpt": "Brandon vs Warren Central | Soccer | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Brandon Boys Varsity Soccer @ Warren Central Brandon 1-0 Bulldogs 3 Final 1 Warren Central 0-2-1 Vikings Brandon Boys Varsity Soccer @ Warren Central Game Info On 10/27, the Brandon varsity soccer team won their away non-conference match against Warren Central (Vicksburg, MS) by a score of 3-1.",
+        "date_excerpt": "10/27/2026",
+        "home_name": "Warren Central",
+        "away_name": "Brandon"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-27",
+      "home": "Parklane Academy",
+      "away": "Amite School Center",
+      "status": "final",
+      "home_score": 41,
+      "away_score": 36,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/amite-school-center-liberty-vs-parklane-academy-mccomb/10-27-2026/?c=c2e71ad7-7890-42ce-bd84-2f8110890013",
+        "excerpt": "Amite School Center vs Parklane Academy | Basketball | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Amite School Center Girls Varsity Basketball vs. Parklane Academy Amite School Center 0-2 Rebels 36 Final 41 Parklane Academy 2-0 Pioneers Amite School Center Girls Varsity Basketball vs. Parklane Academy Game Info On 10/27, the Amite School Center varsity basketball team lost their neutral tournament game against Parklane Academy (McComb, MS) by a score of 41-36.",
+        "date_excerpt": "10/27/2026",
+        "home_name": "Parklane Academy",
+        "away_name": "Amite School Center"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-27",
+      "home": "Simpson Academy",
+      "away": "Silliman Institute",
+      "status": "final",
+      "home_score": 61,
+      "away_score": 15,
+      "evidence": {
+        "url": "https://www.maxpreps.com/inter-state/basketball/girls/game/silliman-institute-clinton-la-vs-simpson-academy-mendenhall-ms/10-27-2026/?c=42d88339-184a-4c6b-babd-866731279c3b",
+        "excerpt": "Silliman Institute vs Simpson Academy | Basketball | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Silliman Institute Girls Varsity Basketball vs. Simpson Academy Silliman Institute 0-1 Wildcats 15 Final 61 Simpson Academy 2-0 Cougars Silliman Institute Girls Varsity Basketball vs. Simpson Academy Game Info On 10/27, the Silliman Institute varsity basketball team lost their neutral tournament game against Simpson Academy (Mendenhall, MS) by a score of 61-15.",
+        "date_excerpt": "10/27/2026",
+        "home_name": "Simpson Academy",
+        "away_name": "Silliman Institute"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-27",
+      "home": "Madison-Ridgeland Academy",
+      "away": "Cathedral",
+      "status": "final",
+      "home_score": 49,
+      "away_score": 15,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/cathedral-natchez-vs-madison-ridgeland-academy/10-27-2026/?c=74bbe3a6-cb98-47e8-a604-88cf0c31742f",
+        "excerpt": "Cathedral vs Madison-Ridgeland Academy | Basketball | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Cathedral Girls Varsity Basketball @ MRA Cathedral 0-1 Green Wave 15 Final 49 Madison-Ridgeland Academy 1-0 Patriots Cathedral Girls Varsity Basketball @ MRA Game Info On 10/27, the Cathedral varsity basketball team lost their away non-conference game against Madison-Ridgeland Academy (Madison, MS) by a score of 49-15.",
+        "date_excerpt": "10/27/2026",
+        "home_name": "Madison-Ridgeland Academy",
+        "away_name": "Cathedral"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-27",
+      "home": "Bowling Green",
+      "away": "Hattiesburg HomeSchool",
+      "status": "final",
+      "home_score": 44,
+      "away_score": 66,
+      "evidence": {
+        "url": "https://www.maxpreps.com/inter-state/basketball/game/bowling-green-franklinton-la-vs-hattiesburg-homeschool-ms/10-27-2026/?c=d51ef430-7453-4c02-a7b5-c945a9ee1a61",
+        "excerpt": "Hattiesburg HomeSchool vs Bowling Green | Basketball | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Basketball Louisiana High School Basketball HHS Boys Varsity Basketball @ Bowling Green Hattiesburg HomeSchool 3-0 Forerunners 66 Final 44 Bowling Green 0-1 Buccaneers HHS Boys Varsity Basketball @ Bowling Green Game Info On 10/27, the Hattiesburg HomeSchool varsity basketball team won their away non-conference game against Bowling Green (Franklinton, LA) by a score of 66-44.",
+        "date_excerpt": "10/27/2026",
+        "home_name": "Bowling Green",
+        "away_name": "Hattiesburg HomeSchool"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-10-26/",
+      "title": "Scores from last Night: Hernando sweeps shutouts; Oxford wins 3\u20132"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Scores from last Night: Carruth scores 22 in Parklane win; Lewisburg edges Madison Central",
+    "headline_fact_ids": [
+      "game-10",
+      "carruth-points",
+      "game-2"
+    ],
+    "html": "<p data-facts=\"game-10 carruth-points game-2 lewisburg-halves game-0 game-1\">Carlyle Carruth scored 22 points as Parklane Academy held off Amite School Center 41\u201336 on Tuesday, October 27. On the soccer field, Lewisburg\u2019s girls broke a halftime tie to beat Madison Central 2\u20131, while Saltillo and Starkville traded boys and girls victories.</p>\n<h2 data-facts=\"game-10 records-10 carruth-points\">Carruth helps Parklane reach 2\u20130</h2>\n<p data-facts=\"game-10 records-10 carruth-points\"><a href=\"https://www.maxpreps.com/ms/basketball/girls/game/amite-school-center-liberty-vs-parklane-academy-mccomb/10-27-2026/?c=c2e71ad7-7890-42ce-bd84-2f8110890013\">Parklane\u2019s win</a> kept the Pioneers unbeaten at 2\u20130. Carruth finished with <a href=\"https://www.maxpreps.com/ms/mccomb/parklane-academy-pioneers/athletes/carlyle-carruth/?careerid=dlgrm4s6pt9dd\">22 points</a> in the neutral-site tournament game, while Amite School Center finished 0\u20132.</p>\n<p data-facts=\"game-11 game-12 records-11 records-12 simpson-quarters mra-quarters\"><a href=\"https://www.maxpreps.com/inter-state/basketball/girls/game/silliman-institute-clinton-la-vs-simpson-academy-mendenhall-ms/10-27-2026/?c=42d88339-184a-4c6b-babd-866731279c3b\">Simpson Academy</a> also moved to 2\u20130, beating Silliman Institute 61\u201315. The Cougars led 23\u20135 after the first quarter and outscored Silliman 17\u20136 in the second. <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/cathedral-natchez-vs-madison-ridgeland-academy/10-27-2026/?c=74bbe3a6-cb98-47e8-a604-88cf0c31742f\">Madison-Ridgeland Academy</a> opened with a 49\u201315 win over Cathedral, taking a 15\u20133 lead in the first quarter. Our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-10-26/\">previous morning roundup</a> has more early-season basketball coverage.</p>\n<h2 data-facts=\"game-13 russell-identity russell-line\">Russell posts a double-double for Hattiesburg HomeSchool</h2>\n<p data-facts=\"game-13 records-13 russell-identity russell-line homeschool-quarters\"><a href=\"https://www.maxpreps.com/inter-state/basketball/game/bowling-green-franklinton-la-vs-hattiesburg-homeschool-ms/10-27-2026/?c=d51ef430-7453-4c02-a7b5-c945a9ee1a61\">Hattiesburg HomeSchool won 66\u201344 at Bowling Green</a> in Franklinton, Louisiana, with <a href=\"https://www.maxpreps.com/ms/hattiesburg/hattiesburg-homeschool-forerunners/athletes/keller-russell/?careerid=0oj683q0o05aa\">Keller Russell</a> recording 26 points, 10 rebounds and six assists. The Forerunners gained ground through the middle quarters, outscoring Bowling Green 22\u201313 in the second and 22\u201314 in the third. Hattiesburg HomeSchool finished 3\u20130.</p>\n<h2 data-facts=\"game-2 game-3 game-4\">Lewisburg and Southaven girls add soccer wins</h2>\n<p data-facts=\"game-2 game-3 records-2 records-3 lewisburg-halves\"><a href=\"https://www.maxpreps.com/ms/soccer/girls/match/lewisburg-olive-branch-vs-madison-central/10-27-2026/?c=b02e28c5-cccc-4682-97ff-2e21aadf23f9\">Lewisburg\u2019s girls</a> and Madison Central were tied 1\u20131 at halftime. The Patriots scored the only goal after the break to secure a 2\u20131 win and a 1\u20130 start. Lewisburg\u2019s boys also opened with a win, <a href=\"https://www.maxpreps.com/ms/soccer/match/lewisburg-olive-branch-vs-olive-branch/10-27-2026/?c=2724b2f2-304a-4a48-a209-4838f1a834dd\">beating Olive Branch 7\u20130 on the road</a>.</p>\n<p data-facts=\"game-4 game-5 records-4 records-5 southaven-halves\"><a href=\"https://www.maxpreps.com/ms/soccer/girls/match/south-panola-batesville-vs-southaven/10-27-2026/?c=d5218113-8486-4bed-9178-6d120b0e31b3\">Southaven\u2019s girls won 3\u20130 at South Panola</a>, scoring twice before halftime and once afterward. The Chargers moved to 3\u20130. The <a href=\"https://www.maxpreps.com/ms/soccer/match/south-panola-batesville-vs-southaven/10-27-2026/?c=c6a6c394-3b48-4e64-af47-145f197e52a9\">boys match finished 1\u20131</a>, leaving Southaven unbeaten at 2\u20130\u20131 and South Panola at 0\u20130\u20131.</p>\n<h2 data-facts=\"game-0 game-1\">Saltillo and Starkville split their soccer matches</h2>\n<p data-facts=\"game-0 game-1 records-0 records-1\"><a href=\"https://www.maxpreps.com/ms/soccer/girls/match/saltillo-vs-starkville/10-27-2026/?c=a2a7c24d-45f7-4edd-8ea7-8ed2ee9b1b1f\">Saltillo\u2019s girls edged Starkville 4\u20133</a> in a match decided by a single goal. The Tigers finished 1\u20130, with Starkville at 0\u20131. The boys result went the other way: <a href=\"https://www.maxpreps.com/ms/soccer/match/saltillo-vs-starkville/10-27-2026/?c=21744a03-3376-4ba2-99f3-f6e859bdf068\">Starkville won 3\u20131 at Saltillo</a>, giving the Yellowjackets a 1\u20130 start and leaving Saltillo 0\u20131.</p>\n<h2 data-facts=\"game-6 game-7\">Biloxi boys break through after halftime</h2>\n<p data-facts=\"game-6 game-7 records-6 records-7 biloxi-halves\"><a href=\"https://www.maxpreps.com/ms/soccer/match/biloxi-vs-long-beach/10-27-2026/?c=6a4874c6-b2df-4414-89f1-9fd02d6d0a53\">Biloxi\u2019s boys won 1\u20130 at Long Beach</a> after the teams reached halftime scoreless. The Indians scored the only goal in the second half and finished 3\u20130. <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/biloxi-vs-long-beach/10-27-2026/?c=7d570614-ba3f-4088-8dc5-7a395da9f1f5\">Long Beach\u2019s girls won 2\u20130 over Biloxi</a>, opening their schedule with a shutout.</p>\n<h2 data-facts=\"game-8 game-9\">Brandon takes both matches at Warren Central</h2>\n<p data-facts=\"game-8 game-9 records-8 records-9 brandon-halves\"><a href=\"https://www.maxpreps.com/ms/soccer/girls/match/brandon-vs-warren-central-vicksburg/10-27-2026/?c=c0cba5c3-a9cc-4d1b-9e5c-7c451d0a1db2\">Brandon\u2019s girls stayed unbeaten at 3\u20130 with a 7\u20130 victory</a> at Warren Central. The <a href=\"https://www.maxpreps.com/ms/soccer/match/brandon-vs-warren-central-vicksburg/10-27-2026/?c=daf47d2b-2ef0-43c1-8c1b-f8546881354c\">Bulldogs\u2019 boys won 3\u20131</a>, scoring all their goals before halftime. Warren Central scored once after the break, but Brandon\u2019s first-half lead held up for a 1\u20130 start.</p>",
+    "facts": [
+      {
+        "id": "records-0",
+        "kind": "record",
+        "claim": "Saltillo girls finished 1-0; Starkville girls finished 0-1.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/saltillo-vs-starkville/10-27-2026/?c=a2a7c24d-45f7-4edd-8ea7-8ed2ee9b1b1f",
+          "excerpt": "High School Girls Soccer Mississippi High School Soccer Starkville Girls Varsity Soccer @ Saltillo Starkville 0-1 Yellowjackets 3 Final 4 Saltillo 1-0 Tigers Starkville Girls Varsity Soccer @ Saltillo",
+          "subjects": [
+            "Saltillo",
+            "Starkville"
+          ]
+        }
+      },
+      {
+        "id": "records-1",
+        "kind": "record",
+        "claim": "Saltillo boys finished 0-1; Starkville boys finished 1-0.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/saltillo-vs-starkville/10-27-2026/?c=21744a03-3376-4ba2-99f3-f6e859bdf068",
+          "excerpt": "High School Soccer Mississippi High School Soccer Starkville Boys Varsity Soccer @ Saltillo Starkville 1-0 Yellowjackets 3 Final 1 Saltillo 0-1 Tigers Starkville Boys Varsity Soccer @ Saltillo",
+          "subjects": [
+            "Saltillo",
+            "Starkville"
+          ]
+        }
+      },
+      {
+        "id": "records-2",
+        "kind": "record",
+        "claim": "Lewisburg girls finished 1-0; Madison Central girls finished 0-1.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/lewisburg-olive-branch-vs-madison-central/10-27-2026/?c=b02e28c5-cccc-4682-97ff-2e21aadf23f9",
+          "excerpt": "High School Girls Soccer Mississippi High School Soccer Madison Central Girls Varsity Soccer @ Lewisburg Madison Central 0-1 Jaguars 1 Final 2 Lewisburg 1-0 Patriots Madison Central Girls Varsity Soccer @ Lewisburg",
+          "subjects": [
+            "Lewisburg",
+            "Madison Central"
+          ]
+        }
+      },
+      {
+        "id": "records-3",
+        "kind": "record",
+        "claim": "Olive Branch boys finished 0-1; Lewisburg boys finished 1-0.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/lewisburg-olive-branch-vs-olive-branch/10-27-2026/?c=2724b2f2-304a-4a48-a209-4838f1a834dd",
+          "excerpt": "High School Soccer Mississippi High School Soccer Lewisburg Boys Varsity Soccer @ Olive Branch Lewisburg 1-0 Patriots 7 Final 0 Olive Branch 0-1 Conquistadors Lewisburg Boys Varsity Soccer @ Olive Branch",
+          "subjects": [
+            "Olive Branch",
+            "Lewisburg"
+          ]
+        }
+      },
+      {
+        "id": "records-4",
+        "kind": "record",
+        "claim": "South Panola girls finished 0-1; Southaven girls finished 3-0.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/south-panola-batesville-vs-southaven/10-27-2026/?c=d5218113-8486-4bed-9178-6d120b0e31b3",
+          "excerpt": "High School Girls Soccer Mississippi High School Soccer Southaven Girls Varsity Soccer @ South Panola Southaven 3-0 Chargers 3 Final 0 South Panola 0-1 Tigers Southaven Girls Varsity Soccer @ South Panola",
+          "subjects": [
+            "South Panola",
+            "Southaven"
+          ]
+        }
+      },
+      {
+        "id": "records-5",
+        "kind": "record",
+        "claim": "South Panola boys finished 0-0-1; Southaven boys finished 2-0-1.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/south-panola-batesville-vs-southaven/10-27-2026/?c=c6a6c394-3b48-4e64-af47-145f197e52a9",
+          "excerpt": "High School Soccer Mississippi High School Soccer Southaven Boys Varsity Soccer @ South Panola Southaven 2-0-1 Chargers 1 Final 1 South Panola 0-0-1 Tigers Southaven Boys Varsity Soccer @ South Panola",
+          "subjects": [
+            "South Panola",
+            "Southaven"
+          ]
+        }
+      },
+      {
+        "id": "records-6",
+        "kind": "record",
+        "claim": "Long Beach boys finished 0-1-1; Biloxi boys finished 3-0.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/biloxi-vs-long-beach/10-27-2026/?c=6a4874c6-b2df-4414-89f1-9fd02d6d0a53",
+          "excerpt": "High School Soccer Mississippi High School Soccer Biloxi Boys Varsity Soccer @ Long Beach Biloxi 3-0 Indians 1 Final 0 Long Beach 0-1-1 Bearcats Biloxi Boys Varsity Soccer @ Long Beach Streaming & Ticketing Watch Recap",
+          "subjects": [
+            "Long Beach",
+            "Biloxi"
+          ]
+        }
+      },
+      {
+        "id": "records-7",
+        "kind": "record",
+        "claim": "Long Beach girls finished 1-0; Biloxi girls finished 0-1.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/biloxi-vs-long-beach/10-27-2026/?c=7d570614-ba3f-4088-8dc5-7a395da9f1f5",
+          "excerpt": "High School Girls Soccer Mississippi High School Soccer Biloxi Girls Varsity Soccer @ Long Beach Biloxi 0-1 Indians 0 Final 2 Long Beach 1-0 Bearcats Biloxi Girls Varsity Soccer @ Long Beach Streaming & Ticketing Watch Recap",
+          "subjects": [
+            "Long Beach",
+            "Biloxi"
+          ]
+        }
+      },
+      {
+        "id": "records-8",
+        "kind": "record",
+        "claim": "Warren Central girls finished 1-1-1; Brandon girls finished 3-0.",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/brandon-vs-warren-central-vicksburg/10-27-2026/?c=c0cba5c3-a9cc-4d1b-9e5c-7c451d0a1db2",
+          "excerpt": "High School Girls Soccer Mississippi High School Soccer Brandon Girls Varsity Soccer @ Warren Central Brandon 3-0 Bulldogs 7 Final 0 Warren Central 1-1-1 Vikings Brandon Girls Varsity Soccer @ Warren Central",
+          "subjects": [
+            "Warren Central",
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "records-9",
+        "kind": "record",
+        "claim": "Warren Central boys finished 0-2-1; Brandon boys finished 1-0.",
+        "game_indexes": [
+          9
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/brandon-vs-warren-central-vicksburg/10-27-2026/?c=daf47d2b-2ef0-43c1-8c1b-f8546881354c",
+          "excerpt": "High School Soccer Mississippi High School Soccer Brandon Boys Varsity Soccer @ Warren Central Brandon 1-0 Bulldogs 3 Final 1 Warren Central 0-2-1 Vikings Brandon Boys Varsity Soccer @ Warren Central",
+          "subjects": [
+            "Warren Central",
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "records-10",
+        "kind": "record",
+        "claim": "Parklane Academy girls finished 2-0; Amite School Center girls finished 0-2.",
+        "game_indexes": [
+          10
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/amite-school-center-liberty-vs-parklane-academy-mccomb/10-27-2026/?c=c2e71ad7-7890-42ce-bd84-2f8110890013",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Amite School Center Girls Varsity Basketball vs. Parklane Academy Amite School Center 0-2 Rebels 36 Final 41 Parklane Academy 2-0 Pioneers Amite School Center Girls Varsity Basketball vs. Parklane Academy",
+          "subjects": [
+            "Parklane Academy",
+            "Amite School Center"
+          ]
+        }
+      },
+      {
+        "id": "records-11",
+        "kind": "record",
+        "claim": "Simpson Academy girls finished 2-0; Silliman Institute girls finished 0-1.",
+        "game_indexes": [
+          11
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/girls/game/silliman-institute-clinton-la-vs-simpson-academy-mendenhall-ms/10-27-2026/?c=42d88339-184a-4c6b-babd-866731279c3b",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Silliman Institute Girls Varsity Basketball vs. Simpson Academy Silliman Institute 0-1 Wildcats 15 Final 61 Simpson Academy 2-0 Cougars Silliman Institute Girls Varsity Basketball vs. Simpson Academy",
+          "subjects": [
+            "Simpson Academy",
+            "Silliman Institute"
+          ]
+        }
+      },
+      {
+        "id": "records-12",
+        "kind": "record",
+        "claim": "Madison-Ridgeland Academy girls finished 1-0; Cathedral girls finished 0-1.",
+        "game_indexes": [
+          12
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/cathedral-natchez-vs-madison-ridgeland-academy/10-27-2026/?c=74bbe3a6-cb98-47e8-a604-88cf0c31742f",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Cathedral Girls Varsity Basketball @ MRA Cathedral 0-1 Green Wave 15 Final 49 Madison-Ridgeland Academy 1-0 Patriots Cathedral Girls Varsity Basketball @ MRA",
+          "subjects": [
+            "Madison-Ridgeland Academy",
+            "Cathedral"
+          ]
+        }
+      },
+      {
+        "id": "records-13",
+        "kind": "record",
+        "claim": "Bowling Green boys finished 0-1; Hattiesburg HomeSchool boys finished 3-0.",
+        "game_indexes": [
+          13
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/game/bowling-green-franklinton-la-vs-hattiesburg-homeschool-ms/10-27-2026/?c=d51ef430-7453-4c02-a7b5-c945a9ee1a61",
+          "excerpt": "High School Basketball Louisiana High School Basketball HHS Boys Varsity Basketball @ Bowling Green Hattiesburg HomeSchool 3-0 Forerunners 66 Final 44 Bowling Green 0-1 Buccaneers HHS Boys Varsity Basketball @ Bowling Green",
+          "subjects": [
+            "Bowling Green",
+            "Hattiesburg HomeSchool"
+          ]
+        }
+      },
+      {
+        "id": "carruth-points",
+        "kind": "result",
+        "claim": "Carlyle Carruth of Parklane Academy scored 22 points against Amite School Center on October 27, 2026.",
+        "game_indexes": [
+          10
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/mccomb/parklane-academy-pioneers/athletes/carlyle-carruth/?careerid=dlgrm4s6pt9dd",
+          "excerpt": "MS Parklane Academy Carlyle Carruth Carlyle Carruth Stats Updated Tuesday, Oct 27, 2026 Carlyle's stats have been entered for the win vs. Amite School Center on Tuesday, Oct. 27, 2026. 22 Points",
+          "subjects": [
+            "Carlyle Carruth",
+            "Parklane Academy",
+            "Amite School Center"
+          ]
+        }
+      },
+      {
+        "id": "russell-identity",
+        "kind": "result",
+        "claim": "Keller Russell of Hattiesburg HomeSchool scored 26 points against Bowling Green on October 27, 2026.",
+        "game_indexes": [
+          13
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/hattiesburg/hattiesburg-homeschool-forerunners/athletes/keller-russell/?careerid=0oj683q0o05aa",
+          "excerpt": "MS Hattiesburg HomeSchool Keller Russell Keller Russell Stats Updated Tuesday, Oct 27, 2026 Keller's stats have been entered for the win vs. Bowling Green on Tuesday, Oct. 27, 2026. 26 Points",
+          "subjects": [
+            "Keller Russell",
+            "Hattiesburg HomeSchool",
+            "Bowling Green"
+          ]
+        }
+      },
+      {
+        "id": "russell-line",
+        "kind": "result",
+        "claim": "Keller Russell (K. Russell) recorded 26 points, 10 rebounds and 6 assists for Hattiesburg HomeSchool against Bowling Green.",
+        "game_indexes": [
+          13
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/game/bowling-green-franklinton-la-vs-hattiesburg-homeschool-ms/10-27-2026/?c=d51ef430-7453-4c02-a7b5-c945a9ee1a61",
+          "excerpt": "Top Performers Points K. Russell #30 G 26 PTS Rebounds K. Russell #30 G 10 TOT 2 OFF 8 DEF Assists K. Russell #30 G 6 AST 3 TO",
+          "subjects": [
+            "K. Russell"
+          ]
+        }
+      },
+      {
+        "id": "lewisburg-halves",
+        "kind": "result",
+        "claim": "Madison Central and Lewisburg girls were tied 1-1 at halftime. Lewisburg scored 1 goal and Madison Central 0 in the second half.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/lewisburg-olive-branch-vs-madison-central/10-27-2026/?c=b02e28c5-cccc-4682-97ff-2e21aadf23f9",
+          "excerpt": "Boxscore 1 2 Final Madison Central 1 0 1 Lewisburg 1 1 2",
+          "subjects": [
+            "Lewisburg",
+            "Madison Central"
+          ]
+        }
+      },
+      {
+        "id": "southaven-halves",
+        "kind": "result",
+        "claim": "Southaven girls scored 2 goals in the first half and 1 in the second; South Panola scored 0 in both halves.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/south-panola-batesville-vs-southaven/10-27-2026/?c=d5218113-8486-4bed-9178-6d120b0e31b3",
+          "excerpt": "Boxscore 1 2 Final Southaven 2 1 3 South Panola 0 0 0",
+          "subjects": [
+            "South Panola",
+            "Southaven"
+          ]
+        }
+      },
+      {
+        "id": "biloxi-halves",
+        "kind": "result",
+        "claim": "Biloxi and Long Beach boys were tied 0-0 at halftime; Biloxi scored 1 goal in the second half and Long Beach 0.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/biloxi-vs-long-beach/10-27-2026/?c=6a4874c6-b2df-4414-89f1-9fd02d6d0a53",
+          "excerpt": "Boxscore 1 2 Final Biloxi 0 1 1 Long Beach 0 0 0",
+          "subjects": [
+            "Long Beach",
+            "Biloxi"
+          ]
+        }
+      },
+      {
+        "id": "brandon-halves",
+        "kind": "result",
+        "claim": "Brandon boys scored 3 goals in the first half and 0 in the second; Warren Central scored 0 in the first half and 1 in the second.",
+        "game_indexes": [
+          9
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/brandon-vs-warren-central-vicksburg/10-27-2026/?c=daf47d2b-2ef0-43c1-8c1b-f8546881354c",
+          "excerpt": "Boxscore 1 2 Final Brandon 3 0 3 Warren Central 0 1 1",
+          "subjects": [
+            "Warren Central",
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "simpson-quarters",
+        "kind": "result",
+        "claim": "Simpson Academy outscored Silliman Institute 23-5 in the first quarter and 17-6 in the second quarter.",
+        "game_indexes": [
+          11
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/girls/game/silliman-institute-clinton-la-vs-simpson-academy-mendenhall-ms/10-27-2026/?c=42d88339-184a-4c6b-babd-866731279c3b",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Silliman Institute 5 6 2 2 15 Simpson Academy 23 17 13 8 61",
+          "subjects": [
+            "Simpson Academy",
+            "Silliman Institute"
+          ]
+        }
+      },
+      {
+        "id": "mra-quarters",
+        "kind": "result",
+        "claim": "Madison-Ridgeland Academy outscored Cathedral 15-3 in the first quarter.",
+        "game_indexes": [
+          12
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/cathedral-natchez-vs-madison-ridgeland-academy/10-27-2026/?c=74bbe3a6-cb98-47e8-a604-88cf0c31742f",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Cathedral 3 3 5 4 15 Madison-Ridgeland Academy 15 10 19 5 49",
+          "subjects": [
+            "Madison-Ridgeland Academy",
+            "Cathedral"
+          ]
+        }
+      },
+      {
+        "id": "homeschool-quarters",
+        "kind": "result",
+        "claim": "Hattiesburg HomeSchool outscored Bowling Green 22-13 in the second quarter and 22-14 in the third quarter.",
+        "game_indexes": [
+          13
+        ],
+        "as_of_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/game/bowling-green-franklinton-la-vs-hattiesburg-homeschool-ms/10-27-2026/?c=d51ef430-7453-4c02-a7b5-c945a9ee1a61",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Hattiesburg HomeSchool 14 22 22 8 66 Bowling Green 6 13 14 11 44",
+          "subjects": [
+            "Bowling Green",
+            "Hattiesburg HomeSchool"
+          ]
+        }
+      }
+    ]
+  }
+}
