@@ -1,0 +1,600 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-10-29",
+  "verified_at": "2026-10-29T20:04:03.561947+00:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "soccer",
+    "basketball",
+    "volleyball",
+    "cross country",
+    "golf",
+    "swimming",
+    "powerlifting"
+  ],
+  "games": [
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-29",
+      "away": "Magee",
+      "home": "Seminary",
+      "status": "scheduled",
+      "start_time": "2026-10-29T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/magee-vs-seminary/10-29-2026/?c=a79d5967-ed23-4ecb-9ec4-f9b05c3c8971",
+        "excerpt": "Magee vs Seminary | Football | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Magee Varsity Football @ Seminary M Magee Trojans 7-1 Thursday, Oct 29, 2026 7:00pm CDT Seminary Bulldogs 8-1",
+        "date_excerpt": "10/29/2026",
+        "time_excerpt": "7:00pm CDT",
+        "away_name": "Magee",
+        "home_name": "Seminary"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-29",
+      "away": "Potts Camp",
+      "home": "Falkner",
+      "status": "scheduled",
+      "start_time": "2026-10-29T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/falkner-vs-potts-camp/10-29-2026/?c=523b2003-c910-4b6d-95fe-e71f916fe13d",
+        "excerpt": "Potts Camp vs Falkner | Football | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Potts Camp Varsity Football @ Falkner Potts Camp Cardinals 5-2 Thursday, Oct 29, 2026 7:00pm CDT Falkner Eagles 5-3",
+        "date_excerpt": "10/29/2026",
+        "time_excerpt": "7:00pm CDT",
+        "away_name": "Potts Camp",
+        "home_name": "Falkner"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-29",
+      "away": "Eupora",
+      "home": "East Webster",
+      "status": "scheduled",
+      "start_time": "2026-10-29T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/east-webster-maben-vs-eupora/10-29-2026/?c=dafdd74c-480d-4362-bece-16eef1275503",
+        "excerpt": "Eupora vs East Webster | Football | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Eupora Varsity Football @ East Webster Eupora Eagles 8-1 Thursday, Oct 29, 2026 7:00pm CDT East Webster Wolverines 8-1",
+        "date_excerpt": "10/29/2026",
+        "time_excerpt": "7:00pm CDT",
+        "away_name": "Eupora",
+        "home_name": "East Webster"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-29",
+      "away": "Kossuth",
+      "home": "Alcorn Central",
+      "status": "scheduled",
+      "start_time": "2026-10-29T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-kossuth/10-29-2026/?c=0754dc66-6204-4f93-b8c5-0b6f81dc3321",
+        "excerpt": "Kossuth vs Alcorn Central | Football | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Kossuth Varsity Football @ Alcorn Central Kossuth Aggies 5-3 Thursday, Oct 29, 2026 7:00pm CDT Alcorn Central Golden Bears 5-4",
+        "date_excerpt": "10/29/2026",
+        "time_excerpt": "7:00pm CDT",
+        "away_name": "Kossuth",
+        "home_name": "Alcorn Central"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-29",
+      "away": "Itawamba Agricultural",
+      "home": "Caledonia",
+      "status": "scheduled",
+      "start_time": "2026-10-29T17:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/caledonia-vs-itawamba-agricultural-fulton/10-29-2026/?c=e5997674-af8e-4d15-9be8-4fccd441014c",
+        "excerpt": "Itawamba Agricultural vs Caledonia | Soccer | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer IAHS Girls Varsity Soccer @ Caledonia Itawamba Agricultural Indians 1-0 Thursday, Oct 29, 2026 5:00pm CDT Caledonia Cavaliers 1-0",
+        "date_excerpt": "10/29/2026",
+        "time_excerpt": "5:00pm CDT",
+        "away_name": "Itawamba Agricultural",
+        "home_name": "Caledonia"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-29",
+      "away": "Sumrall",
+      "home": "St. Martin",
+      "status": "scheduled",
+      "start_time": "2026-10-29T17:30:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/st-martin-ocean-springs-vs-sumrall/10-29-2026/?c=4de1d8f6-7636-4e33-9b47-41ce42f10df6",
+        "excerpt": "Sumrall vs St. Martin | Soccer | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Sumrall Girls Varsity Soccer @ St. Martin Sumrall Bobcats 3-0 Thursday, Oct 29, 2026 5:30pm CDT St. Martin Yellow Jackets 1-0",
+        "date_excerpt": "10/29/2026",
+        "time_excerpt": "5:30pm CDT",
+        "away_name": "Sumrall",
+        "home_name": "St. Martin"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-29",
+      "away": "Hernando",
+      "home": "Starkville",
+      "status": "scheduled",
+      "start_time": "2026-10-29T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/hernando-vs-starkville/10-29-2026/?c=be2998cc-6f0a-4e80-8713-ed996e3e822e",
+        "excerpt": "Hernando vs Starkville | Soccer | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Hernando Boys Varsity Soccer @ Starkville Hernando Tigers 1-0 Thursday, Oct 29, 2026 7:00pm CDT Starkville Yellowjackets 1-0",
+        "date_excerpt": "10/29/2026",
+        "time_excerpt": "7:00pm CDT",
+        "away_name": "Hernando",
+        "home_name": "Starkville"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-29",
+      "away": "St. Stanislaus",
+      "home": "Biloxi",
+      "status": "scheduled",
+      "start_time": "2026-10-29T19:30:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/biloxi-vs-st-stanislaus-bay-st-louis/10-29-2026/?c=2d752671-c9fd-4f95-8e67-2380b1a89674",
+        "excerpt": "St. Stanislaus vs Biloxi | Soccer | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer St. Stanislaus Boys Varsity Soccer @ Biloxi St. Stanislaus Rock-a-Chaws 2-1 Thursday, Oct 29, 2026 7:30pm CDT Biloxi Indians 3-0",
+        "date_excerpt": "10/29/2026",
+        "time_excerpt": "7:30pm CDT",
+        "away_name": "St. Stanislaus",
+        "home_name": "Biloxi"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-29",
+      "away": "St. Joseph Catholic",
+      "home": "Leake Academy",
+      "status": "scheduled",
+      "start_time": "2026-10-29T19:15:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/leake-academy-madden-vs-st-joseph-catholic-madison/10-29-2026/?c=f5b5dff1-4335-4fda-91d9-c1eca5689440",
+        "excerpt": "St. Joseph Catholic vs Leake Academy | Basketball | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball St. Joseph Catholic Girls Varsity Basketball vs. Leake Academy St. Joseph Catholic Bruins 1-0 Thursday, Oct 29, 2026 7:15pm CDT Leake Academy Rebels 1-0",
+        "date_excerpt": "10/29/2026",
+        "time_excerpt": "7:15pm CDT",
+        "away_name": "St. Joseph Catholic",
+        "home_name": "Leake Academy"
+      },
+      "neutral_site": true
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-10-27/",
+      "title": "Scores from last Night: Carruth scores 22 in Parklane win; Lewisburg edges Madison Central"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: Perfect district starts meet at Seminary and Falkner",
+    "headline_fact_ids": [
+      "game-0",
+      "record-0",
+      "game-1",
+      "record-1"
+    ],
+    "html": "<p data-facts=\"game-0 record-0 game-1 record-1 game-4 record-4 game-5 record-5 game-6 record-6 game-8 record-8\">Perfect district records meet at Seminary and Falkner on Thursday night. Magee visits Seminary with both teams 3–0 in league play, while Potts Camp and Falkner bring matching 2–0 district starts into their meeting. Those direct tests lead the October 29 Games To Watch, with unbeaten soccer teams and a pair of winning girls basketball openers adding interest before the night is over. All times below are CDT.</p>\n<h2 data-facts=\"game-0 record-0 magee-form seminary-form\">Football: long winning runs meet at Seminary</h2>\n<p data-facts=\"game-0 record-0 magee-form seminary-form\">Magee is 7–1 and Seminary 8–1 entering their <a href=\"https://www.maxpreps.com/ms/football/game/magee-vs-seminary/10-29-2026/?c=a79d5967-ed23-4ecb-9ec4-f9b05c3c8971\">7 p.m. district game at Seminary</a>. Both have won six straight, and neither has lost a district game. The combination makes this more than a comparison of strong overall records: the teams bring equally unblemished league starts and sustained winning form directly against one another.</p>\n<p data-facts=\"game-1 record-1\">At Falkner, the <a href=\"https://www.maxpreps.com/ms/football/game/falkner-vs-potts-camp/10-29-2026/?c=523b2003-c910-4b6d-95fe-e71f916fe13d\">7 p.m. meeting with Potts Camp</a> offers another matchup of unbeaten district records. Potts Camp enters 5–2 overall and Falkner 5–3, but each is 2–0 in league games. Their overall paths differ; their district starts do not. This game provides a direct comparison between those two winning league records.</p>\n<h2 data-facts=\"game-2 record-2 game-3 record-3\">Football: matching records in Maben and Glen</h2>\n<p data-facts=\"game-2 record-2\">Eupora travels to East Webster for a <a href=\"https://www.maxpreps.com/ms/football/game/east-webster-maben-vs-eupora/10-29-2026/?c=dafdd74c-480d-4362-bece-16eef1275503\">7 p.m. kickoff in Maben</a>. Both enter 8–1 overall and 2–1 in district play. The appeal is that close alignment across both measures: each has put together a strong season, and each reaches this conference meeting with the same number of district wins and losses.</p>\n<p data-facts=\"game-3 record-3 alcorn-form\">Kossuth visits Alcorn Central in Glen at <a href=\"https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-kossuth/10-29-2026/?c=0754dc66-6204-4f93-b8c5-0b6f81dc3321\">7 p.m.</a>, with both 2–1 in district play. Kossuth is 5–3 overall and Central 5–4. <a href=\"https://alcornsportsms.com/2026/10/29/kossuth-central-bring-matching-region-records-to-thursday-finale/\">Alcorn County Sports reports</a> that the Aggies bring two consecutive wins into Central’s senior night, while the Golden Bears have lost two straight. Those different recent runs give their matching league records a sharper context.</p>\n<h2 data-facts=\"game-4 record-4 game-5 record-5\">Girls soccer: unbeaten starts face fresh tests</h2>\n<p data-facts=\"game-4 record-4 caledonia-form itawamba-form\">Itawamba Agricultural visits Caledonia at <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/caledonia-vs-itawamba-agricultural-fulton/10-29-2026/?c=e5997674-af8e-4d15-9be8-4fccd441014c\">5 p.m.</a>, with both teams listed at 1–0. Caledonia’s current totals show six goals scored and none conceded; Itawamba’s show three scored and one allowed. Each has an opening win, making this an early test against another side that has already found a winning result.</p>\n<p data-facts=\"game-5 record-5 sumrall-defense st-martin-defense\">Sumrall takes a 3–0 record to St. Martin, which is 1–0, for a <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/st-martin-ocean-springs-vs-sumrall/10-29-2026/?c=4de1d8f6-7636-4e33-9b47-41ce42f10df6\">5:30 p.m. match in Ocean Springs</a>. Neither has conceded in its posted results: Sumrall has scored 12 goals and St. Martin seven. That gives the meeting a clear point of interest, with two productive attacks facing defenses that have kept every reported opponent off the scoreboard.</p>\n<h2 data-facts=\"game-6 record-6 game-7 record-7\">Boys soccer: Hernando, Starkville and Biloxi test winning starts</h2>\n<p data-facts=\"game-6 record-6 hernando-form starkville-form\">Hernando visits Starkville at <a href=\"https://www.maxpreps.com/ms/soccer/match/hernando-vs-starkville/10-29-2026/?c=be2998cc-6f0a-4e80-8713-ed996e3e822e\">7 p.m.</a>, with both entering 1–0. Hernando’s posted totals are five goals for and none against; Starkville’s are three for and one against. Their nonconference meeting gives each a second recorded test against a team that also opened with a victory.</p>\n<p data-facts=\"game-7 record-7 biloxi-defense biloxi-result\">Biloxi hosts St. Stanislaus at <a href=\"https://www.maxpreps.com/ms/soccer/match/biloxi-vs-st-stanislaus-bay-st-louis/10-29-2026/?c=2d752671-c9fd-4f95-8e67-2380b1a89674\">7:30 p.m.</a>. The Indians are 3–0 with six goals scored and none conceded, while the Rock-a-Chaws enter 2–1. Biloxi’s latest result was a 1–0 win at Long Beach on Tuesday, covered in our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-10-27/\">Tuesday results roundup</a>. St. Stanislaus brings a winning record of its own into that test of Biloxi’s clean-sheet start.</p>\n<h2 data-facts=\"game-8 record-8 basketball-neutral\">Girls basketball: St. Joseph Catholic and Leake Academy meet unbeaten</h2>\n<p data-facts=\"game-8 record-8 basketball-neutral bruins-result leake-result\">St. Joseph Catholic of Madison meets Leake Academy of Madden in a <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/leake-academy-madden-vs-st-joseph-catholic-madison/10-29-2026/?c=f5b5dff1-4335-4fda-91d9-c1eca5689440\">neutral-site game at 7:15 p.m.</a>. Both enter 1–0 after decisive Tuesday wins: the Bruins beat Manchester Academy 53–27, and Leake won 72–13 at Canton Academy. The opening results supply the reason to watch this next step: two teams that began with clear victories now face another unbeaten opponent.</p>",
+    "facts": [
+      {
+        "id": "record-0",
+        "kind": "record",
+        "claim": "Magee boys football enters 7-1; Seminary enters 8-1. Both have district records of 3-0.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/magee-vs-seminary/10-29-2026/?c=a79d5967-ed23-4ecb-9ec4-f9b05c3c8971",
+          "excerpt": "Scoring Averages Final Q1 Q2 Q3 Q4 OT1 M Magee 36.9 0.0 0.0 0.0 14.0 7.0 Seminary 37.1 20.4 4.0 4.2 2.8 6.0 Rankings M Mississippi #62 #40 Mississippi Division 3A #6 #3 Hattiesburg -- #4 Jackson #21 -- Season Recap M Overall Record 7-1 8-1 District 3-0 3-0 Non-District 4-1 5-1 Head to Head 0-0 0-0 Home 4-0 4-0 Away 3-1 4-1 Neutral 0-0 0-0 Common Opponent 4-0 4-0 Playoff 0-0 0-0 In-State 7-1 8-1 Out-of-State 0-0 0-0 Win % .875 .889 District % 1.000 1.000 PF 295 334 PA 122 115",
+          "subjects": [
+            "Magee",
+            "Seminary"
+          ]
+        }
+      },
+      {
+        "id": "record-1",
+        "kind": "record",
+        "claim": "Potts Camp boys football enters 5-2; Falkner enters 5-3. Both have district records of 2-0.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/falkner-vs-potts-camp/10-29-2026/?c=523b2003-c910-4b6d-95fe-e71f916fe13d",
+          "excerpt": "Scoring Averages Final Q1 Q2 Q3 Q4 Potts Camp 41.4 6.0 7.0 3.0 7.0 Falkner 28.0 5.8 10.1 6.9 5.2 Rankings Mississippi #217 #242 Mississippi Division 1A #16 #23 Memphis #89 #100 Season Recap Overall Record 5-2 5-3 District 2-0 2-0 Non-District 3-2 3-3 Head to Head 0-0 0-0 Home 4-0 3-0 Away 1-2 2-3 Neutral 0-0 0-0 Common Opponent 2-0 2-0 Playoff 0-0 0-0 In-State 4-2 4-3 Out-of-State 1-0 1-0 Win % .714 .625 District % 1.000 1.000 PF 290 224 PA 183 201",
+          "subjects": [
+            "Potts Camp",
+            "Falkner"
+          ]
+        }
+      },
+      {
+        "id": "record-2",
+        "kind": "record",
+        "claim": "Eupora boys football enters 8-1; East Webster enters 8-1. Both have district records of 2-1.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/east-webster-maben-vs-eupora/10-29-2026/?c=dafdd74c-480d-4362-bece-16eef1275503",
+          "excerpt": "Scoring Averages Final Q1 Q2 Q3 Q4 Eupora 33.1 2.0 9.0 9.5 7.0 East Webster 35.0 6.8 5.6 4.0 11.0 Rankings Mississippi #95 #55 Mississippi Division 2A #8 #4 Columbus-Tupelo #23 #13 Season Recap Overall Record 8-1 8-1 District 2-1 2-1 Non-District 6-0 6-0 Head to Head 0-0 0-0 Home 5-0 3-0 Away 3-1 5-1 Neutral 0-0 0-0 Common Opponent 2-1 2-1 Playoff 0-0 0-0 In-State 8-1 8-1 Out-of-State 0-0 0-0 Win % .889 .889 District % .667 .667 PF 298 315 PA 119 124",
+          "subjects": [
+            "Eupora",
+            "East Webster"
+          ]
+        }
+      },
+      {
+        "id": "record-3",
+        "kind": "record",
+        "claim": "Kossuth boys football enters 5-3; Alcorn Central enters 5-4. Both have district records of 2-1.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-kossuth/10-29-2026/?c=0754dc66-6204-4f93-b8c5-0b6f81dc3321",
+          "excerpt": "Scoring Averages Final Q1 Q2 Q3 Q4 Kossuth 25.0 4.4 8.1 7.4 5.1 Alcorn Central 20.4 5.4 4.2 4.6 6.2 Rankings Mississippi #135 #204 Mississippi Division 3A #11 #29 Columbus-Tupelo -- #48 Memphis #51 #81 Season Recap Overall Record 5-3 5-4 District 2-1 2-1 Non-District 3-2 3-3 Head to Head 0-0 0-0 Home 3-2 3-1 Away 2-1 2-3 Neutral 0-0 0-0 Common Opponent 4-1 2-3 Playoff 0-0 0-0 In-State 5-2 5-4 Out-of-State 0-1 0-0 Win % .625 .556 District % .667 .667 PF 200 184 PA 174 181",
+          "subjects": [
+            "Kossuth",
+            "Alcorn Central"
+          ]
+        }
+      },
+      {
+        "id": "record-4",
+        "kind": "record",
+        "claim": "Itawamba Agricultural girls soccer enters 1-0; Caledonia enters 1-0.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/caledonia-vs-itawamba-agricultural-fulton/10-29-2026/?c=e5997674-af8e-4d15-9be8-4fccd441014c",
+          "excerpt": "Scoring Averages Final 1 2 Itawamba Agricultural 3.0 1.0 2.0 Caledonia 6.0 -- -- Season Recap Overall Record 1-0 1-0 District 0-0 0-0 Non-District 1-0 1-0 Head to Head 0-0 0-0 Home 0-0 1-0 Away 1-0 0-0 Neutral 0-0 0-0 Common Opponent 0-0 0-0 Playoff 0-0 0-0 In-State 1-0 1-0 Out-of-State 0-0 0-0 Win % 1.000 1.000 District % .000 .000 GF 3 6 GA 1 -- Head-to-Head 10/29/2026 -- -- 01/28/2027 -- --",
+          "subjects": [
+            "Itawamba Agricultural",
+            "Caledonia"
+          ]
+        }
+      },
+      {
+        "id": "record-5",
+        "kind": "record",
+        "claim": "Sumrall girls soccer enters 3-0; St. Martin enters 1-0.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/st-martin-ocean-springs-vs-sumrall/10-29-2026/?c=4de1d8f6-7636-4e33-9b47-41ce42f10df6",
+          "excerpt": "Scoring Averages Final 1 2 Sumrall 4.0 2.3 1.7 St. Martin 7.0 -- -- Season Recap Overall Record 3-0 1-0 District 0-0 0-0 Non-District 3-0 1-0 Head to Head 0-0 0-0 Home 1-0 1-0 Away 2-0 0-0 Neutral 0-0 0-0 Common Opponent 0-0 0-0 Playoff 0-0 0-0 In-State 3-0 1-0 Out-of-State 0-0 0-0 Win % 1.000 1.000 District % .000 .000 GF 12 7 GA -- --",
+          "subjects": [
+            "Sumrall",
+            "St. Martin"
+          ]
+        }
+      },
+      {
+        "id": "record-6",
+        "kind": "record",
+        "claim": "Hernando boys soccer enters 1-0; Starkville enters 1-0.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/hernando-vs-starkville/10-29-2026/?c=be2998cc-6f0a-4e80-8713-ed996e3e822e",
+          "excerpt": "Scoring Averages Final 1 2 Hernando 5.0 2.0 3.0 Starkville 3.0 -- -- Season Recap Overall Record 1-0 1-0 District 0-0 0-0 Non-District 1-0 1-0 Head to Head 0-0 0-0 Home 1-0 0-0 Away 0-0 1-0 Neutral 0-0 0-0 Common Opponent 0-0 1-0 Playoff 0-0 0-0 In-State 1-0 1-0 Out-of-State 0-0 0-0 Win % 1.000 1.000 District % .000 .000 GF 5 3 GA -- 1",
+          "subjects": [
+            "Hernando",
+            "Starkville"
+          ]
+        }
+      },
+      {
+        "id": "record-7",
+        "kind": "record",
+        "claim": "St. Stanislaus boys soccer enters 2-1; Biloxi enters 3-0.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/biloxi-vs-st-stanislaus-bay-st-louis/10-29-2026/?c=2d752671-c9fd-4f95-8e67-2380b1a89674",
+          "excerpt": "Scoring Averages Final 1 2 St. Stanislaus 1.0 0.0 0.0 Biloxi 2.0 0.0 1.0 Season Recap Overall Record 2-1 3-0 District 0-0 0-0 Non-District 2-1 3-0 Head to Head 0-0 0-0 Home 0-0 2-0 Away 2-1 1-0 Neutral 0-0 0-0 Common Opponent 1-0 0-0 Playoff 0-0 0-0 In-State 2-1 3-0 Out-of-State 0-0 0-0 Win % .667 1.000 District % .000 .000 GF 3 6 GA 3 --",
+          "subjects": [
+            "St. Stanislaus",
+            "Biloxi"
+          ]
+        }
+      },
+      {
+        "id": "record-8",
+        "kind": "record",
+        "claim": "St. Joseph Catholic girls basketball enters 1-0; Leake Academy enters 1-0.",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/leake-academy-madden-vs-st-joseph-catholic-madison/10-29-2026/?c=f5b5dff1-4335-4fda-91d9-c1eca5689440",
+          "excerpt": "Scoring Averages Final Q1 Q2 Q3 Q4 St. Joseph Catholic 53.0 -- -- -- -- Leake Academy 72.0 32.0 14.0 12.0 14.0 Season Recap Overall Record 1-0 1-0 District 0-0 0-0 Non-District 1-0 1-0 Head to Head 0-0 0-0 Home 0-0 0-0 Away 0-0 1-0 Neutral 1-0 0-0 Common Opponent 0-0 0-0 Playoff 0-0 0-0 In-State 1-0 1-0 Out-of-State 0-0 0-0 Win % 1.000 1.000 District % .000 .000 PF 53 72 PA 27 13",
+          "subjects": [
+            "St. Joseph Catholic",
+            "Leake Academy"
+          ]
+        }
+      },
+      {
+        "id": "magee-form",
+        "kind": "record",
+        "claim": "Magee enters 7-1 overall and 3-0 in district play with 6 consecutive wins.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/magee/magee-trojans/football/schedule/",
+          "excerpt": "Next Game Away • District M Magee 7-1 Seminary 8-1 M Magee 7-1 Thu, 10/29 @ 7:00pm Preview Game Seminary 8-1 Buy Tickets Preview Game Going to the game? Provide score updates Overall 7-1 0.875 Win Pct District 3-0 2nd 3A Region 6 Home 4-0 Away 3-1 Neutral 0-0 PF 295 PA 122 Streak 6W",
+          "subjects": [
+            "Magee"
+          ]
+        }
+      },
+      {
+        "id": "seminary-form",
+        "kind": "record",
+        "claim": "Seminary enters 8-1 overall and 3-0 in district play with 6 consecutive wins.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/seminary/seminary-bulldogs/football/schedule/",
+          "excerpt": "Next Game Home • District Seminary 8-1 M Magee 7-1 Seminary 8-1 Thu, 10/29 @ 7:00pm Preview Game M Magee 7-1 Buy Tickets Preview Game Going to the game? Provide score updates Overall 8-1 0.889 Win Pct District 3-0 1st 3A Region 6 Home 4-0 Away 4-1 Neutral 0-0 PF 334 PA 115 Streak 6W",
+          "subjects": [
+            "Seminary"
+          ]
+        }
+      },
+      {
+        "id": "sumrall-defense",
+        "kind": "record",
+        "claim": "Sumrall girls enter 3-0 with 12 goals for and 0 against.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/sumrall/sumrall-bobcats/soccer/girls/winter/schedule/",
+          "excerpt": "Next Match Away • Non-District Sumrall 3-0 St. Martin 1-0 Sumrall 3-0 Thu, 10/29 @ 5:30pm Preview Match St. Martin 1-0 Buy Tickets Preview Match Overall 3-0 1.000 Win Pct District 0-0 1st 5A Region 3 Home 1-0 Away 2-0 Neutral 0-0 GF 12 GA 0 Streak 3W",
+          "subjects": [
+            "Sumrall"
+          ]
+        }
+      },
+      {
+        "id": "st-martin-defense",
+        "kind": "record",
+        "claim": "St. Martin girls enter 1-0 with 7 goals for and 0 against.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/ocean-springs/st-martin-yellow-jackets/soccer/girls/winter/schedule/",
+          "excerpt": "Next Match Home • Non-District St. Martin 1-0 Sumrall 3-0 St. Martin 1-0 Thu, 10/29 @ 5:30pm Preview Match Sumrall 3-0 Buy Tickets Preview Match Overall 1-0 1.000 Win Pct District 0-0 1st 7A Region 4 Home 1-0 Away 0-0 Neutral 0-0 GF 7 GA 0 Streak 1W",
+          "subjects": [
+            "St. Martin"
+          ]
+        }
+      },
+      {
+        "id": "caledonia-form",
+        "kind": "record",
+        "claim": "Caledonia girls enter 1-0 with 6 goals for and 0 against.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/caledonia/caledonia-cavaliers/soccer/girls/winter/schedule/",
+          "excerpt": "Next Match Home • Non-District Caledonia 1-0 Itawamba Agricultural 1-0 Caledonia 1-0 Thu, 10/29 @ 5:00pm Preview Match Itawamba Agricultural 1-0 Buy Tickets Preview Match Overall 1-0 1.000 Win Pct District 0-0 1st 5A Region 1 Home 1-0 Away 0-0 Neutral 0-0 GF 6 GA 0 Streak 1W",
+          "subjects": [
+            "Caledonia"
+          ]
+        }
+      },
+      {
+        "id": "itawamba-form",
+        "kind": "record",
+        "claim": "Itawamba Agricultural girls enter 1-0 with 3 goals for and 1 against.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/fulton/itawamba-agricultural-indians/soccer/girls/winter/schedule/",
+          "excerpt": "Next Match Away • Non-District Itawamba Agricultural 1-0 Caledonia 1-0 Itawamba Agricultural 1-0 Thu, 10/29 @ 5:00pm Preview Match Caledonia 1-0 Buy Tickets Preview Match Overall 1-0 1.000 Win Pct District 0-0 1st 4A Region 1 Home 0-0 Away 1-0 Neutral 0-0 GF 3 GA 1 Streak 1W",
+          "subjects": [
+            "Itawamba Agricultural"
+          ]
+        }
+      },
+      {
+        "id": "hernando-form",
+        "kind": "record",
+        "claim": "Hernando boys enter 1-0 with 5 goals for and 0 against.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/hernando/hernando-tigers/soccer/winter/schedule/",
+          "excerpt": "Next Match Away • Non-District Hernando 1-0 Starkville 1-0 Hernando 1-0 Thu, 10/29 @ 7:00pm Preview Match Starkville 1-0 Buy Tickets Preview Match Overall 1-0 1.000 Win Pct District 0-0 1st 7A Region 1 Home 1-0 Away 0-0 Neutral 0-0 GF 5 GA 0 Streak 1W",
+          "subjects": [
+            "Hernando"
+          ]
+        }
+      },
+      {
+        "id": "starkville-form",
+        "kind": "record",
+        "claim": "Starkville boys enter 1-0 with 3 goals for and 1 against.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/starkville/starkville-yellowjackets/soccer/winter/schedule/",
+          "excerpt": "Next Match Home • Non-District Starkville 1-0 Hernando 1-0 Starkville 1-0 Thu, 10/29 @ 7:00pm Preview Match Hernando 1-0 Buy Tickets Preview Match Overall 1-0 1.000 Win Pct District 0-0 1st 7A Region 2 Home 0-0 Away 1-0 Neutral 0-0 GF 3 GA 1 Streak 1W Are you the coach? Claim your team to manage the roster, schedule, scores, stats and more. Explore the benefits. Claim This Team",
+          "subjects": [
+            "Starkville"
+          ]
+        }
+      },
+      {
+        "id": "biloxi-defense",
+        "kind": "record",
+        "claim": "Biloxi boys enter 3-0 with 6 goals for and 0 against.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/biloxi/biloxi-indians/soccer/winter/schedule/",
+          "excerpt": "Next Match Home • Non-District Biloxi 3-0 St. Stanislaus 2-1 Biloxi 3-0 Thu, 10/29 @ 7:30pm Preview Match St. Stanislaus 2-1 Preview Match Overall 3-0 1.000 Win Pct District 0-0 1st 7A Region 4 Home 2-0 Away 1-0 Neutral 0-0 GF 6 GA 0 Streak 3W",
+          "subjects": [
+            "Biloxi"
+          ]
+        }
+      },
+      {
+        "id": "alcorn-form",
+        "kind": "context",
+        "claim": "Kossuth enters with two consecutive victories; Alcorn Central enters on a two-game losing streak and hosts senior night.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://alcornsportsms.com/2026/10/29/kossuth-central-bring-matching-region-records-to-thursday-finale/",
+          "excerpt": "The Aggies take two consecutive victories into the 7 p.m. October 29 game at Central, where the Golden Bears will try to end a two-game slide on senior night.",
+          "subjects": [
+            "Aggies",
+            "Golden Bears"
+          ]
+        }
+      },
+      {
+        "id": "basketball-neutral",
+        "kind": "context",
+        "claim": "St. Joseph Catholic of Madison and Leake Academy of Madden play a neutral-site girls basketball game at 7:15pm CDT.",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/leake-academy-madden-vs-st-joseph-catholic-madison/10-29-2026/?c=f5b5dff1-4335-4fda-91d9-c1eca5689440",
+          "excerpt": "Game Info The St. Joseph Catholic varsity basketball team has a neutral non-conference game vs. Leake Academy (Madden, MS) today @ 7:15p. Scorekeeper No Scorekeeper Sign Up to Score Game D. Domino SJCHS Scorekeeper Matchup Roster Game Details Thursday, Oct 29, 2026 7:15pm CDT Non-District Team Comparison St. Joseph Catholic (Madison) - Points/G Leake Academy (Madden) 72.0 St. Joseph Catholic (Madison) - Rebounds/G Leake Academy (Madden) 36.0 St. Joseph Catholic (Madison) - Assists/G Leake Academy (Madden) 14.0 St. Joseph Catholic (Madison) - Steals/G Leake Academy (Madden) 17.0",
+          "subjects": [
+            "St. Joseph Catholic",
+            "Leake Academy",
+            "Madison",
+            "Madden"
+          ]
+        }
+      },
+      {
+        "id": "biloxi-result",
+        "kind": "history",
+        "claim": "Biloxi boys won 1-0 at Long Beach on October 27, 2026.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-10-29",
+        "fact_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/biloxi-vs-long-beach/10-27-2026/?c=6a4874c6-b2df-4414-89f1-9fd02d6d0a53",
+          "excerpt": "Biloxi vs Long Beach | Soccer | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Biloxi Boys Varsity Soccer @ Long Beach Biloxi 3-0 Indians 1 Final 0 Long Beach 0-1-1 Bearcats Biloxi Boys Varsity Soccer @ Long Beach Streaming & Ticketing Watch Recap Game Info On 10/27, the Biloxi varsity soccer team won their away non-conference match against Long Beach (MS) by a score of 1-0. Recap Matchup Roster Boxscore 1 2 Final Biloxi 0 1 1 Long Beach 0 0 0",
+          "date_excerpt": "10/27/2026",
+          "subjects": [
+            "Biloxi",
+            "Long Beach"
+          ]
+        }
+      },
+      {
+        "id": "bruins-result",
+        "kind": "history",
+        "claim": "St. Joseph Catholic girls beat Manchester Academy 53-27 on October 27, 2026.",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-10-29",
+        "fact_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/manchester-academy-yazoo-city-vs-st-joseph-catholic-madison/10-27-2026/?c=1dc2c5b7-72de-4311-b9d9-edfaf4d527ff",
+          "excerpt": "Manchester Academy vs St. Joseph Catholic | Basketball | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Manchester Academy Girls Varsity Basketball vs. St. Joseph Catholic Manchester Academy 0-1 Mavericks 27 Final 53 St. Joseph Catholic 1-0 Bruins Manchester Academy Girls Varsity Basketball vs. St. Joseph Catholic Game Info On 10/27, the Manchester Academy varsity basketball team lost their neutral non-conference game against St. Joseph Catholic (Madison, MS) by a score of 53-27. Recap Matchup Boxscore Q1 Q2 Q3 Q4 Final Manchester Academy -- -- -- -- 27 St. Joseph Catholic -- -- -- -- 53",
+          "date_excerpt": "10/27/2026",
+          "subjects": [
+            "St. Joseph Catholic",
+            "Manchester Academy"
+          ]
+        }
+      },
+      {
+        "id": "leake-result",
+        "kind": "history",
+        "claim": "Leake Academy girls won 72-13 at Canton Academy on October 27, 2026.",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-10-29",
+        "fact_date": "2026-10-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/canton-academy-vs-leake-academy-madden/10-27-2026/?c=5b390626-c471-4a29-90f4-eadc319c6c32",
+          "excerpt": "Leake Academy vs Canton Academy | Basketball | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Leake Academy Girls Varsity Basketball @ Canton Academy Leake Academy 1-0 Rebels 72 Final 13 Canton Academy 0-2 Panthers Leake Academy Girls Varsity Basketball @ Canton Academy Game Info On 10/27, the Leake Academy varsity basketball team won their away non-conference game against Canton Academy (Canton, MS) by a score of 72-13. Recap Stats Matchup Roster Boxscore Q1 Q2 Q3 Q4 Final Leake Academy 32 14 12 14 72 Canton Academy 2 4 5 2 13",
+          "date_excerpt": "10/27/2026",
+          "subjects": [
+            "Leake Academy",
+            "Canton Academy"
+          ]
+        }
+      }
+    ]
+  }
+}
