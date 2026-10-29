@@ -1,0 +1,260 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-10-28",
+  "verified_at": "2026-10-29T13:06:40.905086+00:00",
+  "publish": true,
+  "checked_sports": [
+    "soccer",
+    "basketball",
+    "football",
+    "volleyball",
+    "softball",
+    "golf",
+    "cross country",
+    "swimming",
+    "powerlifting"
+  ],
+  "games": [
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-28",
+      "home": "West Harrison",
+      "away": "Pass Christian",
+      "status": "final",
+      "home_score": 1,
+      "away_score": 3,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/pass-christian-vs-west-harrison-gulfport/10-28-2026/?c=8103f84a-a07f-4af3-90f2-11bc8dc72239",
+        "excerpt": "Pass Christian vs West Harrison | Soccer | 10/28/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Pass Christian Girls Varsity Soccer @ West Harrison Pass Christian 2-0 Pirates 3 Final 1 West Harrison 2-1-1 Hurricanes Pass Christian Girls Varsity Soccer @ West Harrison Game Info On 10/28, the Pass Christian varsity soccer team won their away non-conference match against West Harrison (Gulfport, MS) by a score of 3-1.",
+        "date_excerpt": "10/28/2026",
+        "home_name": "West Harrison",
+        "away_name": "Pass Christian"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-28",
+      "home": "West Harrison",
+      "away": "Pass Christian",
+      "status": "final",
+      "home_score": 1,
+      "away_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/pass-christian-vs-west-harrison-gulfport/10-28-2026/?c=9a7a0c8b-680d-4e7d-b190-cd24cf6f741d",
+        "excerpt": "Pass Christian vs West Harrison | Soccer | 10/28/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Pass Christian Boys Varsity Soccer @ West Harrison Pass Christian 0-2 Pirates 0 Final 1 West Harrison 1-1-1 Hurricanes Pass Christian Boys Varsity Soccer @ West Harrison Game Info On 10/28, the Pass Christian varsity soccer team lost their away non-conference match against West Harrison (Gulfport, MS) by a score of 1-0.",
+        "date_excerpt": "10/28/2026",
+        "home_name": "West Harrison",
+        "away_name": "Pass Christian"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-28",
+      "home": "Canton Academy",
+      "away": "East Rankin Academy",
+      "status": "final",
+      "home_score": 6,
+      "away_score": 61,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/canton-academy-vs-east-rankin-academy-pelahatchie/10-28-2026/?c=389044c3-4faf-474b-ab58-ae8fc014d5b9",
+        "excerpt": "East Rankin Academy vs Canton Academy | Basketball | 10/28/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball East Rankin Academy Girls Varsity Basketball @ Canton Academy East Rankin Academy 1-1 Patriots 61 Final 6 Canton Academy 0-2 Panthers East Rankin Academy Girls Varsity Basketball @ Canton Academy Game Info On 10/28, the East Rankin Academy varsity basketball team won their away tournament game against Canton Academy (Canton, MS) by a score of 61-6.",
+        "date_excerpt": "10/28/2026",
+        "home_name": "Canton Academy",
+        "away_name": "East Rankin Academy"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-10-28/",
+      "title": "Games To Watch: Unbeaten Pass Christian, West Harrison girls meet on the Coast"
+    },
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-10-26/",
+      "title": "Scores from last Night: Hernando sweeps shutouts; Oxford wins 3\u20132"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Scores from last Night: Locklear scores twice as Pass Christian ends West Harrison\u2019s unbeaten start",
+    "headline_fact_ids": [
+      "game-0",
+      "records-0",
+      "locklear-two-goals"
+    ],
+    "html": "<p data-facts=\"game-0 game-1 records-0 locklear-two-goals\">Addison Locklear scored twice as Pass Christian beat West Harrison 3\u20131 in girls soccer Wednesday, October 28, keeping the Pirates perfect and handing the Hurricanes their first loss. The schools split their soccer results, with West Harrison winning the boys match 1\u20130.</p>\n<h2 data-facts=\"game-0 records-0 locklear-two-goals\">Pass Christian girls stay perfect</h2>\n<p data-facts=\"game-0 records-0 locklear-two-goals funderburk-identity funderburk-saves\"><a href=\"https://www.maxpreps.com/ms/pass-christian/pass-christian-pirates/athletes/addison-locklear/?careerid=ej9ofn45h11bb\">Locklear\u2019s two goals</a> helped <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/pass-christian-vs-west-harrison-gulfport/10-28-2026/?c=8103f84a-a07f-4af3-90f2-11bc8dc72239\">Pass Christian win on the road</a>, while goalkeeper <a href=\"https://www.maxpreps.com/ms/pass-christian/pass-christian-pirates/athletes/ally-funderburk/?careerid=rua04rv7akcue\">Ally Funderburk</a> made four saves and allowed one goal. The Pirates finished 2\u20130, and West Harrison stood at 2\u20131\u20131.</p>\n<p data-facts=\"game-0 records-0 pirates-opening-win\">The Pirates followed their <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/pascagoula-vs-pass-christian/10-26-2026/?c=9011260d-a8bb-450c-a4d7-399a811d0eac\">4\u20130 opening win over Pascagoula on Monday</a> with another victory, this time against a West Harrison team that had yet to lose. The matchup was featured in our <a href=\"https://sportsmississippi.com/sports/sportsms-preview-2026-10-28/\">Wednesday Games To Watch preview</a>.</p>\n<h2 data-facts=\"game-1 records-1\">West Harrison boys earn their first win</h2>\n<p data-facts=\"game-1 records-1 hurricanes-previous-result\"><a href=\"https://www.maxpreps.com/ms/soccer/match/pass-christian-vs-west-harrison-gulfport/10-28-2026/?c=9a7a0c8b-680d-4e7d-b190-cd24cf6f741d\">West Harrison\u2019s boys won 1\u20130 over Pass Christian</a>, turning a one-goal decision in their favor a night after a <a href=\"https://www.maxpreps.com/ms/soccer/match/hancock-kiln-vs-west-harrison-gulfport/10-27-2026/?c=9188f1a9-b11e-4e46-885b-4659ae8ff315\">3\u20132 loss to Hancock</a>. The shutout gave the Hurricanes their first win and a 1\u20131\u20131 record. Pass Christian finished 0\u20132.</p>\n<h2 data-facts=\"game-2 records-2\">East Rankin rebounds in girls basketball</h2>\n<p data-facts=\"game-2 records-2\"><a href=\"https://www.maxpreps.com/ms/basketball/girls/game/canton-academy-vs-east-rankin-academy-pelahatchie/10-28-2026/?c=389044c3-4faf-474b-ab58-ae8fc014d5b9\">East Rankin Academy won 61\u20136 at Canton Academy</a> in a girls varsity tournament game. The Patriots evened their record at 1\u20131, while Canton Academy fell to 0\u20132.</p>\n<p data-facts=\"game-2 records-2 east-rankin-opening-result\">East Rankin had opened with a <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/east-rankin-academy-pelahatchie-vs-pillow-academy-greenwood/10-26-2026/?c=e53c37ac-36f6-4efa-a1f2-0635440db1dc\">63\u201326 loss to Pillow Academy on Monday</a>. Wednesday\u2019s result gave the Patriots their first win. That opening-night basketball coverage is also in our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-10-26/\">October 26 roundup</a>.</p>",
+    "facts": [
+      {
+        "id": "records-0",
+        "kind": "record",
+        "claim": "West Harrison girls finished 2-1-1; Pass Christian girls finished 2-0.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-28",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/pass-christian-vs-west-harrison-gulfport/10-28-2026/?c=8103f84a-a07f-4af3-90f2-11bc8dc72239",
+          "excerpt": "High School Girls Soccer Mississippi High School Soccer Pass Christian Girls Varsity Soccer @ West Harrison Pass Christian 2-0 Pirates 3 Final 1 West Harrison 2-1-1 Hurricanes Pass Christian Girls Varsity Soccer @ West Harrison",
+          "subjects": [
+            "West Harrison",
+            "Pass Christian"
+          ]
+        }
+      },
+      {
+        "id": "records-1",
+        "kind": "record",
+        "claim": "West Harrison boys finished 1-1-1; Pass Christian boys finished 0-2.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-28",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/pass-christian-vs-west-harrison-gulfport/10-28-2026/?c=9a7a0c8b-680d-4e7d-b190-cd24cf6f741d",
+          "excerpt": "High School Soccer Mississippi High School Soccer Pass Christian Boys Varsity Soccer @ West Harrison Pass Christian 0-2 Pirates 0 Final 1 West Harrison 1-1-1 Hurricanes Pass Christian Boys Varsity Soccer @ West Harrison",
+          "subjects": [
+            "West Harrison",
+            "Pass Christian"
+          ]
+        }
+      },
+      {
+        "id": "records-2",
+        "kind": "record",
+        "claim": "Canton Academy girls finished 0-2; East Rankin Academy girls finished 1-1.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-28",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/canton-academy-vs-east-rankin-academy-pelahatchie/10-28-2026/?c=389044c3-4faf-474b-ab58-ae8fc014d5b9",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball East Rankin Academy Girls Varsity Basketball @ Canton Academy East Rankin Academy 1-1 Patriots 61 Final 6 Canton Academy 0-2 Panthers East Rankin Academy Girls Varsity Basketball @ Canton Academy",
+          "subjects": [
+            "Canton Academy",
+            "East Rankin Academy"
+          ]
+        }
+      },
+      {
+        "id": "locklear-two-goals",
+        "kind": "result",
+        "claim": "Addison Locklear of Pass Christian scored 2 goals in the October 28, 2026 win over West Harrison.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-28",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/pass-christian/pass-christian-pirates/athletes/addison-locklear/?careerid=ej9ofn45h11bb",
+          "excerpt": "MS Pass Christian Addison Locklear Addison Locklear Stats Updated Wednesday, Oct 28, 2026 Addison's stats have been entered for the win vs. West Harrison on Wednesday, Oct. 28, 2026. 2 Goals 4 Points",
+          "subjects": [
+            "Pass Christian",
+            "Addison Locklear",
+            "West Harrison"
+          ]
+        }
+      },
+      {
+        "id": "funderburk-identity",
+        "kind": "context",
+        "claim": "Ally Funderburk is the Pass Christian player identified as A. Funderburk in the October 28 West Harrison game report.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-28",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/pass-christian/pass-christian-pirates/athletes/ally-funderburk/?careerid=rua04rv7akcue",
+          "excerpt": "MS Pass Christian Ally Funderburk Ally Funderburk Stats Updated Wednesday, Oct 28, 2026 Ally's stats have been entered for the win vs. West Harrison on Wednesday, Oct. 28, 2026. 80 G. Min 1.000 Goals Against Average 1 Goals Against Box Score",
+          "subjects": [
+            "Pass Christian",
+            "Ally Funderburk",
+            "West Harrison"
+          ]
+        }
+      },
+      {
+        "id": "funderburk-saves",
+        "kind": "result",
+        "claim": "Pass Christian goalkeeper A. Funderburk (Ally Funderburk) made 4 saves and allowed 1 goal against West Harrison.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-28",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/pass-christian-vs-west-harrison-gulfport/10-28-2026/?c=8103f84a-a07f-4af3-90f2-11bc8dc72239",
+          "excerpt": "Top Performers Goals A. Locklear #6 2 G 4 PTS Assists Z. Acker #17 1 AST 1 PTS Saves A. Funderburk #00 GK 4 Saves 1 GA Team Summary Pass Christian 3 Goals West Harrison (Gulfport) - Pass Christian 3 Assists West Harrison (Gulfport) - Pass Christian 1.000 Goals Against Average West Harrison (Gulfport) -",
+          "subjects": [
+            "A. Funderburk",
+            "Pass Christian"
+          ]
+        }
+      },
+      {
+        "id": "pirates-opening-win",
+        "kind": "history",
+        "claim": "Pass Christian girls opened with a 4-0 home win over Pascagoula on October 26, 2026.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-28",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/pascagoula-vs-pass-christian/10-26-2026/?c=9011260d-a8bb-450c-a4d7-399a811d0eac",
+          "excerpt": "Pascagoula vs Pass Christian | Soccer | 10/26/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Pascagoula Girls Varsity Soccer @ Pass Christian Pascagoula 0-1 Panthers 0 Final 4 Pass Christian 2-0 Pirates Pascagoula Girls Varsity Soccer @ Pass Christian Game Info On 10/26, the Pascagoula varsity soccer team lost their away non-conference match against Pass Christian (MS) by a score of 4-0.",
+          "subjects": [
+            "Pass Christian",
+            "Pascagoula"
+          ],
+          "date_excerpt": "10/26/2026"
+        },
+        "fact_date": "2026-10-26"
+      },
+      {
+        "id": "hurricanes-previous-result",
+        "kind": "history",
+        "claim": "West Harrison boys lost 3-2 at home to Hancock on October 27, 2026.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-28",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/hancock-kiln-vs-west-harrison-gulfport/10-27-2026/?c=9188f1a9-b11e-4e46-885b-4659ae8ff315",
+          "excerpt": "Hancock vs West Harrison | Soccer | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Hancock Boys Varsity Soccer @ West Harrison Hancock 1-1-1 Hawks 3 Final 2 West Harrison 1-1-1 Hurricanes Hancock Boys Varsity Soccer @ West Harrison Game Info On 10/27, the Hancock varsity soccer team won their away non-conference match against West Harrison (Gulfport, MS) by a score of 3-2.",
+          "subjects": [
+            "West Harrison",
+            "Hancock"
+          ],
+          "date_excerpt": "10/27/2026"
+        },
+        "fact_date": "2026-10-27"
+      },
+      {
+        "id": "east-rankin-opening-result",
+        "kind": "history",
+        "claim": "East Rankin Academy girls opened with a 63-26 neutral tournament loss to Pillow Academy on October 26, 2026.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-28",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/east-rankin-academy-pelahatchie-vs-pillow-academy-greenwood/10-26-2026/?c=e53c37ac-36f6-4efa-a1f2-0635440db1dc",
+          "excerpt": "Pillow Academy vs East Rankin Academy | Basketball | 10/26/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Pillow Academy Girls Varsity Basketball vs. East Rankin Academy Pillow Academy 1-0 Mustangs 63 Final 26 East Rankin Academy 1-1 Patriots Pillow Academy Girls Varsity Basketball vs. East Rankin Academy Game Info On 10/26, the Pillow Academy varsity basketball team won their neutral tournament game against East Rankin Academy (Pelahatchie, MS) by a score of 63-26.",
+          "subjects": [
+            "East Rankin Academy",
+            "Pillow Academy"
+          ],
+          "date_excerpt": "10/26/2026"
+        },
+        "fact_date": "2026-10-26"
+      }
+    ]
+  }
+}
