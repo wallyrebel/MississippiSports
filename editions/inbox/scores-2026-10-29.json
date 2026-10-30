@@ -1,0 +1,692 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-10-29",
+  "verified_at": "2026-10-30T13:11:08.906347+00:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "soccer",
+    "basketball",
+    "volleyball",
+    "softball",
+    "cross country",
+    "golf",
+    "swimming",
+    "powerlifting"
+  ],
+  "games": [
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-29",
+      "home": "Seminary",
+      "away": "Magee",
+      "status": "final",
+      "home_score": 35,
+      "away_score": 7,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/magee-vs-seminary/10-29-2026/?c=a79d5967-ed23-4ecb-9ec4-f9b05c3c8971",
+        "excerpt": "Magee vs Seminary | Football | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Football Mississippi High School Football Magee Varsity Football @ Seminary Magee 7-2 M Trojans 7 Final 35 Seminary 9-1 Bulldogs Magee Varsity Football @ Seminary Game Info On 10/29, the Magee varsity football team lost their away conference game against Seminary (MS) by a score of 35-7.",
+        "date_excerpt": "10/29/2026",
+        "home_name": "Seminary",
+        "away_name": "Magee"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-29",
+      "home": "Lewisburg",
+      "away": "Tupelo",
+      "status": "final",
+      "home_score": 0,
+      "away_score": 44,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/lewisburg-olive-branch-vs-tupelo/10-29-2026/?c=4c75fbf0-443a-434e-8480-27e47db3d1f0",
+        "excerpt": "Tupelo vs Lewisburg | Football | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Football Mississippi High School Football Tupelo Varsity Football @ Lewisburg Tupelo 10-0 Golden Wave 44 Final 0 Lewisburg 3-6 Patriots Tupelo Varsity Football @ Lewisburg Game Info On 10/29, the Tupelo varsity football team won their away conference game against Lewisburg (Olive Branch, MS) by a score of 44-0.",
+        "date_excerpt": "10/29/2026",
+        "home_name": "Lewisburg",
+        "away_name": "Tupelo"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-29",
+      "home": "North Pontotoc",
+      "away": "Tishomingo County",
+      "status": "final",
+      "home_score": 42,
+      "away_score": 43,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/north-pontotoc-ecru-vs-tishomingo-county-iuka/10-29-2026/?c=3e00f43f-c4ca-4f4f-9a29-5b21610406b5",
+        "excerpt": "Tishomingo County vs North Pontotoc | Football | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Football Mississippi High School Football Tishomingo County Varsity Football @ North Pontotoc Tishomingo County 5-4 Braves 43 Final 42 North Pontotoc 4-6 Vikings Tishomingo County Varsity Football @ North Pontotoc Streaming & Ticketing Watch Recap Game Info On 10/29, the Tishomingo County varsity football team won their away conference game against North Pontotoc (Ecru, MS) by a score of 43-42.",
+        "date_excerpt": "10/29/2026",
+        "home_name": "North Pontotoc",
+        "away_name": "Tishomingo County"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-29",
+      "home": "East Webster",
+      "away": "Eupora",
+      "status": "final",
+      "home_score": 20,
+      "away_score": 14,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/east-webster-maben-vs-eupora/10-29-2026/?c=dafdd74c-480d-4362-bece-16eef1275503",
+        "excerpt": "Eupora vs East Webster | Football | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Football Mississippi High School Football Eupora Varsity Football @ East Webster Eupora 8-2 Eagles 14 Final 20 East Webster 9-1 Wolverines Eupora Varsity Football @ East Webster Streaming & Ticketing Watch Recap Game Info On 10/29, the Eupora varsity football team lost their away conference game against East Webster (Maben, MS) by a score of 20-14.",
+        "date_excerpt": "10/29/2026",
+        "home_name": "East Webster",
+        "away_name": "Eupora"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-29",
+      "home": "Alcorn Central",
+      "away": "Kossuth",
+      "status": "final",
+      "home_score": 6,
+      "away_score": 29,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-kossuth/10-29-2026/?c=0754dc66-6204-4f93-b8c5-0b6f81dc3321",
+        "excerpt": "Kossuth vs Alcorn Central | Football | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Football Mississippi High School Football Kossuth Varsity Football @ Alcorn Central Kossuth 6-3 Aggies 29 Final 6 Alcorn Central 5-5 Golden Bears Kossuth Varsity Football @ Alcorn Central Game Info On 10/29, the Kossuth varsity football team won their away conference game against Alcorn Central (Glen, MS) by a score of 29-6.",
+        "date_excerpt": "10/29/2026",
+        "home_name": "Alcorn Central",
+        "away_name": "Kossuth"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-29",
+      "home": "Falkner",
+      "away": "Potts Camp",
+      "status": "final",
+      "home_score": 0,
+      "away_score": 35,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/falkner-vs-potts-camp/10-29-2026/?c=523b2003-c910-4b6d-95fe-e71f916fe13d",
+        "excerpt": "Potts Camp vs Falkner | Football | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Football Mississippi High School Football Potts Camp Varsity Football @ Falkner Potts Camp 6-2 Cardinals 35 Final 0 Falkner 5-4 Eagles Potts Camp Varsity Football @ Falkner Game Info On 10/29, the Potts Camp varsity football team won their away conference game against Falkner (MS) by a score of 35-0.",
+        "date_excerpt": "10/29/2026",
+        "home_name": "Falkner",
+        "away_name": "Potts Camp"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-29",
+      "home": "Starkville",
+      "away": "Hernando",
+      "status": "final",
+      "home_score": 1,
+      "away_score": 3,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/hernando-vs-starkville/10-29-2026/?c=be2998cc-6f0a-4e80-8713-ed996e3e822e",
+        "excerpt": "Hernando vs Starkville | Soccer | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Hernando Boys Varsity Soccer @ Starkville Hernando 2-0 Tigers 3 Final 1 Starkville 1-1 Yellowjackets Hernando Boys Varsity Soccer @ Starkville Game Info On 10/29, the Hernando varsity soccer team won their away non-conference match against Starkville (MS) by a score of 3-1.",
+        "date_excerpt": "10/29/2026",
+        "home_name": "Starkville",
+        "away_name": "Hernando"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-29",
+      "home": "Starkville",
+      "away": "Hernando",
+      "status": "final",
+      "home_score": 2,
+      "away_score": 6,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/hernando-vs-starkville/10-29-2026/?c=c69645fe-7779-4ea6-bac4-09f964801344",
+        "excerpt": "Hernando vs Starkville | Soccer | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Hernando Girls Varsity Soccer @ Starkville Hernando 2-0 Tigers 6 Final 2 Starkville 0-2 Yellowjackets Hernando Girls Varsity Soccer @ Starkville Game Info On 10/29, the Hernando varsity soccer team won their away non-conference match against Starkville (MS) by a score of 6-2.",
+        "date_excerpt": "10/29/2026",
+        "home_name": "Starkville",
+        "away_name": "Hernando"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-29",
+      "home": "Caledonia",
+      "away": "Itawamba Agricultural",
+      "status": "final",
+      "home_score": 3,
+      "away_score": 2,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/caledonia-vs-itawamba-agricultural-fulton/10-29-2026/?c=d871924e-78e5-4da2-aaac-caac65a348ab",
+        "excerpt": "Itawamba Agricultural vs Caledonia | Soccer | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Soccer Mississippi High School Soccer IAHS Boys Varsity Soccer @ Caledonia Itawamba Agricultural 1-1 Indians 2 Final 3 Caledonia 1-1 Cavaliers IAHS Boys Varsity Soccer @ Caledonia Game Info On 10/29, the Itawamba Agricultural varsity soccer team lost their away non-conference match against Caledonia (MS) by a score of 3-2.",
+        "date_excerpt": "10/29/2026",
+        "home_name": "Caledonia",
+        "away_name": "Itawamba Agricultural"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-29",
+      "home": "Caledonia",
+      "away": "Itawamba Agricultural",
+      "status": "final",
+      "home_score": 1,
+      "away_score": 2,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/caledonia-vs-itawamba-agricultural-fulton/10-29-2026/?c=e5997674-af8e-4d15-9be8-4fccd441014c",
+        "excerpt": "Itawamba Agricultural vs Caledonia | Soccer | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer IAHS Girls Varsity Soccer @ Caledonia Itawamba Agricultural 2-0 Indians 2 Final 1 Caledonia 1-1 Cavaliers IAHS Girls Varsity Soccer @ Caledonia Game Info On 10/29, the Itawamba Agricultural varsity soccer team won their away non-conference match against Caledonia (MS) by a score of 2-1.",
+        "date_excerpt": "10/29/2026",
+        "home_name": "Caledonia",
+        "away_name": "Itawamba Agricultural"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-29",
+      "home": "St. Martin",
+      "away": "Sumrall",
+      "status": "final",
+      "home_score": 0,
+      "away_score": 3,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/st-martin-ocean-springs-vs-sumrall/10-29-2026/?c=282a7127-e7af-49bf-9e02-793fcf2cc414",
+        "excerpt": "Sumrall vs St. Martin | Soccer | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Sumrall Boys Varsity Soccer @ St. Martin Sumrall 2-1-1 Bobcats 3 Final 0 St. Martin 1-1 Yellow Jackets Sumrall Boys Varsity Soccer @ St. Martin Game Info On 10/29, the Sumrall varsity soccer team won their away non-conference match against St. Martin (Ocean Springs, MS) by a score of 3-0.",
+        "date_excerpt": "10/29/2026",
+        "home_name": "St. Martin",
+        "away_name": "Sumrall"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-29",
+      "home": "St. Martin",
+      "away": "Sumrall",
+      "status": "final",
+      "home_score": 0,
+      "away_score": 2,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/st-martin-ocean-springs-vs-sumrall/10-29-2026/?c=4de1d8f6-7636-4e33-9b47-41ce42f10df6",
+        "excerpt": "Sumrall vs St. Martin | Soccer | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Sumrall Girls Varsity Soccer @ St. Martin Sumrall 4-0 Bobcats 2 Final 0 St. Martin 1-1 Yellow Jackets Sumrall Girls Varsity Soccer @ St. Martin Game Info On 10/29, the Sumrall varsity soccer team won their away non-conference match against St. Martin (Ocean Springs, MS) by a score of 2-0.",
+        "date_excerpt": "10/29/2026",
+        "home_name": "St. Martin",
+        "away_name": "Sumrall"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-29",
+      "home": "Lamar Christian",
+      "away": "Woodlawn Prep",
+      "status": "final",
+      "home_score": 36,
+      "away_score": 42,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/lamar-christian-purvis-vs-woodlawn-prep-columbia/10-29-2026/?c=5cc1f820-061c-4618-a1c8-79f62e70a075",
+        "excerpt": "Woodlawn Prep vs Lamar Christian | Basketball | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action \u2013 Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Woodlawn Prep Boys Varsity Basketball @ Lamar Christian Woodlawn Prep 1-0 Wolfpack 42 Final 36 Lamar Christian 2-1 Lions Woodlawn Prep Boys Varsity Basketball @ Lamar Christian Streaming & Ticketing Watch Recap Game Info On 10/29, the Woodlawn Prep varsity basketball team won their away non-conference game against Lamar Christian (Purvis, MS) by a score of 42-36. Featured Game Video",
+        "date_excerpt": "10/29/2026",
+        "home_name": "Lamar Christian",
+        "away_name": "Woodlawn Prep"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-10-29/",
+      "title": "Thursday Games To Watch preview"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Scores from last Night: Seminary finishes region play unbeaten; Tupelo reaches 10\u20130",
+    "headline_fact_ids": [
+      "game-0",
+      "seminary-region",
+      "game-1",
+      "records-1"
+    ],
+    "html": "<p data-facts=\"game-0 seminary-region game-1 records-1\">Seminary beat Magee 35\u20137 on Thursday, October 29, finishing its Class 3A Region 6 schedule unbeaten at 4\u20130. Tupelo added another shutout to its perfect season, winning 44\u20130 at Lewisburg to reach 10\u20130.</p>\n<p data-facts=\"game-2 game-6 game-7 game-12 austin-identity austin-line\">Elsewhere, Tishomingo County edged North Pontotoc 43\u201342, Hernando swept its soccer matches at Starkville, and Lake Austin scored 17 points in Woodlawn Prep\u2019s 42\u201336 basketball win at Lamar Christian.</p>\n<h2 data-facts=\"game-0 seminary-region\">Seminary finishes atop Region 6</h2>\n<p data-facts=\"game-0 records-0 seminary-region\"><a href=\"https://www.maxpreps.com/ms/football/game/magee-vs-seminary/10-29-2026/?c=a79d5967-ed23-4ecb-9ec4-f9b05c3c8971\">Seminary\u2019s home win over Magee</a> left the Bulldogs 9\u20131 overall and first in 3A Region 6. Their <a href=\"https://www.maxpreps.com/ms/seminary/seminary-bulldogs/football/schedule/\">posted final region record was 4\u20130</a>, and the victory extended their winning streak to seven games. Magee finished 7\u20132 overall.</p>\n<h2 data-facts=\"game-1 records-1 dean-identity dean-line\">Dean throws four touchdown passes for Tupelo</h2>\n<p data-facts=\"game-1 records-1 dean-identity dean-line tupelo-quarter\">Tupelo quarterback <a href=\"https://www.maxpreps.com/ms/tupelo/tupelo-golden-wave/athletes/drew-dean/?careerid=plcdjkramovbb\">Drew Dean</a> completed 13 of 19 passes for 129 yards and four touchdowns without an interception in the <a href=\"https://www.maxpreps.com/ms/football/game/lewisburg-olive-branch-vs-tupelo/10-29-2026/?c=4c75fbf0-443a-434e-8480-27e47db3d1f0\">44\u20130 win at Lewisburg</a>. The Golden Wave outscored the Patriots 21\u20130 in the second quarter. Lewisburg finished 3\u20136.</p>\n<p data-facts=\"game-0 game-1 game-4 game-5\">The Seminary\u2013Magee, Tupelo\u2013Lewisburg, Kossuth\u2013Alcorn Central and Potts Camp\u2013Falkner matchups were among the games in our <a href=\"https://sportsmississippi.com/sports/sportsms-preview-2026-10-29/\">Thursday Games To Watch preview</a>. Their finals brought decisive wins for Seminary, Tupelo, Kossuth and Potts Camp.</p>\n<h2 data-facts=\"game-2 game-3\">Tishomingo County survives by one; East Webster wins by six</h2>\n<p data-facts=\"game-2 records-2 game-3 records-3\"><a href=\"https://www.maxpreps.com/ms/football/game/north-pontotoc-ecru-vs-tishomingo-county-iuka/10-29-2026/?c=3e00f43f-c4ca-4f4f-9a29-5b21610406b5\">Tishomingo County won 43\u201342 at North Pontotoc</a>, moving to 5\u20134 while the Vikings finished 4\u20136. <a href=\"https://www.maxpreps.com/ms/football/game/east-webster-maben-vs-eupora/10-29-2026/?c=dafdd74c-480d-4362-bece-16eef1275503\">East Webster beat visiting Eupora 20\u201314</a> to finish 9\u20131; Eupora stood at 8\u20132 after the six-point decision.</p>\n<p data-facts=\"game-4 records-4 kossuth-region kossuth-quarters\"><a href=\"https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-kossuth/10-29-2026/?c=0754dc66-6204-4f93-b8c5-0b6f81dc3321\">Kossuth won 29\u20136 at Alcorn Central</a>, scoring 16 points in the second quarter and 13 in the fourth. Central\u2019s six points came in the third. Kossuth finished 6\u20133 overall and 3\u20131 in 3A Region 1; Central finished 5\u20135 overall.</p>\n<p data-facts=\"game-5 records-5\"><a href=\"https://www.maxpreps.com/ms/football/game/falkner-vs-potts-camp/10-29-2026/?c=523b2003-c910-4b6d-95fe-e71f916fe13d\">Potts Camp shut out Falkner 35\u20130 on the road</a>. The Cardinals improved to 6\u20132, while Falkner finished 5\u20134.</p>\n<h2 data-facts=\"game-6 game-7 records-6 records-7\">Hernando takes two at Starkville</h2>\n<p data-facts=\"game-6 records-6 hernando-boys-halves\"><a href=\"https://www.maxpreps.com/ms/soccer/match/hernando-vs-starkville/10-29-2026/?c=be2998cc-6f0a-4e80-8713-ed996e3e822e\">Hernando\u2019s boys won 3\u20131 at Starkville</a> after the teams reached halftime tied 1\u20131. The Tigers scored twice after the break and held the Yellowjackets scoreless in the second half, moving to 2\u20130. Starkville finished 1\u20131.</p>\n<p data-facts=\"game-7 records-7 hernando-girls-halves\"><a href=\"https://www.maxpreps.com/ms/soccer/girls/match/hernando-vs-starkville/10-29-2026/?c=c69645fe-7779-4ea6-bac4-09f964801344\">Hernando\u2019s girls won 6\u20132</a>, building a 5\u20131 halftime lead. That result also left the Tigers 2\u20130, while Starkville finished 0\u20132.</p>\n<p data-facts=\"game-8 game-9 records-8 records-9\">Caledonia and Itawamba Agricultural split a pair of one-goal matches. <a href=\"https://www.maxpreps.com/ms/soccer/match/caledonia-vs-itawamba-agricultural-fulton/10-29-2026/?c=d871924e-78e5-4da2-aaac-caac65a348ab\">Caledonia\u2019s boys won 3\u20132</a>, leaving both teams 1\u20131. <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/caledonia-vs-itawamba-agricultural-fulton/10-29-2026/?c=e5997674-af8e-4d15-9be8-4fccd441014c\">Itawamba\u2019s girls won 2\u20131</a> to reach 2\u20130, with Caledonia at 1\u20131.</p>\n<h2 data-facts=\"game-10 game-11\">Sumrall sweeps shutouts at St. Martin</h2>\n<p data-facts=\"game-10 game-11 records-10 records-11\">Sumrall kept St. Martin off the scoreboard in both matches: the <a href=\"https://www.maxpreps.com/ms/soccer/match/st-martin-ocean-springs-vs-sumrall/10-29-2026/?c=282a7127-e7af-49bf-9e02-793fcf2cc414\">boys won 3\u20130</a> and the <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/st-martin-ocean-springs-vs-sumrall/10-29-2026/?c=4de1d8f6-7636-4e33-9b47-41ce42f10df6\">girls won 2\u20130</a>. The Bobcats\u2019 girls remained perfect at 4\u20130, while their boys finished 2\u20131\u20131. Both St. Martin teams stood at 1\u20131.</p>\n<h2 data-facts=\"game-12 austin-identity austin-line\">Austin leads Woodlawn Prep in opening win</h2>\n<p data-facts=\"game-12 records-12 austin-identity austin-line woodlawn-quarters\"><a href=\"https://www.maxpreps.com/ms/basketball/game/lamar-christian-purvis-vs-woodlawn-prep-columbia/10-29-2026/?c=5cc1f820-061c-4618-a1c8-79f62e70a075\">Woodlawn Prep opened with a 42\u201336 win at Lamar Christian</a> behind <a href=\"https://www.maxpreps.com/ms/columbia/woodlawn-prep-wolfpack/athletes/lake-austin/?careerid=a5tcrp1k171vf\">Lake Austin\u2019s</a> 17 points and seven rebounds. The Wolfpack outscored Lamar 20\u20136 in the second quarter, then held on as the Lions took the fourth quarter 16\u20134. Woodlawn finished 1\u20130 and Lamar Christian 2\u20131.</p>",
+    "facts": [
+      {
+        "id": "records-0",
+        "kind": "record",
+        "claim": "Seminary boys finished 9-1; Magee boys finished 7-2.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/magee-vs-seminary/10-29-2026/?c=a79d5967-ed23-4ecb-9ec4-f9b05c3c8971",
+          "excerpt": "Sign in High School Football Mississippi High School Football Magee Varsity Football @ Seminary Magee 7-2 M Trojans 7 Final 35 Seminary 9-1 Bulldogs Magee Varsity Football @ Seminary",
+          "subjects": [
+            "Seminary",
+            "Magee"
+          ]
+        }
+      },
+      {
+        "id": "records-1",
+        "kind": "record",
+        "claim": "Lewisburg boys finished 3-6; Tupelo boys finished 10-0.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/lewisburg-olive-branch-vs-tupelo/10-29-2026/?c=4c75fbf0-443a-434e-8480-27e47db3d1f0",
+          "excerpt": "Sign in High School Football Mississippi High School Football Tupelo Varsity Football @ Lewisburg Tupelo 10-0 Golden Wave 44 Final 0 Lewisburg 3-6 Patriots Tupelo Varsity Football @ Lewisburg",
+          "subjects": [
+            "Lewisburg",
+            "Tupelo"
+          ]
+        }
+      },
+      {
+        "id": "records-2",
+        "kind": "record",
+        "claim": "North Pontotoc boys finished 4-6; Tishomingo County boys finished 5-4.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/north-pontotoc-ecru-vs-tishomingo-county-iuka/10-29-2026/?c=3e00f43f-c4ca-4f4f-9a29-5b21610406b5",
+          "excerpt": "Sign in High School Football Mississippi High School Football Tishomingo County Varsity Football @ North Pontotoc Tishomingo County 5-4 Braves 43 Final 42 North Pontotoc 4-6 Vikings Tishomingo County Varsity Football @ North Pontotoc Streaming & Ticketing Watch Recap",
+          "subjects": [
+            "North Pontotoc",
+            "Tishomingo County"
+          ]
+        }
+      },
+      {
+        "id": "records-3",
+        "kind": "record",
+        "claim": "East Webster boys finished 9-1; Eupora boys finished 8-2.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/east-webster-maben-vs-eupora/10-29-2026/?c=dafdd74c-480d-4362-bece-16eef1275503",
+          "excerpt": "Sign in High School Football Mississippi High School Football Eupora Varsity Football @ East Webster Eupora 8-2 Eagles 14 Final 20 East Webster 9-1 Wolverines Eupora Varsity Football @ East Webster Streaming & Ticketing Watch Recap",
+          "subjects": [
+            "East Webster",
+            "Eupora"
+          ]
+        }
+      },
+      {
+        "id": "records-4",
+        "kind": "record",
+        "claim": "Alcorn Central boys finished 5-5; Kossuth boys finished 6-3.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-kossuth/10-29-2026/?c=0754dc66-6204-4f93-b8c5-0b6f81dc3321",
+          "excerpt": "Sign in High School Football Mississippi High School Football Kossuth Varsity Football @ Alcorn Central Kossuth 6-3 Aggies 29 Final 6 Alcorn Central 5-5 Golden Bears Kossuth Varsity Football @ Alcorn Central",
+          "subjects": [
+            "Alcorn Central",
+            "Kossuth"
+          ]
+        }
+      },
+      {
+        "id": "records-5",
+        "kind": "record",
+        "claim": "Falkner boys finished 5-4; Potts Camp boys finished 6-2.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/falkner-vs-potts-camp/10-29-2026/?c=523b2003-c910-4b6d-95fe-e71f916fe13d",
+          "excerpt": "Sign in High School Football Mississippi High School Football Potts Camp Varsity Football @ Falkner Potts Camp 6-2 Cardinals 35 Final 0 Falkner 5-4 Eagles Potts Camp Varsity Football @ Falkner",
+          "subjects": [
+            "Falkner",
+            "Potts Camp"
+          ]
+        }
+      },
+      {
+        "id": "records-6",
+        "kind": "record",
+        "claim": "Starkville boys finished 1-1; Hernando boys finished 2-0.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/hernando-vs-starkville/10-29-2026/?c=be2998cc-6f0a-4e80-8713-ed996e3e822e",
+          "excerpt": "Sign in High School Soccer Mississippi High School Soccer Hernando Boys Varsity Soccer @ Starkville Hernando 2-0 Tigers 3 Final 1 Starkville 1-1 Yellowjackets Hernando Boys Varsity Soccer @ Starkville",
+          "subjects": [
+            "Starkville",
+            "Hernando"
+          ]
+        }
+      },
+      {
+        "id": "records-7",
+        "kind": "record",
+        "claim": "Starkville girls finished 0-2; Hernando girls finished 2-0.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/hernando-vs-starkville/10-29-2026/?c=c69645fe-7779-4ea6-bac4-09f964801344",
+          "excerpt": "Sign in High School Girls Soccer Mississippi High School Soccer Hernando Girls Varsity Soccer @ Starkville Hernando 2-0 Tigers 6 Final 2 Starkville 0-2 Yellowjackets Hernando Girls Varsity Soccer @ Starkville",
+          "subjects": [
+            "Starkville",
+            "Hernando"
+          ]
+        }
+      },
+      {
+        "id": "records-8",
+        "kind": "record",
+        "claim": "Caledonia boys finished 1-1; Itawamba Agricultural boys finished 1-1.",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/caledonia-vs-itawamba-agricultural-fulton/10-29-2026/?c=d871924e-78e5-4da2-aaac-caac65a348ab",
+          "excerpt": "Sign in High School Soccer Mississippi High School Soccer IAHS Boys Varsity Soccer @ Caledonia Itawamba Agricultural 1-1 Indians 2 Final 3 Caledonia 1-1 Cavaliers IAHS Boys Varsity Soccer @ Caledonia",
+          "subjects": [
+            "Caledonia",
+            "Itawamba Agricultural"
+          ]
+        }
+      },
+      {
+        "id": "records-9",
+        "kind": "record",
+        "claim": "Caledonia girls finished 1-1; Itawamba Agricultural girls finished 2-0.",
+        "game_indexes": [
+          9
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/caledonia-vs-itawamba-agricultural-fulton/10-29-2026/?c=e5997674-af8e-4d15-9be8-4fccd441014c",
+          "excerpt": "Sign in High School Girls Soccer Mississippi High School Soccer IAHS Girls Varsity Soccer @ Caledonia Itawamba Agricultural 2-0 Indians 2 Final 1 Caledonia 1-1 Cavaliers IAHS Girls Varsity Soccer @ Caledonia",
+          "subjects": [
+            "Caledonia",
+            "Itawamba Agricultural"
+          ]
+        }
+      },
+      {
+        "id": "records-10",
+        "kind": "record",
+        "claim": "St. Martin boys finished 1-1; Sumrall boys finished 2-1-1.",
+        "game_indexes": [
+          10
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/st-martin-ocean-springs-vs-sumrall/10-29-2026/?c=282a7127-e7af-49bf-9e02-793fcf2cc414",
+          "excerpt": "Sign in High School Soccer Mississippi High School Soccer Sumrall Boys Varsity Soccer @ St. Martin Sumrall 2-1-1 Bobcats 3 Final 0 St. Martin 1-1 Yellow Jackets Sumrall Boys Varsity Soccer @ St. Martin",
+          "subjects": [
+            "St. Martin",
+            "Sumrall"
+          ]
+        }
+      },
+      {
+        "id": "records-11",
+        "kind": "record",
+        "claim": "St. Martin girls finished 1-1; Sumrall girls finished 4-0.",
+        "game_indexes": [
+          11
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/st-martin-ocean-springs-vs-sumrall/10-29-2026/?c=4de1d8f6-7636-4e33-9b47-41ce42f10df6",
+          "excerpt": "Sign in High School Girls Soccer Mississippi High School Soccer Sumrall Girls Varsity Soccer @ St. Martin Sumrall 4-0 Bobcats 2 Final 0 St. Martin 1-1 Yellow Jackets Sumrall Girls Varsity Soccer @ St. Martin",
+          "subjects": [
+            "St. Martin",
+            "Sumrall"
+          ]
+        }
+      },
+      {
+        "id": "records-12",
+        "kind": "record",
+        "claim": "Lamar Christian boys finished 2-1; Woodlawn Prep boys finished 1-0.",
+        "game_indexes": [
+          12
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/lamar-christian-purvis-vs-woodlawn-prep-columbia/10-29-2026/?c=5cc1f820-061c-4618-a1c8-79f62e70a075",
+          "excerpt": "Sign in High School Basketball Mississippi High School Basketball Woodlawn Prep Boys Varsity Basketball @ Lamar Christian Woodlawn Prep 1-0 Wolfpack 42 Final 36 Lamar Christian 2-1 Lions Woodlawn Prep Boys Varsity Basketball @ Lamar Christian Streaming & Ticketing Watch Recap",
+          "subjects": [
+            "Lamar Christian",
+            "Woodlawn Prep"
+          ]
+        }
+      },
+      {
+        "id": "seminary-region",
+        "kind": "record",
+        "claim": "Seminary finished 9-1 overall and 4-0 in first place in 3A Region 6, with a seven-game winning streak.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/seminary/seminary-bulldogs/football/schedule/",
+          "excerpt": "Seminary Football Schedule 2026-27 Last Game Home \u2022 District Seminary 9-1 35 M Magee 7-2 7 Seminary 9-1 35 10/29 Final M Magee 7-2 7 Box Score Overall 9-1 0.900 Win Pct District 4-0 1st 3A Region 6 Home 5-0 Away 4-1 Neutral 0-0 PF 369 PA 122 Streak 7W",
+          "subjects": [
+            "Seminary"
+          ]
+        }
+      },
+      {
+        "id": "kossuth-region",
+        "kind": "record",
+        "claim": "Kossuth finished 6-3 overall and 3-1 in 3A Region 1.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/kossuth/kossuth-aggies/football/schedule/",
+          "excerpt": "Overall 6-3 0.667 Win Pct District 3-1 2nd 3A Region 1 Home 3-2 Away 3-1 Neutral 0-0 PF 229 PA 180 Streak 3W",
+          "subjects": [
+            "3A Region 1"
+          ]
+        }
+      },
+      {
+        "id": "tupelo-quarter",
+        "kind": "result",
+        "claim": "Tupelo outscored Lewisburg 21-0 in the second quarter.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/lewisburg-olive-branch-vs-tupelo/10-29-2026/?c=4c75fbf0-443a-434e-8480-27e47db3d1f0",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Tupelo 7 21 16 0 44 Lewisburg 0 0 0 0 0",
+          "subjects": [
+            "Lewisburg",
+            "Tupelo"
+          ]
+        }
+      },
+      {
+        "id": "kossuth-quarters",
+        "kind": "result",
+        "claim": "Kossuth scored 16 points in the second quarter and 13 in the fourth; Alcorn Central scored 6 points in the third quarter.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-kossuth/10-29-2026/?c=0754dc66-6204-4f93-b8c5-0b6f81dc3321",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Kossuth 0 16 0 13 29 Alcorn Central 0 0 6 0 6",
+          "subjects": [
+            "Alcorn Central",
+            "Kossuth"
+          ]
+        }
+      },
+      {
+        "id": "hernando-boys-halves",
+        "kind": "result",
+        "claim": "Hernando and Starkville boys were tied 1-1 at halftime; Hernando outscored Starkville 2-0 in the second half.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/hernando-vs-starkville/10-29-2026/?c=be2998cc-6f0a-4e80-8713-ed996e3e822e",
+          "excerpt": "Boxscore 1 2 Final Hernando 1 2 3 Starkville 1 0 1",
+          "subjects": [
+            "Starkville",
+            "Hernando"
+          ]
+        }
+      },
+      {
+        "id": "hernando-girls-halves",
+        "kind": "result",
+        "claim": "Hernando girls led Starkville 5-1 at halftime.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/hernando-vs-starkville/10-29-2026/?c=c69645fe-7779-4ea6-bac4-09f964801344",
+          "excerpt": "Boxscore 1 2 Final Hernando 5 1 6 Starkville 1 1 2",
+          "subjects": [
+            "Starkville",
+            "Hernando"
+          ]
+        }
+      },
+      {
+        "id": "woodlawn-quarters",
+        "kind": "result",
+        "claim": "Woodlawn Prep outscored Lamar Christian 20-6 in the second quarter; Lamar Christian outscored Woodlawn Prep 16-4 in the fourth quarter.",
+        "game_indexes": [
+          12
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/lamar-christian-purvis-vs-woodlawn-prep-columbia/10-29-2026/?c=5cc1f820-061c-4618-a1c8-79f62e70a075",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Woodlawn Prep 11 20 7 4 42 Lamar Christian 3 6 11 16 36",
+          "subjects": [
+            "Lamar Christian",
+            "Woodlawn Prep"
+          ]
+        }
+      },
+      {
+        "id": "dean-identity",
+        "kind": "context",
+        "claim": "Drew Dean is Tupelo quarterback number 2, identified as D. Dean in the Lewisburg game report.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/tupelo/tupelo-golden-wave/athletes/drew-dean/?careerid=plcdjkramovbb",
+          "excerpt": "Drew Dean Tupelo  (MS) Senior \u2022 2027 6'0\" \u2022 185 lbs V. Football #2 \u2022 QB Home Bio Stats News MS Tupelo Drew Dean Drew Dean Stats Updated Friday, Oct 30, 2026 Drew's stats have been entered for the win vs. Lewisburg on Thursday, Oct. 29, 2026. 129 Passing Yards 4 Passing TDs 13 Completions",
+          "subjects": [
+            "Drew Dean",
+            "Tupelo",
+            "Lewisburg"
+          ]
+        }
+      },
+      {
+        "id": "dean-line",
+        "kind": "result",
+        "claim": "Tupelo quarterback Drew Dean (D. Dean) completed 13 of 19 passes for 129 yards and 4 touchdowns with 0 interceptions against Lewisburg.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/lewisburg-olive-branch-vs-tupelo/10-29-2026/?c=4c75fbf0-443a-434e-8480-27e47db3d1f0",
+          "excerpt": "Top Performers Passing D. Dean #2 QB 13/19 CMP/ATT 129 YDS 4 TD 0 INT K. Wiggins #15 QB 10/19 CMP/ATT 76 YDS 0 TD 1 INT",
+          "subjects": [
+            "D. Dean"
+          ]
+        }
+      },
+      {
+        "id": "austin-identity",
+        "kind": "context",
+        "claim": "Lake Austin is Woodlawn Prep guard number 34, identified as L. Austin in the Lamar Christian game report.",
+        "game_indexes": [
+          12
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/columbia/woodlawn-prep-wolfpack/athletes/lake-austin/?careerid=a5tcrp1k171vf",
+          "excerpt": "Lake Austin Woodlawn Prep  (Columbia, MS) Senior \u2022 2027 V. Basketball #34 \u2022 G Home Bio Stats MS Woodlawn Prep Lake Austin Lake Austin Stats Updated Friday, Oct 30, 2026 Lake's stats have been entered for the win vs. Lamar Christian on Thursday, Oct. 29, 2026. 17 Points 25 FT Per Game 29 FG %",
+          "subjects": [
+            "Lake Austin",
+            "Woodlawn Prep",
+            "Lamar Christian"
+          ]
+        }
+      },
+      {
+        "id": "austin-line",
+        "kind": "result",
+        "claim": "Woodlawn Prep guard Lake Austin (L. Austin) scored 17 points and collected 7 rebounds against Lamar Christian.",
+        "game_indexes": [
+          12
+        ],
+        "as_of_date": "2026-10-29",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/lamar-christian-purvis-vs-woodlawn-prep-columbia/10-29-2026/?c=5cc1f820-061c-4618-a1c8-79f62e70a075",
+          "excerpt": "Top Performers Points L. Austin #34 G 17 PTS Rebounds L. Austin #34 G 7 TOT 1 OFF 6 DEF",
+          "subjects": [
+            "L. Austin"
+          ]
+        }
+      }
+    ]
+  }
+}
