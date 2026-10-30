@@ -1,0 +1,390 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-10-30",
+  "verified_at": "2026-10-30T20:02:09.984792+00:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "soccer",
+    "basketball",
+    "volleyball",
+    "cross country",
+    "golf",
+    "swimming",
+    "bowling"
+  ],
+  "games": [
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-30",
+      "away": "D'Iberville",
+      "home": "Gulfport",
+      "status": "scheduled",
+      "start_time": "2026-10-30T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/diberville-vs-gulfport/10-30-2026/?c=47cdac11-ec0b-4a24-87c9-065c2c173af2",
+        "excerpt": "D'Iberville vs Gulfport | Football | 10/30/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football D'Iberville Varsity Football @ Gulfport D'Iberville Warriors 8-0 Friday, Oct 30, 2026 7:00pm CDT Gulfport Admirals 7-1 D'Iberville Varsity Football @ Gulfport Streaming & Ticketing Purchase Tickets",
+        "date_excerpt": "10/30/2026",
+        "time_excerpt": "7:00pm CDT",
+        "away_name": "D'Iberville",
+        "home_name": "Gulfport"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-30",
+      "away": "Hernando",
+      "home": "DeSoto Central",
+      "status": "scheduled",
+      "start_time": "2026-10-30T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/desoto-central-southaven-vs-hernando/10-30-2026/?c=9e95a4b0-9d6d-44a8-aedc-bade73c127b9",
+        "excerpt": "Hernando vs DeSoto Central | Football | 10/30/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Hernando Varsity Football @ DeSoto Central Hernando Tigers 6-2 Friday, Oct 30, 2026 7:00pm CDT DeSoto Central Jaguars 6-2 Hernando Varsity Football @ DeSoto Central Streaming & Ticketing Purchase Tickets",
+        "date_excerpt": "10/30/2026",
+        "time_excerpt": "7:00pm CDT",
+        "away_name": "Hernando",
+        "home_name": "DeSoto Central"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-30",
+      "away": "Grenada",
+      "home": "Lake Cormorant",
+      "status": "scheduled",
+      "start_time": "2026-10-30T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/grenada-vs-lake-cormorant/10-30-2026/?c=999fd01d-8c27-4fcc-998b-8e32b5606b09",
+        "excerpt": "Grenada vs Lake Cormorant | Football | 10/30/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Grenada Varsity Football @ Lake Cormorant Grenada Chargers 4-3 Friday, Oct 30, 2026 7:00pm CDT Lake Cormorant 8-0 Grenada Varsity Football @ Lake Cormorant Streaming & Ticketing Purchase Tickets",
+        "date_excerpt": "10/30/2026",
+        "time_excerpt": "7:00pm CDT",
+        "away_name": "Grenada",
+        "home_name": "Lake Cormorant"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-30",
+      "away": "D'Iberville",
+      "home": "Bay",
+      "status": "scheduled",
+      "start_time": "2026-10-30T17:30:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/bay-bay-st-louis-vs-diberville/10-30-2026/?c=16afdd68-de4f-457e-a99b-f68e5393a383",
+        "excerpt": "D'Iberville vs Bay | Soccer | 10/30/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer D'Iberville Girls Varsity Soccer @ Bay D'Iberville Warriors 1-0-1 Friday, Oct 30, 2026 5:30pm CDT Bay Tigers 2-0 D'Iberville Girls Varsity Soccer @ Bay",
+        "date_excerpt": "10/30/2026",
+        "time_excerpt": "5:30pm CDT",
+        "away_name": "D'Iberville",
+        "home_name": "Bay"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-30",
+      "away": "Jackson HomeSchool",
+      "home": "Park Place Christian Academy",
+      "status": "scheduled",
+      "start_time": "2026-10-30T18:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/jackson-homeschool-vs-park-place-christian-academy-pearl/10-30-2026/?c=9862b368-d27e-4024-8546-82b9ce7c9099",
+        "excerpt": "Jackson HomeSchool vs Park Place Christian Academy | Basketball | 10/30/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Jackson HomeSchool Girls Varsity Basketball @ PPCA Jackson HomeSchool Victors 0-0 Friday, Oct 30, 2026 6:00pm CDT P Park Place Christian Academy Crusaders 0-0 Jackson HomeSchool Girls Varsity Basketball @ PPCA Streaming & Ticketing Sign Up To Watch Purchase Tickets",
+        "date_excerpt": "10/30/2026",
+        "time_excerpt": "6:00pm CDT",
+        "away_name": "Jackson HomeSchool",
+        "home_name": "Park Place Christian Academy"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-30",
+      "away": "Jackson HomeSchool",
+      "home": "Park Place Christian Academy",
+      "status": "scheduled",
+      "start_time": "2026-10-30T19:00:00-05:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/jackson-homeschool-vs-park-place-christian-academy-pearl/10-30-2026/?c=5817db96-153d-4908-a59c-2cf242caaf24",
+        "excerpt": "Jackson HomeSchool vs Park Place Christian Academy | Basketball | 10/30/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Jackson HomeSchool Boys Varsity Basketball @ PPCA Jackson HomeSchool Victors 1-0 Friday, Oct 30, 2026 7:00pm CDT P Park Place Christian Academy Crusaders 0-0 Jackson HomeSchool Boys Varsity Basketball @ PPCA Streaming & Ticketing Sign Up To Watch Purchase Tickets",
+        "date_excerpt": "10/30/2026",
+        "time_excerpt": "7:00pm CDT",
+        "away_name": "Jackson HomeSchool",
+        "home_name": "Park Place Christian Academy"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-10-23/",
+      "title": "October 23 scores recap: Gulfport defeats Biloxi"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: D’Iberville and Gulfport put perfect district starts on the line",
+    "headline_fact_ids": [
+      "game-0",
+      "coast-records"
+    ],
+    "html": "<p data-facts=\"game-0 coast-records\">A district unbeaten will fall Friday night in Gulfport. D’Iberville brings an 8–0 overall record to the Admirals’ home field, where Gulfport enters 7–1. Both are 4–0 in district play, making their 7 p.m. meeting the clearest head-to-head test on this October 30 Games To Watch selection.</p>\n<p data-facts=\"game-1 game-2 game-3 game-4 game-5 desoto-records lake-records\">The evening also brings a meeting of matching records at DeSoto Central, another test for unbeaten Lake Cormorant, girls soccer in Bay St. Louis and a basketball doubleheader in Pearl. The selected starts run from 5:30 p.m. through 7 p.m. CDT.</p>\n<h2 data-facts=\"game-0 coast-records\">Football: district unbeatens meet at Gulfport</h2>\n<p data-facts=\"game-0 coast-records coast-home-away\">D’Iberville at Gulfport is more than an unbeaten team visiting a one-loss opponent. The Warriors have won all their road games, entering 3–0 away, while the Admirals are 4–0 at home. Tonight puts those venue records against each other along with the teams’ perfect district starts.</p>\n<p data-facts=\"coast-attack\">Their reported offensive profiles suggest different points of emphasis. MaxPreps lists D’Iberville at 256.9 rushing yards per game and 192.4 passing yards; Gulfport averages 143.5 on the ground and 249.3 through the air. That makes the Warriors’ running game and the Admirals’ passing production useful things to watch, without assuming either team must abandon the other half of its offense.</p>\n<p data-facts=\"gulfport-form coast-records game-0\">Gulfport’s most recent verified result was a 35–3 victory over Biloxi on October 23. The Admirals allowed only three points in that game, detailed in our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-10-23/\">October 23 scores recap</a>. Tonight asks them to carry that form into a meeting with an unbeaten opponent.</p>\n<h2 data-facts=\"game-1 game-2 desoto-records lake-records\">Football: matching marks in Southaven, perfection at Lake Cormorant</h2>\n<p data-facts=\"game-1 desoto-records desoto-ground\">Hernando visits DeSoto Central in Southaven at 7 p.m. with both teams 6–2 overall and 2–1 in district play. The identical records give the matchup a direct measure of separation. DeSoto Central’s reported rushing average is 283.4 yards per game, compared with Hernando’s 184.0, putting the Jaguars’ ground production at the center of the statistical comparison.</p>\n<p data-facts=\"game-2 lake-records lake-road\">Lake Cormorant hosts Grenada at 7 p.m. The home team enters 8–0 overall and 3–0 in district play; Grenada is 4–3 and 1–2. There is a more competitive split beneath those overall records: Grenada is unbeaten on the road at 3–0, and Lake Cormorant has won all its home games at 5–0. The Chargers’ road record gives this game a reason to watch beyond the contrast in overall wins and losses.</p>\n<h2 data-facts=\"game-3\">Girls soccer: Bay welcomes D’Iberville</h2>\n<p data-facts=\"game-3 soccer-records bay-scrimmage\">Bay hosts D’Iberville in a non-district girls varsity match at 5:30 p.m. in Bay St. Louis. MaxPreps lists Bay at 2–0 and D’Iberville at 1–0–1. Those are the service’s listed marks: Bay’s results include a preseason scrimmage victory over George County, so its record should be read with that qualification.</p>\n<p data-facts=\"bay-form game-3 soccer-records\">Bay does have a verified competitive result to build on, a 4–2 win over St. Patrick on October 27. D’Iberville arrives without a listed loss. Their meeting offers an early comparison between teams that have started positively, with Bay looking to follow Tuesday’s scoring performance against another opponent.</p>\n<h2 data-facts=\"game-4 game-5\">Basketball: Jackson HomeSchool visits Park Place</h2>\n<p data-facts=\"game-4 game-5 girls-records boys-records\">Park Place Christian Academy hosts Jackson HomeSchool in Pearl, with the girls scheduled for 6 p.m. and the boys for 7 p.m. Both girls teams are listed at 0–0. In the boys game, Jackson HomeSchool arrives 1–0 while Park Place is listed at 0–0, giving the visitors an already-established result and the hosts an opening benchmark.</p>\n<p data-facts=\"jackson-form game-5 boys-records\">The Jackson HomeSchool boys earned that first win by beating Meridian HomeSchool 54–23 on October 22. Friday’s non-conference road game is their chance to follow that result with another victory, while Park Place gets its first listed opportunity to put a result on the board.</p>",
+    "facts": [
+      {
+        "id": "coast-records",
+        "kind": "record",
+        "claim": "D'Iberville enters 8-0 overall and 4-0 in district; Gulfport is 7-1 overall and 4-0 in district.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/diberville-vs-gulfport/10-30-2026/?c=47cdac11-ec0b-4a24-87c9-065c2c173af2",
+          "excerpt": "Scoring Averages Final Q1 Q2 Q3 Q4 OT1 D'Iberville 38.6 10.3 15.2 8.7 6.8 -- Gulfport 41.5 8.3 14.6 8.4 9.1 7.0 Rankings Mississippi #13 #3 Mississippi Division 7A #9 #3 Biloxi #2 #1 Season Recap Overall Record 8-0 7-1 District 4-0 4-0",
+          "subjects": [
+            "D'Iberville",
+            "Gulfport"
+          ]
+        }
+      },
+      {
+        "id": "coast-home-away",
+        "kind": "context",
+        "claim": "D'Iberville is 3-0 away; Gulfport is 4-0 at home.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/diberville-vs-gulfport/10-30-2026/?c=47cdac11-ec0b-4a24-87c9-065c2c173af2",
+          "excerpt": "Scoring Averages Final Q1 Q2 Q3 Q4 OT1 D'Iberville 38.6 10.3 15.2 8.7 6.8 -- Gulfport 41.5 8.3 14.6 8.4 9.1 7.0 Rankings Mississippi #13 #3 Mississippi Division 7A #9 #3 Biloxi #2 #1 Season Recap Overall Record 8-0 7-1 District 4-0 4-0 Non-District 4-0 3-1 Head to Head 0-0 0-0 Home 5-0 4-0 Away 3-0 3-1",
+          "subjects": [
+            "D'Iberville",
+            "Gulfport"
+          ]
+        }
+      },
+      {
+        "id": "coast-attack",
+        "kind": "context",
+        "claim": "D'Iberville averages 256.9 rushing yards and 192.4 passing yards per game; Gulfport averages 143.5 rushing yards and 249.3 passing yards per game.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/diberville-vs-gulfport/10-30-2026/?c=47cdac11-ec0b-4a24-87c9-065c2c173af2",
+          "excerpt": "Team Comparison D'Iberville 256.9 Rushing Yards/G Gulfport 143.5 D'Iberville 192.4 Passing Yards/G Gulfport 249.3",
+          "subjects": [
+            "D'Iberville",
+            "Gulfport"
+          ]
+        }
+      },
+      {
+        "id": "desoto-records",
+        "kind": "record",
+        "claim": "Hernando and DeSoto Central both enter 6-2 overall and 2-1 in district play.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/desoto-central-southaven-vs-hernando/10-30-2026/?c=9e95a4b0-9d6d-44a8-aedc-bade73c127b9",
+          "excerpt": "Scoring Averages Final Q1 Q2 Q3 Q4 OT1 OT2 Hernando 38.6 8.4 6.2 6.0 8.4 7.5 6.0 DeSoto Central 34.2 8.4 9.4 8.9 4.4 3.5 -- Rankings Mississippi #35 #39 Mississippi Division 7A #15 #16 Memphis #10 #15 Season Recap Overall Record 6-2 6-2 District 2-1 2-1",
+          "subjects": [
+            "Hernando",
+            "DeSoto Central"
+          ]
+        }
+      },
+      {
+        "id": "desoto-ground",
+        "kind": "context",
+        "claim": "DeSoto Central averages 283.4 rushing yards per game; Hernando averages 184.0 rushing yards per game.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/desoto-central-southaven-vs-hernando/10-30-2026/?c=9e95a4b0-9d6d-44a8-aedc-bade73c127b9",
+          "excerpt": "Team Comparison Hernando 184.0 Rushing Yards/G DeSoto Central (Southaven) 283.4",
+          "subjects": [
+            "Hernando",
+            "DeSoto Central"
+          ]
+        }
+      },
+      {
+        "id": "lake-records",
+        "kind": "record",
+        "claim": "Lake Cormorant enters 8-0 overall and 3-0 in district play; Grenada is 4-3 overall and 1-2 in district.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/grenada-vs-lake-cormorant/10-30-2026/?c=999fd01d-8c27-4fcc-998b-8e32b5606b09",
+          "excerpt": "Scoring Averages Final Q1 Q2 Q3 Q4 OT1 Grenada 20.9 3.5 4.5 7.0 1.0 -- Lake Cormorant 24.9 2.3 8.5 3.5 7.8 7.0 Rankings Mississippi #46 #18 Mississippi Division 6A #7 #2 Columbus-Tupelo #12 -- Greenwood #2 -- Memphis -- #5 Season Recap Overall Record 4-3 8-0 District 1-2 3-0",
+          "subjects": [
+            "Grenada",
+            "Lake Cormorant"
+          ]
+        }
+      },
+      {
+        "id": "lake-road",
+        "kind": "context",
+        "claim": "Grenada is 3-0 away; Lake Cormorant is 5-0 at home.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/grenada-vs-lake-cormorant/10-30-2026/?c=999fd01d-8c27-4fcc-998b-8e32b5606b09",
+          "excerpt": "Scoring Averages Final Q1 Q2 Q3 Q4 OT1 Grenada 20.9 3.5 4.5 7.0 1.0 -- Lake Cormorant 24.9 2.3 8.5 3.5 7.8 7.0 Rankings Mississippi #46 #18 Mississippi Division 6A #7 #2 Columbus-Tupelo #12 -- Greenwood #2 -- Memphis -- #5 Season Recap Overall Record 4-3 8-0 District 1-2 3-0 Non-District 3-1 5-0 Head to Head 0-0 0-0 Home 1-3 5-0 Away 3-0 3-0",
+          "subjects": [
+            "Grenada",
+            "Lake Cormorant"
+          ]
+        }
+      },
+      {
+        "id": "soccer-records",
+        "kind": "record",
+        "claim": "MaxPreps lists Bay at 2-0 and D'Iberville at 1-0-1 entering the girls soccer match.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/bay-bay-st-louis-vs-diberville/10-30-2026/?c=16afdd68-de4f-457e-a99b-f68e5393a383",
+          "excerpt": "D'Iberville Warriors 1-0-1 Friday, Oct 30, 2026 5:30pm CDT Bay Tigers 2-0 D'Iberville Girls Varsity Soccer @ Bay",
+          "subjects": [
+            "D'Iberville",
+            "Bay"
+          ]
+        }
+      },
+      {
+        "id": "bay-scrimmage",
+        "kind": "context",
+        "claim": "Bay’s listed results include a preseason scrimmage win over George County, so the listed record includes that scrimmage.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/bay-st-louis/bay-tigers/soccer/girls/winter/",
+          "excerpt": "Game Results Saturday, Oct 24, 2026 On Saturday, Oct 24, 2026, the Bay Varsity Girls Soccer team won their Pre Season Scrimmage match against George County High School by a score of 3-0 . Bay 3 George County 0 Final Box Score",
+          "subjects": [
+            "Bay"
+          ]
+        }
+      },
+      {
+        "id": "girls-records",
+        "kind": "record",
+        "claim": "MaxPreps lists both Jackson HomeSchool and Park Place Christian Academy at 0-0 in girls basketball.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/jackson-homeschool-vs-park-place-christian-academy-pearl/10-30-2026/?c=9862b368-d27e-4024-8546-82b9ce7c9099",
+          "excerpt": "Jackson HomeSchool Victors 0-0 Friday, Oct 30, 2026 6:00pm CDT P Park Place Christian Academy Crusaders 0-0 Jackson HomeSchool Girls Varsity Basketball @ PPCA Streaming & Ticketing Sign Up To Watch Purchase Tickets",
+          "subjects": [
+            "Jackson HomeSchool",
+            "Park Place Christian Academy"
+          ]
+        }
+      },
+      {
+        "id": "boys-records",
+        "kind": "record",
+        "claim": "Jackson HomeSchool enters boys basketball at 1-0; Park Place Christian Academy is listed at 0-0.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/jackson-homeschool-vs-park-place-christian-academy-pearl/10-30-2026/?c=5817db96-153d-4908-a59c-2cf242caaf24",
+          "excerpt": "Jackson HomeSchool Victors 1-0 Friday, Oct 30, 2026 7:00pm CDT P Park Place Christian Academy Crusaders 0-0 Jackson HomeSchool Boys Varsity Basketball @ PPCA Streaming & Ticketing Sign Up To Watch Purchase Tickets",
+          "subjects": [
+            "Jackson HomeSchool",
+            "Park Place Christian Academy"
+          ]
+        }
+      },
+      {
+        "id": "gulfport-form",
+        "kind": "history",
+        "claim": "Gulfport defeated Biloxi 35-3 on October 23, 2026.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/biloxi-vs-gulfport/10-23-2026/?c=4140a712-ff5c-40ae-aef3-160830589b84",
+          "excerpt": "Gulfport vs Biloxi | Football | 10/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Gulfport Varsity Football @ Biloxi Gulfport 7-1 Admirals 35 Final 3 Biloxi 2-6 Indians Gulfport Varsity Football @ Biloxi Streaming & Ticketing Watch Recap Game Info On 10/23, the Gulfport varsity football team won their away conference game against Biloxi (MS) by a score of 35-3. Featured Game Video Recap Stats Scoretracker",
+          "subjects": [
+            "Gulfport"
+          ],
+          "date_excerpt": "10/23/2026"
+        },
+        "fact_date": "2026-10-23"
+      },
+      {
+        "id": "bay-form",
+        "kind": "history",
+        "claim": "Bay defeated St. Patrick 4-2 on October 27, 2026.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/bay-bay-st-louis-vs-st-patrick-biloxi/10-27-2026/?c=2d1090f3-7305-46de-a6ed-52f6efe44400",
+          "excerpt": "St. Patrick vs Bay | Soccer | 10/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer St. Patrick Girls Varsity Soccer @ Bay St. Patrick 1-2-1 Fighting Irish 2 Final 4 Bay 2-0 Tigers St. Patrick Girls Varsity Soccer @ Bay Game Info On 10/27, the St. Patrick varsity soccer team lost their away non-conference match against Bay (Bay St. Louis, MS) by a score of 4-2. Recap Stats",
+          "subjects": [
+            "Bay"
+          ],
+          "date_excerpt": "10/27/2026"
+        },
+        "fact_date": "2026-10-27"
+      },
+      {
+        "id": "jackson-form",
+        "kind": "history",
+        "claim": "Jackson HomeSchool defeated Meridian HomeSchool 54-23 on October 22, 2026.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/jackson-homeschool-vs-meridian-homeschool/10-22-2026/?c=d52e0f9c-53b6-442f-ae7d-906efc9f3c03",
+          "excerpt": "Meridian HomeSchool vs Jackson HomeSchool | Basketball | 10/22/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Meridian HomeSchool Boys Varsity Basketball @ Jackson HomeSchool Meridian HomeSchool 0-1 FLYERS 23 Final 54 Jackson HomeSchool 1-0 Victors Meridian HomeSchool Boys Varsity Basketball @ Jackson HomeSchool Game Info On 10/22, the Meridian HomeSchool varsity basketball team lost their away conference game against Jackson HomeSchool (Jackson, MS) by a score of 54-23. Recap Stats",
+          "subjects": [
+            "Jackson HomeSchool"
+          ],
+          "date_excerpt": "10/22/2026"
+        },
+        "fact_date": "2026-10-22"
+      }
+    ]
+  }
+}
