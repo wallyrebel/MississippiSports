@@ -1,0 +1,714 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-10-30",
+  "verified_at": "2026-10-31T13:10:27.593210+00:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "soccer",
+    "basketball",
+    "volleyball",
+    "cross country",
+    "golf",
+    "swimming",
+    "bowling"
+  ],
+  "games": [
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-30",
+      "away": "D'Iberville",
+      "home": "Gulfport",
+      "status": "final",
+      "away_score": 24,
+      "home_score": 28,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/diberville-vs-gulfport/10-30-2026/?c=47cdac11-ec0b-4a24-87c9-065c2c173af2",
+        "excerpt": "D'Iberville vs Gulfport | Football | 10/30/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football D'Iberville Varsity Football @ Gulfport D'Iberville 8-1 Warriors 24 Final 28 Gulfport 8-1 Admirals D'Iberville Varsity Football @ Gulfport Game Info On 10/30, the D'Iberville varsity football team lost their away conference game against Gulfport (MS) by a score of 28-24.",
+        "date_excerpt": "10/30/2026",
+        "away_name": "D'Iberville",
+        "home_name": "Gulfport"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-30",
+      "away": "Meridian",
+      "home": "Petal",
+      "status": "final",
+      "away_score": 52,
+      "home_score": 33,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/meridian-vs-petal/10-30-2026/?c=142ef0b2-131c-42e4-8189-6bb8d36340fa",
+        "excerpt": "Meridian vs Petal | Football | 10/30/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Meridian Varsity Football @ Petal Meridian 6-3 Wildcats 52 Final 33 Petal 8-2 Panthers Meridian Varsity Football @ Petal Game Info On 10/30, the Meridian varsity football team won their away conference game against Petal (MS) by a score of 52-33.",
+        "date_excerpt": "10/30/2026",
+        "away_name": "Meridian",
+        "home_name": "Petal"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-30",
+      "away": "New Hope",
+      "home": "West Point",
+      "status": "final",
+      "away_score": 48,
+      "home_score": 50,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/new-hope-columbus-vs-west-point/10-30-2026/?c=d1693a0d-6172-4228-8df5-5f4ac3db3f34",
+        "excerpt": "New Hope vs West Point | Football | 10/30/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football New Hope Varsity Football @ West Point New Hope 6-3 Trojans 48 Final 50 West Point 2-7 Green Wave New Hope Varsity Football @ West Point Game Info On 10/30, the New Hope varsity football team lost their away conference game against West Point (MS) by a score of 50-48.",
+        "date_excerpt": "10/30/2026",
+        "away_name": "New Hope",
+        "home_name": "West Point"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-30",
+      "away": "Starkville",
+      "home": "Madison Central",
+      "status": "final",
+      "away_score": 17,
+      "home_score": 21,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/madison-central-vs-starkville/10-30-2026/?c=3404a151-36b1-468d-88f9-2e4027297968",
+        "excerpt": "Starkville vs Madison Central | Football | 10/30/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Starkville Varsity Football @ Madison Central Starkville 6-3 Yellowjackets 17 Final 21 Madison Central 5-4 Jaguars Starkville Varsity Football @ Madison Central Game Info On 10/30, the Starkville varsity football team lost their away conference game against Madison Central (Madison, MS) by a score of 21-17.",
+        "date_excerpt": "10/30/2026",
+        "away_name": "Starkville",
+        "home_name": "Madison Central"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-30",
+      "away": "Hernando",
+      "home": "DeSoto Central",
+      "status": "final",
+      "away_score": 14,
+      "home_score": 39,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/desoto-central-southaven-vs-hernando/10-30-2026/?c=9e95a4b0-9d6d-44a8-aedc-bade73c127b9",
+        "excerpt": "Hernando vs DeSoto Central | Football | 10/30/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Hernando Varsity Football @ DeSoto Central Hernando 6-3 Tigers 14 Final 39 DeSoto Central 7-2 Jaguars Hernando Varsity Football @ DeSoto Central Game Info On 10/30, the Hernando varsity football team lost their away conference game against DeSoto Central (Southaven, MS) by a score of 39-14.",
+        "date_excerpt": "10/30/2026",
+        "away_name": "Hernando",
+        "home_name": "DeSoto Central"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-30",
+      "away": "Callaway",
+      "home": "Warren Central",
+      "status": "final",
+      "away_score": 0,
+      "home_score": 49,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/callaway-jackson-vs-warren-central-vicksburg/10-30-2026/?c=db1d2bab-1bc4-4bae-bc04-f2b08c2ae074",
+        "excerpt": "Callaway vs Warren Central | Football | 10/30/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Callaway Varsity Football @ Warren Central Callaway 4-6 Chargers 0 Final 49 Warren Central 9-0 Vikings Callaway Varsity Football @ Warren Central Streaming & Ticketing Watch Recap Game Info On 10/30, the Callaway varsity football team lost their away conference game against Warren Central (Vicksburg, MS) by a score of 49-0.",
+        "date_excerpt": "10/30/2026",
+        "away_name": "Callaway",
+        "home_name": "Warren Central"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-30",
+      "away": "Saltillo",
+      "home": "Center Hill",
+      "status": "final",
+      "away_score": 7,
+      "home_score": 35,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-saltillo/10-30-2026/?c=c187671d-27c2-4a6b-aa06-b6dc559c5d5a",
+        "excerpt": "Saltillo vs Center Hill | Football | 10/30/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Saltillo Varsity Football @ Center Hill Saltillo 1-9 Tigers 7 Final 35 Center Hill 7-2 Mustangs Saltillo Varsity Football @ Center Hill Game Info On 10/30, the Saltillo varsity football team lost their away conference game against Center Hill (Olive Branch, MS) by a score of 35-7.",
+        "date_excerpt": "10/30/2026",
+        "away_name": "Saltillo",
+        "home_name": "Center Hill"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-30",
+      "away": "Horn Lake",
+      "home": "Southaven",
+      "status": "final",
+      "away_score": 26,
+      "home_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/horn-lake-vs-southaven/10-30-2026/?c=885b65fd-ac3f-4af9-a914-3b5b92b8c528",
+        "excerpt": "Horn Lake vs Southaven | Football | 10/30/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Horn Lake Varsity Football @ Southaven Horn Lake 1-8 Eagles 26 Final 0 Southaven 2-6 Chargers Horn Lake Varsity Football @ Southaven Game Info On 10/30, the Horn Lake varsity football team won their away conference game against Southaven (MS) by a score of 26-0.",
+        "date_excerpt": "10/30/2026",
+        "away_name": "Horn Lake",
+        "home_name": "Southaven"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-30",
+      "away": "Northwest Rankin",
+      "home": "Oak Grove",
+      "status": "final",
+      "away_score": 7,
+      "home_score": 38,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/northwest-rankin-brandon-vs-oak-grove-hattiesburg/10-30-2026/?c=d5a9ec8f-d266-4c08-9d6b-b3d213dc0625",
+        "excerpt": "Northwest Rankin vs Oak Grove | Football | 10/30/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Northwest Rankin Varsity Football @ Oak Grove Northwest Rankin 3-6 Cougars 7 Final 38 Oak Grove 7-2 Warriors Northwest Rankin Varsity Football @ Oak Grove Game Info On 10/30, the Northwest Rankin varsity football team lost their away conference game against Oak Grove (Hattiesburg, MS) by a score of 38-7.",
+        "date_excerpt": "10/30/2026",
+        "away_name": "Northwest Rankin",
+        "home_name": "Oak Grove"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-30",
+      "away": "D'Iberville",
+      "home": "Bay",
+      "status": "final",
+      "away_score": 0,
+      "home_score": 4,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/bay-bay-st-louis-vs-diberville/10-30-2026/?c=16afdd68-de4f-457e-a99b-f68e5393a383",
+        "excerpt": "D'Iberville vs Bay | Soccer | 10/30/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer D'Iberville Girls Varsity Soccer @ Bay D'Iberville 1-1-1 Warriors 0 Final 4 Bay 3-0 Tigers D'Iberville Girls Varsity Soccer @ Bay Game Info On 10/30, the D'Iberville varsity soccer team lost their away non-conference match against Bay (Bay St. Louis, MS) by a score of 4-0.",
+        "date_excerpt": "10/30/2026",
+        "away_name": "D'Iberville",
+        "home_name": "Bay"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-30",
+      "away": "D'Iberville",
+      "home": "Bay",
+      "status": "final",
+      "away_score": 0,
+      "home_score": 1,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/bay-bay-st-louis-vs-diberville/10-30-2026/?c=60c247f6-e559-4503-b7bf-ccad1208295f",
+        "excerpt": "D'Iberville vs Bay | Soccer | 10/30/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer D'Iberville Boys Varsity Soccer @ Bay D'Iberville 1-1 Warriors 0 Final 1 Bay 2-1-1 Tigers D'Iberville Boys Varsity Soccer @ Bay Game Info On 10/30, the D'Iberville varsity soccer team lost their away non-conference match against Bay (Bay St. Louis, MS) by a score of 1-0.",
+        "date_excerpt": "10/30/2026",
+        "away_name": "D'Iberville",
+        "home_name": "Bay"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-30",
+      "away": "Richland",
+      "home": "Sacred Heart",
+      "status": "final",
+      "away_score": 0,
+      "home_score": 5,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/richland-vs-sacred-heart-hattiesburg/10-30-2026/?c=ddd81424-b082-4fec-860d-88b78b284fb6",
+        "excerpt": "Richland vs Sacred Heart | Soccer | 10/30/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Richland Boys Varsity Soccer @ Sacred Heart Richland 0-2-2 Rangers 0 Final 5 Sacred Heart 3-1 Crusaders Richland Boys Varsity Soccer @ Sacred Heart Game Info On 10/30, the Richland varsity soccer team lost their away non-conference match against Sacred Heart (Hattiesburg, MS) by a score of 5-0.",
+        "date_excerpt": "10/30/2026",
+        "away_name": "Richland",
+        "home_name": "Sacred Heart"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-30",
+      "away": "West Lincoln",
+      "home": "Puckett",
+      "status": "final",
+      "away_score": 3,
+      "home_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/puckett-vs-west-lincoln-brookhaven/10-30-2026/?c=6f82342a-f31b-49c5-b13b-f1f45af65484",
+        "excerpt": "West Lincoln vs Puckett | Soccer | 10/30/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer West Lincoln Girls Varsity Soccer @ Puckett West Lincoln 1-1 Bears 3 Final 0 Puckett 0-1 Wolves West Lincoln Girls Varsity Soccer @ Puckett Streaming & Ticketing Watch Recap Game Info On 10/30, the West Lincoln varsity soccer team won their away non-conference match against Puckett (MS) by a score of 3-0.",
+        "date_excerpt": "10/30/2026",
+        "away_name": "West Lincoln",
+        "home_name": "Puckett"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-30",
+      "away": "Jackson HomeSchool",
+      "home": "Park Place Christian Academy",
+      "status": "final",
+      "away_score": 51,
+      "home_score": 54,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/jackson-homeschool-vs-park-place-christian-academy-pearl/10-30-2026/?c=5817db96-153d-4908-a59c-2cf242caaf24",
+        "excerpt": "Jackson HomeSchool vs Park Place Christian Academy | Basketball | 10/30/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Jackson HomeSchool Boys Varsity Basketball @ PPCA Jackson HomeSchool 1-1 Victors 51 Final 54 Park Place Christian Academy 1-0 P Crusaders Jackson HomeSchool Boys Varsity Basketball @ PPCA Streaming & Ticketing Watch Recap Game Info On 10/30, the Jackson HomeSchool varsity basketball team lost their away non-conference game against Park Place Christian Academy (Pearl, MS) by a score of 54-51.",
+        "date_excerpt": "10/30/2026",
+        "away_name": "Jackson HomeSchool",
+        "home_name": "Park Place Christian Academy"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-10-30",
+      "away": "Hillcrest Christian",
+      "home": "Christ Covenant",
+      "status": "final",
+      "away_score": 70,
+      "home_score": 45,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/christ-covenant-ridgeland-vs-hillcrest-christian-jackson/10-30-2026/?c=3e1e30be-1a68-4f6b-9e30-ac27f1b054b4",
+        "excerpt": "Hillcrest Christian vs Christ Covenant | Basketball | 10/30/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Hillcrest Christian Boys Varsity Basketball @ Christ Covenant Hillcrest Christian 2-0 Cougars 70 Final 45 Christ Covenant 0-1 Hillcrest Christian Boys Varsity Basketball @ Christ Covenant Game Info On 10/30, the Hillcrest Christian varsity basketball team won their away non-conference game against Christ Covenant (Ridgeland, MS) by a score of 70-45.",
+        "date_excerpt": "10/30/2026",
+        "away_name": "Hillcrest Christian",
+        "home_name": "Christ Covenant"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-10-30/",
+      "title": "Friday’s Games To Watch: D’Iberville and Gulfport"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Scores from last Night: Gulfport ends D’Iberville’s unbeaten run; West Point wins in overtime",
+    "headline_fact_ids": [
+      "game-0",
+      "game-2",
+      "coast-record",
+      "preview-context",
+      "westpoint-scoring"
+    ],
+    "html": "<p data-facts=\"game-0 coast-record preview-context\">Gulfport handed D’Iberville its first loss Friday, winning 28–24 at home in the meeting of district unbeatens highlighted in our <a href=\"https://sportsmississippi.com/sports/sportsms-preview-2026-10-30/\">Games To Watch preview</a>. The Admirals and Warriors both finished the night 8–1 overall, but Gulfport emerged with the head-to-head victory.</p>\n<p data-facts=\"game-1 game-2 game-3 game-9 game-10 game-13 westpoint-scoring madison-scoring\">The October 30 results also brought a 52–33 road win for Meridian at Petal, an overtime escape for West Point against New Hope and a fourth-quarter decision between Madison Central and Starkville. On the soccer field, Bay won both matches against D’Iberville, while Park Place Christian Academy opened boys basketball with a close home victory.</p>\n<h2 data-facts=\"game-0\">Gulfport’s third quarter changes the Coast showdown</h2>\n<p data-facts=\"game-0 coast-scoring coast-record\">Gulfport turned the game with a 14–0 third quarter after trailing at halftime. D’Iberville had scored three points in the opening period and 14 in the second, while the Admirals scored seven in each of those quarters. Gulfport’s unanswered third-quarter production put the hosts ahead for the finish.</p>\n<p data-facts=\"game-0 coast-scoring\">D’Iberville scored seven more in the fourth and held Gulfport scoreless in that period, but the Warriors could not erase the difference.</p>\n<h2 data-facts=\"game-2 game-3\">West Point wins in overtime; Madison Central finishes late</h2>\n<p data-facts=\"game-2 westpoint-scoring westpoint-record\">West Point beat visiting New Hope 50–48 in overtime after a decisive fourth-quarter rally. The Green Wave outscored the Trojans 21–7 in the final regulation period, then 8–6 in overtime. That finish gave West Point its second victory and a 2–7 record; New Hope fell to 6–3.</p>\n<p data-facts=\"game-3 madison-scoring madison-record\">Madison Central supplied the only fourth-quarter points in its 21–17 home win over Starkville. The Jaguars scored seven in the final period and kept the Yellowjackets off the board, improving to 5–4. Starkville dropped to 6–3.</p>\n<h2 data-facts=\"game-1 game-8\">Meridian wins at Petal; Oak Grove strikes early</h2>\n<p data-facts=\"game-1 meridian-record\">Meridian’s 52–33 victory at Petal moved the Wildcats to 6–3 and left the Panthers 8–2. The Wildcats won the conference matchup away from home.</p>\n<p data-facts=\"game-8 oakgrove-scoring oakgrove-record\">Oak Grove did its separating before halftime in a 38–7 home victory over Northwest Rankin. The Warriors scored 13 points in the first quarter and 22 in the second while holding the Cougars scoreless in both periods. Oak Grove improved to 7–2; Northwest Rankin fell to 3–6.</p>\n<h2 data-facts=\"game-4 game-6 game-7\">DeSoto Central pulls away; Horn Lake earns first win</h2>\n<p data-facts=\"game-4 desoto-game-scoring desoto-game-record\">DeSoto Central beat Hernando 39–14 in Southaven, finishing with a 19–0 fourth quarter. The Jaguars held the Tigers scoreless throughout the second half and improved to 7–2. Hernando fell to 6–3.</p>\n<p data-facts=\"game-6 game-7 centerhill-record hornlake-record\">Center Hill also moved to 7–2 with a 35–7 home win over Saltillo, which fell to 1–9. Horn Lake’s 26–0 road victory over Southaven supplied a different milestone: the Eagles’ first win. Horn Lake is 1–8, while Southaven dropped to 2–6.</p>\n<h2 data-facts=\"game-5 warren-record\">Warren Central stays unbeaten</h2>\n<p data-facts=\"game-5 warren-record warren-scoring\">Warren Central remained perfect at 9–0 with a 49–0 home victory over Callaway. The Vikings scored 21 in the first quarter and 14 in the second, and the Chargers never scored. Callaway’s record fell to 4–6.</p>\n<h2 data-facts=\"game-9 game-10\">Soccer: Bay sweeps D’Iberville</h2>\n<p data-facts=\"game-9 game-10 baygirls-scoring bayboys-scoring bayboys-record\">Bay’s girls won 4–0, scoring once before halftime and three times afterward. The boys also earned a 1–0 victory, finding the match’s only goal in the second half. Bay’s boys improved to 2–1–1, while D’Iberville’s boys fell to 1–1.</p>\n<p data-facts=\"game-11 game-12 sacredboys-record westlincoln-record\">Elsewhere in soccer, Sacred Heart’s boys defeated visiting Richland 5–0 to improve to 3–1. West Lincoln’s girls won 3–0 at Puckett, evening their record at 1–1. Each of those verified victories came with a clean sheet.</p>\n<h2 data-facts=\"game-13 game-14\">Basketball: Park Place opens with a close win</h2>\n<p data-facts=\"game-13 basket-record\">Park Place Christian Academy edged Jackson HomeSchool 54–51 in boys basketball at Pearl. The Crusaders won their opener to move to 1–0, and the Victors fell to 1–1.</p>\n<p data-facts=\"game-14 hillcrest-record\">Hillcrest Christian improved to 2–0 with a 70–45 road win over Christ Covenant in Ridgeland. Christ Covenant’s record stood at 0–1 after the game.</p>",
+    "facts": [
+      {
+        "id": "coast-record",
+        "kind": "record",
+        "claim": "D’Iberville suffered its first loss and finished 8-1; Gulfport improved to 8-1.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/diberville-vs-gulfport/10-30-2026/?c=47cdac11-ec0b-4a24-87c9-065c2c173af2",
+          "excerpt": "D'Iberville 8-1 Warriors 24 Final 28 Gulfport 8-1 Admirals D'Iberville Varsity Football @ Gulfport",
+          "subjects": [
+            "D'Iberville",
+            "Gulfport"
+          ]
+        }
+      },
+      {
+        "id": "meridian-record",
+        "kind": "record",
+        "claim": "Meridian improved to 6-3; Petal fell to 8-2.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/meridian-vs-petal/10-30-2026/?c=142ef0b2-131c-42e4-8189-6bb8d36340fa",
+          "excerpt": "Meridian 6-3 Wildcats 52 Final 33 Petal 8-2 Panthers Meridian Varsity Football @ Petal",
+          "subjects": [
+            "Meridian",
+            "Petal"
+          ]
+        }
+      },
+      {
+        "id": "westpoint-record",
+        "kind": "record",
+        "claim": "West Point improved to 2-7; New Hope fell to 6-3.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/new-hope-columbus-vs-west-point/10-30-2026/?c=d1693a0d-6172-4228-8df5-5f4ac3db3f34",
+          "excerpt": "New Hope 6-3 Trojans 48 Final 50 West Point 2-7 Green Wave New Hope Varsity Football @ West Point",
+          "subjects": [
+            "New Hope",
+            "West Point"
+          ]
+        }
+      },
+      {
+        "id": "madison-record",
+        "kind": "record",
+        "claim": "Madison Central improved to 5-4; Starkville fell to 6-3.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/madison-central-vs-starkville/10-30-2026/?c=3404a151-36b1-468d-88f9-2e4027297968",
+          "excerpt": "Starkville 6-3 Yellowjackets 17 Final 21 Madison Central 5-4 Jaguars Starkville Varsity Football @ Madison Central",
+          "subjects": [
+            "Starkville",
+            "Madison Central"
+          ]
+        }
+      },
+      {
+        "id": "desoto-game-record",
+        "kind": "record",
+        "claim": "DeSoto Central improved to 7-2; Hernando fell to 6-3.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/desoto-central-southaven-vs-hernando/10-30-2026/?c=9e95a4b0-9d6d-44a8-aedc-bade73c127b9",
+          "excerpt": "Hernando 6-3 Tigers 14 Final 39 DeSoto Central 7-2 Jaguars Hernando Varsity Football @ DeSoto Central",
+          "subjects": [
+            "Hernando",
+            "DeSoto Central"
+          ]
+        }
+      },
+      {
+        "id": "warren-record",
+        "kind": "record",
+        "claim": "Warren Central remained unbeaten at 9-0; Callaway fell to 4-6.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/callaway-jackson-vs-warren-central-vicksburg/10-30-2026/?c=db1d2bab-1bc4-4bae-bc04-f2b08c2ae074",
+          "excerpt": "Callaway 4-6 Chargers 0 Final 49 Warren Central 9-0 Vikings Callaway Varsity Football @ Warren Central Streaming & Ticketing Watch Recap",
+          "subjects": [
+            "Callaway",
+            "Warren Central"
+          ]
+        }
+      },
+      {
+        "id": "centerhill-record",
+        "kind": "record",
+        "claim": "Center Hill improved to 7-2; Saltillo fell to 1-9.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-saltillo/10-30-2026/?c=c187671d-27c2-4a6b-aa06-b6dc559c5d5a",
+          "excerpt": "Saltillo 1-9 Tigers 7 Final 35 Center Hill 7-2 Mustangs Saltillo Varsity Football @ Center Hill",
+          "subjects": [
+            "Saltillo",
+            "Center Hill"
+          ]
+        }
+      },
+      {
+        "id": "hornlake-record",
+        "kind": "record",
+        "claim": "Horn Lake earned its first victory and moved to 1-8; Southaven fell to 2-6.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/horn-lake-vs-southaven/10-30-2026/?c=885b65fd-ac3f-4af9-a914-3b5b92b8c528",
+          "excerpt": "Horn Lake 1-8 Eagles 26 Final 0 Southaven 2-6 Chargers Horn Lake Varsity Football @ Southaven",
+          "subjects": [
+            "Horn Lake",
+            "Southaven"
+          ]
+        }
+      },
+      {
+        "id": "oakgrove-record",
+        "kind": "record",
+        "claim": "Oak Grove improved to 7-2; Northwest Rankin fell to 3-6.",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/northwest-rankin-brandon-vs-oak-grove-hattiesburg/10-30-2026/?c=d5a9ec8f-d266-4c08-9d6b-b3d213dc0625",
+          "excerpt": "Northwest Rankin 3-6 Cougars 7 Final 38 Oak Grove 7-2 Warriors Northwest Rankin Varsity Football @ Oak Grove",
+          "subjects": [
+            "Northwest Rankin",
+            "Oak Grove"
+          ]
+        }
+      },
+      {
+        "id": "bayboys-record",
+        "kind": "record",
+        "claim": "Bay’s boys improved to 2-1-1; D’Iberville’s boys fell to 1-1.",
+        "game_indexes": [
+          10
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/bay-bay-st-louis-vs-diberville/10-30-2026/?c=60c247f6-e559-4503-b7bf-ccad1208295f",
+          "excerpt": "D'Iberville 1-1 Warriors 0 Final 1 Bay 2-1-1 Tigers D'Iberville Boys Varsity Soccer @ Bay",
+          "subjects": [
+            "D'Iberville",
+            "Bay"
+          ]
+        }
+      },
+      {
+        "id": "sacredboys-record",
+        "kind": "record",
+        "claim": "Sacred Heart’s boys improved to 3-1.",
+        "game_indexes": [
+          11
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/richland-vs-sacred-heart-hattiesburg/10-30-2026/?c=ddd81424-b082-4fec-860d-88b78b284fb6",
+          "excerpt": "Richland 0-2-2 Rangers 0 Final 5 Sacred Heart 3-1 Crusaders Richland Boys Varsity Soccer @ Sacred Heart",
+          "subjects": [
+            "Richland",
+            "Sacred Heart"
+          ]
+        }
+      },
+      {
+        "id": "westlincoln-record",
+        "kind": "record",
+        "claim": "West Lincoln’s girls improved to 1-1.",
+        "game_indexes": [
+          12
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/puckett-vs-west-lincoln-brookhaven/10-30-2026/?c=6f82342a-f31b-49c5-b13b-f1f45af65484",
+          "excerpt": "West Lincoln 1-1 Bears 3 Final 0 Puckett 0-1 Wolves West Lincoln Girls Varsity Soccer @ Puckett Streaming & Ticketing Watch Recap",
+          "subjects": [
+            "West Lincoln",
+            "Puckett"
+          ]
+        }
+      },
+      {
+        "id": "basket-record",
+        "kind": "record",
+        "claim": "Park Place Christian Academy won its opener to move to 1-0; Jackson HomeSchool fell to 1-1.",
+        "game_indexes": [
+          13
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/jackson-homeschool-vs-park-place-christian-academy-pearl/10-30-2026/?c=5817db96-153d-4908-a59c-2cf242caaf24",
+          "excerpt": "Jackson HomeSchool 1-1 Victors 51 Final 54 Park Place Christian Academy 1-0 P Crusaders Jackson HomeSchool Boys Varsity Basketball @ PPCA Streaming & Ticketing Watch Recap",
+          "subjects": [
+            "Jackson HomeSchool",
+            "Park Place Christian Academy"
+          ]
+        }
+      },
+      {
+        "id": "hillcrest-record",
+        "kind": "record",
+        "claim": "Hillcrest Christian improved to 2-0; Christ Covenant fell to 0-1.",
+        "game_indexes": [
+          14
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/christ-covenant-ridgeland-vs-hillcrest-christian-jackson/10-30-2026/?c=3e1e30be-1a68-4f6b-9e30-ac27f1b054b4",
+          "excerpt": "Hillcrest Christian 2-0 Cougars 70 Final 45 Christ Covenant 0-1 Hillcrest Christian Boys Varsity Basketball @ Christ Covenant",
+          "subjects": [
+            "Hillcrest Christian",
+            "Christ Covenant"
+          ]
+        }
+      },
+      {
+        "id": "coast-scoring",
+        "kind": "context",
+        "claim": "Gulfport outscored D’Iberville 14-0 in the third quarter; D’Iberville scored 7 in the fourth while Gulfport scored 0. D’Iberville scored 3 and 14 in the first and second quarters; Gulfport scored 7 in each.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/diberville-vs-gulfport/10-30-2026/?c=47cdac11-ec0b-4a24-87c9-065c2c173af2",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final D'Iberville 3 14 0 7 24 Gulfport 7 7 14 0 28",
+          "subjects": [
+            "D'Iberville",
+            "Gulfport"
+          ]
+        }
+      },
+      {
+        "id": "westpoint-scoring",
+        "kind": "context",
+        "claim": "West Point outscored New Hope 21-7 in the fourth quarter and 8-6 in overtime.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/new-hope-columbus-vs-west-point/10-30-2026/?c=d1693a0d-6172-4228-8df5-5f4ac3db3f34",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 OT1 Final New Hope 14 14 7 7 6 48 West Point 0 14 7 21 8 50",
+          "subjects": [
+            "New Hope",
+            "West Point"
+          ]
+        }
+      },
+      {
+        "id": "madison-scoring",
+        "kind": "context",
+        "claim": "Madison Central outscored Starkville 7-0 in the fourth quarter.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/madison-central-vs-starkville/10-30-2026/?c=3404a151-36b1-468d-88f9-2e4027297968",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Starkville 0 10 7 0 17 Madison Central 0 7 7 7 21",
+          "subjects": [
+            "Starkville",
+            "Madison Central"
+          ]
+        }
+      },
+      {
+        "id": "desoto-game-scoring",
+        "kind": "context",
+        "claim": "DeSoto Central outscored Hernando 19-0 in the fourth quarter; Hernando scored 0 in both the third and fourth quarters.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/desoto-central-southaven-vs-hernando/10-30-2026/?c=9e95a4b0-9d6d-44a8-aedc-bade73c127b9",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Hernando 7 7 0 0 14 DeSoto Central 7 13 0 19 39",
+          "subjects": [
+            "Hernando",
+            "DeSoto Central"
+          ]
+        }
+      },
+      {
+        "id": "warren-scoring",
+        "kind": "context",
+        "claim": "Warren Central scored 21 in the first quarter and 14 in the second; Callaway scored 0 in every quarter.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/callaway-jackson-vs-warren-central-vicksburg/10-30-2026/?c=db1d2bab-1bc4-4bae-bc04-f2b08c2ae074",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Callaway 0 0 0 0 0 Warren Central 21 14 7 7 49",
+          "subjects": [
+            "Callaway",
+            "Warren Central"
+          ]
+        }
+      },
+      {
+        "id": "oakgrove-scoring",
+        "kind": "context",
+        "claim": "Oak Grove scored 13 in the first quarter and 22 in the second. Northwest Rankin scored 0 in both first-half quarters.",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/northwest-rankin-brandon-vs-oak-grove-hattiesburg/10-30-2026/?c=d5a9ec8f-d266-4c08-9d6b-b3d213dc0625",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Northwest Rankin 0 0 7 0 7 Oak Grove 13 22 0 3 38",
+          "subjects": [
+            "Northwest Rankin",
+            "Oak Grove"
+          ]
+        }
+      },
+      {
+        "id": "baygirls-scoring",
+        "kind": "context",
+        "claim": "Bay’s girls scored 1 goal in the first half and 3 in the second, while D’Iberville scored 0 in each half.",
+        "game_indexes": [
+          9
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/bay-bay-st-louis-vs-diberville/10-30-2026/?c=16afdd68-de4f-457e-a99b-f68e5393a383",
+          "excerpt": "Boxscore 1 2 Final D'Iberville 0 0 0 Bay 1 3 4",
+          "subjects": [
+            "D'Iberville",
+            "Bay"
+          ]
+        }
+      },
+      {
+        "id": "bayboys-scoring",
+        "kind": "context",
+        "claim": "Bay’s boys scored the only goal in the second half; the first half was 0-0.",
+        "game_indexes": [
+          10
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/bay-bay-st-louis-vs-diberville/10-30-2026/?c=60c247f6-e559-4503-b7bf-ccad1208295f",
+          "excerpt": "Boxscore 1 2 Final D'Iberville 0 0 0 Bay 0 1 1",
+          "subjects": [
+            "D'Iberville",
+            "Bay"
+          ]
+        }
+      },
+      {
+        "id": "preview-context",
+        "kind": "context",
+        "claim": "Friday’s Games To Watch preview highlighted a meeting of district unbeatens at Gulfport.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-10-30",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-10-30/",
+          "excerpt": "Football: district unbeatens meet at Gulfport",
+          "subjects": [
+            "Gulfport"
+          ]
+        }
+      }
+    ]
+  }
+}
