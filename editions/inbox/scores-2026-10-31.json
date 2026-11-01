@@ -2,7 +2,7 @@
   "version": 1,
   "edition": "scores",
   "date": "2026-10-31",
-  "verified_at": "2026-11-01T14:18:41.556905+00:00",
+  "verified_at": "2026-11-01T14:46:38.267899+00:00",
   "publish": true,
   "checked_sports": [
     "football",
@@ -60,25 +60,6 @@
       "state": "MS",
       "level": "high school varsity",
       "date": "2026-10-31",
-      "away": "Forrest County Agricultural",
-      "home": "West Jones",
-      "status": "final",
-      "away_score": 0,
-      "home_score": 5,
-      "evidence": {
-        "url": "https://www.maxpreps.com/ms/soccer/girls/match/forrest-county-agricultural-brooklyn-vs-west-jones-laurel/10-31-2026/?c=96566989-8308-44c1-985a-8a323c92d619",
-        "excerpt": "Forrest County Agricultural vs West Jones | Soccer | 10/31/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer FCAHS Girls Varsity Soccer vs. West Jones Forrest County Agricultural 0-2 Aggies 0 Final 5 West Jones 3-0 Mustangs FCAHS Girls Varsity Soccer vs. West Jones Game Info On 10/31, the Forrest County Agricultural varsity soccer team lost their neutral non-conference match against West Jones (Laurel, MS) by a score of 5-0.",
-        "date_excerpt": "10/31/2026",
-        "away_name": "Forrest County Agricultural",
-        "home_name": "West Jones"
-      }
-    },
-    {
-      "sport": "soccer",
-      "division": "girls",
-      "state": "MS",
-      "level": "high school varsity",
-      "date": "2026-10-31",
       "away": "Picayune",
       "home": "West Jones",
       "status": "final",
@@ -86,7 +67,7 @@
       "home_score": 6,
       "evidence": {
         "url": "https://www.maxpreps.com/ms/soccer/girls/match/picayune-vs-west-jones-laurel/10-31-2026/?c=c4c81976-f313-4dc8-9f7f-785c3cea3961",
-        "excerpt": "Picayune vs West Jones | Soccer | 10/31/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Picayune Girls Varsity Soccer vs. West Jones Picayune 0-4 Maroon Tide 0 Final 6 West Jones 3-0 Mustangs Picayune Girls Varsity Soccer vs. West Jones Game Info On 10/31, the Picayune varsity soccer team lost their neutral non-conference match against West Jones (Laurel, MS) by a score of 6-0.",
+        "excerpt": "Picayune vs West Jones | Soccer | 10/31/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Picayune Girls Varsity Soccer vs. West Jones Picayune 0-4 Maroon Tide 0 Final 6 West Jones 2-0 Mustangs Picayune Girls Varsity Soccer vs. West Jones Game Info On 10/31, the Picayune varsity soccer team lost their neutral non-conference match against West Jones (Laurel, MS) by a score of 6-0.",
         "date_excerpt": "10/31/2026",
         "away_name": "Picayune",
         "home_name": "West Jones"
@@ -329,14 +310,13 @@
   ],
   "article": {
     "reviewed": true,
-    "headline": "Scores from last Night: Oak Grove sweeps Biloxi; West Jones girls post two shutouts",
+    "headline": "Scores from last Night: Oak Grove sweeps Biloxi; West Jones girls blank Picayune",
     "headline_fact_ids": [
       "game-0",
       "game-1",
-      "game-2",
-      "game-3"
+      "game-2"
     ],
-    "html": "<p data-facts=\"game-0 game-1 oakboys-halves oakgirls-halves\">Oak Grove’s soccer teams swept Biloxi on Saturday, October 31, with the boys winning 4–1 and the girls holding on for a 3–2 victory. The boys scored twice in each half; the girls settled their match’s scoring before halftime and protected the lead through a scoreless second half.</p>\n<p data-facts=\"game-2 game-3 game-9 game-10 basketball-calendar\">West Jones’s girls added a pair of shutouts, while Alcorn Central’s boys recorded two victories in the reported preseason basketball scores. The basketball figures below are preseason results ahead of MHSAA’s November 3 first-game date.</p>\n<h2 data-facts=\"game-0 game-1\">Soccer: Oak Grove wins both against Biloxi</h2>\n<p data-facts=\"game-0 oakboys-halves\">Oak Grove’s boys built their advantage with two first-half goals while keeping Biloxi off the board. Each team scored after the break, with the Warriors adding two more and Biloxi one. The 4–1 home win gave Oak Grove separation on both sides of halftime.</p>\n<p data-facts=\"game-1 oakgirls-halves oakgirls-record\">The girls’ match was tighter. Oak Grove scored three and Biloxi two before the break, then neither side scored again. The Warriors improved to 2–0; Biloxi fell to 1–2. Oak Grove’s second-half clean sheet preserved a 3–2 win.</p>\n<h2 data-facts=\"game-2 game-3 westjones-record\">West Jones girls finish with two shutouts</h2>\n<p data-facts=\"game-2 game-3 wj-fca-halves wj-pic-halves westjones-record\">West Jones defeated Forrest County Agricultural 5–0 and Picayune 6–0 in matches reported as neutral-site contests. The Mustangs scored twice before halftime in each, then added three against the Aggies and four against Picayune after the break. West Jones finished the day 3–0.</p>\n<h2 data-facts=\"game-4 game-5\">Madison Central takes girls win; DeSoto Central boys draw</h2>\n<p data-facts=\"game-4 dcgirls-halves\">Madison Central’s girls won 5–0 at DeSoto Central in Southaven. The visitors scored two before halftime and three afterward, keeping DeSoto Central scoreless throughout.</p>\n<p data-facts=\"game-5 dcboys-halves dc-oxford-history\">The boys finished 1–1. Madison Central scored in the first half, but DeSoto Central supplied the second-half goal to recover a draw. DeSoto Central’s early schedule also included a 3–2 loss to Oxford on October 26, covered in our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-10-26/\">earlier soccer recap</a>.</p>\n<h2 data-facts=\"game-6 game-7 game-8\">Moss Point sweeps; Grenada boys win</h2>\n<p data-facts=\"game-6 game-7 game-8 moss-record\">Moss Point won both matches at Philadelphia, with the boys edging the Tornadoes 2–1 and the girls recording a 3–0 shutout. The boys improved to 2–0. Grenada’s boys also won, defeating visiting Cleveland Central 3–1.</p>\n<h2 data-facts=\"game-9 game-10 basketball-calendar\">Preseason basketball: Alcorn Central wins twice</h2>\n<p data-facts=\"game-9 game-10 basketball-calendar\">Alcorn Central’s boys beat Falkner 29–6 and Tishomingo County 27–25 in the reported Saturday scores at Glen. The Tishomingo County result was the closer of the two.</p>\n<h2 data-facts=\"game-11 game-12 game-13 game-14 basketball-calendar\">Walnut and New Albany girls collect pairs of wins</h2>\n<p data-facts=\"game-11 game-12 basketball-calendar\">Walnut’s girls defeated Saltillo 27–18 and Itawamba Agricultural 42–28.</p>\n<p data-facts=\"game-13 game-14 basketball-calendar\">New Albany’s girls beat Potts Camp 28–15 and edged Holly Springs 29–28.</p>\n<p data-facts=\"game-15 basketball-calendar\">Raymond’s boys defeated Brandon 48–35 in another reported Saturday preseason result.</p>",
+    "html": "<p data-facts=\"game-0 game-1 oakboys-halves oakgirls-halves\">Oak Grove’s soccer teams swept Biloxi on Saturday, October 31, with the boys winning 4–1 and the girls holding on for a 3–2 victory. The boys scored twice in each half; the girls settled their match’s scoring before halftime and protected the lead through a scoreless second half.</p>\n<p data-facts=\"game-2 game-8 game-9 basketball-calendar\">West Jones’s girls added a 6–0 shutout against Picayune, while Alcorn Central’s boys recorded two victories in the reported preseason basketball scores. The basketball figures below are preseason results ahead of MHSAA’s November 3 first-game date.</p>\n<h2 data-facts=\"game-0 game-1\">Soccer: Oak Grove wins both against Biloxi</h2>\n<p data-facts=\"game-0 oakboys-halves\">Oak Grove’s boys built their advantage with two first-half goals while keeping Biloxi off the board. Each team scored after the break, with the Warriors adding two more and Biloxi one. The 4–1 home win gave Oak Grove separation on both sides of halftime.</p>\n<p data-facts=\"game-1 oakgirls-halves oakgirls-record\">The girls’ match was tighter. Oak Grove scored three and Biloxi two before the break, then neither side scored again. The Warriors improved to 2–0; Biloxi fell to 1–2. Oak Grove’s second-half clean sheet preserved a 3–2 win.</p>\n<h2 data-facts=\"game-2\">West Jones girls shut out Picayune</h2>\n<p data-facts=\"game-2 wj-pic-halves\">West Jones’s girls defeated Picayune 6–0 in a match reported as a neutral-site contest. The Mustangs scored twice before halftime and four times after the break, keeping Picayune scoreless in both halves.</p>\n<h2 data-facts=\"game-3 game-4\">Madison Central takes girls win; DeSoto Central boys draw</h2>\n<p data-facts=\"game-3 dcgirls-halves\">Madison Central’s girls won 5–0 at DeSoto Central in Southaven. The visitors scored two before halftime and three afterward, keeping DeSoto Central scoreless throughout.</p>\n<p data-facts=\"game-4 dcboys-halves dc-oxford-history\">The boys finished 1–1. Madison Central scored in the first half, but DeSoto Central supplied the second-half goal to recover a draw. DeSoto Central’s early schedule also included a 3–2 loss to Oxford on October 26, covered in our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-10-26/\">earlier soccer recap</a>.</p>\n<h2 data-facts=\"game-5 game-6 game-7\">Moss Point sweeps; Grenada boys win</h2>\n<p data-facts=\"game-5 game-6 game-7 moss-record\">Moss Point won both matches at Philadelphia, with the boys edging the Tornadoes 2–1 and the girls recording a 3–0 shutout. The boys improved to 2–0. Grenada’s boys also won, defeating visiting Cleveland Central 3–1.</p>\n<h2 data-facts=\"game-8 game-9 basketball-calendar\">Preseason basketball: Alcorn Central wins twice</h2>\n<p data-facts=\"game-8 game-9 basketball-calendar\">Alcorn Central’s boys beat Falkner 29–6 and Tishomingo County 27–25 in the reported Saturday scores at Glen. The Tishomingo County result was the closer of the two.</p>\n<h2 data-facts=\"game-10 game-11 game-12 game-13 basketball-calendar\">Walnut and New Albany girls collect pairs of wins</h2>\n<p data-facts=\"game-10 game-11 basketball-calendar\">Walnut’s girls defeated Saltillo 27–18 and Itawamba Agricultural 42–28.</p>\n<p data-facts=\"game-12 game-13 basketball-calendar\">New Albany’s girls beat Potts Camp 28–15 and edged Holly Springs 29–28.</p>\n<p data-facts=\"game-14 basketball-calendar\">Raymond’s boys defeated Brandon 48–35 in another reported Saturday preseason result.</p>",
     "facts": [
       {
         "id": "oakboys-halves",
@@ -373,28 +353,11 @@
         }
       },
       {
-        "id": "wj-fca-halves",
-        "kind": "context",
-        "claim": "West Jones scored 2 goals in the first half and 3 in the second; Forrest County Agricultural scored 0 in each half.",
-        "game_indexes": [
-          2
-        ],
-        "as_of_date": "2026-10-31",
-        "evidence": {
-          "url": "https://www.maxpreps.com/ms/soccer/girls/match/forrest-county-agricultural-brooklyn-vs-west-jones-laurel/10-31-2026/?c=96566989-8308-44c1-985a-8a323c92d619",
-          "excerpt": "Boxscore 1 2 Final Forrest County Agricultural 0 0 0 West Jones 2 3 5",
-          "subjects": [
-            "Forrest County Agricultural",
-            "West Jones"
-          ]
-        }
-      },
-      {
         "id": "wj-pic-halves",
         "kind": "context",
         "claim": "West Jones scored 2 goals in the first half and 4 in the second; Picayune scored 0 in each half.",
         "game_indexes": [
-          3
+          2
         ],
         "as_of_date": "2026-10-31",
         "evidence": {
@@ -411,7 +374,7 @@
         "kind": "context",
         "claim": "Madison Central scored 2 goals in the first half and 3 in the second; DeSoto Central scored 0 in both halves.",
         "game_indexes": [
-          4
+          3
         ],
         "as_of_date": "2026-10-31",
         "evidence": {
@@ -428,7 +391,7 @@
         "kind": "context",
         "claim": "Madison Central scored 1 in the first half and 0 in the second; DeSoto Central scored 0 in the first and 1 in the second.",
         "game_indexes": [
-          5
+          4
         ],
         "as_of_date": "2026-10-31",
         "evidence": {
@@ -458,28 +421,11 @@
         }
       },
       {
-        "id": "westjones-record",
-        "kind": "record",
-        "claim": "West Jones’s girls finished Saturday with a 3-0 record.",
-        "game_indexes": [
-          2,
-          3
-        ],
-        "as_of_date": "2026-10-31",
-        "evidence": {
-          "url": "https://www.maxpreps.com/ms/soccer/girls/match/picayune-vs-west-jones-laurel/10-31-2026/?c=c4c81976-f313-4dc8-9f7f-785c3cea3961",
-          "excerpt": "Picayune 0-4 Maroon Tide 0 Final 6 West Jones 3-0 Mustangs Picayune Girls Varsity Soccer vs. West Jones",
-          "subjects": [
-            "West Jones"
-          ]
-        }
-      },
-      {
         "id": "moss-record",
         "kind": "record",
         "claim": "Moss Point’s boys improved to 2-0.",
         "game_indexes": [
-          6
+          5
         ],
         "as_of_date": "2026-10-31",
         "evidence": {
@@ -496,13 +442,13 @@
         "kind": "context",
         "claim": "MHSAA’s first-game date for basketball in Classes 1A through 7A is November 3, 2026.",
         "game_indexes": [
+          8,
           9,
           10,
           11,
           12,
           13,
-          14,
-          15
+          14
         ],
         "as_of_date": "2026-10-31",
         "evidence": {
@@ -518,7 +464,7 @@
         "kind": "history",
         "claim": "Oxford defeated DeSoto Central 3-2 on October 26, 2026.",
         "game_indexes": [
-          5
+          4
         ],
         "as_of_date": "2026-10-31",
         "evidence": {
