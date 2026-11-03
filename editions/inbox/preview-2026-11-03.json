@@ -1,0 +1,410 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-11-03",
+  "verified_at": "2026-11-03T21:02:28.652299+00:00",
+  "publish": true,
+  "checked_sports": [
+    "soccer",
+    "basketball",
+    "football",
+    "volleyball",
+    "bowling",
+    "powerlifting",
+    "cross country",
+    "swimming",
+    "golf"
+  ],
+  "games": [
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-03",
+      "away": "Brandon",
+      "home": "Florence",
+      "status": "scheduled",
+      "start_time": "2026-11-03T17:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/brandon-vs-florence/11-3-2026/?c=e2d7792b-0861-4c4b-b827-a2999000f0eb",
+        "excerpt": "Brandon vs Florence | Soccer | 11/03/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Brandon Girls Varsity Soccer @ Florence Brandon Bulldogs 4-0 Tuesday, Nov 3, 2026 5:30pm CST Florence Eagles 2-0 Brandon Girls Varsity Soccer @ Florence Streaming & Ticketing Purchase Tickets Game Info The Brandon varsity soccer team has an away non-conference match @ Florence (MS) today @ 5:30p.",
+        "date_excerpt": "11/03/2026",
+        "time_excerpt": "5:30pm CST",
+        "away_name": "Brandon",
+        "home_name": "Florence"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-03",
+      "away": "Brandon",
+      "home": "Florence",
+      "status": "scheduled",
+      "start_time": "2026-11-03T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/brandon-vs-florence/11-3-2026/?c=6e766479-6062-4b56-8263-93599e2773ca",
+        "excerpt": "Brandon vs Florence | Soccer | 11/03/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Brandon Boys Varsity Soccer @ Florence Brandon Bulldogs 1-0 Tuesday, Nov 3, 2026 7:00pm CST Florence Eagles 2-0 Brandon Boys Varsity Soccer @ Florence Streaming & Ticketing Purchase Tickets Game Info The Brandon varsity soccer team has an away non-conference match @ Florence (MS) today @ 7p.",
+        "date_excerpt": "11/03/2026",
+        "time_excerpt": "7:00pm CST",
+        "away_name": "Brandon",
+        "home_name": "Florence"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-03",
+      "away": "Center Hill",
+      "home": "Southaven",
+      "status": "scheduled",
+      "start_time": "2026-11-03T19:45:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/center-hill-olive-branch-vs-southaven/11-3-2026/?c=f25c6fbe-602a-43c1-9e43-5c5cd9dd98f0",
+        "excerpt": "Center Hill vs Southaven | Soccer | 11/03/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Center Hill Boys Varsity Soccer @ Southaven Center Hill Mustangs 2-0 Tuesday, Nov 3, 2026 7:45pm CST Southaven Chargers 3-0-1 Center Hill Boys Varsity Soccer @ Southaven Streaming & Ticketing Purchase Tickets Game Info The Center Hill varsity soccer team has an away non-conference match @ Southaven (MS) today @ 7:45p.",
+        "date_excerpt": "11/03/2026",
+        "time_excerpt": "7:45pm CST",
+        "away_name": "Center Hill",
+        "home_name": "Southaven"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-03",
+      "away": "St. Andrew's Episcopal",
+      "home": "Germantown",
+      "status": "scheduled",
+      "start_time": "2026-11-03T17:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/germantown-madison-vs-st-andrews-episcopal-ridgeland/11-3-2026/?c=689bf068-e847-42c1-a48c-90cbaaead267",
+        "excerpt": "St. Andrew's Episcopal vs Germantown | Soccer | 11/03/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer SAEHS Boys Varsity Soccer @ Germantown St. Andrew's Episcopal Saints 3-0 Tuesday, Nov 3, 2026 5:30pm CST Germantown Mavericks 0-0 SAEHS Boys Varsity Soccer @ Germantown Streaming & Ticketing Purchase Tickets Game Info The St. Andrew's Episcopal varsity soccer team has an away non-conference match @ Germantown (Madison, MS) today @ 5:30p.",
+        "date_excerpt": "11/03/2026",
+        "time_excerpt": "5:30pm CST",
+        "away_name": "St. Andrew's Episcopal",
+        "home_name": "Germantown"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-03",
+      "away": "Madison-Ridgeland Academy",
+      "home": "Parklane Academy",
+      "status": "scheduled",
+      "start_time": "2026-11-03T17:15:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/madison-ridgeland-academy-vs-parklane-academy-mccomb/11-3-2026/?c=21a20d1d-7758-4bab-b6d7-d22879e71634",
+        "excerpt": "Madison-Ridgeland Academy vs Parklane Academy | Basketball | 11/03/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball MRA Girls Varsity Basketball vs. Parklane Academy Madison-Ridgeland Academy Patriots 1-0 Tuesday, Nov 3, 2026 5:15pm CST Parklane Academy Pioneers 2-0 MRA Girls Varsity Basketball vs. Parklane Academy Game Info The Madison-Ridgeland Academy varsity basketball team has a neutral non-conference game vs. Parklane Academy (McComb, MS) today @ 5:15p.",
+        "date_excerpt": "11/03/2026",
+        "time_excerpt": "5:15pm CST",
+        "away_name": "Madison-Ridgeland Academy",
+        "home_name": "Parklane Academy"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-03",
+      "away": "Cathedral",
+      "home": "Simpson Academy",
+      "status": "scheduled",
+      "start_time": "2026-11-03T18:15:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/cathedral-natchez-vs-simpson-academy-mendenhall/11-3-2026/?c=337cab52-37bd-42c4-a74c-cbca5c1090bd",
+        "excerpt": "Cathedral vs Simpson Academy | Basketball | 11/03/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Cathedral Girls Varsity Basketball @ Simpson Academy Cathedral Green Wave 0-1 Tuesday, Nov 3, 2026 6:15pm CST Simpson Academy Cougars 3-0 Cathedral Girls Varsity Basketball @ Simpson Academy Game Info The Cathedral varsity basketball team has an away non-conference game @ Simpson Academy (Mendenhall, MS) today @ 6:15p.",
+        "date_excerpt": "11/03/2026",
+        "time_excerpt": "6:15pm CST",
+        "away_name": "Cathedral",
+        "home_name": "Simpson Academy"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-02/",
+      "title": "November 2 recap: St. Andrew’s soccer and Simpson girls basketball"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: Unbeaten soccer starts meet in Florence and Southaven",
+    "headline_fact_ids": [
+      "game-0",
+      "game-1",
+      "game-2",
+      "florence-girls-records",
+      "florence-boys-records",
+      "desoto-records"
+    ],
+    "html": "<p data-facts=\"game-0 florence-girls-records brandon-form florence-form\">Brandon and Florence bring unbeaten girls soccer records—and defenses yet to concede—to their meeting in Florence on Tuesday, November 3. Brandon is 4–0 with 18 goals scored and none allowed; Florence is 2–0 with 15 scored and none allowed. The scheduled 5:30 p.m. CST kickoff puts those early defensive records against each other.</p>\n<p data-facts=\"game-1 florence-boys-records game-2 desoto-records\">The boys follow at Florence at 7 p.m. CST, with Brandon 1–0 and Florence 2–0. Another meeting of unbeaten boys teams comes later in DeSoto County, where Center Hill takes a 2–0 record to 3–0–1 Southaven for a 7:45 p.m. CST start.</p>\n<h2 data-facts=\"game-0 game-1 florence-girls-records florence-boys-records\">Florence hosts unbeaten Brandon teams</h2>\n<p data-facts=\"game-0 brandon-form florence-form florence-girls-records\">The girls matchup offers a direct test of clean-sheet starts. Brandon has kept opponents scoreless through four reported wins, while Florence has done so through two. Neither has a loss or draw in its listed record, making the meeting an early comparison of two winning starts.</p>\n<p data-facts=\"game-1 florence-boys-records\">The boys have the same unbeaten-record theme on a smaller sample: Brandon has one reported victory and Florence two. The match is listed as non-district, so the immediate interest is how those opening results hold up against another unbeaten opponent.</p>\n<h2 data-facts=\"game-2 desoto-records centerhill-form\">Center Hill’s attack meets unbeaten Southaven</h2>\n<p data-facts=\"game-2 desoto-records centerhill-form\">Center Hill has scored 16 goals without conceding in its 2–0 start. Southaven’s 3–0–1 record brings a different kind of unbeaten run, with a draw alongside its wins. The Mustangs’ scoring form gives the late boys matchup a clear point of interest as they visit the Chargers.</p>\n<h2 data-facts=\"game-3 sa-records\">St. Andrew’s returns to the road at Germantown</h2>\n<p data-facts=\"game-3 sa-records sa-form sa-monday\">St. Andrew’s Episcopal visits Germantown in Madison at 5:30 p.m. CST, one night after a 5–0 win at Northeast Jones. The Saints enter 3–0 with 14 goals scored and none allowed; Germantown is listed at 0–0. The question for St. Andrew’s is whether that defensive start continues on another road trip.</p>\n<h2 data-facts=\"game-4 game-5 mra-records simpson-records\">Girls basketball: MRA meets Parklane; Simpson hosts Cathedral</h2>\n<p data-facts=\"game-4 mra-records mra-title mra-neutral\">Defending MAIS Overall Tournament champion Madison-Ridgeland Academy meets Parklane Academy at 5:15 p.m. CST in a game listed as a neutral-site contest. MRA enters 1–0 and Parklane 2–0, giving both sides an unbeaten opponent early in the season. The verified listing does not identify a venue.</p>\n<p data-facts=\"game-3 game-5 simpson-records simpson-monday sa-monday\">Simpson Academy hosts Cathedral in Mendenhall at 6:15 p.m. CST. The Cougars are 3–0 after Monday’s 60–23 win at Wayne Academy, where a 19–2 first quarter set the tone. Cathedral is listed at 0–1. Our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-11-02/\">November 2 recap</a> covers Simpson’s win and St. Andrew’s latest soccer result.</p>\n<h2 data-facts=\"weather\">Weather and schedule updates</h2>\n<p data-facts=\"weather\">DeSoto County News reports a marginal risk for severe storms Tuesday afternoon into the overnight hours for parts of the state, citing the City of Olive Branch and the National Weather Service. Check host-school updates before traveling to an outdoor match.</p>",
+    "facts": [
+      {
+        "id": "florence-girls-records",
+        "kind": "record",
+        "claim": "Brandon girls enter 4-0 and Florence girls enter 2-0.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-03",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/brandon-vs-florence/11-3-2026/?c=e2d7792b-0861-4c4b-b827-a2999000f0eb",
+          "excerpt": "Brandon Bulldogs 4-0 Tuesday, Nov 3, 2026 5:30pm CST Florence Eagles 2-0",
+          "subjects": [
+            "Brandon",
+            "Florence"
+          ]
+        }
+      },
+      {
+        "id": "florence-boys-records",
+        "kind": "record",
+        "claim": "Brandon boys enter 1-0 and Florence boys enter 2-0.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-03",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/brandon-vs-florence/11-3-2026/?c=6e766479-6062-4b56-8263-93599e2773ca",
+          "excerpt": "Brandon Bulldogs 1-0 Tuesday, Nov 3, 2026 7:00pm CST Florence Eagles 2-0",
+          "subjects": [
+            "Brandon",
+            "Florence"
+          ]
+        }
+      },
+      {
+        "id": "desoto-records",
+        "kind": "record",
+        "claim": "Center Hill boys enter 2-0 and Southaven boys enter 3-0-1.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-03",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/center-hill-olive-branch-vs-southaven/11-3-2026/?c=f25c6fbe-602a-43c1-9e43-5c5cd9dd98f0",
+          "excerpt": "Center Hill Mustangs 2-0 Tuesday, Nov 3, 2026 7:45pm CST Southaven Chargers 3-0-1",
+          "subjects": [
+            "Center Hill",
+            "Southaven"
+          ]
+        }
+      },
+      {
+        "id": "sa-records",
+        "kind": "record",
+        "claim": "St. Andrew's Episcopal boys enter 3-0 and Germantown boys enter 0-0.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-03",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/germantown-madison-vs-st-andrews-episcopal-ridgeland/11-3-2026/?c=689bf068-e847-42c1-a48c-90cbaaead267",
+          "excerpt": "St. Andrew's Episcopal Saints 3-0 Tuesday, Nov 3, 2026 5:30pm CST Germantown Mavericks 0-0",
+          "subjects": [
+            "St. Andrew's Episcopal",
+            "Germantown"
+          ]
+        }
+      },
+      {
+        "id": "mra-records",
+        "kind": "record",
+        "claim": "Madison-Ridgeland Academy girls enter 1-0 and Parklane Academy girls enter 2-0.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-03",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/madison-ridgeland-academy-vs-parklane-academy-mccomb/11-3-2026/?c=21a20d1d-7758-4bab-b6d7-d22879e71634",
+          "excerpt": "Madison-Ridgeland Academy Patriots 1-0 Tuesday, Nov 3, 2026 5:15pm CST Parklane Academy Pioneers 2-0",
+          "subjects": [
+            "Madison-Ridgeland Academy",
+            "Parklane Academy"
+          ]
+        }
+      },
+      {
+        "id": "simpson-records",
+        "kind": "record",
+        "claim": "Cathedral girls enter 0-1 and Simpson Academy girls enter 3-0.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-03",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/cathedral-natchez-vs-simpson-academy-mendenhall/11-3-2026/?c=337cab52-37bd-42c4-a74c-cbca5c1090bd",
+          "excerpt": "Cathedral Green Wave 0-1 Tuesday, Nov 3, 2026 6:15pm CST Simpson Academy Cougars 3-0",
+          "subjects": [
+            "Cathedral",
+            "Simpson Academy"
+          ]
+        }
+      },
+      {
+        "id": "brandon-form",
+        "kind": "context",
+        "claim": "Brandon girls enter with GF 18 and GA 0.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-03",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/brandon/brandon-bulldogs/soccer/girls/winter/schedule/",
+          "excerpt": "Brandon Girls Soccer Schedule 2026-27 Next Match Away • Non-District Brandon 4-0 Florence 2-0 Brandon 4-0 Tue, 11/3 @ 5:30pm Preview Match Florence 2-0 Buy Tickets Preview Match Overall 4-0 1.000 Win Pct District 0-0 1st 7A Region 3 Home 1-0 Away 3-0 Neutral 0-0 GF 18 GA 0 Streak 4W",
+          "subjects": [
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "florence-form",
+        "kind": "context",
+        "claim": "Florence girls enter with GF 15 and GA 0.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-03",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/florence/florence-eagles/soccer/girls/winter/schedule/",
+          "excerpt": "Florence Girls Soccer Schedule 2026-27 Next Match Home • Non-District Florence 2-0 Brandon 4-0 Florence 2-0 Tue, 11/3 @ 5:30pm Preview Match Brandon 4-0 Buy Tickets Preview Match Overall 2-0 1.000 Win Pct District 0-0 1st 5A Region 2 Home 2-0 Away 0-0 Neutral 0-0 GF 15 GA 0 Streak 2W",
+          "subjects": [
+            "Florence"
+          ]
+        }
+      },
+      {
+        "id": "centerhill-form",
+        "kind": "context",
+        "claim": "Center Hill boys enter with GF 16 and GA 0.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-03",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/olive-branch/center-hill-mustangs/soccer/winter/schedule/",
+          "excerpt": "Center Hill Soccer Schedule 2026-27 Next Match Away • Non-District Center Hill 2-0 Southaven 3-0-1 Center Hill 2-0 Tue, 11/3 @ 7:45pm Preview Match Southaven 3-0-1 Buy Tickets Preview Match Overall 2-0 1.000 Win Pct District 0-0 1st 6A Region 1 Home 1-0 Away 1-0 Neutral 0-0 GF 16 GA 0 Streak 2W",
+          "subjects": [
+            "Center Hill"
+          ]
+        }
+      },
+      {
+        "id": "sa-form",
+        "kind": "context",
+        "claim": "St. Andrew's Episcopal boys enter with GF 14 and GA 0.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-03",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/ridgeland/st-andrews-episcopal-saints/soccer/winter/schedule/",
+          "excerpt": "St. Andrew's Episcopal Soccer Schedule 2026-27 Next Match Away • Non-District St. Andrew's Episcopal 3-0 Germantown 0-0 St. Andrew's Episcopal 3-0 Tue, 11/3 @ 5:30pm Preview Match Germantown 0-0 Buy Tickets Preview Match Overall 3-0 1.000 Win Pct District 0-0 0.000 Win Pct Home 1-0 Away 2-0 Neutral 0-0 GF 14 GA 0 Streak 3W",
+          "subjects": [
+            "St. Andrew's Episcopal"
+          ]
+        }
+      },
+      {
+        "id": "sa-monday",
+        "kind": "history",
+        "claim": "St. Andrew's Episcopal boys beat Northeast Jones 5-0 on November 2, 2026.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-03",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/northeast-jones-laurel-vs-st-andrews-episcopal-ridgeland/11-2-2026/?c=d3b34c50-dd53-4e68-91bd-c6e92032507d",
+          "excerpt": "St. Andrew's Episcopal vs Northeast Jones | Soccer | 11/02/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer SAEHS Boys Varsity Soccer @ Northeast Jones St. Andrew's Episcopal 3-0 Saints 5 Final 0 Northeast Jones 0-2 Tigers SAEHS Boys Varsity Soccer @ Northeast Jones Streaming & Ticketing Watch Recap Game Info On 11/2, the St. Andrew's Episcopal varsity soccer team won their away non-conference match against Northeast Jones (Laurel, MS) by a score of 5-0.",
+          "subjects": [
+            "St. Andrew's Episcopal",
+            "Northeast Jones"
+          ],
+          "date_excerpt": "11/02/2026"
+        },
+        "fact_date": "2026-11-02"
+      },
+      {
+        "id": "simpson-monday",
+        "kind": "history",
+        "claim": "Simpson Academy girls beat Wayne Academy 60-23 on November 2, 2026, after leading 19-2 in the first quarter.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-03",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/simpson-academy-mendenhall-vs-wayne-academy-waynesboro/11-2-2026/?c=834d65a8-c36e-48a5-8d55-eed3e1155b69",
+          "excerpt": "Simpson Academy vs Wayne Academy | Basketball | 11/02/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Simpson Academy Girls Varsity Basketball @ Wayne Academy Simpson Academy 3-0 Cougars 60 Final 23 Wayne Academy 3-2 Jaguars Simpson Academy Girls Varsity Basketball @ Wayne Academy Game Info On 11/2, the Simpson Academy varsity basketball team won their away non-conference game against Wayne Academy (Waynesboro, MS) by a score of 60-23. Recap Stats Matchup Roster Fan Chat Boxscore Q1 Q2 Q3 Q4 Final Simpson Academy 19 16 16 9 60 Wayne Academy 2 12 5 4 23",
+          "subjects": [
+            "Simpson Academy",
+            "Wayne Academy"
+          ],
+          "date_excerpt": "11/02/2026"
+        },
+        "fact_date": "2026-11-02"
+      },
+      {
+        "id": "mra-title",
+        "kind": "context",
+        "claim": "MRA is defending its MAIS Overall Tournament girls basketball title.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-03",
+        "evidence": {
+          "url": "https://mississippiscoreboard.com/mra-girls-start-defense-of-mais-overall-tournament-title-with-win-over-cathedral-coach-stephen-force-looks-for-new-players-to-help-anna-morgan-anderson-and-anna-kate-woodward/",
+          "excerpt": "MRA GIRLS START DEFENSE OF MAIS OVERALL TOURNAMENT TITLE WITH WIN OVER CATHEDRAL",
+          "subjects": [
+            "MRA",
+            "MAIS Overall Tournament"
+          ]
+        }
+      },
+      {
+        "id": "mra-neutral",
+        "kind": "context",
+        "claim": "Madison-Ridgeland Academy and Parklane Academy girls are listed as a neutral non-conference game.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-03",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/madison-ridgeland-academy-vs-parklane-academy-mccomb/11-3-2026/?c=21a20d1d-7758-4bab-b6d7-d22879e71634",
+          "excerpt": "Game Info The Madison-Ridgeland Academy varsity basketball team has a neutral non-conference game vs. Parklane Academy (McComb, MS) today @ 5:15p.",
+          "subjects": [
+            "Madison-Ridgeland Academy",
+            "Parklane Academy"
+          ]
+        }
+      },
+      {
+        "id": "weather",
+        "kind": "context",
+        "claim": "The City of Olive Branch said the National Weather Service issued a marginal severe-storm risk for parts of the state on November 3, 2026, in the afternoon into the overnight hours.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-03",
+        "evidence": {
+          "url": "https://desotocountynews.com/desoto-county-news/national-weather-service-issues-marginal-severe-storm-risk-for-parts-of-state/",
+          "excerpt": "The National Weather Service has issued a marginal risk for severe storms this afternoon, Nov. 3, 2026, into the overnight hours for parts of the state, the City of Olive Branch said.",
+          "subjects": [
+            "National Weather Service",
+            "City of Olive Branch"
+          ]
+        }
+      }
+    ]
+  }
+}
