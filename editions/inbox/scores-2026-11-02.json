@@ -1,0 +1,580 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-11-02",
+  "verified_at": "2026-11-03T14:08:36.691971+00:00",
+  "publish": true,
+  "checked_sports": [
+    "soccer",
+    "basketball",
+    "football",
+    "volleyball",
+    "bowling",
+    "powerlifting",
+    "cross country",
+    "swimming",
+    "golf"
+  ],
+  "games": [
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-02",
+      "away": "St. Andrew's Episcopal",
+      "home": "Northeast Jones",
+      "status": "final",
+      "away_score": 5,
+      "home_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/northeast-jones-laurel-vs-st-andrews-episcopal-ridgeland/11-2-2026/?c=d3b34c50-dd53-4e68-91bd-c6e92032507d",
+        "excerpt": "St. Andrew's Episcopal vs Northeast Jones | Soccer | 11/02/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer SAEHS Boys Varsity Soccer @ Northeast Jones St. Andrew's Episcopal 3-0 Saints 5 Final 0 Northeast Jones 0-2 Tigers SAEHS Boys Varsity Soccer @ Northeast Jones Streaming & Ticketing Watch Recap Game Info On 11/2, the St. Andrew's Episcopal varsity soccer team won their away non-conference match against Northeast Jones (Laurel, MS) by a score of 5-0.",
+        "date_excerpt": "11/02/2026",
+        "away_name": "St. Andrew's Episcopal",
+        "home_name": "Northeast Jones"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-02",
+      "away": "St. Andrew's Episcopal",
+      "home": "Northeast Jones",
+      "status": "final",
+      "away_score": 1,
+      "home_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/northeast-jones-laurel-vs-st-andrews-episcopal-ridgeland/11-2-2026/?c=b591496a-3dfa-4ac3-bdf3-9a3cf98a88e8",
+        "excerpt": "St. Andrew's Episcopal vs Northeast Jones | Soccer | 11/02/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer SAEHS Girls Varsity Soccer @ Northeast Jones St. Andrew's Episcopal 3-0 Saints 1 Final 0 Northeast Jones 0-3 Tigers SAEHS Girls Varsity Soccer @ Northeast Jones Streaming & Ticketing Watch Recap Game Info On 11/2, the St. Andrew's Episcopal varsity soccer team won their away non-conference match against Northeast Jones (Laurel, MS) by a score of 1-0.",
+        "date_excerpt": "11/02/2026",
+        "away_name": "St. Andrew's Episcopal",
+        "home_name": "Northeast Jones"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-02",
+      "away": "Canton",
+      "home": "Grenada",
+      "status": "final",
+      "away_score": 3,
+      "home_score": 2,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/canton-vs-grenada/11-2-2026/?c=93a23f2e-3624-4732-b4c1-d64fa008022a",
+        "excerpt": "Canton vs Grenada | Soccer | 11/02/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Canton Boys Varsity Soccer @ Grenada Canton 1-1 Tigers 3 Final 2 Grenada 2-3 Chargers Canton Boys Varsity Soccer @ Grenada Game Info On 11/2, the Canton varsity soccer team won their away non-conference match against Grenada (MS) by a score of 3-2.",
+        "date_excerpt": "11/02/2026",
+        "away_name": "Canton",
+        "home_name": "Grenada"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-02",
+      "away": "Canton",
+      "home": "Grenada",
+      "status": "final",
+      "away_score": 0,
+      "home_score": 7,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/canton-vs-grenada/11-2-2026/?c=b07b8266-4831-461c-a115-355333cc1d4e",
+        "excerpt": "Canton vs Grenada | Soccer | 11/02/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Canton Girls Varsity Soccer @ Grenada Canton 0-1 Tigers 0 Final 7 Grenada 2-2-1 Chargers Canton Girls Varsity Soccer @ Grenada Game Info On 11/2, the Canton varsity soccer team lost their away non-conference match against Grenada (MS) by a score of 7-0.",
+        "date_excerpt": "11/02/2026",
+        "away_name": "Canton",
+        "home_name": "Grenada"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-02",
+      "away": "Pisgah",
+      "home": "Loyd Star",
+      "status": "final",
+      "away_score": 5,
+      "home_score": 3,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/loyd-star-brookhaven-vs-pisgah-sandhill/11-2-2026/?c=61f30ccf-34a5-48b9-96fc-ec7311cd31d8",
+        "excerpt": "Pisgah vs Loyd Star | Soccer | 11/02/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Pisgah Boys Varsity Soccer @ Loyd Star Pisgah 1-0 Dragons 5 Final 3 Loyd Star 0-1 Hornets Pisgah Boys Varsity Soccer @ Loyd Star Game Info On 11/2, the Pisgah varsity soccer team won their away non-conference match against Loyd Star (Brookhaven, MS) by a score of 5-3.",
+        "date_excerpt": "11/02/2026",
+        "away_name": "Pisgah",
+        "home_name": "Loyd Star"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-02",
+      "away": "Pisgah",
+      "home": "Loyd Star",
+      "status": "final",
+      "away_score": 5,
+      "home_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/loyd-star-brookhaven-vs-pisgah-sandhill/11-2-2026/?c=b4c9a59d-f91d-4deb-b1f7-1f354e343145",
+        "excerpt": "Pisgah vs Loyd Star | Soccer | 11/02/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Pisgah Girls Varsity Soccer @ Loyd Star Pisgah 1-0 Dragons 5 Final 0 Loyd Star 0-1 Hornets Pisgah Girls Varsity Soccer @ Loyd Star Game Info On 11/2, the Pisgah varsity soccer team won their away non-conference match against Loyd Star (Brookhaven, MS) by a score of 5-0.",
+        "date_excerpt": "11/02/2026",
+        "away_name": "Pisgah",
+        "home_name": "Loyd Star"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-02",
+      "away": "North Forrest",
+      "home": "Laurel",
+      "status": "final",
+      "away_score": 2,
+      "home_score": 4,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/laurel-vs-north-forrest-hattiesburg/11-2-2026/?c=0b26cce3-4c98-4861-8bed-eb3864461b6c",
+        "excerpt": "North Forrest vs Laurel | Soccer | 11/02/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer North Forrest Boys Varsity Soccer @ Laurel North Forrest 0-1 Eagles 2 Final 4 Laurel 2-1 Tornadoes North Forrest Boys Varsity Soccer @ Laurel Game Info On 11/2, the North Forrest varsity soccer team lost their away non-conference match against Laurel (MS) by a score of 4-2.",
+        "date_excerpt": "11/02/2026",
+        "away_name": "North Forrest",
+        "home_name": "Laurel"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-02",
+      "away": "North Forrest",
+      "home": "Laurel",
+      "status": "final",
+      "away_score": 2,
+      "home_score": 8,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/laurel-vs-north-forrest-hattiesburg/11-2-2026/?c=8851fb08-d264-425c-ab0b-7fbb1611a2ba",
+        "excerpt": "North Forrest vs Laurel | Soccer | 11/02/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer North Forrest Girls Varsity Soccer @ Laurel North Forrest 0-1 Eagles 2 Final 8 Laurel 2-1 Tornadoes North Forrest Girls Varsity Soccer @ Laurel Game Info On 11/2, the North Forrest varsity soccer team lost their away non-conference match against Laurel (MS) by a score of 8-2.",
+        "date_excerpt": "11/02/2026",
+        "away_name": "North Forrest",
+        "home_name": "Laurel"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-02",
+      "away": "Booneville",
+      "home": "South Pontotoc",
+      "status": "final",
+      "away_score": 5,
+      "home_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/booneville-vs-south-pontotoc/11-2-2026/?c=c6bda062-aef2-4d11-989f-d99abb42a1da",
+        "excerpt": "Booneville vs South Pontotoc | Soccer | 11/02/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Booneville Boys Varsity Soccer @ South Pontotoc Booneville 1-0 Blue Devils 5 Final 0 South Pontotoc 0-2 Cougars Booneville Boys Varsity Soccer @ South Pontotoc Game Info On 11/2, the Booneville varsity soccer team won their away non-conference match against South Pontotoc (Pontotoc, MS) by a score of 5-0.",
+        "date_excerpt": "11/02/2026",
+        "away_name": "Booneville",
+        "home_name": "South Pontotoc"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-02",
+      "away": "Booneville",
+      "home": "South Pontotoc",
+      "status": "final",
+      "away_score": 0,
+      "home_score": 5,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/booneville-vs-south-pontotoc/11-2-2026/?c=2b8a85fb-6f35-4224-a269-24d9f0c3ff49",
+        "excerpt": "Booneville vs South Pontotoc | Soccer | 11/02/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Booneville Girls Varsity Soccer @ South Pontotoc Booneville 0-1 Blue Devils 0 Final 5 South Pontotoc 1-1 Cougars Booneville Girls Varsity Soccer @ South Pontotoc Game Info On 11/2, the Booneville varsity soccer team lost their away non-conference match against South Pontotoc (Pontotoc, MS) by a score of 5-0.",
+        "date_excerpt": "11/02/2026",
+        "away_name": "Booneville",
+        "home_name": "South Pontotoc"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-02",
+      "away": "East Central",
+      "home": "Pascagoula",
+      "status": "final",
+      "away_score": 0,
+      "home_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/east-central-moss-point-vs-pascagoula/11-2-2026/?c=e5972be6-4ffe-4cc7-ae30-50a35b6b0421",
+        "excerpt": "East Central vs Pascagoula | Soccer | 11/02/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer East Central Boys Varsity Soccer @ Pascagoula East Central 1-0-1 Hornets 0 Final 0 Pascagoula 1-3-1 Panthers East Central Boys Varsity Soccer @ Pascagoula Game Info On 11/2, the East Central varsity soccer team tied their away non-conference match against Pascagoula (MS) by a score of 0-0.",
+        "date_excerpt": "11/02/2026",
+        "away_name": "East Central",
+        "home_name": "Pascagoula"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-02",
+      "away": "Pascagoula",
+      "home": "East Central",
+      "status": "final",
+      "away_score": 0,
+      "home_score": 7,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/east-central-moss-point-vs-pascagoula/11-2-2026/?c=cb1d49aa-9260-4fce-a203-2b9d82837230",
+        "excerpt": "Pascagoula vs East Central | Soccer | 11/02/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Pascagoula Girls Varsity Soccer @ East Central Pascagoula 0-2 Panthers 0 Final 7 East Central 2-1 Hornets Pascagoula Girls Varsity Soccer @ East Central Game Info On 11/2, the Pascagoula varsity soccer team lost their away non-conference match against East Central (Moss Point, MS) by a score of 7-0.",
+        "date_excerpt": "11/02/2026",
+        "away_name": "Pascagoula",
+        "home_name": "East Central"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-02",
+      "away": "Newton County",
+      "home": "Neshoba Central",
+      "status": "final",
+      "away_score": 0,
+      "home_score": 3,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/neshoba-central-philadelphia-vs-newton-county-decatur/11-2-2026/?c=01f1d9a3-3c49-41bd-8099-b62e4f12bc73",
+        "excerpt": "Newton County vs Neshoba Central | Soccer | 11/02/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Newton County Boys Varsity Soccer @ Neshoba Central Newton County 0-2-1 Cougars 0 Final 3 Neshoba Central 3-1 Rockets Newton County Boys Varsity Soccer @ Neshoba Central Game Info On 11/2, the Newton County varsity soccer team lost their away non-conference match against Neshoba Central (Philadelphia, MS) by a score of 3-0.",
+        "date_excerpt": "11/02/2026",
+        "away_name": "Newton County",
+        "home_name": "Neshoba Central"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-02",
+      "away": "Newton County",
+      "home": "Neshoba Central",
+      "status": "final",
+      "away_score": 0,
+      "home_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/neshoba-central-philadelphia-vs-newton-county-decatur/11-2-2026/?c=1aa009fc-dd70-446b-9c6d-0f70f182f335",
+        "excerpt": "Newton County vs Neshoba Central | Soccer | 11/02/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Newton County Girls Varsity Soccer @ Neshoba Central Newton County 0-1-1 Cougars 0 Final 0 Neshoba Central 1-1-2 Rockets Newton County Girls Varsity Soccer @ Neshoba Central Game Info On 11/2, the Newton County varsity soccer team tied their away non-conference match against Neshoba Central (Philadelphia, MS) by a score of 0-0.",
+        "date_excerpt": "11/02/2026",
+        "away_name": "Newton County",
+        "home_name": "Neshoba Central"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-02",
+      "away": "Starkville Academy",
+      "home": "Lamar",
+      "status": "final",
+      "away_score": 2,
+      "home_score": 10,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/lamar-meridian-vs-starkville-academy/11-2-2026/?c=f2debff4-fd90-4590-875f-490d129a6294",
+        "excerpt": "Starkville Academy vs Lamar | Soccer | 11/02/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Starkville Academy Boys Varsity Soccer @ Lamar Starkville Academy 0-1 Volunteers 2 Final 10 Lamar 1-0 Raiders Starkville Academy Boys Varsity Soccer @ Lamar Game Info On 11/2, the Starkville Academy varsity soccer team lost their away non-conference match against Lamar (Meridian, MS) by a score of 10-2.",
+        "date_excerpt": "11/02/2026",
+        "away_name": "Starkville Academy",
+        "home_name": "Lamar"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-02",
+      "away": "Woodlawn Prep",
+      "home": "Christian Collegiate Academy",
+      "status": "final",
+      "away_score": 22,
+      "home_score": 71,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/christian-collegiate-academy-gulfport-vs-woodlawn-prep-columbia/11-2-2026/?c=119d64d2-0138-4f44-ae4e-72d10aa2fad5",
+        "excerpt": "Woodlawn Prep vs Christian Collegiate Academy | Basketball | 11/02/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Woodlawn Prep Boys Varsity Basketball @ CCA Woodlawn Prep 1-1 Wolfpack 22 Final 71 Christian Collegiate Academy 1-0 Bulldogs Woodlawn Prep Boys Varsity Basketball @ CCA Game Info On 11/2, the Woodlawn Prep varsity basketball team lost their away non-conference game against Christian Collegiate Academy (Gulfport, MS) by a score of 71-22.",
+        "date_excerpt": "11/02/2026",
+        "away_name": "Woodlawn Prep",
+        "home_name": "Christian Collegiate Academy"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-02",
+      "away": "Simpson Academy",
+      "home": "Wayne Academy",
+      "status": "final",
+      "away_score": 60,
+      "home_score": 23,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/simpson-academy-mendenhall-vs-wayne-academy-waynesboro/11-2-2026/?c=834d65a8-c36e-48a5-8d55-eed3e1155b69",
+        "excerpt": "Simpson Academy vs Wayne Academy | Basketball | 11/02/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Simpson Academy Girls Varsity Basketball @ Wayne Academy Simpson Academy 3-0 Cougars 60 Final 23 Wayne Academy 3-2 Jaguars Simpson Academy Girls Varsity Basketball @ Wayne Academy Game Info On 11/2, the Simpson Academy varsity basketball team won their away non-conference game against Wayne Academy (Waynesboro, MS) by a score of 60-23.",
+        "date_excerpt": "11/02/2026",
+        "away_name": "Simpson Academy",
+        "home_name": "Wayne Academy"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-11-02/",
+      "title": "Monday Games To Watch: St. Andrew’s and Canton boys matches"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Scores from last Night: St. Andrew’s sweeps Northeast Jones; Canton edges Grenada",
+    "headline_fact_ids": [
+      "game-0",
+      "game-1",
+      "game-2"
+    ],
+    "html": "<p data-facts=\"game-0 game-1 sa-boys-form sa-girls-record\">St. Andrew’s Episcopal left Laurel with two soccer wins and two unbeaten records intact on Monday, November 2. The boys defeated Northeast Jones 5–0 and the girls won 1–0, moving both Saints teams to 3–0.</p>\n<p data-facts=\"game-2 canton-records game-0 preview-coverage\">Canton’s boys supplied another notable road result, edging Grenada 3–2 for their first win in the reported season record. The Canton–Grenada and St. Andrew’s–Northeast Jones boys matches were featured in our <a href=\"https://sportsmississippi.com/sports/sportsms-preview-2026-11-02/\">Monday Games To Watch preview</a>.</p>\n<h2 data-facts=\"game-0 game-1\">St. Andrew’s wins both without conceding</h2>\n<p data-facts=\"game-0 sa-boys-form\">The Saints’ boys continued a defensive start that has yet to yield a goal. Their 5–0 victory brought the reported season totals to 14 goals scored and none allowed. St. Andrew’s has now won all three of its opening matches.</p>\n<p data-facts=\"game-0 game-1 sa-girls-record\">The girls needed a much narrower margin, but their 1–0 win produced the same outcome: another road victory and a 3–0 record. Northeast Jones finished the match scoreless, giving St. Andrew’s clean sheets in both meetings.</p>\n<h2 data-facts=\"game-2 game-3\">Canton boys edge Grenada; Chargers girls win</h2>\n<p data-facts=\"game-2 canton-records\">Canton’s 3–2 boys victory moved the Tigers to 1–1 and left Grenada at 2–3. The one-goal result gave Canton its first reported win after opening the season with a loss.</p>\n<p data-facts=\"game-2 game-3 grenada-girls-record\">Grenada’s girls kept Canton off the board in a 7–0 home win. The Chargers improved to 2–2–1, giving Grenada a split of the two varsity results against Canton.</p>\n<h2 data-facts=\"game-4 game-5 game-6 game-7\">Pisgah and Laurel sweep soccer pairs</h2>\n<p data-facts=\"game-4 game-5\">Pisgah won both matches at Loyd Star. The boys won the higher-scoring match 5–3, while the girls earned a 5–0 shutout.</p>\n<p data-facts=\"game-6 game-7 laurel-halves\">Laurel also won both at home against North Forrest, taking the boys match 4–2 and the girls match 8–2. The girls scored four times in each half, while North Forrest scored once on either side of halftime.</p>\n<h2 data-facts=\"game-8 game-9\">Booneville and South Pontotoc trade shutouts</h2>\n<p data-facts=\"game-8 game-9 booneville-halves southpontotoc-halves\">The same final score produced opposite winners at South Pontotoc. Booneville’s boys won 5–0, scoring twice before halftime and three times afterward. South Pontotoc’s girls reversed that result with a 5–0 win, building their score with three first-half goals and two in the second half.</p>\n<h2 data-facts=\"game-10 game-11 game-12 game-13 game-14\">Clean sheets and a big Lamar win</h2>\n<p data-facts=\"game-10 game-11\">East Central’s girls defeated Pascagoula 7–0, while the boys finished in a scoreless draw. Neither East Central team conceded a goal in the reported Monday results.</p>\n<p data-facts=\"game-12 game-13 neshoba-halves\">Neshoba Central’s boys defeated Newton County 3–0, scoring twice before the break and once afterward. The girls played to a 0–0 draw, leaving Newton County scoreless in both matches.</p>\n<p data-facts=\"game-14\">Lamar’s boys reached double figures in a 10–2 home victory over Starkville Academy in Meridian.</p>\n<h2 data-facts=\"game-15 game-16\">Basketball: fast starts carry CCA boys and Simpson girls</h2>\n<p data-facts=\"game-15 cca-quarters cca-record\">Christian Collegiate Academy’s boys opened with a 21–4 first quarter against Woodlawn Prep, then outscored the visitors 23–5 in the second. The Bulldogs finished a 71–22 home win in Gulfport and moved to 1–0.</p>\n<p data-facts=\"game-16 simpson-quarters simpson-record\">Simpson Academy’s girls took a 19–2 first-quarter lead at Wayne Academy and went on to win 60–23 in Waynesboro. The Cougars improved to 3–0.</p>",
+    "facts": [
+      {
+        "id": "sa-boys-form",
+        "kind": "record",
+        "claim": "St. Andrew's Episcopal boys finished 3-0 with GF 14 and GA 0.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-02",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/ridgeland/st-andrews-episcopal-saints/soccer/winter/schedule/",
+          "excerpt": "St. Andrew's Episcopal Soccer Schedule 2026-27 Next Match Away • Non-District St. Andrew's Episcopal 3-0 Germantown 0-0 St. Andrew's Episcopal 3-0 Tue, 11/3 @ 5:30pm Preview Match Germantown 0-0 Buy Tickets Preview Match Overall 3-0 1.000 Win Pct District 0-0 0.000 Win Pct Home 1-0 Away 2-0 Neutral 0-0 GF 14 GA 0 Streak 3W",
+          "subjects": [
+            "St. Andrew's Episcopal"
+          ]
+        }
+      },
+      {
+        "id": "sa-girls-record",
+        "kind": "record",
+        "claim": "St. Andrew's Episcopal girls improved to 3-0.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-02",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/northeast-jones-laurel-vs-st-andrews-episcopal-ridgeland/11-2-2026/?c=b591496a-3dfa-4ac3-bdf3-9a3cf98a88e8",
+          "excerpt": "St. Andrew's Episcopal 3-0 Saints 1 Final 0 Northeast Jones 0-3 Tigers",
+          "subjects": [
+            "St. Andrew's Episcopal"
+          ]
+        }
+      },
+      {
+        "id": "canton-records",
+        "kind": "record",
+        "claim": "Canton improved to 1-1 and Grenada fell to 2-3.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-02",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/canton-vs-grenada/11-2-2026/?c=93a23f2e-3624-4732-b4c1-d64fa008022a",
+          "excerpt": "Canton 1-1 Tigers 3 Final 2 Grenada 2-3 Chargers",
+          "subjects": [
+            "Canton",
+            "Grenada"
+          ]
+        }
+      },
+      {
+        "id": "grenada-girls-record",
+        "kind": "record",
+        "claim": "Grenada girls improved to 2-2-1.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-02",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/canton-vs-grenada/11-2-2026/?c=b07b8266-4831-461c-a115-355333cc1d4e",
+          "excerpt": "Canton 0-1 Tigers 0 Final 7 Grenada 2-2-1 Chargers",
+          "subjects": [
+            "Grenada"
+          ]
+        }
+      },
+      {
+        "id": "laurel-halves",
+        "kind": "context",
+        "claim": "Laurel girls scored 4 goals in each half; North Forrest scored 1 in each half.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-02",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/laurel-vs-north-forrest-hattiesburg/11-2-2026/?c=8851fb08-d264-425c-ab0b-7fbb1611a2ba",
+          "excerpt": "Boxscore 1 2 Final North Forrest 1 1 2 Laurel 4 4 8",
+          "subjects": [
+            "North Forrest",
+            "Laurel"
+          ]
+        }
+      },
+      {
+        "id": "booneville-halves",
+        "kind": "context",
+        "claim": "Booneville boys scored 2 goals in the first half and 3 in the second; South Pontotoc scored 0 in both halves.",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-11-02",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/booneville-vs-south-pontotoc/11-2-2026/?c=c6bda062-aef2-4d11-989f-d99abb42a1da",
+          "excerpt": "Boxscore 1 2 Final Booneville 2 3 5 South Pontotoc 0 0 0",
+          "subjects": [
+            "Booneville",
+            "South Pontotoc"
+          ]
+        }
+      },
+      {
+        "id": "southpontotoc-halves",
+        "kind": "context",
+        "claim": "South Pontotoc girls scored 3 goals in the first half and 2 in the second; Booneville scored 0 in both halves.",
+        "game_indexes": [
+          9
+        ],
+        "as_of_date": "2026-11-02",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/booneville-vs-south-pontotoc/11-2-2026/?c=2b8a85fb-6f35-4224-a269-24d9f0c3ff49",
+          "excerpt": "Boxscore 1 2 Final Booneville 0 0 0 South Pontotoc 3 2 5",
+          "subjects": [
+            "Booneville",
+            "South Pontotoc"
+          ]
+        }
+      },
+      {
+        "id": "neshoba-halves",
+        "kind": "context",
+        "claim": "Neshoba Central boys scored 2 goals before halftime and 1 afterward; Newton County scored 0 in both halves.",
+        "game_indexes": [
+          12
+        ],
+        "as_of_date": "2026-11-02",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/neshoba-central-philadelphia-vs-newton-county-decatur/11-2-2026/?c=01f1d9a3-3c49-41bd-8099-b62e4f12bc73",
+          "excerpt": "Boxscore 1 2 Final Newton County 0 0 0 Neshoba Central 2 1 3",
+          "subjects": [
+            "Newton County",
+            "Neshoba Central"
+          ]
+        }
+      },
+      {
+        "id": "cca-quarters",
+        "kind": "context",
+        "claim": "Christian Collegiate Academy led Woodlawn Prep 21-4 after the first quarter and outscored Woodlawn Prep 23-5 in the second.",
+        "game_indexes": [
+          15
+        ],
+        "as_of_date": "2026-11-02",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/christian-collegiate-academy-gulfport-vs-woodlawn-prep-columbia/11-2-2026/?c=119d64d2-0138-4f44-ae4e-72d10aa2fad5",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Woodlawn Prep 4 5 7 6 22 Christian Collegiate Academy 21 23 19 8 71",
+          "subjects": [
+            "Woodlawn Prep",
+            "Christian Collegiate Academy"
+          ]
+        }
+      },
+      {
+        "id": "cca-record",
+        "kind": "record",
+        "claim": "Christian Collegiate Academy improved to 1-0.",
+        "game_indexes": [
+          15
+        ],
+        "as_of_date": "2026-11-02",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/christian-collegiate-academy-gulfport-vs-woodlawn-prep-columbia/11-2-2026/?c=119d64d2-0138-4f44-ae4e-72d10aa2fad5",
+          "excerpt": "Woodlawn Prep 1-1 Wolfpack 22 Final 71 Christian Collegiate Academy 1-0 Bulldogs",
+          "subjects": [
+            "Christian Collegiate Academy"
+          ]
+        }
+      },
+      {
+        "id": "simpson-quarters",
+        "kind": "context",
+        "claim": "Simpson Academy led Wayne Academy 19-2 after the first quarter.",
+        "game_indexes": [
+          16
+        ],
+        "as_of_date": "2026-11-02",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/simpson-academy-mendenhall-vs-wayne-academy-waynesboro/11-2-2026/?c=834d65a8-c36e-48a5-8d55-eed3e1155b69",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Simpson Academy 19 16 16 9 60 Wayne Academy 2 12 5 4 23",
+          "subjects": [
+            "Simpson Academy",
+            "Wayne Academy"
+          ]
+        }
+      },
+      {
+        "id": "simpson-record",
+        "kind": "record",
+        "claim": "Simpson Academy improved to 3-0.",
+        "game_indexes": [
+          16
+        ],
+        "as_of_date": "2026-11-02",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/simpson-academy-mendenhall-vs-wayne-academy-waynesboro/11-2-2026/?c=834d65a8-c36e-48a5-8d55-eed3e1155b69",
+          "excerpt": "Simpson Academy 3-0 Cougars 60 Final 23 Wayne Academy 3-2 Jaguars",
+          "subjects": [
+            "Simpson Academy"
+          ]
+        }
+      },
+      {
+        "id": "preview-coverage",
+        "kind": "context",
+        "claim": "The Games To Watch preview featured St. Andrew’s at Northeast Jones and Canton at Grenada.",
+        "game_indexes": [
+          0,
+          2
+        ],
+        "as_of_date": "2026-11-02",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-11-02/",
+          "excerpt": "Games To Watch: St. Andrew's takes unbeaten start to Northeast Jones; Grenada hosts Canton - Mississippi Sports Group",
+          "subjects": [
+            "St. Andrew's",
+            "Northeast Jones",
+            "Canton",
+            "Grenada"
+          ]
+        }
+      }
+    ]
+  }
+}
