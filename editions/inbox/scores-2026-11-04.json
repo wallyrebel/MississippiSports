@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-11-04",
+  "verified_at": "2026-11-05T08:06:43.619363-06:00",
+  "publish": true,
+  "checked_sports": [
+    "basketball"
+  ],
+  "games": [
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-04",
+      "home": "Coahoma County",
+      "away": "Riverside",
+      "status": "final",
+      "home_score": 37,
+      "away_score": 24,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/coahoma-county-red-panthers-clarksdale-vs-riverside-avon/11-4-2026/?c=b5031a4a-bc7e-41be-bae6-67011f27fe24",
+        "excerpt": "Riverside vs Coahoma County | Basketball | 11/04/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Riverside Girls Varsity Basketball @ Coahoma County Riverside 1-1 Bulldogs 24 Final 37 Coahoma County 1-1 Panthers Riverside Girls Varsity Basketball @ Coahoma County Streaming & Ticketing Watch Recap Game Info On 11/4, the Riverside varsity basketball team lost their away non-conference game against Coahoma County (Clarksdale, MS) by a score of 37-24.",
+        "date_excerpt": "11/04/2026",
+        "home_name": "Coahoma County",
+        "away_name": "Riverside"
+      }
+    }
+  ],
+  "related_links": [],
+  "article": {
+    "reviewed": true,
+    "headline": "Scores from last Night: Coahoma County girls rebound to beat Riverside",
+    "headline_fact_ids": [
+      "game-0",
+      "coahoma-previous-result"
+    ],
+    "html": "<p data-facts=\"game-0 postgame-records\">Coahoma County's girls earned their first victory of the season Wednesday, defeating visiting Riverside 37-24 in varsity basketball. The non-conference result in Clarksdale left both teams listed at 1-1.</p>\n<h2 data-facts=\"game-0 coahoma-previous-result\">Coahoma County answers opening loss</h2>\n<p data-facts=\"game-0 coahoma-previous-result postgame-records\">The Panthers returned to the court a day after a 30-19 loss to West Tallahatchie on November 3. Wednesday's <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/coahoma-county-red-panthers-clarksdale-vs-riverside-avon/11-4-2026/?c=b5031a4a-bc7e-41be-bae6-67011f27fe24\">37-24 win over Riverside</a> gave Coahoma County a split of its first two games.</p>\n<p data-facts=\"game-0 riverside-previous-result postgame-records\">Riverside had entered the matchup after beating O'Bannon 45-18 on Tuesday. The Bulldogs' first loss brought them level with Coahoma County in the early record column, following different results on the opening night.</p>\n<p data-facts=\"game-0\">This edition focuses on the confirmed girls varsity result between Coahoma County and Riverside. Unreported scores and results with conflicting game dates are omitted.</p>",
+    "facts": [
+      {
+        "id": "postgame-records",
+        "kind": "record",
+        "claim": "Coahoma County girls and Riverside girls were both listed at 1-1 after this game.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-04",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/coahoma-county-red-panthers-clarksdale-vs-riverside-avon/11-4-2026/?c=b5031a4a-bc7e-41be-bae6-67011f27fe24",
+          "excerpt": "Riverside 1-1 Bulldogs 24 Final 37 Coahoma County 1-1 Panthers",
+          "subjects": [
+            "Riverside",
+            "Coahoma County"
+          ]
+        }
+      },
+      {
+        "id": "coahoma-previous-result",
+        "kind": "result",
+        "claim": "Coahoma County girls lost 19-30 to West Tallahatchie on November 3, 2026.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-04",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/clarksdale/coahoma-county-red-panthers/basketball/girls/",
+          "excerpt": "On Tuesday, Nov 3, 2026, the Coahoma County Varsity Girls Basketball team lost their game against West Tallahatchie High School by a score of 19-30 . Coahoma County 19 West Tallahatchie 30 Final",
+          "subjects": [
+            "Coahoma County",
+            "West Tallahatchie"
+          ]
+        }
+      },
+      {
+        "id": "riverside-previous-result",
+        "kind": "result",
+        "claim": "Riverside girls defeated O'Bannon 45-18 on November 3, 2026.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-04",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/avon/riverside-bulldogs/basketball/girls/",
+          "excerpt": "On Tuesday, Nov 3, 2026, the Riverside Varsity Girls Basketball team won their game against O'Bannon High School by a score of 45-18 . Riverside 45 O O'Bannon 18 Final",
+          "subjects": [
+            "Riverside",
+            "O'Bannon"
+          ]
+        }
+      }
+    ]
+  }
+}
