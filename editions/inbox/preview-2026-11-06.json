@@ -1,0 +1,1031 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-11-06",
+  "verified_at": "2026-11-06T15:08:19.887007-06:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "basketball",
+    "soccer"
+  ],
+  "games": [
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-06",
+      "home": "Madison-Ridgeland Academy",
+      "away": "Hartfield Academy",
+      "status": "scheduled",
+      "start_time": "2026-11-06T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/hartfield-academy-flowood-vs-madison-ridgeland-academy/11-6-2026/?c=38b0b907-139f-41a0-b038-8c88a30f82d8",
+        "excerpt": "Hartfield Academy vs Madison-Ridgeland Academy | Football | 11/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Hartfield Academy Varsity Football @ MRA Hartfield Academy Hawks 6-4 Friday, Nov 6, 2026 7:00pm CST Madison-Ridgeland Academy Patriots 8-2 Hartfield Academy Varsity Football @ MRA Game Info The Hartfield Academy varsity football team has an away playoff game @ Madison-Ridgeland Academy (Madison, MS) today @ 7p.",
+        "date_excerpt": "11/06/2026",
+        "time_excerpt": "7:00pm CST",
+        "home_name": "Madison-Ridgeland Academy",
+        "away_name": "Hartfield Academy"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-06",
+      "home": "Jackson Prep",
+      "away": "Jackson Academy",
+      "status": "scheduled",
+      "start_time": "2026-11-06T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/jackson-academy-vs-jackson-prep/11-6-2026/?c=1b2c2b6a-6e1d-4948-88b2-b4d1153089c8",
+        "excerpt": "Jackson Academy vs Jackson Prep | Football | 11/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Jackson Academy Varsity Football @ Jackson Prep Jackson Academy Raiders 8-2 Friday, Nov 6, 2026 7:00pm CST Jackson Prep Patriots 10-1 Jackson Academy Varsity Football @ Jackson Prep Streaming & Ticketing Purchase Tickets Game Info The Jackson Academy varsity football team has an away playoff game @ Jackson Prep (Jackson, MS) today @ 7p.",
+        "date_excerpt": "11/06/2026",
+        "time_excerpt": "7:00pm CST",
+        "home_name": "Jackson Prep",
+        "away_name": "Jackson Academy"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-06",
+      "home": "Bruce",
+      "away": "Eupora",
+      "status": "scheduled",
+      "start_time": "2026-11-06T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/bruce-vs-eupora/11-6-2026/?c=bbe538e2-eeff-4490-a48b-abee40757830",
+        "excerpt": "Eupora vs Bruce | Football | 11/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Eupora Varsity Football @ Bruce Eupora Eagles 8-2 Friday, Nov 6, 2026 7:00pm CST Bruce Trojans 9-1 Eupora Varsity Football @ Bruce Streaming & Ticketing Purchase Tickets Game Info The Eupora varsity football team has an away playoff game @ Bruce (MS) today @ 7p.",
+        "date_excerpt": "11/06/2026",
+        "time_excerpt": "7:00pm CST",
+        "home_name": "Bruce",
+        "away_name": "Eupora"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-06",
+      "home": "Kosciusko",
+      "away": "Itawamba Agricultural",
+      "status": "scheduled",
+      "start_time": "2026-11-06T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/itawamba-agricultural-fulton-vs-kosciusko/11-6-2026/?c=9d457cc9-242c-4f10-be2e-ee2835262a05",
+        "excerpt": "Itawamba Agricultural vs Kosciusko | Football | 11/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football IAHS Varsity Football @ Kosciusko Itawamba Agricultural Indians 6-2 Friday, Nov 6, 2026 7:00pm CST Kosciusko Whippets 9-1 IAHS Varsity Football @ Kosciusko Streaming & Ticketing Purchase Tickets Game Info The Itawamba Agricultural varsity football team has an away playoff game @ Kosciusko (MS) today @ 7p.",
+        "date_excerpt": "11/06/2026",
+        "time_excerpt": "7:00pm CST",
+        "home_name": "Kosciusko",
+        "away_name": "Itawamba Agricultural"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-06",
+      "home": "Corinth",
+      "away": "Ripley",
+      "status": "scheduled",
+      "start_time": "2026-11-06T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/corinth-vs-ripley/11-6-2026/?c=07a3d070-f7b6-4a23-b168-6b09ce416d7b",
+        "excerpt": "Ripley vs Corinth | Football | 11/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Ripley Varsity Football @ Corinth Ripley Tigers 2-8 Friday, Nov 6, 2026 7:00pm CST Corinth Warriors 6-3 Ripley Varsity Football @ Corinth Streaming & Ticketing Purchase Tickets Game Info The Ripley varsity football team has an away playoff game @ Corinth (MS) today @ 7p.",
+        "date_excerpt": "11/06/2026",
+        "time_excerpt": "7:00pm CST",
+        "home_name": "Corinth",
+        "away_name": "Ripley"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-06",
+      "home": "Kossuth",
+      "away": "Amanda Elzy",
+      "status": "scheduled",
+      "start_time": "2026-11-06T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/amanda-elzy-greenwood-vs-kossuth/11-6-2026/?c=6151c1fe-dc7c-4733-8ac7-aa604be76e91",
+        "excerpt": "Amanda Elzy vs Kossuth | Football | 11/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Amanda Elzy Varsity Football @ Kossuth Amanda Elzy Panthers 3-7 Friday, Nov 6, 2026 7:00pm CST Kossuth Aggies 6-3 Amanda Elzy Varsity Football @ Kossuth Streaming & Ticketing Purchase Tickets Game Info The Amanda Elzy varsity football team has an away playoff game @ Kossuth (MS) today @ 7p.",
+        "date_excerpt": "11/06/2026",
+        "time_excerpt": "7:00pm CST",
+        "home_name": "Kossuth",
+        "away_name": "Amanda Elzy"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-06",
+      "home": "O'Bannon",
+      "away": "Alcorn Central",
+      "status": "scheduled",
+      "start_time": "2026-11-06T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-obannon-greenville/11-6-2026/?c=4d5f6a8d-f99c-47af-888f-1b244995275d",
+        "excerpt": "Alcorn Central vs O'Bannon | Football | 11/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Alcorn Central Varsity Football @ O'Bannon Alcorn Central Golden Bears 5-5 Friday, Nov 6, 2026 7:00pm CST O O'Bannon Greenwaves 8-1 Alcorn Central Varsity Football @ O'Bannon Streaming & Ticketing Purchase Tickets Game Info The Alcorn Central varsity football team has an away playoff game @ O'Bannon (Greenville, MS) today @ 7p.",
+        "date_excerpt": "11/06/2026",
+        "time_excerpt": "7:00pm CST",
+        "home_name": "O'Bannon",
+        "away_name": "Alcorn Central"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-06",
+      "home": "Okolona",
+      "away": "Biggersville",
+      "status": "scheduled",
+      "start_time": "2026-11-06T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-okolona/11-6-2026/?c=916b62e9-8feb-4fec-9597-e815eed93701",
+        "excerpt": "Biggersville vs Okolona | Football | 11/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Biggersville Varsity Football @ Okolona Biggersville Lions 2-7 Friday, Nov 6, 2026 7:00pm CST Okolona Chieftains 5-5 Biggersville Varsity Football @ Okolona Streaming & Ticketing Purchase Tickets Game Info The Biggersville varsity football team has an away playoff game @ Okolona (MS) today @ 7p.",
+        "date_excerpt": "11/06/2026",
+        "time_excerpt": "7:00pm CST",
+        "home_name": "Okolona",
+        "away_name": "Biggersville"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-06",
+      "home": "Pine Grove",
+      "away": "East Union",
+      "status": "scheduled",
+      "start_time": "2026-11-06T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/east-union-blue-springs-vs-pine-grove-ripley/11-6-2026/?c=e3741d6a-0c7d-4873-9c5d-463bc483c623",
+        "excerpt": "East Union vs Pine Grove | Basketball | 11/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball East Union Girls Varsity Basketball @ Pine Grove East Union Urchins 0-0 Friday, Nov 6, 2026 6:00pm CST Pine Grove Panthers 1-0 East Union Girls Varsity Basketball @ Pine Grove Game Info The East Union varsity basketball team has an away non-conference game @ Pine Grove (Ripley, MS) today @ 6p.",
+        "date_excerpt": "11/06/2026",
+        "time_excerpt": "6:00pm CST",
+        "home_name": "Pine Grove",
+        "away_name": "East Union"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-06",
+      "home": "Pine Grove",
+      "away": "East Union",
+      "status": "scheduled",
+      "start_time": "2026-11-06T19:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/east-union-blue-springs-vs-pine-grove-ripley/11-6-2026/?c=e5d68db0-8755-43ad-82e6-fe03d8216039",
+        "excerpt": "East Union vs Pine Grove | Basketball | 11/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball East Union Boys Varsity Basketball @ Pine Grove East Union Urchins 0-0 Friday, Nov 6, 2026 7:30pm CST Pine Grove Panthers 1-0 East Union Boys Varsity Basketball @ Pine Grove Game Info The East Union varsity basketball team has an away non-conference game @ Pine Grove (Ripley, MS) today @ 7:30p.",
+        "date_excerpt": "11/06/2026",
+        "time_excerpt": "7:30pm CST",
+        "home_name": "Pine Grove",
+        "away_name": "East Union"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-06",
+      "home": "Starkville",
+      "away": "Meridian",
+      "status": "scheduled",
+      "start_time": "2026-11-06T19:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/meridian-vs-starkville/11-6-2026/?c=6ab49c20-007a-451b-b4b1-5ad5aa0c0f91",
+        "excerpt": "Meridian vs Starkville | Basketball | 11/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Meridian Boys Varsity Basketball @ Starkville Meridian Wildcats 1-0 Friday, Nov 6, 2026 7:30pm CST Starkville Yellowjackets 0-0 Meridian Boys Varsity Basketball @ Starkville Streaming & Ticketing Purchase Tickets Game Info The Meridian varsity basketball team has an away non-conference game @ Starkville (MS) today @ 7:30p.",
+        "date_excerpt": "11/06/2026",
+        "time_excerpt": "7:30pm CST",
+        "home_name": "Starkville",
+        "away_name": "Meridian"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-06",
+      "home": "Brandon",
+      "away": "Oxford",
+      "status": "scheduled",
+      "start_time": "2026-11-06T17:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/brandon-vs-oxford/11-6-2026/?c=992c366e-8beb-46c6-b54e-3aa40c769b70",
+        "excerpt": "Oxford vs Brandon | Soccer | 11/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Oxford Girls Varsity Soccer @ Brandon Oxford Chargers 2-0 Friday, Nov 6, 2026 5:30pm CST Brandon Bulldogs 3-0 Oxford Girls Varsity Soccer @ Brandon Streaming & Ticketing Purchase Tickets Game Info The Oxford varsity soccer team has an away non-conference match @ Brandon (MS) today @ 5:30p.",
+        "date_excerpt": "11/06/2026",
+        "time_excerpt": "5:30pm CST",
+        "home_name": "Brandon",
+        "away_name": "Oxford"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-06",
+      "home": "Northwest Rankin",
+      "away": "Sumrall",
+      "status": "scheduled",
+      "start_time": "2026-11-06T18:45:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/northwest-rankin-brandon-vs-sumrall/11-6-2026/?c=3ae786bc-bd10-4eab-9c75-28b74d6c8b7b",
+        "excerpt": "Sumrall vs Northwest Rankin | Soccer | 11/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Sumrall Girls Varsity Soccer @ Northwest Rankin Sumrall Bobcats 5-0 Friday, Nov 6, 2026 6:45pm CST Northwest Rankin Cougars 1-0 Sumrall Girls Varsity Soccer @ Northwest Rankin Game Info The Sumrall varsity soccer team has an away non-conference match @ Northwest Rankin (Brandon, MS) today @ 6:45p.",
+        "date_excerpt": "11/06/2026",
+        "time_excerpt": "6:45pm CST",
+        "home_name": "Northwest Rankin",
+        "away_name": "Sumrall"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-06",
+      "home": "Center Hill",
+      "away": "DeSoto Central",
+      "status": "scheduled",
+      "start_time": "2026-11-06T17:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/center-hill-olive-branch-vs-desoto-central-southaven/11-6-2026/?c=213b8cf2-dd89-42d1-9b53-d7f96aaeda29",
+        "excerpt": "DeSoto Central vs Center Hill | Soccer | 11/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer DeSoto Central Girls Varsity Soccer @ Center Hill DeSoto Central Jaguars 1-3 Friday, Nov 6, 2026 5:00pm CST Center Hill Mustangs 1-0 DeSoto Central Girls Varsity Soccer @ Center Hill Streaming & Ticketing Purchase Tickets Game Info The DeSoto Central varsity soccer team has an away non-conference match @ Center Hill (Olive Branch, MS) today @ 5p.",
+        "date_excerpt": "11/06/2026",
+        "time_excerpt": "5:00pm CST",
+        "home_name": "Center Hill",
+        "away_name": "DeSoto Central"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-06",
+      "home": "Center Hill",
+      "away": "DeSoto Central",
+      "status": "scheduled",
+      "start_time": "2026-11-06T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/center-hill-olive-branch-vs-desoto-central-southaven/11-6-2026/?c=5fa5c8b4-0751-4da9-9e1f-c57df7097c77",
+        "excerpt": "DeSoto Central vs Center Hill | Soccer | 11/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer DeSoto Central Boys Varsity Soccer @ Center Hill DeSoto Central Jaguars 1-1-1 Friday, Nov 6, 2026 7:00pm CST Center Hill Mustangs 2-0 DeSoto Central Boys Varsity Soccer @ Center Hill Streaming & Ticketing Purchase Tickets Game Info The DeSoto Central varsity soccer team has an away non-conference match @ Center Hill (Olive Branch, MS) today @ 7p.",
+        "date_excerpt": "11/06/2026",
+        "time_excerpt": "7:00pm CST",
+        "home_name": "Center Hill",
+        "away_name": "DeSoto Central"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-05/",
+      "title": "Scores from last Night: November 5 results"
+    },
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-10-22/",
+      "title": "Earlier Bruce football coverage"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: MAIS title-game spots, MHSAA openers and unbeaten soccer tests",
+    "headline_fact_ids": [
+      "game-0",
+      "game-1",
+      "mais-semifinals",
+      "two-a-opener",
+      "four-a-path",
+      "game-11",
+      "records-11",
+      "game-12",
+      "records-12"
+    ],
+    "html": "<p data-facts=\"game-0 game-1 mais-semifinals\">A place in the MAIS Class 4A Division I championship game is on the line Friday, November 6, when Madison-Ridgeland Academy hosts Hartfield Academy and Jackson Prep welcomes Jackson Academy. Both semifinals kick off at 7 p.m. Central, with the winners scheduled to meet in the November 13 final.</p>\n<p data-facts=\"game-2 game-3 game-4 two-a-opener four-a-path game-11 records-11 game-12 records-12\">MHSAA first-round games add another set of elimination stakes, while girls soccer offers two meetings between unbeaten teams: Oxford at Brandon and Sumrall at Northwest Rankin. For the latest confirmed finals before tonight, see our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-11-05/\">Scores from last Night recap</a>.</p>\n<h2 data-facts=\"game-0 game-1 mais-semifinals mra-earlier prep-earlier\">Football: MAIS semifinal rematches carry title-game stakes</h2>\n<p data-facts=\"game-0 records-0 site-0 mais-semifinals mra-earlier\"><a href=\"https://www.maxpreps.com/ms/football/game/hartfield-academy-flowood-vs-madison-ridgeland-academy/11-6-2026/?c=38b0b907-139f-41a0-b038-8c88a30f82d8\">Madison-Ridgeland Academy enters 8-2 against 6-4 Hartfield Academy</a> in Madison. MRA won the earlier meeting <a href=\"https://www.maxpreps.com/ms/football/game/hartfield-academy-flowood-vs-madison-ridgeland-academy/9-4-2026/?c=fa32ad3b-0d1f-4ab6-87d0-5530e8225e1e\">42-21 on September 4</a>. The Hawks now get a playoff rematch at 7 p.m.; this time, a berth in the final rather than a regular-season result is at stake.</p>\n<p data-facts=\"game-0 game-1 records-1 site-1 mais-semifinals mra-earlier prep-earlier\">Jackson Prep brings a 10-1 record into its <a href=\"https://www.maxpreps.com/ms/football/game/jackson-academy-vs-jackson-prep/11-6-2026/?c=1b2c2b6a-6e1d-4948-88b2-b4d1153089c8\">home game against 8-2 Jackson Academy</a> at 7 p.m. The Patriots won <a href=\"https://www.maxpreps.com/ms/football/game/jackson-academy-vs-jackson-prep/10-2-2026/?c=448d94cc-f28d-440d-b7b0-a4d87bed3e0f\">35-24 on October 2</a>. The <a href=\"https://www.maxpreps.com/tournament/Fu1hP5uZ-UaqBodKIbj8tw/DgipXDVYykO32nyDr83kzw/football-26/2026-mais-high-school-football-playoff-bracket-class-4a--division-i.htm\">posted MAIS bracket</a> places this semifinal alongside MRA-Hartfield, giving both visiting teams another chance against an opponent that beat them earlier in the season.</p>\n<h2 data-facts=\"game-2 game-3 two-a-opener four-a-path\">Football: Bruce and Kosciusko host strong first-round tests</h2>\n<p data-facts=\"game-2 records-2 site-2 two-a-opener\">Bruce is 9-1 entering its <a href=\"https://www.maxpreps.com/ms/football/game/bruce-vs-eupora/11-6-2026/?c=bbe538e2-eeff-4490-a48b-abee40757830\">7 p.m. home game against 8-2 Eupora</a>. The <a href=\"https://www.maxpreps.com/tournament/7Qe55DhJ3U-Et2Lh98aBLQ/WqsliVo0f0uTTz5BIKBqeA/football-26/2026-football-championships-2a.htm\">Class 2A bracket</a> pairs the Trojans, the second seed from Region 2, with the Eagles, the third seed from Region 4. Both arrive with winning records, but only one advances from this opening-round matchup. Our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-10-22/\">earlier Bruce coverage</a> follows the Trojans through the regular season.</p>\n<p data-facts=\"game-3 records-3 site-3 four-a-path\">Kosciusko enters 9-1 against 6-2 Itawamba Agricultural for a <a href=\"https://www.maxpreps.com/ms/football/game/itawamba-agricultural-fulton-vs-kosciusko/11-6-2026/?c=9d457cc9-242c-4f10-be2e-ee2835262a05\">7 p.m. Class 4A opener</a>. The <a href=\"https://www.maxpreps.com/tournament/7Qe55DhJ3U-Et2Lh98aBLQ/6LZ-gI65Bk2RLnuB92Ndsg/football-26/2026-football-championships-4a.htm\">bracket</a> gives the winner a second-round meeting with the winner of Corinth-Ripley on November 13, tying these two first-round games together beyond tonight.</p>\n<h2 data-facts=\"game-4 game-5 game-6 game-7 four-a-path three-a-openers one-a-opener\">Football: Alcorn County teams open their playoff paths</h2>\n<p data-facts=\"game-4 records-4 site-4 four-a-path game-5 records-5 site-5 three-a-openers alcorn-local-schedule\"><a href=\"https://www.maxpreps.com/ms/football/game/corinth-vs-ripley/11-6-2026/?c=07a3d070-f7b6-4a23-b168-6b09ce416d7b\">Corinth hosts Ripley at 7 p.m.</a> in Class 4A, with the Warriors 6-3 and the Tigers 2-8. Kossuth, also 6-3, <a href=\"https://www.maxpreps.com/ms/football/game/amanda-elzy-greenwood-vs-kossuth/11-6-2026/?c=6151c1fe-dc7c-4733-8ac7-aa604be76e91\">hosts 3-7 Amanda Elzy</a> at the same time in Class 3A. <a href=\"https://alcornsportsms.com/events/\">Alcorn County Sports lists both local kickoffs</a>, and the exact game pages identify them as playoff contests.</p>\n<p data-facts=\"game-6 records-6 site-6 three-a-openers game-7 records-7 site-7 one-a-opener alcorn-local-schedule\"><a href=\"https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-obannon-greenville/11-6-2026/?c=4d5f6a8d-f99c-47af-888f-1b244995275d\">Alcorn Central takes a 5-5 record to 8-1 O’Bannon</a> in Greenville for a <a href=\"https://www.maxpreps.com/tournament/7Qe55DhJ3U-Et2Lh98aBLQ/PccbwrQzlEyGdf32V9jWEw/football-26/2026-football-championships-3a.htm\">Class 3A game</a> at 7 p.m. <a href=\"https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-okolona/11-6-2026/?c=916b62e9-8feb-4fec-9597-e815eed93701\">Biggersville travels to Okolona at 7 p.m.</a> in <a href=\"https://www.maxpreps.com/tournament/7Qe55DhJ3U-Et2Lh98aBLQ/mey3dYpAQUyE4a6jnTXU4w/football-26/2026-football-championships-1a.htm\">Class 1A</a>, with the Lions 2-7 and the Chieftains 5-5. Those road assignments complete the county schedule selected here.</p>\n<h2 data-facts=\"game-11 records-11 game-12 records-12\">Girls soccer: unbeaten starts meet in the Brandon area</h2>\n<p data-facts=\"game-11 records-11 site-11\">Oxford brings a 2-0 start to Brandon, which is 3-0, for a 5:30 p.m. non-conference match. The <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/brandon-vs-oxford/11-6-2026/?c=992c366e-8beb-46c6-b54e-3aa40c769b70\">current girls varsity listing</a> puts two early winning runs alongside each other, with the Chargers on the road against the Bulldogs.</p>\n<p data-facts=\"game-12 records-12 site-12\">Sumrall is 5-0 entering its 6:45 p.m. visit to Northwest Rankin in Brandon. The Cougars are listed at 1-0 in the <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/northwest-rankin-brandon-vs-sumrall/11-6-2026/?c=3ae786bc-bd10-4eab-9c75-28b74d6c8b7b\">non-conference matchup</a>. Sumrall has the longer winning start on the record sheet; Northwest Rankin has a chance to follow its first listed win with another against an unbeaten visitor.</p>\n<p data-facts=\"game-13 records-13 site-13 game-14 records-14 site-14\">In Olive Branch, Center Hill hosts DeSoto Central for girls soccer at 5 p.m. and boys soccer at 7 p.m. The Mustangs enter 1-0 in the <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/center-hill-olive-branch-vs-desoto-central-southaven/11-6-2026/?c=213b8cf2-dd89-42d1-9b53-d7f96aaeda29\">girls game</a> against the 1-3 Jaguars, and 2-0 in the <a href=\"https://www.maxpreps.com/ms/soccer/match/center-hill-olive-branch-vs-desoto-central-southaven/11-6-2026/?c=5fa5c8b4-0751-4da9-9e1f-c57df7097c77\">boys game</a> against a DeSoto Central team listed at 1-1-1. Both matches are non-conference.</p>\n<h2 data-facts=\"game-10 starkville-champion\">Boys basketball: Meridian visits the defending 7A champion</h2>\n<p data-facts=\"game-10 records-10 site-10 starkville-champion\"><a href=\"https://www.maxpreps.com/ms/basketball/game/meridian-vs-starkville/11-6-2026/?c=6ab49c20-007a-451b-b4b1-5ad5aa0c0f91\">Meridian visits Starkville at 7:30 p.m.</a> The Wildcats are listed at 1-0, with the Yellowjackets at 0-0. Starkville won the <a href=\"https://www.misshsaa.com/2026/03/06/starkville-wins-2026-boys-class-7a-basketball-championship/\">2026 boys Class 7A championship</a> on March 6, adding a recent title to the background of this early-season, non-conference meeting.</p>\n<h2 data-facts=\"game-8 game-9 tippah-local-schedule\">Basketball: Pine Grove hosts East Union</h2>\n<p data-facts=\"game-8 records-8 site-8 game-9 records-9 site-9 tippah-local-schedule\">Pine Grove hosts East Union for <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/east-union-blue-springs-vs-pine-grove-ripley/11-6-2026/?c=e3741d6a-0c7d-4873-9c5d-463bc483c623\">girls basketball at 6 p.m.</a> and <a href=\"https://www.maxpreps.com/ms/basketball/game/east-union-blue-springs-vs-pine-grove-ripley/11-6-2026/?c=e5d68db0-8755-43ad-82e6-fe03d8216039\">boys basketball at 7:30 p.m.</a> Both Panthers teams are listed at 1-0, while both East Union teams are shown at 0-0. <a href=\"https://tippahsports.com/tippah-county-sports/tippah-county-sports-happening-today-november-6-2026/\">Tippah Sports confirms the home doubleheader times</a>, giving Pine Grove a chance to build on its opening wins.</p>",
+    "facts": [
+      {
+        "id": "records-0",
+        "kind": "record",
+        "claim": "Hartfield Academy boys enter 6-4; Madison-Ridgeland Academy boys enter 8-2.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/hartfield-academy-flowood-vs-madison-ridgeland-academy/11-6-2026/?c=38b0b907-139f-41a0-b038-8c88a30f82d8",
+          "excerpt": "Hartfield Academy Hawks 6-4 Friday, Nov 6, 2026 7:00pm CST Madison-Ridgeland Academy Patriots 8-2",
+          "subjects": [
+            "Madison-Ridgeland Academy",
+            "Hartfield Academy"
+          ]
+        }
+      },
+      {
+        "id": "site-0",
+        "kind": "schedule",
+        "claim": "The Hartfield Academy varsity football team has an away playoff game @ Madison-Ridgeland Academy (Madison, MS) today @ 7p.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/hartfield-academy-flowood-vs-madison-ridgeland-academy/11-6-2026/?c=38b0b907-139f-41a0-b038-8c88a30f82d8",
+          "excerpt": "The Hartfield Academy varsity football team has an away playoff game @ Madison-Ridgeland Academy (Madison, MS) today @ 7p.",
+          "subjects": [
+            "Madison-Ridgeland Academy",
+            "Hartfield Academy"
+          ]
+        }
+      },
+      {
+        "id": "records-1",
+        "kind": "record",
+        "claim": "Jackson Academy boys enter 8-2; Jackson Prep boys enter 10-1.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/jackson-academy-vs-jackson-prep/11-6-2026/?c=1b2c2b6a-6e1d-4948-88b2-b4d1153089c8",
+          "excerpt": "Jackson Academy Raiders 8-2 Friday, Nov 6, 2026 7:00pm CST Jackson Prep Patriots 10-1",
+          "subjects": [
+            "Jackson Prep",
+            "Jackson Academy"
+          ]
+        }
+      },
+      {
+        "id": "site-1",
+        "kind": "schedule",
+        "claim": "The Jackson Academy varsity football team has an away playoff game @ Jackson Prep (Jackson, MS) today @ 7p.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/jackson-academy-vs-jackson-prep/11-6-2026/?c=1b2c2b6a-6e1d-4948-88b2-b4d1153089c8",
+          "excerpt": "The Jackson Academy varsity football team has an away playoff game @ Jackson Prep (Jackson, MS) today @ 7p.",
+          "subjects": [
+            "Jackson Prep",
+            "Jackson Academy"
+          ]
+        }
+      },
+      {
+        "id": "records-2",
+        "kind": "record",
+        "claim": "Eupora boys enter 8-2; Bruce boys enter 9-1.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/bruce-vs-eupora/11-6-2026/?c=bbe538e2-eeff-4490-a48b-abee40757830",
+          "excerpt": "Eupora Eagles 8-2 Friday, Nov 6, 2026 7:00pm CST Bruce Trojans 9-1",
+          "subjects": [
+            "Bruce",
+            "Eupora"
+          ]
+        }
+      },
+      {
+        "id": "site-2",
+        "kind": "schedule",
+        "claim": "The Eupora varsity football team has an away playoff game @ Bruce (MS) today @ 7p.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/bruce-vs-eupora/11-6-2026/?c=bbe538e2-eeff-4490-a48b-abee40757830",
+          "excerpt": "The Eupora varsity football team has an away playoff game @ Bruce (MS) today @ 7p.",
+          "subjects": [
+            "Bruce",
+            "Eupora"
+          ]
+        }
+      },
+      {
+        "id": "records-3",
+        "kind": "record",
+        "claim": "Itawamba Agricultural boys enter 6-2; Kosciusko boys enter 9-1.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/itawamba-agricultural-fulton-vs-kosciusko/11-6-2026/?c=9d457cc9-242c-4f10-be2e-ee2835262a05",
+          "excerpt": "Itawamba Agricultural Indians 6-2 Friday, Nov 6, 2026 7:00pm CST Kosciusko Whippets 9-1",
+          "subjects": [
+            "Kosciusko",
+            "Itawamba Agricultural"
+          ]
+        }
+      },
+      {
+        "id": "site-3",
+        "kind": "schedule",
+        "claim": "The Itawamba Agricultural varsity football team has an away playoff game @ Kosciusko (MS) today @ 7p.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/itawamba-agricultural-fulton-vs-kosciusko/11-6-2026/?c=9d457cc9-242c-4f10-be2e-ee2835262a05",
+          "excerpt": "The Itawamba Agricultural varsity football team has an away playoff game @ Kosciusko (MS) today @ 7p.",
+          "subjects": [
+            "Kosciusko",
+            "Itawamba Agricultural"
+          ]
+        }
+      },
+      {
+        "id": "records-4",
+        "kind": "record",
+        "claim": "Ripley boys enter 2-8; Corinth boys enter 6-3.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/corinth-vs-ripley/11-6-2026/?c=07a3d070-f7b6-4a23-b168-6b09ce416d7b",
+          "excerpt": "Ripley Tigers 2-8 Friday, Nov 6, 2026 7:00pm CST Corinth Warriors 6-3",
+          "subjects": [
+            "Corinth",
+            "Ripley"
+          ]
+        }
+      },
+      {
+        "id": "site-4",
+        "kind": "schedule",
+        "claim": "The Ripley varsity football team has an away playoff game @ Corinth (MS) today @ 7p.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/corinth-vs-ripley/11-6-2026/?c=07a3d070-f7b6-4a23-b168-6b09ce416d7b",
+          "excerpt": "The Ripley varsity football team has an away playoff game @ Corinth (MS) today @ 7p.",
+          "subjects": [
+            "Corinth",
+            "Ripley"
+          ]
+        }
+      },
+      {
+        "id": "records-5",
+        "kind": "record",
+        "claim": "Amanda Elzy boys enter 3-7; Kossuth boys enter 6-3.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/amanda-elzy-greenwood-vs-kossuth/11-6-2026/?c=6151c1fe-dc7c-4733-8ac7-aa604be76e91",
+          "excerpt": "Amanda Elzy Panthers 3-7 Friday, Nov 6, 2026 7:00pm CST Kossuth Aggies 6-3",
+          "subjects": [
+            "Kossuth",
+            "Amanda Elzy"
+          ]
+        }
+      },
+      {
+        "id": "site-5",
+        "kind": "schedule",
+        "claim": "The Amanda Elzy varsity football team has an away playoff game @ Kossuth (MS) today @ 7p.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/amanda-elzy-greenwood-vs-kossuth/11-6-2026/?c=6151c1fe-dc7c-4733-8ac7-aa604be76e91",
+          "excerpt": "The Amanda Elzy varsity football team has an away playoff game @ Kossuth (MS) today @ 7p.",
+          "subjects": [
+            "Kossuth",
+            "Amanda Elzy"
+          ]
+        }
+      },
+      {
+        "id": "records-6",
+        "kind": "record",
+        "claim": "Alcorn Central boys enter 5-5; O'Bannon boys enter 8-1.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-obannon-greenville/11-6-2026/?c=4d5f6a8d-f99c-47af-888f-1b244995275d",
+          "excerpt": "Alcorn Central Golden Bears 5-5 Friday, Nov 6, 2026 7:00pm CST O O'Bannon Greenwaves 8-1",
+          "subjects": [
+            "O'Bannon",
+            "Alcorn Central"
+          ]
+        }
+      },
+      {
+        "id": "site-6",
+        "kind": "schedule",
+        "claim": "The Alcorn Central varsity football team has an away playoff game @ O'Bannon (Greenville, MS) today @ 7p.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/alcorn-central-glen-vs-obannon-greenville/11-6-2026/?c=4d5f6a8d-f99c-47af-888f-1b244995275d",
+          "excerpt": "The Alcorn Central varsity football team has an away playoff game @ O'Bannon (Greenville, MS) today @ 7p.",
+          "subjects": [
+            "O'Bannon",
+            "Alcorn Central"
+          ]
+        }
+      },
+      {
+        "id": "records-7",
+        "kind": "record",
+        "claim": "Biggersville boys enter 2-7; Okolona boys enter 5-5.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-okolona/11-6-2026/?c=916b62e9-8feb-4fec-9597-e815eed93701",
+          "excerpt": "Biggersville Lions 2-7 Friday, Nov 6, 2026 7:00pm CST Okolona Chieftains 5-5",
+          "subjects": [
+            "Okolona",
+            "Biggersville"
+          ]
+        }
+      },
+      {
+        "id": "site-7",
+        "kind": "schedule",
+        "claim": "The Biggersville varsity football team has an away playoff game @ Okolona (MS) today @ 7p.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/biggersville-corinth-vs-okolona/11-6-2026/?c=916b62e9-8feb-4fec-9597-e815eed93701",
+          "excerpt": "The Biggersville varsity football team has an away playoff game @ Okolona (MS) today @ 7p.",
+          "subjects": [
+            "Okolona",
+            "Biggersville"
+          ]
+        }
+      },
+      {
+        "id": "records-8",
+        "kind": "record",
+        "claim": "East Union girls enter 0-0; Pine Grove girls enter 1-0.",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/east-union-blue-springs-vs-pine-grove-ripley/11-6-2026/?c=e3741d6a-0c7d-4873-9c5d-463bc483c623",
+          "excerpt": "East Union Urchins 0-0 Friday, Nov 6, 2026 6:00pm CST Pine Grove Panthers 1-0",
+          "subjects": [
+            "Pine Grove",
+            "East Union"
+          ]
+        }
+      },
+      {
+        "id": "site-8",
+        "kind": "schedule",
+        "claim": "The East Union varsity basketball team has an away non-conference game @ Pine Grove (Ripley, MS) today @ 6p.",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/east-union-blue-springs-vs-pine-grove-ripley/11-6-2026/?c=e3741d6a-0c7d-4873-9c5d-463bc483c623",
+          "excerpt": "The East Union varsity basketball team has an away non-conference game @ Pine Grove (Ripley, MS) today @ 6p.",
+          "subjects": [
+            "Pine Grove",
+            "East Union"
+          ]
+        }
+      },
+      {
+        "id": "records-9",
+        "kind": "record",
+        "claim": "East Union boys enter 0-0; Pine Grove boys enter 1-0.",
+        "game_indexes": [
+          9
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/east-union-blue-springs-vs-pine-grove-ripley/11-6-2026/?c=e5d68db0-8755-43ad-82e6-fe03d8216039",
+          "excerpt": "East Union Urchins 0-0 Friday, Nov 6, 2026 7:30pm CST Pine Grove Panthers 1-0",
+          "subjects": [
+            "Pine Grove",
+            "East Union"
+          ]
+        }
+      },
+      {
+        "id": "site-9",
+        "kind": "schedule",
+        "claim": "The East Union varsity basketball team has an away non-conference game @ Pine Grove (Ripley, MS) today @ 7:30p.",
+        "game_indexes": [
+          9
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/east-union-blue-springs-vs-pine-grove-ripley/11-6-2026/?c=e5d68db0-8755-43ad-82e6-fe03d8216039",
+          "excerpt": "The East Union varsity basketball team has an away non-conference game @ Pine Grove (Ripley, MS) today @ 7:30p.",
+          "subjects": [
+            "Pine Grove",
+            "East Union"
+          ]
+        }
+      },
+      {
+        "id": "records-10",
+        "kind": "record",
+        "claim": "Meridian boys enter 1-0; Starkville boys enter 0-0.",
+        "game_indexes": [
+          10
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/meridian-vs-starkville/11-6-2026/?c=6ab49c20-007a-451b-b4b1-5ad5aa0c0f91",
+          "excerpt": "Meridian Wildcats 1-0 Friday, Nov 6, 2026 7:30pm CST Starkville Yellowjackets 0-0",
+          "subjects": [
+            "Starkville",
+            "Meridian"
+          ]
+        }
+      },
+      {
+        "id": "site-10",
+        "kind": "schedule",
+        "claim": "The Meridian varsity basketball team has an away non-conference game @ Starkville (MS) today @ 7:30p.",
+        "game_indexes": [
+          10
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/meridian-vs-starkville/11-6-2026/?c=6ab49c20-007a-451b-b4b1-5ad5aa0c0f91",
+          "excerpt": "The Meridian varsity basketball team has an away non-conference game @ Starkville (MS) today @ 7:30p.",
+          "subjects": [
+            "Starkville",
+            "Meridian"
+          ]
+        }
+      },
+      {
+        "id": "records-11",
+        "kind": "record",
+        "claim": "Oxford girls enter 2-0; Brandon girls enter 3-0.",
+        "game_indexes": [
+          11
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/brandon-vs-oxford/11-6-2026/?c=992c366e-8beb-46c6-b54e-3aa40c769b70",
+          "excerpt": "Oxford Chargers 2-0 Friday, Nov 6, 2026 5:30pm CST Brandon Bulldogs 3-0",
+          "subjects": [
+            "Brandon",
+            "Oxford"
+          ]
+        }
+      },
+      {
+        "id": "site-11",
+        "kind": "schedule",
+        "claim": "The Oxford varsity soccer team has an away non-conference match @ Brandon (MS) today @ 5:30p.",
+        "game_indexes": [
+          11
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/brandon-vs-oxford/11-6-2026/?c=992c366e-8beb-46c6-b54e-3aa40c769b70",
+          "excerpt": "The Oxford varsity soccer team has an away non-conference match @ Brandon (MS) today @ 5:30p.",
+          "subjects": [
+            "Brandon",
+            "Oxford"
+          ]
+        }
+      },
+      {
+        "id": "records-12",
+        "kind": "record",
+        "claim": "Sumrall girls enter 5-0; Northwest Rankin girls enter 1-0.",
+        "game_indexes": [
+          12
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/northwest-rankin-brandon-vs-sumrall/11-6-2026/?c=3ae786bc-bd10-4eab-9c75-28b74d6c8b7b",
+          "excerpt": "Sumrall Bobcats 5-0 Friday, Nov 6, 2026 6:45pm CST Northwest Rankin Cougars 1-0",
+          "subjects": [
+            "Northwest Rankin",
+            "Sumrall"
+          ]
+        }
+      },
+      {
+        "id": "site-12",
+        "kind": "schedule",
+        "claim": "The Sumrall varsity soccer team has an away non-conference match @ Northwest Rankin (Brandon, MS) today @ 6:45p.",
+        "game_indexes": [
+          12
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/northwest-rankin-brandon-vs-sumrall/11-6-2026/?c=3ae786bc-bd10-4eab-9c75-28b74d6c8b7b",
+          "excerpt": "The Sumrall varsity soccer team has an away non-conference match @ Northwest Rankin (Brandon, MS) today @ 6:45p.",
+          "subjects": [
+            "Northwest Rankin",
+            "Sumrall"
+          ]
+        }
+      },
+      {
+        "id": "records-13",
+        "kind": "record",
+        "claim": "DeSoto Central girls enter 1-3; Center Hill girls enter 1-0.",
+        "game_indexes": [
+          13
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/center-hill-olive-branch-vs-desoto-central-southaven/11-6-2026/?c=213b8cf2-dd89-42d1-9b53-d7f96aaeda29",
+          "excerpt": "DeSoto Central Jaguars 1-3 Friday, Nov 6, 2026 5:00pm CST Center Hill Mustangs 1-0",
+          "subjects": [
+            "Center Hill",
+            "DeSoto Central"
+          ]
+        }
+      },
+      {
+        "id": "site-13",
+        "kind": "schedule",
+        "claim": "The DeSoto Central varsity soccer team has an away non-conference match @ Center Hill (Olive Branch, MS) today @ 5p.",
+        "game_indexes": [
+          13
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/center-hill-olive-branch-vs-desoto-central-southaven/11-6-2026/?c=213b8cf2-dd89-42d1-9b53-d7f96aaeda29",
+          "excerpt": "The DeSoto Central varsity soccer team has an away non-conference match @ Center Hill (Olive Branch, MS) today @ 5p.",
+          "subjects": [
+            "Center Hill",
+            "DeSoto Central"
+          ]
+        }
+      },
+      {
+        "id": "records-14",
+        "kind": "record",
+        "claim": "DeSoto Central boys enter 1-1-1; Center Hill boys enter 2-0.",
+        "game_indexes": [
+          14
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/center-hill-olive-branch-vs-desoto-central-southaven/11-6-2026/?c=5fa5c8b4-0751-4da9-9e1f-c57df7097c77",
+          "excerpt": "DeSoto Central Jaguars 1-1-1 Friday, Nov 6, 2026 7:00pm CST Center Hill Mustangs 2-0",
+          "subjects": [
+            "Center Hill",
+            "DeSoto Central"
+          ]
+        }
+      },
+      {
+        "id": "site-14",
+        "kind": "schedule",
+        "claim": "The DeSoto Central varsity soccer team has an away non-conference match @ Center Hill (Olive Branch, MS) today @ 7p.",
+        "game_indexes": [
+          14
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/center-hill-olive-branch-vs-desoto-central-southaven/11-6-2026/?c=5fa5c8b4-0751-4da9-9e1f-c57df7097c77",
+          "excerpt": "The DeSoto Central varsity soccer team has an away non-conference match @ Center Hill (Olive Branch, MS) today @ 7p.",
+          "subjects": [
+            "Center Hill",
+            "DeSoto Central"
+          ]
+        }
+      },
+      {
+        "id": "mais-semifinals",
+        "kind": "stakes",
+        "claim": "Madison-Ridgeland Academy vs Hartfield Academy and Jackson Prep vs Jackson Academy are Class 4A Division I semifinals on November 6; their winners meet in the November 13 final.",
+        "game_indexes": [
+          0,
+          1
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/Fu1hP5uZ-UaqBodKIbj8tw/DgipXDVYykO32nyDr83kzw/football-26/2026-mais-high-school-football-playoff-bracket-class-4a--division-i.htm",
+          "excerpt": "Class 4A - Division I) MAXPREPS GOFAN NFHS NETWORK FOLLOW MAXPREPS Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams Tickets Digital Tickets Content Contributors Coaches ... POPULAR SPORTS All sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo SEARCH APPS MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams PRO PHOTOGRAPHY Photo Galleries Explore and purchase photos of your local teams and players WATCH Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools SIGN IN 2026 MAIS High School Football Playoff Bracket Search Tournaments MS Football Playoffs 2026 MS Brackets Stat Leaders Scoreboard Class 4A - Division I Location Various Cities, MS Print Download PDF Add to My Site Oct 30 First Round 1 Madison-Ridgeland Academy Bye 4 Hartfield Academy Bye 2 Jackson Prep Bye 3 Jackson Academy Bye Nov 6 Semifinal Round G5 11/6 @ 7p 1 Madison-Ridgeland Academy 4 Hartfield Academy Watch Live Stream Preview Details G6 11/6 @ 7p 2 Jackson Prep 3 Jackson Academy Tickets Preview Details Nov 13 Final Round Championship G7 11/13 @ 7p Winner G5 Winner G6",
+          "subjects": [
+            "Madison-Ridgeland Academy",
+            "Hartfield Academy",
+            "Jackson Prep",
+            "Jackson Academy"
+          ]
+        }
+      },
+      {
+        "id": "two-a-opener",
+        "kind": "stakes",
+        "claim": "Bruce hosts Eupora in the Class 2A first round on November 6; Bruce is the Region 2 second seed and Eupora the Region 4 third seed.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/7Qe55DhJ3U-Et2Lh98aBLQ/WqsliVo0f0uTTz5BIKBqeA/football-26/2026-football-championships-2a.htm",
+          "excerpt": "2A Location Various Cities, MS When two teams from the same region meet in the football playoffs, the higher seed will always be the home team, no matter what round. Class 1A, 2A, 3A, 4A 1. First and second round – higher seed hosts. 2. Third round – If both teams have played an equal number of home matches the home site will be determined by the highest seeded team. If equally seeded teams play and #2 cannot determine a home site, the HIGHER number of opponent’s region for the season will be the home team. 3. North/South Championships – highest seed hosts. If equally seeded teams, the HIGHER numbered region will host. 4. State Championships North team will be home. Print Download PDF Add to My Site Nov 6 First Round R1#1 Vs. 3#4 G1 11/6 @ 7p Baldwyn Leland Tickets Preview Details R4#2 Vs. 2#3 G2 11/6 @ 7p East Webster Water Valley Watch Live Stream | Tickets Preview Details R3#1 Vs. 1#4 G3 11/6 @ 7p Charleston Hatley Watch Live Stream | Tickets Preview Details R2#2 Vs. 4#3 G4 11/6 @ 7p Bruce Eupora Tickets Preview Details",
+          "subjects": [
+            "Bruce",
+            "Eupora"
+          ]
+        }
+      },
+      {
+        "id": "four-a-path",
+        "kind": "stakes",
+        "claim": "Corinth vs Ripley and Kosciusko vs Itawamba Agricultural are Class 4A first-round games on November 6; the winners are paired in the November 13 second round.",
+        "game_indexes": [
+          3,
+          4
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/7Qe55DhJ3U-Et2Lh98aBLQ/6LZ-gI65Bk2RLnuB92Ndsg/football-26/2026-football-championships-4a.htm",
+          "excerpt": "4A Location Various Cities, MS When two teams from the same region meet in the football playoffs, the higher seed will always be the home team, no matter what round. Class 1A, 2A, 3A, 4A 1. First and second round – higher seed hosts. 2. Third round – If both teams have played an equal number of home matches the home site will be determined by the highest seeded team. If equally seeded teams play and #2 cannot determine a home site, the HIGHER number of opponent’s region for the season will be the home team. 3. North/South Championships – highest seed hosts. If equally seeded teams, the HIGHER numbered region will host. 4. State Championships North team will be home. Print Download PDF Add to My Site Nov 6 First Round R1#1 Vs. 3#4 G1 11/6 @ 7p Corinth Ripley Tickets Preview Details R4#2 Vs. 2#3 G2 11/6 @ 7p Kosciusko Itawamba Agricultural Tickets Preview Details R3#1 Vs. 1#4 G3 11/6 @ 7p Senatobia North Pontotoc Tickets Preview Details R2#2 Vs. 4#3 G4 11/6 @ 7p Houston Greenwood Tickets Preview Details R2#1 Vs. 4#4 G5 11/6 @ 7p Shannon Yazoo City Watch Live Stream | Tickets Preview Details R3#2 Vs. 1#3 G6 11/6 @ 7p Clarksdale Tishomingo County Tickets Preview Details R4#1 Vs. 2#4 G7 11/6 @ 7p Louisville Amory Watch Live Stream | Tickets Preview Details R1#2 Vs. 3#3 G8 11/6 @ 7p New Albany Rosa Fort Tickets Preview Details Nov 13 Second Round G17 11/13 @ 7p Winner G1 Winner G2",
+          "subjects": [
+            "Corinth",
+            "Ripley",
+            "Kosciusko",
+            "Itawamba Agricultural"
+          ]
+        }
+      },
+      {
+        "id": "three-a-openers",
+        "kind": "stakes",
+        "claim": "Kossuth vs Amanda Elzy and O'Bannon vs Alcorn Central are Class 3A first-round games on November 6.",
+        "game_indexes": [
+          5,
+          6
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/7Qe55DhJ3U-Et2Lh98aBLQ/PccbwrQzlEyGdf32V9jWEw/football-26/2026-football-championships-3a.htm",
+          "excerpt": "3A Location Various Cities, MS When two teams from the same region meet in the football playoffs, the higher seed will always be the home team, no matter what round. Class 1A, 2A, 3A, 4A 1. First and second round – higher seed hosts. 2. Third round – If both teams have played an equal number of home matches the home site will be determined by the highest seeded team. If equally seeded teams play and #2 cannot determine a home site, the HIGHER number of opponent’s region for the season will be the home team. 3. North/South Championships – highest seed hosts. If equally seeded teams, the HIGHER numbered region will host. 4. State Championships North team will be home. Print Download PDF Add to My Site Nov 6 First Round R1#1 Vs. 3#4 G1 11/6 @ 7p Booneville Yazoo County Tickets Preview Details R4#2 Vs. 2#3 G2 11/6 @ 7p Noxubee County Coahoma County Tickets Preview Details R3#1 Vs. 1#4 G3 11/6 @ 7p Edwards Belmont Watch Live Stream | Tickets Preview Details R2#2 Vs. 4#3 G4 11/6 @ 7p Independence Choctaw County Tickets Preview Details R2#1 Vs. 4#4 G5 11/6 @ 7p North Panola Aberdeen Watch Live Stream | Tickets Preview Details R3#2 Vs. 1#3 G6 11/6 @ 7p O'Bannon Alcorn Central Tickets Preview Details R4#1 Vs. 2#4 G7 11/6 @ 7p Winona Holly Springs Watch Live Stream | Tickets Preview Details R1#2 Vs. 3#3 G8 11/6 @ 7p Kossuth Amanda Elzy Tickets Preview Details",
+          "subjects": [
+            "Kossuth",
+            "Amanda Elzy",
+            "O'Bannon",
+            "Alcorn Central"
+          ]
+        }
+      },
+      {
+        "id": "one-a-opener",
+        "kind": "stakes",
+        "claim": "Okolona hosts Biggersville in the Class 1A first round on November 6.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/7Qe55DhJ3U-Et2Lh98aBLQ/mey3dYpAQUyE4a6jnTXU4w/football-26/2026-football-championships-1a.htm",
+          "excerpt": "1A Location Various Cities, MS When two teams from the same region meet in the football playoffs, the higher seed will always be the home team, no matter what round. Class 1A, 2A, 3A, 4A 1. First and second round – higher seed hosts. 2. Third round – If both teams have played an equal number of home matches the home site will be determined by the highest seeded team. If equally seeded teams play and #2 cannot determine a home site, the HIGHER number of opponent’s region for the season will be the home team. 3. North/South Championships – highest seed hosts. If equally seeded teams, the HIGHER numbered region will host. 4. State Championships North team will be home. Print Download PDF Add to My Site Nov 6 First Round R1#1 Vs. 3#4 G1 11/6 @ 7p Tupelo Christian Prep West Lowndes Tickets Preview Details R4#2 Vs. 2#3 G2 11/6 @ 7p West Tallahatchie Ashland Watch Live Stream | Tickets Preview Details R3#1 Vs. 1#4 G3 11/6 @ 7p Calhoun City Bye R2#2 Vs. 4#3 G4 11/6 @ 7p Falkner French Camp Academy Tickets Preview Details R2#1 Vs. 4#4 G5 11/6 @ 7p Potts Camp Coffeeville Tickets Preview Details R3#2 Vs. 1#3 G6 11/6 @ 7p Okolona Biggersville Tickets Preview Details",
+          "subjects": [
+            "Okolona",
+            "Biggersville"
+          ]
+        }
+      },
+      {
+        "id": "mra-earlier",
+        "kind": "history",
+        "claim": "Madison-Ridgeland Academy defeated Hartfield Academy 42-21 on September 4, 2026.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/hartfield-academy-flowood-vs-madison-ridgeland-academy/9-4-2026/?c=fa32ad3b-0d1f-4ab6-87d0-5530e8225e1e",
+          "excerpt": "Hartfield Academy vs Madison-Ridgeland Academy | Football | 09/04/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Hartfield Academy Varsity Football @ MRA Hartfield Academy 6-4 Hawks 21 Final 42 Madison-Ridgeland Academy 8-2 Patriots Hartfield Academy Varsity Football @ MRA Game Info On 9/4, the Hartfield Academy varsity football team lost their away conference game against Madison-Ridgeland Academy (Madison, MS) by a score of 42-21.",
+          "subjects": [
+            "Madison-Ridgeland Academy",
+            "Hartfield Academy"
+          ],
+          "date_excerpt": "09/04/2026"
+        },
+        "fact_date": "2026-09-04"
+      },
+      {
+        "id": "prep-earlier",
+        "kind": "history",
+        "claim": "Jackson Prep defeated Jackson Academy 35-24 on October 2, 2026.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/jackson-academy-vs-jackson-prep/10-2-2026/?c=448d94cc-f28d-440d-b7b0-a4d87bed3e0f",
+          "excerpt": "Jackson Academy vs Jackson Prep | Football | 10/02/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Jackson Academy Varsity Football @ Jackson Prep Jackson Academy 8-2 Raiders 24 Final 35 Jackson Prep 10-1 Patriots Jackson Academy Varsity Football @ Jackson Prep Game Info On 10/2, the Jackson Academy varsity football team lost their away conference game against Jackson Prep (Jackson, MS) by a score of 35-24.",
+          "subjects": [
+            "Jackson Prep",
+            "Jackson Academy"
+          ],
+          "date_excerpt": "10/02/2026"
+        },
+        "fact_date": "2026-10-02"
+      },
+      {
+        "id": "starkville-champion",
+        "kind": "history",
+        "claim": "Starkville won the 2026 Boys Class 7A basketball championship on March 6, 2026.",
+        "game_indexes": [
+          10
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://www.misshsaa.com/2026/03/06/starkville-wins-2026-boys-class-7a-basketball-championship/",
+          "excerpt": "The championships of the 2026 MHSAA Basketball Tournament were held on Friday, March 6, 2026. Photo by Keith Warren Starkville wins 2026 Boys Class 7A Basketball Championship March 6, 2026",
+          "subjects": [
+            "Starkville"
+          ],
+          "date_excerpt": "March 6, 2026"
+        },
+        "fact_date": "2026-03-06"
+      },
+      {
+        "id": "alcorn-local-schedule",
+        "kind": "schedule",
+        "claim": "Alcorn County Sports lists Ripley at Corinth, Amanda Elzy at Kossuth, Alcorn Central at O'Bannon and Biggersville at Okolona on November 6 at 7 p.m. Central.",
+        "game_indexes": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://alcornsportsms.com/events/",
+          "excerpt": "November 2026 Fri 6 Boys Football: Alcorn Central at O’Bannon November 6 @ 7:00 pm - 9:00 pm Boys and girls varsity sports for Alcorn County. All times Central.O'Bannon, Greenville, MSStart time: 7:00 pm CST. End time is Fri 6 Boys Football: Biggersville at Okolona November 6 @ 7:00 pm - 9:00 pm Boys and girls varsity sports for Alcorn County. All times Central.Okolona, Okolona, MSStart time: 7:00 pm CST. End time is Fri 6 Boys Football: Ripley at Corinth November 6 @ 7:00 pm - 9:00 pm Boys and girls varsity sports for Alcorn County. All times Central.Corinth, Corinth, MSStart time: 7:00 pm CST. End time is Fri 6 Boys Football: Amanda Elzy at Kossuth November 6 @ 7:00 pm - 9:00 pm Boys and girls varsity sports for Alcorn County. All times Central.Kossuth, Kossuth, MSStart time: 7:00 pm CST. End time is",
+          "subjects": [
+            "Ripley",
+            "Corinth",
+            "Amanda Elzy",
+            "Kossuth",
+            "Alcorn Central",
+            "O'Bannon",
+            "Biggersville",
+            "Okolona"
+          ]
+        }
+      },
+      {
+        "id": "tippah-local-schedule",
+        "kind": "schedule",
+        "claim": "Tippah Sports lists East Union girls at Pine Grove at 6:00 p.m. and the boys at Pine Grove at 7:30 p.m.",
+        "game_indexes": [
+          8,
+          9
+        ],
+        "as_of_date": "2026-11-06",
+        "evidence": {
+          "url": "https://tippahsports.com/tippah-county-sports/tippah-county-sports-happening-today-november-6-2026/",
+          "excerpt": "Basketball: Pine Grove Panthers girls basketball hosts the East Union Urchins at 6:00 p.m. at Pine Grove. The Pine Grove Panthers boys take on East Union at 7:30 p.m., also at home.",
+          "subjects": [
+            "Pine Grove",
+            "East Union"
+          ]
+        }
+      }
+    ]
+  }
+}
