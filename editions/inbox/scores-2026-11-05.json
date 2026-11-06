@@ -1,0 +1,872 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-11-05",
+  "verified_at": "2026-11-06T08:08:49.848301-06:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "basketball",
+    "soccer"
+  ],
+  "games": [
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-05",
+      "home": "Tupelo",
+      "away": "DeSoto Central",
+      "home_score": 38,
+      "away_score": 0,
+      "status": "final",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/desoto-central-southaven-vs-tupelo/11-5-2026/?c=6e0b62ed-d581-433c-8022-4af83ea4d677",
+        "excerpt": "DeSoto Central 7-3 Jaguars 0 Final 38 Tupelo 11-0 Golden Wave DeSoto Central Varsity Football @ Tupelo Streaming & Ticketing Watch Recap Game Info On 11/5, the DeSoto Central varsity football team lost their away conference game against Tupelo (MS) by a score of 38-0. Recap Scoretracker Matchup Roster Boxscore Q1 Q2 Q3 Q4 Final DeSoto Central 0 0 0 0 0 Tupelo 14 21 0 3 38 Final score provided by J. Newell Mississippi High School Football - DeSoto Central trounced by Tupelo Tupelo Golden Wave (Tupelo, MS) followers went home pleased Thursday as they saw their football team triumph over the visiting DeSoto Central Jaguars (Southaven, MS), 38-0 in a league battle. With the win, Tupelo advances its record to 11-0 on the season. The Jaguars now own a 7-3 record. November 5, 2026",
+        "date_excerpt": "November 5, 2026",
+        "home_name": "Tupelo",
+        "away_name": "DeSoto Central"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-05",
+      "home": "Olive Branch",
+      "away": "Lake Cormorant",
+      "home_score": 14,
+      "away_score": 42,
+      "status": "final",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/lake-cormorant-vs-olive-branch/11-5-2026/?c=27b87a3f-40a2-4dd9-b7e7-054e072293ee",
+        "excerpt": "Lake Cormorant 10-0 42 Final 14 Olive Branch 3-8 Conquistadors Lake Cormorant Varsity Football @ Olive Branch Game Info On 11/5, the Lake Cormorant varsity football team won their away conference game against Olive Branch (MS) by a score of 42-14. Recap Scoretracker Matchup Roster Boxscore Q1 Q2 Q3 Q4 Final Lake Cormorant 7 7 14 14 42 Olive Branch 0 0 7 7 14 Final score provided by M. Carpenter Mississippi High School Football - Olive Branch defeated by Lake Cormorant The Lake Cormorant were victorious over the host Olive Branch Conquistadors football team by a score of 42-14 in Thursday's league challenge. November 5, 2026",
+        "date_excerpt": "November 5, 2026",
+        "home_name": "Olive Branch",
+        "away_name": "Lake Cormorant"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-05",
+      "home": "Meridian",
+      "away": "Brandon",
+      "home_score": 40,
+      "away_score": 34,
+      "status": "final",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/brandon-vs-meridian/11-5-2026/?c=1e786406-6135-4655-bfe2-0baeca0b5193",
+        "excerpt": "Brandon vs Meridian | Football | 11/05/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Brandon Varsity Football @ Meridian Brandon 7-3 Bulldogs 34 Final 40 Meridian 7-3 Wildcats",
+        "date_excerpt": "11/05/2026",
+        "home_name": "Meridian",
+        "away_name": "Brandon"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-05",
+      "home": "Starkville",
+      "away": "Oxford",
+      "home_score": 55,
+      "away_score": 28,
+      "status": "final",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/oxford-vs-starkville/11-5-2026/?c=d1865bf5-718b-40de-b499-089a8ff9e5c6",
+        "excerpt": "Oxford vs Starkville | Football | 11/05/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Oxford Varsity Football @ Starkville Oxford 8-2 Chargers 28 Final 55 Starkville 7-3 Yellowjackets",
+        "date_excerpt": "11/05/2026",
+        "home_name": "Starkville",
+        "away_name": "Oxford"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-05",
+      "home": "South Panola",
+      "away": "Center Hill",
+      "home_score": 29,
+      "away_score": 30,
+      "status": "final",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-south-panola-batesville/11-5-2026/?c=1de6c127-bcea-47d4-8fc2-3942ce5ab4bd",
+        "excerpt": "Center Hill 8-2 Mustangs 30 Final 29 South Panola 5-4 Tigers Center Hill Varsity Football @ South Panola Game Info On 11/5, the Center Hill varsity football team won their away conference game against South Panola (Batesville, MS) by a score of 30-29. Recap Scoretracker Matchup Roster Boxscore Q1 Q2 Q3 Q4 Final Center Hill 6 11 0 13 30 South Panola 7 15 0 7 29 Final score provided by K. Farmer Mississippi High School Football - Center Hill sneaks past South Panola In Thursday's league match, the visiting Center Hill Mustangs football squad scored a close 30-29 triumph over the South Panola Tigers. November 5, 2026",
+        "date_excerpt": "November 5, 2026",
+        "home_name": "South Panola",
+        "away_name": "Center Hill"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-05",
+      "home": "Lafayette",
+      "away": "Pontotoc",
+      "home_score": 48,
+      "away_score": 49,
+      "status": "final",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/lafayette-oxford-vs-pontotoc/11-5-2026/?c=8c70c284-d77f-48f7-959f-44a39bf9b23f",
+        "excerpt": "Pontotoc 8-2 Warriors 49 Final 48 Lafayette 8-3 Commodores Pontotoc Varsity Football @ Lafayette Game Info On 11/5, the Pontotoc varsity football team won their away conference game against Lafayette (Oxford, MS) by a score of 49-48. Recap Scoretracker Matchup Roster Boxscore Q1 Q2 Q3 Q4 Final Pontotoc 14 7 7 21 49 Lafayette 0 14 14 20 48 Final score provided by E. Stevens Mississippi High School Football - Lafayette can't hold off Pontotoc Pontotoc Warriors (Pontotoc, MS) followers went home pleased Thursday as they saw their football team nip the host Lafayette Commodores (Oxford, MS), 49-48 in a league battle. With the win, Pontotoc advances its record to 8-2 on the season. The Commodores now own a 8-3 record. November 5, 2026",
+        "date_excerpt": "November 5, 2026",
+        "home_name": "Lafayette",
+        "away_name": "Pontotoc"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-05",
+      "home": "Northwest Rankin",
+      "away": "Petal",
+      "home_score": 45,
+      "away_score": 48,
+      "status": "final",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/northwest-rankin-brandon-vs-petal/11-5-2026/?c=df3e8c32-ac0e-4e5c-b8ff-3535ef30952c",
+        "excerpt": "Petal 9-2 Panthers 48 Final 45 Northwest Rankin 3-7 Cougars Petal Varsity Football @ Northwest Rankin Game Info On 11/5, the Petal varsity football team won their away conference game against Northwest Rankin (Brandon, MS) by a score of 48-45. Recap Scoretracker Matchup Roster Boxscore Q1 Q2 Q3 Q4 OT1 Final Petal 14 0 7 21 6 48 Northwest Rankin 14 13 8 7 3 45 Final score provided by M. Boyles Mississippi High School Football - Petal holds off Northwest Rankin The Petal Panthers (Petal, MS) football tipped the host Northwest Rankin Cougars (Brandon, MS), 48-45 in Thursday's league outing. The Panthers now sport a 9-2 record. With the defeat, Northwest Rankin drops to 3-7 on the campaign. November 5, 2026",
+        "date_excerpt": "November 5, 2026",
+        "home_name": "Northwest Rankin",
+        "away_name": "Petal"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-05",
+      "home": "Southaven",
+      "away": "Hernando",
+      "home_score": 14,
+      "away_score": 31,
+      "status": "final",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/hernando-vs-southaven/11-5-2026/?c=a1b56353-17cc-49cc-bcd3-61d8cdba681c",
+        "excerpt": "Hernando 7-3 Tigers 31 Final 14 Southaven 2-7 Chargers Hernando Varsity Football @ Southaven Game Info On 11/5, the Hernando varsity football team won their away conference game against Southaven (MS) by a score of 31-14. Recap Scoretracker Matchup Roster Boxscore Q1 Q2 Q3 Q4 Final Hernando 14 3 7 7 31 Southaven 0 0 7 7 14 Final score provided by B. Stigler Mississippi High School Football - Hernando beat Southaven The Hernando Tigers (Hernando, MS) football were winner over the host Southaven Chargers (Southaven, MS), 31-14 in Thursday's league outing. The Tigers now sport a 7-3 record. With the defeat, Southaven drops to 2-7 on the campaign. November 5, 2026",
+        "date_excerpt": "November 5, 2026",
+        "home_name": "Southaven",
+        "away_name": "Hernando"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-05",
+      "home": "Horn Lake",
+      "away": "Lewisburg",
+      "home_score": 50,
+      "away_score": 14,
+      "status": "final",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/horn-lake-vs-lewisburg-olive-branch/11-5-2026/?c=a0ea433b-599c-4061-a8bb-91004a81da25",
+        "excerpt": "Lewisburg vs Horn Lake | Football | 11/05/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Lewisburg Varsity Football @ Horn Lake Lewisburg 3-7 Patriots 14 Final 50 Horn Lake 2-8 Eagles",
+        "date_excerpt": "11/05/2026",
+        "home_name": "Horn Lake",
+        "away_name": "Lewisburg"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-05",
+      "home": "Mooreville",
+      "away": "North Pontotoc",
+      "home_score": 54,
+      "away_score": 55,
+      "status": "final",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/mooreville-vs-north-pontotoc-ecru/11-5-2026/?c=4e0090e6-1bef-4f38-990d-31e46f17f811",
+        "excerpt": "North Pontotoc vs Mooreville | Basketball | 11/05/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball North Pontotoc Boys Varsity Basketball @ Mooreville North Pontotoc 2-0 Vikings 55 Final 54 Mooreville 1-1 Troopers",
+        "date_excerpt": "11/05/2026",
+        "home_name": "Mooreville",
+        "away_name": "North Pontotoc"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-05",
+      "home": "Warren Central",
+      "away": "Yazoo City",
+      "home_score": 61,
+      "away_score": 53,
+      "status": "final",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/warren-central-vicksburg-vs-yazoo-city/11-5-2026/?c=3b99f543-3e32-4dbe-8319-8fb787d8995a",
+        "excerpt": "Yazoo City vs Warren Central | Basketball | 11/05/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Yazoo City Boys Varsity Basketball @ Warren Central Yazoo City 1-1 Indians 53 Final 61 Warren Central 4-0 Vikings",
+        "date_excerpt": "11/05/2026",
+        "home_name": "Warren Central",
+        "away_name": "Yazoo City"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-05",
+      "home": "Warren Central",
+      "away": "Yazoo City",
+      "home_score": 42,
+      "away_score": 47,
+      "status": "final",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/warren-central-vicksburg-vs-yazoo-city/11-5-2026/?c=e5f206a9-7a4e-4db0-9d28-c0cb00fde674",
+        "excerpt": "Yazoo City vs Warren Central | Basketball | 11/05/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Yazoo City Girls Varsity Basketball @ Warren Central Yazoo City 2-0 Indians 47 Final 42 Warren Central 2-2 Vikings",
+        "date_excerpt": "11/05/2026",
+        "home_name": "Warren Central",
+        "away_name": "Yazoo City"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-05",
+      "home": "Saltillo",
+      "away": "Itawamba Agricultural",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "final",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/itawamba-agricultural-fulton-vs-saltillo/11-5-2026/?c=0cb62a73-8573-470e-a9aa-f957dd881fb3",
+        "excerpt": "Itawamba Agricultural vs Saltillo | Soccer | 11/05/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer IAHS Girls Varsity Soccer @ Saltillo Itawamba Agricultural 3-1 Indians 1 Final 2 Saltillo 4-0 Tigers",
+        "date_excerpt": "11/05/2026",
+        "home_name": "Saltillo",
+        "away_name": "Itawamba Agricultural"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-05",
+      "home": "West Lauderdale",
+      "away": "Enterprise",
+      "home_score": 2,
+      "away_score": 3,
+      "status": "final",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/enterprise-vs-west-lauderdale-collinsville/11-5-2026/?c=a886d440-1cfd-4e9c-a796-c1bb156d7583",
+        "excerpt": "Enterprise 1-2 Bulldogs 3 Final 2 West Lauderdale 3-2 Knights Enterprise Boys Varsity Soccer @ West Lauderdale Game Info On 11/5, the Enterprise varsity soccer team won their away non-conference match against West Lauderdale (Collinsville, MS) by a score of 3-2. Recap Matchup Roster Boxscore 1 2 Final Enterprise 1 2 3 West Lauderdale 1 1 2 Final score provided by B. Rodgers Mississippi High School Soccer - Enterprise nudges West Lauderdale Fans at Thursday's non-league battle between the Enterprise Bulldogs (Enterprise, MS) and the host West Lauderdale Knights (Collinsville, MS), saw Enterprise's soccer squad hold off West Lauderdale by a count of 3-2. The Bulldogs (1-2) will now prepare for their battle against Clarkdale (Meridian, MS). The Bulldogs enter the non-league battle with a 0-2 record. In their last battle, Clarkdale was edged by West Lauderdale (Collinsville, MS), 2-0, in a non-league battle. Next up, the Knights battle the Clarkdale Bulldogs (Meridian, MS) in a non-league battle, on Saturday, November 7. West Lauderdale will attempt to upgrade on its 3-2 season record. The Bulldogs enter the battle with a 0-2 record after their 2-0 non-league loss to West Lauderdale (Collinsville, MS). November 5, 2026",
+        "date_excerpt": "November 5, 2026",
+        "home_name": "West Lauderdale",
+        "away_name": "Enterprise"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-05",
+      "home": "West Lauderdale",
+      "away": "Enterprise",
+      "home_score": 5,
+      "away_score": 0,
+      "status": "final",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/enterprise-vs-west-lauderdale-collinsville/11-5-2026/?c=c1b383a6-4005-4f5f-a2ac-b16de03ef80f",
+        "excerpt": "Enterprise 2-1 Bulldogs 0 Final 5 West Lauderdale 3-0 Knights Enterprise Girls Varsity Soccer @ West Lauderdale Game Info On 11/5, the Enterprise varsity soccer team lost their away non-conference match against West Lauderdale (Collinsville, MS) by a score of 5-0. Recap Matchup Roster Boxscore 1 2 Final Enterprise 0 0 0 West Lauderdale 4 1 5 Final score provided by A. Boykin Mississippi High School Soccer - Enterprise toppled by West Lauderdale West Lauderdale Knights (Collinsville, MS) backers exited the stadium pleased Thursday as they witnessed their soccer team triumph over the visiting Enterprise Bulldogs (Enterprise, MS), 5-0 in a non-league test. With the triumph, West Lauderdale advances its record to 3-0 on the campaign. The Knights travel to Clarkdale (Meridian, MS) to clash with the Bulldogs in a non-league test on Saturday, November 7. The Bulldogs come into the test with a record of 0-1. Clarkdale lost 2-1 in their recent non-league test against Neshoba Central (Philadelphia, MS) The Bulldogs now have a 2-1 record. They take the field next when they travel to West Lauderdale for a non-league test on Saturday, November 7. Enterprise will clash with a Knights team coming off a 5-0 non-league win over Enterprise (Enterprise, MS). The Knights record now stands at 3-0. November 5, 2026",
+        "date_excerpt": "November 5, 2026",
+        "home_name": "West Lauderdale",
+        "away_name": "Enterprise"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-05",
+      "home": "Hernando",
+      "away": "Olive Branch",
+      "home_score": 3,
+      "away_score": 0,
+      "status": "final",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/hernando-vs-olive-branch/11-5-2026/?c=4fa1b0f0-6d1f-4e1d-8247-c8d5c76df02b",
+        "excerpt": "Olive Branch 1-2 Conquistadors 0 Final 3 Hernando 4-0 Tigers Olive Branch Boys Varsity Soccer @ Hernando Game Info On 11/5, the Olive Branch varsity soccer team lost their away non-conference match against Hernando (MS) by a score of 3-0. Recap Stats Matchup Roster Boxscore 1 2 Final Olive Branch 0 0 0 Hernando 1 2 3 Final score provided by M. Hogan Mississippi High School Soccer - Hernando knocks off Olive Branch The Hernando Tigers soccer squad scored 3 points and held the visiting Olive Branch Conquistadors to 0 in the Tigers non-league victory on Thursday. The Tigers now possess a 4-0 record. They play next when they travel to Gulfport for a non-league bout on Saturday, November 7. Hernando will play a Admirals squad coming off a 3-0 non-league win over St. Patrick (Biloxi, MS). The Admirals record now stands at 2-0. With the loss, Olive Branch moves to 1-2 on the year. The Conquistadors travel to Madison Central (Madison, MS) to play the Jaguars in a non-league bout on Saturday, November 7. The Jaguars go into the bout with a record of 0-0. Madison Central 1-1 in their recent non-league bout against DeSoto Central (Southaven, MS) November 5, 2026",
+        "date_excerpt": "November 5, 2026",
+        "home_name": "Hernando",
+        "away_name": "Olive Branch"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-05",
+      "home": "Hernando",
+      "away": "Olive Branch",
+      "home_score": 7,
+      "away_score": 0,
+      "status": "final",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/hernando-vs-olive-branch/11-5-2026/?c=d1dd86ab-87b4-457c-9eb8-0bc0f702a4fb",
+        "excerpt": "Olive Branch vs Hernando | Soccer | 11/05/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Olive Branch Girls Varsity Soccer @ Hernando Olive Branch 2-1 Conquistadors 0 Final 7 Hernando 3-0-1 Tigers",
+        "date_excerpt": "11/05/2026",
+        "home_name": "Hernando",
+        "away_name": "Olive Branch"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-11-05/",
+      "title": "Thursday Games To Watch: Tupelo and Lake Cormorant"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Scores from last Night: Lake Cormorant finishes perfect; Tupelo shuts out DeSoto Central",
+    "headline_fact_ids": [
+      "game-0",
+      "game-1",
+      "records-0",
+      "records-1",
+      "lake-perfect-season"
+    ],
+    "html": "<p data-facts=\"game-0 game-1 game-2 game-4 game-5 game-6 records-0 records-1 lake-perfect-season\">Lake Cormorant completed a perfect 10-0 regular season, Tupelo reached 11-0 with a shutout, and several football games came down to a single possession Thursday, November 5. The Gators won 42-14 at Olive Branch, while the Golden Wave beat visiting DeSoto Central 38-0.</p>\n<p data-facts=\"game-2 game-3 game-4 game-5 game-6 petal-overtime game-9 game-12 records-12 game-15 records-15 game-16 records-16\">Elsewhere, Meridian defeated Brandon 40-34 and Starkville beat Oxford 55-28. Center Hill and Pontotoc each escaped with one-point road wins, and Petal needed overtime to get past Northwest Rankin. Those finishes led a night that also brought close basketball games and unbeaten starts extended in soccer.</p>\n<h2 data-facts=\"game-0 game-1 lake-perfect-season\">Football: Lake Cormorant finishes perfect; Tupelo adds a shutout</h2>\n<p data-facts=\"game-1 records-1 lake-perfect-season\">Lake Cormorant turned its opportunity for a perfect regular season into a 42-14 win at Olive Branch. The Gators finished 10-0, with the Conquistadors listed at 3-8 after the loss. <a href=\"https://desotocountynews.com/desoto-county-news/desoto-county-football-scores-nov-5/\">DeSoto County News confirms the unbeaten regular-season finish</a>, a concrete milestone before attention shifts to the postseason.</p>\n<p data-facts=\"game-0 game-1 records-0 preview-context\">Tupelo kept DeSoto Central off the scoreboard in a <a href=\"https://www.maxpreps.com/ms/football/game/desoto-central-southaven-vs-tupelo/11-5-2026/?c=6e0b62ed-d581-433c-8022-4af83ea4d677\">38-0 home win</a>. The result left the Golden Wave 11-0 and the Jaguars 7-3. Tupelo and Lake Cormorant were among the teams followed in our <a href=\"https://sportsmississippi.com/sports/sportsms-preview-2026-11-05/\">Thursday Games To Watch preview</a>.</p>\n<h2 data-facts=\"game-2 game-3\">Football: Meridian and Starkville win region matchups</h2>\n<p data-facts=\"game-2 records-2 meridian-fourth\">Meridian beat Brandon 40-34 at home, leaving both teams listed at 7-3. The Wildcats outscored the Bulldogs 14-7 in the fourth quarter of the <a href=\"https://www.maxpreps.com/ms/football/game/brandon-vs-meridian/11-5-2026/?c=1e786406-6135-4655-bfe2-0baeca0b5193\">six-point win</a>.</p>\n<p data-facts=\"game-3 records-3 playoff-pairings\">Starkville defeated visiting Oxford <a href=\"https://www.maxpreps.com/ms/football/game/oxford-vs-starkville/11-5-2026/?c=d1865bf5-718b-40de-b499-089a8ff9e5c6\">55-28</a>. The Yellowjackets moved to 7-3, while the Chargers were listed at 8-2 afterward. Starkville carries that decisive result into the postseason.</p>\n<h2 data-facts=\"game-4 game-5 game-6\">Football: one-point wins and an overtime finish</h2>\n<p data-facts=\"game-4 records-4 center-fourth\">Center Hill edged South Panola <a href=\"https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-south-panola-batesville/11-5-2026/?c=1de6c127-bcea-47d4-8fc2-3942ce5ab4bd\">30-29 in Batesville</a>. The Mustangs outscored the Tigers 13-7 in the fourth quarter to finish 8-2; South Panola was listed at 5-4. The final period supplied the difference in the narrow road victory.</p>\n<p data-facts=\"game-5 records-5 pontotoc-fourth\">Pontotoc won <a href=\"https://www.maxpreps.com/ms/football/game/lafayette-oxford-vs-pontotoc/11-5-2026/?c=8c70c284-d77f-48f7-959f-44a39bf9b23f\">49-48 at Lafayette</a>, moving to 8-2 while the Commodores stood at 8-3. The Warriors scored 21 points in the fourth quarter and Lafayette scored 20, keeping the teams separated by the smallest possible margin at the finish.</p>\n<p data-facts=\"game-6 records-6 petal-overtime\">Petal beat Northwest Rankin <a href=\"https://www.maxpreps.com/ms/football/game/northwest-rankin-brandon-vs-petal/11-5-2026/?c=df3e8c32-ac0e-4e5c-b8ff-3535ef30952c\">48-45 in overtime</a>. The Panthers outscored the Cougars 21-7 in the fourth quarter and 6-3 in the extra period, finishing 9-2. Northwest Rankin was listed at 3-7.</p>\n<h2 data-facts=\"game-7 game-8\">Football: Hernando wins; Horn Lake answers an early deficit</h2>\n<p data-facts=\"game-7 records-7 game-8 records-8 horn-lake-response\">Hernando won <a href=\"https://www.maxpreps.com/ms/football/game/hernando-vs-southaven/11-5-2026/?c=a1b56353-17cc-49cc-bcd3-61d8cdba681c\">31-14 at Southaven</a> to reach 7-3, with the Chargers at 2-7. Horn Lake defeated visiting Lewisburg <a href=\"https://www.maxpreps.com/ms/football/game/horn-lake-vs-lewisburg-olive-branch/11-5-2026/?c=a0ea433b-599c-4061-a8bb-91004a81da25\">50-14</a> after trailing 14-0 at the end of the first quarter. The Eagles scored 50 unanswered points over the remaining quarters and finished 2-8; Lewisburg was listed at 3-7.</p>\n<p data-facts=\"mhsaa-bracket-link playoff-pairings playoff-hosts\">The <a href=\"https://www.misshsaa.com/2026/10/20/2026-class-7a-football-bracket/\">MHSAA Class 7A bracket page</a> links to the <a href=\"https://www.maxpreps.com/tournament/7Qe55DhJ3U-Et2Lh98aBLQ/CNwRYYOM7EO7I6nYYiA5Qw/football-26/2026-football-championships-7a.htm\">posted championship bracket</a>, which lists the first round for November 13. Its pairings and higher-seed hosting rule put Starkville at Tupelo, Horn Lake at Oxford, Brandon at Gulfport, and St. Martin at Meridian.</p>\n<h2 data-facts=\"game-9 game-10 game-11\">Basketball: North Pontotoc wins by one; Yazoo City and Warren Central split</h2>\n<p data-facts=\"game-9 records-9\">North Pontotoc boys held the one-point edge in a <a href=\"https://www.maxpreps.com/ms/basketball/game/mooreville-vs-north-pontotoc-ecru/11-5-2026/?c=4e0090e6-1bef-4f38-990d-31e46f17f811\">55-54 win at Mooreville</a>. The Vikings remained unbeaten at 2-0, while the Troopers were listed at 1-1.</p>\n<p data-facts=\"game-10 records-10 game-11 records-11\">Warren Central boys beat Yazoo City <a href=\"https://www.maxpreps.com/ms/basketball/game/warren-central-vicksburg-vs-yazoo-city/11-5-2026/?c=3b99f543-3e32-4dbe-8319-8fb787d8995a\">61-53 in Vicksburg</a> to reach 4-0; the Indians fell to 1-1. The girls result went the other way: Yazoo City won <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/warren-central-vicksburg-vs-yazoo-city/11-5-2026/?c=e5f206a9-7a4e-4db0-9d28-c0cb00fde674\">47-42</a>, keeping the Indians unbeaten at 2-0 and leaving Warren Central at 2-2.</p>\n<h2 data-facts=\"game-12 game-13 game-14 game-15 game-16\">Soccer: Saltillo stays perfect; Hernando sweeps shutouts</h2>\n<p data-facts=\"game-12 records-12 saltillo-halves\">Saltillo girls won <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/itawamba-agricultural-fulton-vs-saltillo/11-5-2026/?c=0cb62a73-8573-470e-a9aa-f957dd881fb3\">2-1 over Itawamba Agricultural</a>, extending their start to 4-0. The Tigers scored once in each half, while the Indians scored in the second half and finished 3-1. It was the first loss listed for Itawamba Agricultural.</p>\n<p data-facts=\"game-15 records-15 game-16 records-16\">Hernando kept Olive Branch off the scoreboard in both soccer games. The boys won <a href=\"https://www.maxpreps.com/ms/soccer/match/hernando-vs-olive-branch/11-5-2026/?c=4fa1b0f0-6d1f-4e1d-8247-c8d5c76df02b\">3-0</a> and were listed at 4-0, with Olive Branch at 1-2. The girls won <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/hernando-vs-olive-branch/11-5-2026/?c=d1dd86ab-87b4-457c-9eb8-0bc0f702a4fb\">7-0</a>, leaving Hernando unbeaten at 3-0-1 and Olive Branch at 2-1.</p>\n<p data-facts=\"game-13 records-13 game-14 records-14 west-lauderdale-halves\">Enterprise and West Lauderdale split in Collinsville. Enterprise boys won <a href=\"https://www.maxpreps.com/ms/soccer/match/enterprise-vs-west-lauderdale-collinsville/11-5-2026/?c=a886d440-1cfd-4e9c-a796-c1bb156d7583\">3-2</a> and were listed at 1-2, while the Knights stood at 3-2. West Lauderdale girls won <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/enterprise-vs-west-lauderdale-collinsville/11-5-2026/?c=c1b383a6-4005-4f5f-a2ac-b16de03ef80f\">5-0</a>, scoring four goals before halftime and one afterward to reach 3-0; Enterprise was listed at 2-1.</p>",
+    "facts": [
+      {
+        "id": "records-0",
+        "kind": "record",
+        "claim": "After the football game, DeSoto Central boys are listed at 7-3 and Tupelo boys at 11-0.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/desoto-central-southaven-vs-tupelo/11-5-2026/?c=6e0b62ed-d581-433c-8022-4af83ea4d677",
+          "excerpt": "DeSoto Central 7-3 Jaguars 0 Final 38 Tupelo 11-0 Golden Wave",
+          "subjects": [
+            "Tupelo",
+            "DeSoto Central"
+          ]
+        }
+      },
+      {
+        "id": "records-1",
+        "kind": "record",
+        "claim": "After the football game, Lake Cormorant boys are listed at 10-0 and Olive Branch boys at 3-8.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/lake-cormorant-vs-olive-branch/11-5-2026/?c=27b87a3f-40a2-4dd9-b7e7-054e072293ee",
+          "excerpt": "Lake Cormorant 10-0 42 Final 14 Olive Branch 3-8 Conquistadors",
+          "subjects": [
+            "Olive Branch",
+            "Lake Cormorant"
+          ]
+        }
+      },
+      {
+        "id": "records-2",
+        "kind": "record",
+        "claim": "After the football game, Brandon boys are listed at 7-3 and Meridian boys at 7-3.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/brandon-vs-meridian/11-5-2026/?c=1e786406-6135-4655-bfe2-0baeca0b5193",
+          "excerpt": "Brandon 7-3 Bulldogs 34 Final 40 Meridian 7-3 Wildcats",
+          "subjects": [
+            "Meridian",
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "records-3",
+        "kind": "record",
+        "claim": "After the football game, Oxford boys are listed at 8-2 and Starkville boys at 7-3.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/oxford-vs-starkville/11-5-2026/?c=d1865bf5-718b-40de-b499-089a8ff9e5c6",
+          "excerpt": "Oxford 8-2 Chargers 28 Final 55 Starkville 7-3 Yellowjackets",
+          "subjects": [
+            "Starkville",
+            "Oxford"
+          ]
+        }
+      },
+      {
+        "id": "records-4",
+        "kind": "record",
+        "claim": "After the football game, Center Hill boys are listed at 8-2 and South Panola boys at 5-4.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-south-panola-batesville/11-5-2026/?c=1de6c127-bcea-47d4-8fc2-3942ce5ab4bd",
+          "excerpt": "Center Hill 8-2 Mustangs 30 Final 29 South Panola 5-4 Tigers",
+          "subjects": [
+            "South Panola",
+            "Center Hill"
+          ]
+        }
+      },
+      {
+        "id": "records-5",
+        "kind": "record",
+        "claim": "After the football game, Pontotoc boys are listed at 8-2 and Lafayette boys at 8-3.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/lafayette-oxford-vs-pontotoc/11-5-2026/?c=8c70c284-d77f-48f7-959f-44a39bf9b23f",
+          "excerpt": "Pontotoc 8-2 Warriors 49 Final 48 Lafayette 8-3 Commodores",
+          "subjects": [
+            "Lafayette",
+            "Pontotoc"
+          ]
+        }
+      },
+      {
+        "id": "records-6",
+        "kind": "record",
+        "claim": "After the football game, Petal boys are listed at 9-2 and Northwest Rankin boys at 3-7.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/northwest-rankin-brandon-vs-petal/11-5-2026/?c=df3e8c32-ac0e-4e5c-b8ff-3535ef30952c",
+          "excerpt": "Petal 9-2 Panthers 48 Final 45 Northwest Rankin 3-7 Cougars",
+          "subjects": [
+            "Northwest Rankin",
+            "Petal"
+          ]
+        }
+      },
+      {
+        "id": "records-7",
+        "kind": "record",
+        "claim": "After the football game, Hernando boys are listed at 7-3 and Southaven boys at 2-7.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/hernando-vs-southaven/11-5-2026/?c=a1b56353-17cc-49cc-bcd3-61d8cdba681c",
+          "excerpt": "Hernando 7-3 Tigers 31 Final 14 Southaven 2-7 Chargers",
+          "subjects": [
+            "Southaven",
+            "Hernando"
+          ]
+        }
+      },
+      {
+        "id": "records-8",
+        "kind": "record",
+        "claim": "After the football game, Lewisburg boys are listed at 3-7 and Horn Lake boys at 2-8.",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/horn-lake-vs-lewisburg-olive-branch/11-5-2026/?c=a0ea433b-599c-4061-a8bb-91004a81da25",
+          "excerpt": "Lewisburg 3-7 Patriots 14 Final 50 Horn Lake 2-8 Eagles",
+          "subjects": [
+            "Horn Lake",
+            "Lewisburg"
+          ]
+        }
+      },
+      {
+        "id": "records-9",
+        "kind": "record",
+        "claim": "After the basketball game, North Pontotoc boys are listed at 2-0 and Mooreville boys at 1-1.",
+        "game_indexes": [
+          9
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/mooreville-vs-north-pontotoc-ecru/11-5-2026/?c=4e0090e6-1bef-4f38-990d-31e46f17f811",
+          "excerpt": "North Pontotoc 2-0 Vikings 55 Final 54 Mooreville 1-1 Troopers",
+          "subjects": [
+            "Mooreville",
+            "North Pontotoc"
+          ]
+        }
+      },
+      {
+        "id": "records-10",
+        "kind": "record",
+        "claim": "After the basketball game, Yazoo City boys are listed at 1-1 and Warren Central boys at 4-0.",
+        "game_indexes": [
+          10
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/warren-central-vicksburg-vs-yazoo-city/11-5-2026/?c=3b99f543-3e32-4dbe-8319-8fb787d8995a",
+          "excerpt": "Yazoo City 1-1 Indians 53 Final 61 Warren Central 4-0 Vikings",
+          "subjects": [
+            "Warren Central",
+            "Yazoo City"
+          ]
+        }
+      },
+      {
+        "id": "records-11",
+        "kind": "record",
+        "claim": "After the basketball game, Yazoo City girls are listed at 2-0 and Warren Central girls at 2-2.",
+        "game_indexes": [
+          11
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/warren-central-vicksburg-vs-yazoo-city/11-5-2026/?c=e5f206a9-7a4e-4db0-9d28-c0cb00fde674",
+          "excerpt": "Yazoo City 2-0 Indians 47 Final 42 Warren Central 2-2 Vikings",
+          "subjects": [
+            "Warren Central",
+            "Yazoo City"
+          ]
+        }
+      },
+      {
+        "id": "records-12",
+        "kind": "record",
+        "claim": "After the soccer game, Itawamba Agricultural girls are listed at 3-1 and Saltillo girls at 4-0.",
+        "game_indexes": [
+          12
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/itawamba-agricultural-fulton-vs-saltillo/11-5-2026/?c=0cb62a73-8573-470e-a9aa-f957dd881fb3",
+          "excerpt": "Itawamba Agricultural 3-1 Indians 1 Final 2 Saltillo 4-0 Tigers",
+          "subjects": [
+            "Saltillo",
+            "Itawamba Agricultural"
+          ]
+        }
+      },
+      {
+        "id": "records-13",
+        "kind": "record",
+        "claim": "After the soccer game, Enterprise boys are listed at 1-2 and West Lauderdale boys at 3-2.",
+        "game_indexes": [
+          13
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/enterprise-vs-west-lauderdale-collinsville/11-5-2026/?c=a886d440-1cfd-4e9c-a796-c1bb156d7583",
+          "excerpt": "Enterprise 1-2 Bulldogs 3 Final 2 West Lauderdale 3-2 Knights",
+          "subjects": [
+            "West Lauderdale",
+            "Enterprise"
+          ]
+        }
+      },
+      {
+        "id": "records-14",
+        "kind": "record",
+        "claim": "After the soccer game, Enterprise girls are listed at 2-1 and West Lauderdale girls at 3-0.",
+        "game_indexes": [
+          14
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/enterprise-vs-west-lauderdale-collinsville/11-5-2026/?c=c1b383a6-4005-4f5f-a2ac-b16de03ef80f",
+          "excerpt": "Enterprise 2-1 Bulldogs 0 Final 5 West Lauderdale 3-0 Knights",
+          "subjects": [
+            "West Lauderdale",
+            "Enterprise"
+          ]
+        }
+      },
+      {
+        "id": "records-15",
+        "kind": "record",
+        "claim": "After the soccer game, Olive Branch boys are listed at 1-2 and Hernando boys at 4-0.",
+        "game_indexes": [
+          15
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/hernando-vs-olive-branch/11-5-2026/?c=4fa1b0f0-6d1f-4e1d-8247-c8d5c76df02b",
+          "excerpt": "Olive Branch 1-2 Conquistadors 0 Final 3 Hernando 4-0 Tigers",
+          "subjects": [
+            "Hernando",
+            "Olive Branch"
+          ]
+        }
+      },
+      {
+        "id": "records-16",
+        "kind": "record",
+        "claim": "After the soccer game, Olive Branch girls are listed at 2-1 and Hernando girls at 3-0-1.",
+        "game_indexes": [
+          16
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/hernando-vs-olive-branch/11-5-2026/?c=d1dd86ab-87b4-457c-9eb8-0bc0f702a4fb",
+          "excerpt": "Olive Branch 2-1 Conquistadors 0 Final 7 Hernando 3-0-1 Tigers",
+          "subjects": [
+            "Hernando",
+            "Olive Branch"
+          ]
+        }
+      },
+      {
+        "id": "lake-perfect-season",
+        "kind": "stakes",
+        "claim": "Lake Cormorant beat Olive Branch 42-14 on November 5 to complete a perfect 10-0 regular season.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://desotocountynews.com/desoto-county-news/desoto-county-football-scores-nov-5/",
+          "excerpt": "The Gators beat Olive Branch 42-14 on the road on Nov. 5 to finish the regular season a perfect 10-0.",
+          "subjects": [
+            "Olive Branch"
+          ]
+        }
+      },
+      {
+        "id": "center-fourth",
+        "kind": "result",
+        "claim": "Center Hill outscored South Panola 13-7 in the fourth quarter of the 30-29 win.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/center-hill-olive-branch-vs-south-panola-batesville/11-5-2026/?c=1de6c127-bcea-47d4-8fc2-3942ce5ab4bd",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Center Hill 6 11 0 13 30 South Panola 7 15 0 7 29",
+          "subjects": [
+            "Center Hill",
+            "South Panola"
+          ]
+        }
+      },
+      {
+        "id": "pontotoc-fourth",
+        "kind": "result",
+        "claim": "Pontotoc scored 21 fourth-quarter points and Lafayette scored 20 in the 49-48 game.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/lafayette-oxford-vs-pontotoc/11-5-2026/?c=8c70c284-d77f-48f7-959f-44a39bf9b23f",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Pontotoc 14 7 7 21 49 Lafayette 0 14 14 20 48",
+          "subjects": [
+            "Pontotoc",
+            "Lafayette"
+          ]
+        }
+      },
+      {
+        "id": "petal-overtime",
+        "kind": "result",
+        "claim": "Petal outscored Northwest Rankin 21-7 in the fourth quarter and 6-3 in overtime to win 48-45.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/northwest-rankin-brandon-vs-petal/11-5-2026/?c=df3e8c32-ac0e-4e5c-b8ff-3535ef30952c",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 OT1 Final Petal 14 0 7 21 6 48 Northwest Rankin 14 13 8 7 3 45",
+          "subjects": [
+            "Petal",
+            "Northwest Rankin"
+          ]
+        }
+      },
+      {
+        "id": "meridian-fourth",
+        "kind": "result",
+        "claim": "Meridian outscored Brandon 14-7 in the fourth quarter of the 40-34 win.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/brandon-vs-meridian/11-5-2026/?c=1e786406-6135-4655-bfe2-0baeca0b5193",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Brandon 7 13 7 7 34 Meridian 7 19 0 14 40",
+          "subjects": [
+            "Meridian",
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "horn-lake-response",
+        "kind": "result",
+        "claim": "Lewisburg led 14-0 after the first quarter; Horn Lake then scored 50 unanswered points, with Lewisburg scoreless in the remaining quarters.",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/horn-lake-vs-lewisburg-olive-branch/11-5-2026/?c=a0ea433b-599c-4061-a8bb-91004a81da25",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Lewisburg 14 0 0 0 14 Horn Lake 0 14 13 23 50",
+          "subjects": [
+            "Lewisburg",
+            "Horn Lake"
+          ]
+        }
+      },
+      {
+        "id": "saltillo-halves",
+        "kind": "result",
+        "claim": "Saltillo scored once in each half; Itawamba Agricultural scored its goal in the second half of the 2-1 match.",
+        "game_indexes": [
+          12
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/itawamba-agricultural-fulton-vs-saltillo/11-5-2026/?c=0cb62a73-8573-470e-a9aa-f957dd881fb3",
+          "excerpt": "Boxscore 1 2 Final Itawamba Agricultural 0 1 1 Saltillo 1 1 2",
+          "subjects": [
+            "Saltillo",
+            "Itawamba Agricultural"
+          ]
+        }
+      },
+      {
+        "id": "west-lauderdale-halves",
+        "kind": "result",
+        "claim": "West Lauderdale girls scored 4 goals in the first half and 1 in the second in the 5-0 win over Enterprise.",
+        "game_indexes": [
+          14
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/enterprise-vs-west-lauderdale-collinsville/11-5-2026/?c=c1b383a6-4005-4f5f-a2ac-b16de03ef80f",
+          "excerpt": "Boxscore 1 2 Final Enterprise 0 0 0 West Lauderdale 4 1 5",
+          "subjects": [
+            "West Lauderdale",
+            "Enterprise"
+          ]
+        }
+      },
+      {
+        "id": "mhsaa-bracket-link",
+        "kind": "context",
+        "claim": "MHSAA links its 2026 Class 7A Football Bracket page to the 2026 Football Championships 7A bracket.",
+        "game_indexes": [
+          0,
+          2,
+          3,
+          8
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.misshsaa.com/2026/10/20/2026-class-7a-football-bracket/",
+          "excerpt": "2026 Class 7A Football Bracket – Mississippi High School Activities Association Friday , November 6 2026 Open Dates Jobs Regions Rules Brackets Scores Championships Rewind Mississippi High School Activities Association The place for high school sports in Mississippi Sports Archery Archery Championships Baseball Baseball Brackets Baseball Championships Baseball Open Dates Basketball Basketball Brackets Basketball Championships Basketball Open Dates Basketball tournament results Basketball Rules Bowling Bowling Championships Cross Country Cross Country Championships Fast Pitch Softball Fast Pitch Brackets Fast Pitch Championships Fast Pitch Open Dates Flag Football Football Football Brackets Past Football Champions Football Championships Football Open Dates Football rules Mr. Football 2020 Football Box Scores 2018 Football Championship Results 2017 Football Championship Results 2016 Football Championship Results Golf Golf Championships Powerlifting Powerlifting Championships Soccer Soccer Brackets Soccer Championships Soccer Open Dates Swimming Swim Championships Tennis Tennis Brackets Tennis Championships Individual Bracket Track & Field Track Open Dates Track Championships Volleyball Volleyball Brackets Volleyball Championships Volleyball Open Dates Volleyball Rules Wrestling Activities Band Cheer & Dance Cheer Championship Choral Esports Speech & Debate Health & Safety Schools Help MHSAA Web Calendar 2026 Paraprofessional Procedure Clear Bag Policies MHSAA School Directory 2025 MHSAA Activity Districts Requirements Forms Jobs Search Open Dates Reclassification School Web Sites Tourament Drawings Rules General News & Announcements Championships MHSAA Championship Merchandise Past Champions Lodging Playoff Setup Clinics COVID-19 Drones Lindy Callahan Mississippi Leaders In Training Media Suggested PA announcer remarks Photos SmugMug Officials State Officials of the Year 2022-23 Officials Handbook DragonFly Officials Insurance Claim Form Officials Application Say Yes to Officiating About About the MHSAA Contact Us Place job announcement Place Open Date request MHSAA Executive Committee District Secretaries Legislative Council MHSAA Staff Sponsors MAAA MAAA Hall Of Fame MAAA Forms Merchandise Tickets Awards C Spire Outstanding Player Awards Home / Brackets / 2026 Class 7A Football Bracket 2026 Class 7A Football Bracket 2 weeks ago Brackets , Football Brackets 3,869 Views 2026 Football Championships 7A",
+          "subjects": [
+            "7A"
+          ]
+        }
+      },
+      {
+        "id": "playoff-pairings",
+        "kind": "schedule",
+        "claim": "The Class 7A first round on November 13 pairs Starkville with Tupelo, Horn Lake with Oxford, Brandon with Gulfport, and St. Martin with Meridian.",
+        "game_indexes": [
+          0,
+          2,
+          3,
+          8
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/7Qe55DhJ3U-Et2Lh98aBLQ/CNwRYYOM7EO7I6nYYiA5Qw/football-26/2026-football-championships-7a.htm",
+          "excerpt": "Nov 13 First Round R1#1 Vs. 2#4 G1 11/13 @ 7p Tupelo Starkville 1st Round Playoffs Preview Details R2#2 Vs. 1#3 G2 11/13 @ 7p Madison Central Hernando 1st Round Playoffs Preview Details R2#1 Vs. 1#4 G3 11/13 @ 7p Oxford Horn Lake 1st Round Playoffs Preview Details R1#2 Vs. 2#3 G4 11/13 @ 7p DeSoto Central Germantown 1st Round Playoffs Preview Details R3#1 Vs. 4#4 G5 11/13 @ 7p Oak Grove Biloxi 1st Round Playoffs Preview Details R4#2 Vs. 3#3 G6 11/13 @ 7p D'Iberville Petal 1st Round Playoffs Preview Details R4#1 Vs. 3#4 G7 11/13 @ 7p Gulfport Brandon Preview Details R3#2 Vs. 4#3 G8 11/13 @ 7p Meridian St. Martin 1st Round Playoffs",
+          "subjects": [
+            "Tupelo",
+            "Starkville",
+            "Oxford",
+            "Horn Lake",
+            "Brandon",
+            "Gulfport",
+            "Meridian",
+            "St. Martin"
+          ]
+        }
+      },
+      {
+        "id": "playoff-hosts",
+        "kind": "context",
+        "claim": "In the Class 7A first round the higher seed hosts; the bracket labels Tupelo R1#1 against Starkville R2#4, Oxford R2#1 against Horn Lake R1#4, Gulfport R4#1 against Brandon R3#4, and Meridian R3#2 against St. Martin R4#3.",
+        "game_indexes": [
+          0,
+          2,
+          3,
+          8
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/7Qe55DhJ3U-Et2Lh98aBLQ/CNwRYYOM7EO7I6nYYiA5Qw/football-26/2026-football-championships-7a.htm",
+          "excerpt": "Class 5A, 6A & 7A 1. First round – higher seed hosts. 2. Second round – If both teams have played an equal number of home matches the home site will be determined by the highest seeded team. If equally seeded teams play and #2 cannot determine a home site, the HIGHER number of opponent’s region for the season will be the home team. 3. North/South Championships – highest seed hosts. If equally seeded teams, the HIGHER numbered region will host. 4. State Championships North team will be home. Print Download PDF Add to My Site Nov 13 First Round R1#1 Vs. 2#4 G1 11/13 @ 7p Tupelo Starkville 1st Round Playoffs Preview Details R2#2 Vs. 1#3 G2 11/13 @ 7p Madison Central Hernando 1st Round Playoffs Preview Details R2#1 Vs. 1#4 G3 11/13 @ 7p Oxford Horn Lake 1st Round Playoffs Preview Details R1#2 Vs. 2#3 G4 11/13 @ 7p DeSoto Central Germantown 1st Round Playoffs Preview Details R3#1 Vs. 4#4 G5 11/13 @ 7p Oak Grove Biloxi 1st Round Playoffs Preview Details R4#2 Vs. 3#3 G6 11/13 @ 7p D'Iberville Petal 1st Round Playoffs Preview Details R4#1 Vs. 3#4 G7 11/13 @ 7p Gulfport Brandon Preview Details R3#2 Vs. 4#3 G8 11/13 @ 7p Meridian St. Martin 1st Round Playoffs",
+          "subjects": [
+            "Tupelo",
+            "Starkville",
+            "Oxford",
+            "Horn Lake",
+            "Brandon",
+            "Gulfport",
+            "Meridian",
+            "St. Martin"
+          ]
+        }
+      },
+      {
+        "id": "preview-context",
+        "kind": "context",
+        "claim": "The Thursday Games To Watch preview covered Tupelo hosting DeSoto Central and Lake Cormorant visiting Olive Branch.",
+        "game_indexes": [
+          0,
+          1
+        ],
+        "as_of_date": "2026-11-05",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-11-05/",
+          "excerpt": "Unbeaten football teams carry the late-season stakes into Thursday, November 5: Tupelo hosts DeSoto Central, while Lake Cormorant visits Olive Branch with a perfect regular season within reach. Both kickoffs are scheduled for 7 p.m. Central, with the Golden Wave at 10-0 and the Gators at 9-0.",
+          "subjects": [
+            "Tupelo",
+            "DeSoto Central",
+            "Lake Cormorant",
+            "Olive Branch"
+          ]
+        }
+      }
+    ]
+  }
+}
