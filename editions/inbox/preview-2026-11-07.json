@@ -1,0 +1,640 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-11-07",
+  "verified_at": "2026-11-07T15:18:22.754710-06:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "basketball",
+    "soccer"
+  ],
+  "games": [
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-07",
+      "home": "Pine Belt",
+      "away": "Meridian HomeSchool",
+      "status": "scheduled",
+      "start_time": "2026-11-07T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/meridian-homeschool-vs-pine-belt-hattiesburg/11-7-2026/?c=7782c480-cd1c-4b35-b8d1-cfe0bd38d83b",
+        "excerpt": "Meridian HomeSchool vs Pine Belt | Football | 11/07/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Meridian HomeSchool Varsity Football @ Pine Belt Meridian HomeSchool FLYERS 4-6 Saturday, Nov 7, 2026 7:00pm CST Pine Belt Spartans 9-1 Meridian HomeSchool Varsity Football @ Pine Belt Game Info The Meridian HomeSchool varsity football team has an away playoff game @ Pine Belt (Hattiesburg, MS) today @ 7p.",
+        "date_excerpt": "11/07/2026",
+        "time_excerpt": "7:00pm CST",
+        "home_name": "Pine Belt",
+        "away_name": "Meridian HomeSchool"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-07",
+      "home": "Calhoun City",
+      "away": "Blue Mountain",
+      "status": "scheduled",
+      "start_time": "2026-11-07T17:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/blue-mountain-vs-calhoun-city/11-7-2026/?c=37ab6336-1e2b-406d-b43a-308b9fe8ca46",
+        "excerpt": "Blue Mountain vs Calhoun City | Basketball | 11/07/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Blue Mountain Boys Varsity Basketball @ Calhoun City Blue Mountain Cougars 1-0 Saturday, Nov 7, 2026 5:00pm CST Calhoun City Wildcats 0-1 Blue Mountain Boys Varsity Basketball @ Calhoun City Streaming & Ticketing Purchase Tickets Game Info The Blue Mountain varsity basketball team has an away non-conference game @ Calhoun City (MS) today @ 5p.",
+        "date_excerpt": "11/07/2026",
+        "time_excerpt": "5:00pm CST",
+        "home_name": "Calhoun City",
+        "away_name": "Blue Mountain"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-07",
+      "home": "Madison Central",
+      "away": "Meridian",
+      "status": "scheduled",
+      "start_time": "2026-11-07T17:40:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/madison-central-vs-meridian/11-7-2026/?c=84a4df92-b256-4e83-a247-e90be983669b",
+        "excerpt": "Meridian vs Madison Central | Basketball | 11/07/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Meridian Girls Varsity Basketball @ Madison Central Meridian Wildcats 2-0 Saturday, Nov 7, 2026 5:40pm CST Madison Central Jaguars 1-0 Meridian Girls Varsity Basketball @ Madison Central Game Info The Meridian varsity basketball team has an away non-conference game @ Madison Central (Madison, MS) today @ 5:40p.",
+        "date_excerpt": "11/07/2026",
+        "time_excerpt": "5:40pm CST",
+        "home_name": "Madison Central",
+        "away_name": "Meridian"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-07",
+      "home": "Oak Grove",
+      "away": "Neshoba Central",
+      "status": "scheduled",
+      "start_time": "2026-11-07T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/neshoba-central-philadelphia-vs-oak-grove-hattiesburg/11-7-2026/?c=dcd6b37d-3d78-4e19-910f-d2e17ce5346d",
+        "excerpt": "Neshoba Central vs Oak Grove | Basketball | 11/07/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Neshoba Central Girls Varsity Basketball @ Oak Grove Neshoba Central Rockets 1-0 Saturday, Nov 7, 2026 6:00pm CST Oak Grove Warriors 2-0 Neshoba Central Girls Varsity Basketball @ Oak Grove Game Info The Neshoba Central varsity basketball team has an away non-conference game @ Oak Grove (Hattiesburg, MS) today @ 6p.",
+        "date_excerpt": "11/07/2026",
+        "time_excerpt": "6:00pm CST",
+        "home_name": "Oak Grove",
+        "away_name": "Neshoba Central"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-07",
+      "home": "Ocean Springs",
+      "away": "Picayune",
+      "status": "scheduled",
+      "start_time": "2026-11-07T17:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/ocean-springs-vs-picayune/11-7-2026/?c=aaec1c97-2657-46d6-9eca-b8949056a679",
+        "excerpt": "Picayune vs Ocean Springs | Basketball | 11/07/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Picayune Boys Varsity Basketball @ Ocean Springs Picayune Maroon Tide 1-0 Saturday, Nov 7, 2026 5:00pm CST Ocean Springs Greyhounds 1-0 Picayune Boys Varsity Basketball @ Ocean Springs Streaming & Ticketing Purchase Tickets Game Info The Picayune varsity basketball team has an away non-conference game @ Ocean Springs (MS) today @ 5p.",
+        "date_excerpt": "11/07/2026",
+        "time_excerpt": "5:00pm CST",
+        "home_name": "Ocean Springs",
+        "away_name": "Picayune"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-07",
+      "home": "Raymond",
+      "away": "Laurel",
+      "status": "scheduled",
+      "start_time": "2026-11-07T19:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/laurel-vs-raymond/11-7-2026/?c=c3afc26c-3791-49ed-8353-2893616366fd",
+        "excerpt": "Laurel vs Raymond | Basketball | 11/07/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Laurel Boys Varsity Basketball @ Raymond Laurel Tornadoes 1-0 Saturday, Nov 7, 2026 7:30pm CST Raymond Rangers 3-0 Laurel Boys Varsity Basketball @ Raymond Game Info The Laurel varsity basketball team has an away non-conference game @ Raymond (MS) today @ 7:30p.",
+        "date_excerpt": "11/07/2026",
+        "time_excerpt": "7:30pm CST",
+        "home_name": "Raymond",
+        "away_name": "Laurel"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-07",
+      "home": "Starkville",
+      "away": "Callaway",
+      "status": "scheduled",
+      "start_time": "2026-11-07T19:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/callaway-jackson-vs-starkville/11-7-2026/?c=7400322c-110b-486b-8043-0a5a46b07cd7",
+        "excerpt": "Callaway vs Starkville | Basketball | 11/07/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Callaway Boys Varsity Basketball @ Starkville Callaway Chargers 1-1 Saturday, Nov 7, 2026 7:30pm CST Starkville Yellowjackets 0-1 Callaway Boys Varsity Basketball @ Starkville Game Info The Callaway varsity basketball team has an away non-conference game @ Starkville (MS) today @ 7:30p.",
+        "date_excerpt": "11/07/2026",
+        "time_excerpt": "7:30pm CST",
+        "home_name": "Starkville",
+        "away_name": "Callaway"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-07",
+      "home": "Olive Branch",
+      "away": "Cleveland Central",
+      "status": "scheduled",
+      "start_time": "2026-11-07T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/cleveland-central-vs-olive-branch/11-7-2026/?c=b39ee84a-ebc6-4705-8af2-3064d98443c7",
+        "excerpt": "Cleveland Central vs Olive Branch | Basketball | 11/07/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Cleveland Central Boys Varsity Basketball @ Olive Branch Cleveland Central Wolves 0-0 Saturday, Nov 7, 2026 6:00pm CST Olive Branch Conquistadors 0-0 Cleveland Central Boys Varsity Basketball @ Olive Branch Streaming & Ticketing Purchase Tickets Game Info The Cleveland Central varsity basketball team has an away non-conference game @ Olive Branch (MS) today @ 6p.",
+        "date_excerpt": "11/07/2026",
+        "time_excerpt": "6:00pm CST",
+        "home_name": "Olive Branch",
+        "away_name": "Cleveland Central"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-06/",
+      "title": "Scores from last Night: November 6 finals"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: Pine Belt hosts division title game; unbeaten starts meet on court",
+    "headline_fact_ids": [
+      "game-0",
+      "south-division-title",
+      "game-2",
+      "records-2",
+      "game-3",
+      "records-3",
+      "game-4",
+      "records-4",
+      "game-5",
+      "records-5"
+    ],
+    "html": "<p data-facts=\"game-0 records-0 south-division-title eight-man game-2 records-2 game-3 records-3 game-4 records-4 game-5 records-5 game-1 game-6 game-7\">Pine Belt and Meridian HomeSchool play for a division title Saturday, November 7, while the evening basketball schedule brings several meetings between teams with unbeaten starts. The football game is listed for 7 p.m. Central; the selected basketball games begin at 5 p.m. or later.</p>\n<h2 data-facts=\"game-0 south-division-title eight-man\">Football: South Division championship at Pine Belt</h2>\n<p data-facts=\"game-0 records-0 site-0 south-division-title eight-man pine-district\">Pine Belt hosts Meridian HomeSchool at 7 p.m. in a game the <a href=\"https://www.maxpreps.com/ms/football/game/meridian-homeschool-vs-pine-belt-hattiesburg/11-7-2026/?c=7782c480-cd1c-4b35-b8d1-cfe0bd38d83b\">varsity listing</a> identifies as the MSCAA South Division Championship. The Spartans enter 9-1 overall, with an <a href=\"https://www.maxpreps.com/ms/hattiesburg/pine-belt-spartans/football/\">8-0 district mark</a>, against a Meridian HomeSchool team listed at 4-6. It is an eight-man football playoff matchup with a stated division championship at stake.</p>\n<h2 data-facts=\"game-1 site-1 blue-road-confirmation\">Boys basketball: Blue Mountain travels to Calhoun City</h2>\n<p data-facts=\"game-1 site-1 records-1 blue-road-confirmation blue-last-final blue-record-gap\">Blue Mountain visits Calhoun City at 5 p.m., as the <a href=\"https://www.maxpreps.com/ms/basketball/game/blue-mountain-vs-calhoun-city/11-7-2026/?c=37ab6336-1e2b-406d-b43a-308b9fe8ca46\">game page</a> and <a href=\"https://tippahsports.com/tippah-county-sports/tippah-county-sports-happening-today-november-7-2026/\">Tippah Sports schedule</a> confirm. The Cougars’ last posted final in the checked record is a <a href=\"https://www.maxpreps.com/ms/basketball/game/blue-mountain-vs-thrasher-booneville/11-3-2026/?c=2581b021-f61a-454c-b558-b3811d70105b\">55-48 win over Thrasher on November 3</a>. Friday’s scheduled Jumpertown result has <a href=\"https://www.maxpreps.com/ms/blue-mountain/blue-mountain-cougars/basketball/schedule/\">not been posted</a>, leaving Blue Mountain’s current record unconfirmed here. Calhoun City is listed at 0-1.</p>\n<h2 data-facts=\"game-2 records-2 game-3 records-3\">Girls basketball: unbeaten visitors and hosts meet</h2>\n<p data-facts=\"game-2 records-2 site-2 meridian-friday\">Meridian visits Madison Central at 5:40 p.m. with a 2-0 record, against Jaguars listed at 1-0. The Wildcats return to the road after a <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/meridian-vs-starkville/11-6-2026/?c=b1abcc89-ff40-4214-a14a-93b95781a8a0\">54-35 win at Starkville on Friday</a>. The <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/madison-central-vs-meridian/11-7-2026/?c=84a4df92-b256-4e83-a247-e90be983669b\">non-conference matchup in Madison</a> puts that winning start alongside another team without a posted loss.</p>\n<p data-facts=\"game-3 records-3 site-3 game-2 records-2\">Neshoba Central travels to Oak Grove for a 6 p.m. girls game in Hattiesburg. The Rockets enter 1-0 and the Warriors 2-0 in the <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/neshoba-central-philadelphia-vs-oak-grove-hattiesburg/11-7-2026/?c=dcd6b37d-3d78-4e19-910f-d2e17ce5346d\">current matchup listing</a>. Like Meridian-Madison Central, this is an early-season comparison between teams with different numbers of wins and no losses on the record sheet.</p>\n<h2 data-facts=\"game-4 records-4 game-5 records-5\">Boys basketball: winning starts on the Coast and at Raymond</h2>\n<p data-facts=\"game-4 records-4 site-4\">Picayune visits Ocean Springs at 5 p.m., with both boys teams listed at 1-0. The <a href=\"https://www.maxpreps.com/ms/basketball/game/ocean-springs-vs-picayune/11-7-2026/?c=aaec1c97-2657-46d6-9eca-b8949056a679\">non-conference game</a> gives the Maroon Tide a road test and the Greyhounds a home opportunity to follow their opening victory.</p>\n<p data-facts=\"game-5 records-5 site-5 raymond-friday\">Raymond hosts Laurel at 7:30 p.m. The Rangers are 3-0 after a <a href=\"https://www.maxpreps.com/ms/basketball/game/raymond-vs-terry/11-6-2026/?c=4d5be209-ad00-41bc-bc5b-a8610a5674b5\">69-61 win over Terry on Friday</a>, while the Tornadoes enter 1-0. That makes the <a href=\"https://www.maxpreps.com/ms/basketball/game/laurel-vs-raymond/11-7-2026/?c=c3afc26c-3791-49ed-8353-2893616366fd\">later boys matchup</a> a meeting between the longer opening winning run and a visitor looking to build on its first listed win.</p>\n<h2 data-facts=\"game-6 records-6 starkville-title starkville-friday\">Boys basketball: Starkville looks to respond</h2>\n<p data-facts=\"game-6 records-6 site-6 starkville-title starkville-friday\">Starkville hosts Callaway at 7:30 p.m., a day after its <a href=\"https://www.maxpreps.com/ms/basketball/game/meridian-vs-starkville/11-6-2026/?c=6ab49c20-007a-451b-b4b1-5ad5aa0c0f91\">55-49 loss to Meridian</a>. The Yellowjackets are listed at 0-1 and the Chargers at 1-1. The <a href=\"https://www.maxpreps.com/ms/basketball/game/callaway-jackson-vs-starkville/11-7-2026/?c=7400322c-110b-486b-8043-0a5a46b07cd7\">non-conference game</a> gives Starkville another home appearance early in the season following the school’s <a href=\"https://www.misshsaa.com/2026/03/06/starkville-wins-2026-boys-class-7a-basketball-championship/\">2026 boys Class 7A championship</a>.</p>\n<h2 data-facts=\"game-7 records-7\">Boys basketball: an opening look in Olive Branch</h2>\n<p data-facts=\"game-7 records-7 site-7\">Olive Branch hosts Cleveland Central at 6 p.m. Both teams are listed at 0-0 in the <a href=\"https://www.maxpreps.com/ms/basketball/game/cleveland-central-vs-olive-branch/11-7-2026/?c=b39ee84a-ebc6-4705-8af2-3064d98443c7\">current game page</a>, offering an early look at the Conquistadors and Wolves. The game is non-conference.</p>\n<p data-facts=\"meridian-friday starkville-friday raymond-friday\">For the broader Friday recap, including Meridian’s boys and girls wins at Starkville, read our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-11-06/\">Scores from last Night edition</a>.</p>",
+    "facts": [
+      {
+        "id": "records-0",
+        "kind": "record",
+        "claim": "Meridian HomeSchool boys are listed at 4-6; Pine Belt boys at 9-1.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/meridian-homeschool-vs-pine-belt-hattiesburg/11-7-2026/?c=7782c480-cd1c-4b35-b8d1-cfe0bd38d83b",
+          "excerpt": "Meridian HomeSchool FLYERS 4-6 Saturday, Nov 7, 2026 7:00pm CST Pine Belt Spartans 9-1",
+          "subjects": [
+            "Pine Belt",
+            "Meridian HomeSchool"
+          ]
+        }
+      },
+      {
+        "id": "site-0",
+        "kind": "schedule",
+        "claim": "The Meridian HomeSchool varsity football team has an away playoff game @ Pine Belt (Hattiesburg, MS) today @ 7p.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/meridian-homeschool-vs-pine-belt-hattiesburg/11-7-2026/?c=7782c480-cd1c-4b35-b8d1-cfe0bd38d83b",
+          "excerpt": "The Meridian HomeSchool varsity football team has an away playoff game @ Pine Belt (Hattiesburg, MS) today @ 7p.",
+          "subjects": [
+            "Pine Belt",
+            "Meridian HomeSchool"
+          ]
+        }
+      },
+      {
+        "id": "records-1",
+        "kind": "record",
+        "claim": "Calhoun City boys are listed at 0-1.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/blue-mountain-vs-calhoun-city/11-7-2026/?c=37ab6336-1e2b-406d-b43a-308b9fe8ca46",
+          "excerpt": "Blue Mountain Cougars 1-0 Saturday, Nov 7, 2026 5:00pm CST Calhoun City Wildcats 0-1",
+          "subjects": [
+            "Calhoun City"
+          ]
+        }
+      },
+      {
+        "id": "site-1",
+        "kind": "schedule",
+        "claim": "The Blue Mountain varsity basketball team has an away non-conference game @ Calhoun City (MS) today @ 5p.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/blue-mountain-vs-calhoun-city/11-7-2026/?c=37ab6336-1e2b-406d-b43a-308b9fe8ca46",
+          "excerpt": "The Blue Mountain varsity basketball team has an away non-conference game @ Calhoun City (MS) today @ 5p.",
+          "subjects": [
+            "Calhoun City",
+            "Blue Mountain"
+          ]
+        }
+      },
+      {
+        "id": "records-2",
+        "kind": "record",
+        "claim": "Meridian girls are listed at 2-0; Madison Central girls at 1-0.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/madison-central-vs-meridian/11-7-2026/?c=84a4df92-b256-4e83-a247-e90be983669b",
+          "excerpt": "Meridian Wildcats 2-0 Saturday, Nov 7, 2026 5:40pm CST Madison Central Jaguars 1-0",
+          "subjects": [
+            "Madison Central",
+            "Meridian"
+          ]
+        }
+      },
+      {
+        "id": "site-2",
+        "kind": "schedule",
+        "claim": "The Meridian varsity basketball team has an away non-conference game @ Madison Central (Madison, MS) today @ 5:40p.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/madison-central-vs-meridian/11-7-2026/?c=84a4df92-b256-4e83-a247-e90be983669b",
+          "excerpt": "The Meridian varsity basketball team has an away non-conference game @ Madison Central (Madison, MS) today @ 5:40p.",
+          "subjects": [
+            "Madison Central",
+            "Meridian"
+          ]
+        }
+      },
+      {
+        "id": "records-3",
+        "kind": "record",
+        "claim": "Neshoba Central girls are listed at 1-0; Oak Grove girls at 2-0.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/neshoba-central-philadelphia-vs-oak-grove-hattiesburg/11-7-2026/?c=dcd6b37d-3d78-4e19-910f-d2e17ce5346d",
+          "excerpt": "Neshoba Central Rockets 1-0 Saturday, Nov 7, 2026 6:00pm CST Oak Grove Warriors 2-0",
+          "subjects": [
+            "Oak Grove",
+            "Neshoba Central"
+          ]
+        }
+      },
+      {
+        "id": "site-3",
+        "kind": "schedule",
+        "claim": "The Neshoba Central varsity basketball team has an away non-conference game @ Oak Grove (Hattiesburg, MS) today @ 6p.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/neshoba-central-philadelphia-vs-oak-grove-hattiesburg/11-7-2026/?c=dcd6b37d-3d78-4e19-910f-d2e17ce5346d",
+          "excerpt": "The Neshoba Central varsity basketball team has an away non-conference game @ Oak Grove (Hattiesburg, MS) today @ 6p.",
+          "subjects": [
+            "Oak Grove",
+            "Neshoba Central"
+          ]
+        }
+      },
+      {
+        "id": "records-4",
+        "kind": "record",
+        "claim": "Picayune boys are listed at 1-0; Ocean Springs boys at 1-0.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/ocean-springs-vs-picayune/11-7-2026/?c=aaec1c97-2657-46d6-9eca-b8949056a679",
+          "excerpt": "Picayune Maroon Tide 1-0 Saturday, Nov 7, 2026 5:00pm CST Ocean Springs Greyhounds 1-0",
+          "subjects": [
+            "Ocean Springs",
+            "Picayune"
+          ]
+        }
+      },
+      {
+        "id": "site-4",
+        "kind": "schedule",
+        "claim": "The Picayune varsity basketball team has an away non-conference game @ Ocean Springs (MS) today @ 5p.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/ocean-springs-vs-picayune/11-7-2026/?c=aaec1c97-2657-46d6-9eca-b8949056a679",
+          "excerpt": "The Picayune varsity basketball team has an away non-conference game @ Ocean Springs (MS) today @ 5p.",
+          "subjects": [
+            "Ocean Springs",
+            "Picayune"
+          ]
+        }
+      },
+      {
+        "id": "records-5",
+        "kind": "record",
+        "claim": "Laurel boys are listed at 1-0; Raymond boys at 3-0.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/laurel-vs-raymond/11-7-2026/?c=c3afc26c-3791-49ed-8353-2893616366fd",
+          "excerpt": "Laurel Tornadoes 1-0 Saturday, Nov 7, 2026 7:30pm CST Raymond Rangers 3-0",
+          "subjects": [
+            "Raymond",
+            "Laurel"
+          ]
+        }
+      },
+      {
+        "id": "site-5",
+        "kind": "schedule",
+        "claim": "The Laurel varsity basketball team has an away non-conference game @ Raymond (MS) today @ 7:30p.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/laurel-vs-raymond/11-7-2026/?c=c3afc26c-3791-49ed-8353-2893616366fd",
+          "excerpt": "The Laurel varsity basketball team has an away non-conference game @ Raymond (MS) today @ 7:30p.",
+          "subjects": [
+            "Raymond",
+            "Laurel"
+          ]
+        }
+      },
+      {
+        "id": "records-6",
+        "kind": "record",
+        "claim": "Callaway boys are listed at 1-1; Starkville boys at 0-1.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/callaway-jackson-vs-starkville/11-7-2026/?c=7400322c-110b-486b-8043-0a5a46b07cd7",
+          "excerpt": "Callaway Chargers 1-1 Saturday, Nov 7, 2026 7:30pm CST Starkville Yellowjackets 0-1",
+          "subjects": [
+            "Starkville",
+            "Callaway"
+          ]
+        }
+      },
+      {
+        "id": "site-6",
+        "kind": "schedule",
+        "claim": "The Callaway varsity basketball team has an away non-conference game @ Starkville (MS) today @ 7:30p.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/callaway-jackson-vs-starkville/11-7-2026/?c=7400322c-110b-486b-8043-0a5a46b07cd7",
+          "excerpt": "The Callaway varsity basketball team has an away non-conference game @ Starkville (MS) today @ 7:30p.",
+          "subjects": [
+            "Starkville",
+            "Callaway"
+          ]
+        }
+      },
+      {
+        "id": "records-7",
+        "kind": "record",
+        "claim": "Cleveland Central boys are listed at 0-0; Olive Branch boys at 0-0.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/cleveland-central-vs-olive-branch/11-7-2026/?c=b39ee84a-ebc6-4705-8af2-3064d98443c7",
+          "excerpt": "Cleveland Central Wolves 0-0 Saturday, Nov 7, 2026 6:00pm CST Olive Branch Conquistadors 0-0",
+          "subjects": [
+            "Olive Branch",
+            "Cleveland Central"
+          ]
+        }
+      },
+      {
+        "id": "site-7",
+        "kind": "schedule",
+        "claim": "The Cleveland Central varsity basketball team has an away non-conference game @ Olive Branch (MS) today @ 6p.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/cleveland-central-vs-olive-branch/11-7-2026/?c=b39ee84a-ebc6-4705-8af2-3064d98443c7",
+          "excerpt": "The Cleveland Central varsity basketball team has an away non-conference game @ Olive Branch (MS) today @ 6p.",
+          "subjects": [
+            "Olive Branch",
+            "Cleveland Central"
+          ]
+        }
+      },
+      {
+        "id": "south-division-title",
+        "kind": "stakes",
+        "claim": "The Meridian HomeSchool at Pine Belt playoff game is identified as the MSCAA South Division Championship.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/meridian-homeschool-vs-pine-belt-hattiesburg/11-7-2026/?c=7782c480-cd1c-4b35-b8d1-cfe0bd38d83b",
+          "excerpt": "Game Details Saturday, Nov 7, 2026 7:00pm CST Playoff MSCAA South Division Championship",
+          "subjects": [
+            "MSCAA",
+            "South Division Championship"
+          ]
+        }
+      },
+      {
+        "id": "eight-man",
+        "kind": "context",
+        "claim": "Meridian HomeSchool and Pine Belt are listed in the Mississippi 8 Man football division.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/meridian-homeschool-vs-pine-belt-hattiesburg/11-7-2026/?c=7782c480-cd1c-4b35-b8d1-cfe0bd38d83b",
+          "excerpt": "Scoring Averages Final Q1 Q2 Q3 Q4 Meridian HomeSchool 27.2 2.9 3.7 2.0 10.6 Pine Belt 43.8 14.4 14.4 6.8 7.2 Rankings Mississippi #27 #14 Mississippi Division 8 Man #5 #1",
+          "subjects": [
+            "Meridian HomeSchool",
+            "Pine Belt"
+          ]
+        }
+      },
+      {
+        "id": "pine-district",
+        "kind": "record",
+        "claim": "Pine Belt is listed at 9-1 overall and 8-0 in district play.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/hattiesburg/pine-belt-spartans/football/",
+          "excerpt": "Pine Belt Spartans Varsity Football Hattiesburg, MS 63 Followers 26-27 Overall 9-1 District 8-0 (1st)",
+          "subjects": [
+            "Pine Belt"
+          ]
+        }
+      },
+      {
+        "id": "blue-road-confirmation",
+        "kind": "schedule",
+        "claim": "Tippah Sports lists Blue Mountain boys against Calhoun City at 5:00 PM in Calhoun City.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://tippahsports.com/tippah-county-sports/tippah-county-sports-happening-today-november-7-2026/",
+          "excerpt": "The Blue Mountain Cougars boys follow at 5:00 PM against the Calhoun City Wildcats, also in Calhoun City.",
+          "subjects": [
+            "Blue Mountain",
+            "Calhoun City"
+          ]
+        }
+      },
+      {
+        "id": "blue-record-gap",
+        "kind": "context",
+        "claim": "The checked Blue Mountain schedule lists the November 6 Jumpertown game without a posted result.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/blue-mountain/blue-mountain-cougars/basketball/schedule/",
+          "excerpt": "Blue Mountain Basketball Schedule 2026-27 Next Game Away • Non-District Blue Mountain 1-0 Calhoun City 0-1 Blue Mountain 1-0 Sat, 11/7 @ 5:00pm Preview Game Calhoun City 0-1 Buy Tickets Preview Game Going to the game? Provide score updates Overall 1-0 1.000 Win Pct District 0-0 1st 1A Region 2 Home 1-0 Away 0-0 Neutral 0-0 PF 55 PA 48 Streak 1W Are you the coach? Claim your team to manage the roster, schedule, scores, stats and more. Explore the benefits. Claim This Team * District ** Playoffs *** Tournament Date/Time Opponent Result Watch Game Info 11/3 7:30pm vs T Thrasher W 55-48 Box Score Date/Time Opponent Tickets Watch Game Info 11/6 7:30pm vs Jumpertown View Matchup",
+          "subjects": [
+            "Blue Mountain",
+            "Jumpertown"
+          ]
+        }
+      },
+      {
+        "id": "blue-last-final",
+        "kind": "history",
+        "claim": "Blue Mountain boys defeated Thrasher 55-48 on November 3, 2026.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/blue-mountain-vs-thrasher-booneville/11-3-2026/?c=2581b021-f61a-454c-b558-b3811d70105b",
+          "excerpt": "Thrasher vs Blue Mountain | Basketball | 11/03/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Thrasher Boys Varsity Basketball @ Blue Mountain Thrasher 0-1 T Rebels 48 Final 55 Blue Mountain 1-0 Cougars Thrasher Boys Varsity Basketball @ Blue Mountain Game Info On 11/3, the Thrasher varsity basketball team lost their away non-conference game against Blue Mountain (MS) by a score of 55-48.",
+          "subjects": [
+            "Thrasher",
+            "Blue Mountain"
+          ],
+          "date_excerpt": "11/03/2026"
+        },
+        "fact_date": "2026-11-03"
+      },
+      {
+        "id": "meridian-friday",
+        "kind": "history",
+        "claim": "Meridian girls defeated Starkville 54-35 on November 6, 2026.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/meridian-vs-starkville/11-6-2026/?c=b1abcc89-ff40-4214-a14a-93b95781a8a0",
+          "excerpt": "Meridian vs Starkville | Basketball | 11/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Meridian Girls Varsity Basketball @ Starkville Meridian 2-0 Wildcats 54 Final 35 Starkville 0-1 Yellowjackets Meridian Girls Varsity Basketball @ Starkville Game Info On 11/6, the Meridian varsity basketball team won their away non-conference game against Starkville (MS) by a score of 54-35.",
+          "subjects": [
+            "Meridian",
+            "Starkville"
+          ],
+          "date_excerpt": "11/06/2026"
+        },
+        "fact_date": "2026-11-06"
+      },
+      {
+        "id": "raymond-friday",
+        "kind": "history",
+        "claim": "Raymond boys defeated Terry 69-61 on November 6, 2026.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/raymond-vs-terry/11-6-2026/?c=4d5be209-ad00-41bc-bc5b-a8610a5674b5",
+          "excerpt": "Terry vs Raymond | Basketball | 11/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Terry Boys Varsity Basketball @ Raymond Terry 1-2 Bulldogs 61 Final 69 Raymond 3-0 Rangers Terry Boys Varsity Basketball @ Raymond Game Info On 11/6, the Terry varsity basketball team lost their away non-conference game against Raymond (MS) by a score of 69-61.",
+          "subjects": [
+            "Raymond",
+            "Terry"
+          ],
+          "date_excerpt": "11/06/2026"
+        },
+        "fact_date": "2026-11-06"
+      },
+      {
+        "id": "starkville-friday",
+        "kind": "history",
+        "claim": "Starkville boys lost 49-55 to Meridian on November 6, 2026.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/meridian-vs-starkville/11-6-2026/?c=6ab49c20-007a-451b-b4b1-5ad5aa0c0f91",
+          "excerpt": "Meridian vs Starkville | Basketball | 11/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Meridian Boys Varsity Basketball @ Starkville Meridian 2-0 Wildcats 55 Final 49 Starkville 0-1 Yellowjackets Meridian Boys Varsity Basketball @ Starkville Game Info On 11/6, the Meridian varsity basketball team won their away non-conference game against Starkville (MS) by a score of 55-49.",
+          "subjects": [
+            "Meridian",
+            "Starkville"
+          ],
+          "date_excerpt": "11/06/2026"
+        },
+        "fact_date": "2026-11-06"
+      },
+      {
+        "id": "starkville-title",
+        "kind": "history",
+        "claim": "Starkville won the 2026 Boys Class 7A basketball championship on March 6, 2026.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-07",
+        "evidence": {
+          "url": "https://www.misshsaa.com/2026/03/06/starkville-wins-2026-boys-class-7a-basketball-championship/",
+          "excerpt": "The championships of the 2026 MHSAA Basketball Tournament were held on Friday, March 6, 2026. Photo by Keith Warren Starkville wins 2026 Boys Class 7A Basketball Championship March 6, 2026",
+          "subjects": [
+            "Starkville"
+          ],
+          "date_excerpt": "March 6, 2026"
+        },
+        "fact_date": "2026-03-06"
+      }
+    ]
+  }
+}
