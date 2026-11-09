@@ -1,0 +1,677 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-11-09",
+  "verified_at": "2026-11-09T15:08:16.310040-06:00",
+  "publish": true,
+  "checked_sports": [
+    "basketball",
+    "soccer",
+    "football",
+    "volleyball",
+    "bowling"
+  ],
+  "games": [
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-09",
+      "home": "Laurel",
+      "away": "Presbyterian Christian",
+      "status": "scheduled",
+      "start_time": "2026-11-09T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/laurel-vs-presbyterian-christian-hattiesburg/11-9-2026/?c=44692b9f-c62f-4562-aaed-4a408d0dac9f",
+        "excerpt": "Presbyterian Christian vs Laurel | Soccer | 11/09/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer PCHS Girls Varsity Soccer @ Laurel Presbyterian Christian Bobcats 4-0 Monday, Nov 9, 2026 6:00pm CST Laurel Tornadoes 2-2 PCHS Girls Varsity Soccer @ Laurel Game Info The Presbyterian Christian varsity soccer team has an away non-conference match @ Laurel (MS) today @ 6p.",
+        "date_excerpt": "11/09/2026",
+        "time_excerpt": "6:00pm CST",
+        "home_name": "Laurel",
+        "away_name": "Presbyterian Christian"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-09",
+      "home": "Laurel",
+      "away": "Presbyterian Christian",
+      "status": "scheduled",
+      "start_time": "2026-11-09T19:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/laurel-vs-presbyterian-christian-hattiesburg/11-9-2026/?c=046c5574-68b1-4fd8-bf34-f7fd687c55f7",
+        "excerpt": "Presbyterian Christian vs Laurel | Soccer | 11/09/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer PCHS Boys Varsity Soccer @ Laurel Presbyterian Christian Bobcats 2-1-1 Monday, Nov 9, 2026 7:30pm CST Laurel Tornadoes 3-2 PCHS Boys Varsity Soccer @ Laurel Game Info The Presbyterian Christian varsity soccer team has an away non-conference match @ Laurel (MS) today @ 7:30p.",
+        "date_excerpt": "11/09/2026",
+        "time_excerpt": "7:30pm CST",
+        "home_name": "Laurel",
+        "away_name": "Presbyterian Christian"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-09",
+      "home": "Meridian HomeSchool",
+      "away": "Jackson HomeSchool",
+      "status": "scheduled",
+      "start_time": "2026-11-09T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/jackson-homeschool-vs-meridian-homeschool/11-9-2026/?c=c693b46d-daee-4edc-8a67-4e23b5538e10",
+        "excerpt": "Jackson HomeSchool vs Meridian HomeSchool | Basketball | 11/09/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Jackson HomeSchool Boys Varsity Basketball @ Meridian HomeSchool Jackson HomeSchool Victors 4-1 Monday, Nov 9, 2026 7:00pm CST Meridian HomeSchool FLYERS 1-1 Jackson HomeSchool Boys Varsity Basketball @ Meridian HomeSchool Game Info The Jackson HomeSchool varsity basketball team has an away conference game @ Meridian HomeSchool (Meridian, MS) today @ 7p.",
+        "date_excerpt": "11/09/2026",
+        "time_excerpt": "7:00pm CST",
+        "home_name": "Meridian HomeSchool",
+        "away_name": "Jackson HomeSchool"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-09",
+      "home": "North Pontotoc",
+      "away": "Houston",
+      "status": "scheduled",
+      "start_time": "2026-11-09T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/houston-vs-north-pontotoc-ecru/11-9-2026/?c=21d1b7fe-6ba0-4926-b2c0-58baf4d1970f",
+        "excerpt": "Houston vs North Pontotoc | Soccer | 11/09/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Houston Boys Varsity Soccer @ North Pontotoc Houston Hilltoppers 2-2-1 Monday, Nov 9, 2026 7:00pm CST North Pontotoc Vikings 2-0 Houston Boys Varsity Soccer @ North Pontotoc Streaming & Ticketing Sign Up To Watch Purchase Tickets Game Info The Houston varsity soccer team has an away non-conference match @ North Pontotoc (Ecru, MS) today @ 7p.",
+        "date_excerpt": "11/09/2026",
+        "time_excerpt": "7:00pm CST",
+        "home_name": "North Pontotoc",
+        "away_name": "Houston"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-09",
+      "home": "Purvis",
+      "away": "Pearl River Central",
+      "status": "scheduled",
+      "start_time": "2026-11-09T17:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/pearl-river-central-carriere-vs-purvis/11-9-2026/?c=a8a9cfe6-de4b-425f-b052-dcb8dd971b3b",
+        "excerpt": "Pearl River Central vs Purvis | Soccer | 11/09/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Pearl River Central Girls Varsity Soccer @ Purvis Pearl River Central Blue Devils 1-1 Monday, Nov 9, 2026 5:30pm CST Purvis Tornadoes 2-0-1 Pearl River Central Girls Varsity Soccer @ Purvis Streaming & Ticketing Sign Up To Watch Purchase Tickets Game Info The Pearl River Central varsity soccer team has an away non-conference match @ Purvis (MS) today @ 5:30p.",
+        "date_excerpt": "11/09/2026",
+        "time_excerpt": "5:30pm CST",
+        "home_name": "Purvis",
+        "away_name": "Pearl River Central"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-09",
+      "home": "Purvis",
+      "away": "Pearl River Central",
+      "status": "scheduled",
+      "start_time": "2026-11-09T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/pearl-river-central-carriere-vs-purvis/11-9-2026/?c=6b054134-ad34-4cc1-aa05-3b4191ef2107",
+        "excerpt": "Pearl River Central vs Purvis | Soccer | 11/09/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Pearl River Central Boys Varsity Soccer @ Purvis Pearl River Central Blue Devils 1-1 Monday, Nov 9, 2026 7:00pm CST Purvis Tornadoes 1-0-2 Pearl River Central Boys Varsity Soccer @ Purvis Streaming & Ticketing Sign Up To Watch Purchase Tickets Game Info The Pearl River Central varsity soccer team has an away non-conference match @ Purvis (MS) today @ 7p.",
+        "date_excerpt": "11/09/2026",
+        "time_excerpt": "7:00pm CST",
+        "home_name": "Purvis",
+        "away_name": "Pearl River Central"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-09",
+      "home": "Oak Forest Academy",
+      "away": "Jackson Prep",
+      "status": "scheduled",
+      "start_time": "2026-11-09T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/inter-state/soccer/match/jackson-prep-ms-vs-oak-forest-academy-amite-la/11-9-2026/?c=e0efab74-a4fe-49df-aab2-9718a099f6c9",
+        "excerpt": "Jackson Prep vs Oak Forest Academy | Soccer | 11/09/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Louisiana High School Soccer Jackson Prep Boys Varsity Soccer @ Oak Forest Academy Jackson Prep Patriots 2-0 Monday, Nov 9, 2026 6:00pm CST Oak Forest Academy Yellowjackets 0-2 Jackson Prep Boys Varsity Soccer @ Oak Forest Academy Game Info The Jackson Prep varsity soccer team has an away conference match @ Oak Forest Academy (Amite, LA) today @ 6p.",
+        "date_excerpt": "11/09/2026",
+        "time_excerpt": "6:00pm CST",
+        "home_name": "Oak Forest Academy",
+        "away_name": "Jackson Prep"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-09",
+      "home": "Stringer",
+      "away": "Perry Central",
+      "status": "scheduled",
+      "start_time": "2026-11-09T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/perry-central-new-augusta-vs-stringer/11-9-2026/?c=99834370-1cbc-4031-8946-c488d39e2325",
+        "excerpt": "Perry Central vs Stringer | Basketball | 11/09/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Perry Central Girls Varsity Basketball @ Stringer Perry Central Bulldogs 0-1 Monday, Nov 9, 2026 6:00pm CST Stringer Red Devils 1-1 Perry Central Girls Varsity Basketball @ Stringer Streaming & Ticketing Sign Up To Watch Game Info The Perry Central varsity basketball team has an away non-conference game @ Stringer (MS) today @ 6p.",
+        "date_excerpt": "11/09/2026",
+        "time_excerpt": "6:00pm CST",
+        "home_name": "Stringer",
+        "away_name": "Perry Central"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-06/",
+      "title": "Friday varsity football, basketball and soccer recap"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: Presbyterian Christian brings 4-0 start to Laurel",
+    "headline_fact_ids": [
+      "game-0",
+      "records-0",
+      "game-2"
+    ],
+    "html": "<p data-facts=\"game-0 records-0 game-2 records-2 jackson-rematch game-3 records-3 game-4 records-4 game-5 records-5 game-1 game-6 game-7\">Presbyterian Christian takes a perfect girls soccer start to Laurel on Monday, November 9, while Jackson HomeSchool heads to Meridian for a boys basketball conference rematch. North Pontotoc's boys and both Purvis soccer teams also enter the evening without a listed loss. The selected games begin at 5:30 p.m. Central or later.</p>\n<h2 data-facts=\"game-0 records-0 game-1 records-1\">Laurel hosts Presbyterian Christian's unbeaten girls, then the boys</h2>\n<p data-facts=\"game-0 records-0 site-0 pc-girls-last\">The <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/laurel-vs-presbyterian-christian-hattiesburg/11-9-2026/?c=44692b9f-c62f-4562-aaed-4a408d0dac9f\">girls match at Laurel</a> starts at 6 p.m. Presbyterian Christian is listed at 4-0, with a <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/hancock-kiln-vs-presbyterian-christian-hattiesburg/11-3-2026/?c=5e785a53-cb50-4e74-88a2-47d3e350f6e1#tab=box-score&schoolid=48d686ae-56f1-4158-bbbe-f49bd2066452\">5-2 win over Hancock on November 3</a> its latest posted result. Laurel enters 2-2. That places the Bobcats' unblemished start against a host that has already experienced both sides of the result sheet.</p>\n<p data-facts=\"game-1 records-1 site-1\">The <a href=\"https://www.maxpreps.com/ms/soccer/match/laurel-vs-presbyterian-christian-hattiesburg/11-9-2026/?c=046c5574-68b1-4fd8-bf34-f7fd687c55f7\">boys follow at 7:30 p.m.</a>, with Laurel listed at 3-2 and Presbyterian Christian at 2-1-1. The records give the second non-conference match a different shape: both teams have winning starts, and each has already taken a loss. Laurel's home games offer separate tests for the two Bobcat squads.</p>\n<h2 data-facts=\"game-2 records-2 jackson-district jackson-rematch\">Basketball: Meridian HomeSchool gets another look at Jackson</h2>\n<p data-facts=\"game-2 records-2 site-2 jackson-district jackson-rematch jackson-last\">Jackson HomeSchool visits Meridian HomeSchool at 7 p.m. in a <a href=\"https://www.maxpreps.com/ms/basketball/game/jackson-homeschool-vs-meridian-homeschool/11-9-2026/?c=c693b46d-daee-4edc-8a67-4e23b5538e10\">conference boys basketball game</a>. The Victors enter 4-1 overall and <a href=\"https://www.maxpreps.com/ms/jackson/jackson-homeschool-victors/basketball/\">4-0 in district play</a>; the Flyers are listed at 1-1. There is a direct comparison already on the record: <a href=\"https://www.maxpreps.com/ms/basketball/game/jackson-homeschool-vs-meridian-homeschool/10-22-2026/?c=d52e0f9c-53b6-442f-ae7d-906efc9f3c03\">Jackson won their October 22 meeting 54-23</a>. The visitors also come off a <a href=\"https://www.maxpreps.com/ms/basketball/game/jackson-homeschool-vs-tupelo-titans/11-7-2026/?c=76838434-8b76-4428-b121-5133124955e7#tab=box-score&schoolid=dfcf0f11-fac7-4477-bc00-0f3e321d656f\">70-38 win at Tupelo Titans on Saturday</a>. Meridian now gets the return meeting at home against a team with more games and wins behind it.</p>\n<h2 data-facts=\"game-3 records-3 np-last houston-last\">North Pontotoc's fast start meets Houston</h2>\n<p data-facts=\"game-3 records-3 site-3 np-last houston-last\">North Pontotoc hosts Houston at 7 p.m. in <a href=\"https://www.maxpreps.com/ms/soccer/match/houston-vs-north-pontotoc-ecru/11-9-2026/?c=21d1b7fe-6ba0-4926-b2c0-58baf4d1970f\">boys soccer in Ecru</a>. The Vikings are 2-0 after a <a href=\"https://www.maxpreps.com/ms/soccer/match/kosciusko-vs-north-pontotoc-ecru/11-5-2026/?c=2d6c3c49-e3c1-4e1e-8651-06c8dfe30b95\">9-3 victory over Kosciusko on November 5</a>. Houston is listed at 2-2-1 and returns to the road after a <a href=\"https://www.maxpreps.com/ms/soccer/match/houston-vs-south-panola-batesville/11-7-2026/?c=c7d749ba-1a89-4739-af30-c2efa8707c56#tab=box-score&schoolid=98fa8656-13b5-4c37-9456-6a1730039f48\">7-4 loss at South Panola on Saturday</a>. Those recent results frame the matchup: North Pontotoc has a winning start to extend, while Houston has a chance to respond after conceding seven in its last outing.</p>\n<h2 data-facts=\"game-4 records-4 game-5 records-5\">Purvis brings two unbeaten records into home soccer</h2>\n<p data-facts=\"game-4 records-4 site-4 purvis-girls-last game-5 records-5 site-5 purvis-boys-last\">Pearl River Central visits Purvis, with the <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/pearl-river-central-carriere-vs-purvis/11-9-2026/?c=a8a9cfe6-de4b-425f-b052-dcb8dd971b3b\">girls at 5:30 p.m.</a> and the <a href=\"https://www.maxpreps.com/ms/soccer/match/pearl-river-central-carriere-vs-purvis/11-9-2026/?c=6b054134-ad34-4cc1-aa05-3b4191ef2107\">boys at 7 p.m.</a> Purvis' girls are listed at 2-0-1 and its boys at 1-0-2; both Blue Devil teams enter 1-1. Purvis won both November 6 matches at Hattiesburg, <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/hattiesburg-vs-purvis/11-6-2026/?c=73635046-3a9f-47af-9bbc-ee2c1b735fa3\">5-0 in the girls game</a> and <a href=\"https://www.maxpreps.com/ms/soccer/match/hattiesburg-vs-purvis/11-6-2026/?c=54daf2be-b2af-412e-934d-c8ea472ceaf0\">4-0 in the boys game</a>. Each Tornado squad has draws in its early record, but neither has a listed defeat as it returns home.</p>\n<h2 data-facts=\"game-6 records-6 prep-district prep-rematch\">Jackson Prep takes its conference rematch on the road</h2>\n<p data-facts=\"game-6 records-6 site-6 prep-district prep-rematch\">Jackson Prep travels to Oak Forest Academy in Amite, Louisiana, for a <a href=\"https://www.maxpreps.com/inter-state/soccer/match/jackson-prep-ms-vs-oak-forest-academy-amite-la/11-9-2026/?c=e0efab74-a4fe-49df-aab2-9718a099f6c9\">6 p.m. boys soccer conference match</a>. Prep is 2-0 overall and <a href=\"https://www.maxpreps.com/ms/jackson/jackson-prep-patriots/soccer/winter/\">2-0 in district play</a>; Oak Forest is listed at 0-2. The Patriots <a href=\"https://www.maxpreps.com/inter-state/soccer/match/jackson-prep-ms-vs-oak-forest-academy-amite-la/10-29-2026/?c=fcb5d97d-ec9a-41e0-bf58-fed0b2040f8a\">won the first meeting 8-0 on October 29</a> in Jackson. This return match changes the venue while giving the Yellowjackets another chance against the same opponent.</p>\n<h2 data-facts=\"game-7 records-7 stringer-last\">Stringer tries to follow its first girls basketball win</h2>\n<p data-facts=\"game-7 records-7 site-7 stringer-last\">Stringer hosts Perry Central at 6 p.m. in a <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/perry-central-new-augusta-vs-stringer/11-9-2026/?c=99834370-1cbc-4031-8946-c488d39e2325\">non-conference girls basketball game</a>. The Red Devils are listed at 1-1 after a <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/stringer-vs-union/11-5-2026/?c=02131031-9f55-41bf-a928-0cd0fcc8f3fb\">34-28 win at Union on November 5</a>. Perry Central enters 0-1. Stringer can build on its first victory, while the visiting Bulldogs are still seeking their first listed win.</p>\n<p data-facts=\"internal-context\">For more from the varsity weekend, including Jackson Prep football, read our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-11-06/\">Friday Scores from last Night recap</a>.</p>",
+    "facts": [
+      {
+        "id": "records-0",
+        "kind": "record",
+        "claim": "Presbyterian Christian girls enter listed at 4-0; Laurel girls at 2-2.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/laurel-vs-presbyterian-christian-hattiesburg/11-9-2026/?c=44692b9f-c62f-4562-aaed-4a408d0dac9f",
+          "excerpt": "Presbyterian Christian Bobcats 4-0 Monday, Nov 9, 2026 6:00pm CST Laurel Tornadoes 2-2",
+          "subjects": [
+            "Laurel",
+            "Presbyterian Christian"
+          ]
+        }
+      },
+      {
+        "id": "site-0",
+        "kind": "schedule",
+        "claim": "The Presbyterian Christian varsity soccer team has an away non-conference match @ Laurel (MS) today @ 6p.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/laurel-vs-presbyterian-christian-hattiesburg/11-9-2026/?c=44692b9f-c62f-4562-aaed-4a408d0dac9f",
+          "excerpt": "The Presbyterian Christian varsity soccer team has an away non-conference match @ Laurel (MS) today @ 6p.",
+          "subjects": [
+            "Laurel",
+            "Presbyterian Christian"
+          ]
+        }
+      },
+      {
+        "id": "records-1",
+        "kind": "record",
+        "claim": "Presbyterian Christian boys enter listed at 2-1-1; Laurel boys at 3-2.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/laurel-vs-presbyterian-christian-hattiesburg/11-9-2026/?c=046c5574-68b1-4fd8-bf34-f7fd687c55f7",
+          "excerpt": "Presbyterian Christian Bobcats 2-1-1 Monday, Nov 9, 2026 7:30pm CST Laurel Tornadoes 3-2",
+          "subjects": [
+            "Laurel",
+            "Presbyterian Christian"
+          ]
+        }
+      },
+      {
+        "id": "site-1",
+        "kind": "schedule",
+        "claim": "The Presbyterian Christian varsity soccer team has an away non-conference match @ Laurel (MS) today @ 7:30p.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/laurel-vs-presbyterian-christian-hattiesburg/11-9-2026/?c=046c5574-68b1-4fd8-bf34-f7fd687c55f7",
+          "excerpt": "The Presbyterian Christian varsity soccer team has an away non-conference match @ Laurel (MS) today @ 7:30p.",
+          "subjects": [
+            "Laurel",
+            "Presbyterian Christian"
+          ]
+        }
+      },
+      {
+        "id": "records-2",
+        "kind": "record",
+        "claim": "Jackson HomeSchool boys enter listed at 4-1; Meridian HomeSchool boys at 1-1.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/jackson-homeschool-vs-meridian-homeschool/11-9-2026/?c=c693b46d-daee-4edc-8a67-4e23b5538e10",
+          "excerpt": "Jackson HomeSchool Victors 4-1 Monday, Nov 9, 2026 7:00pm CST Meridian HomeSchool FLYERS 1-1",
+          "subjects": [
+            "Meridian HomeSchool",
+            "Jackson HomeSchool"
+          ]
+        }
+      },
+      {
+        "id": "site-2",
+        "kind": "schedule",
+        "claim": "The Jackson HomeSchool varsity basketball team has an away conference game @ Meridian HomeSchool (Meridian, MS) today @ 7p.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/jackson-homeschool-vs-meridian-homeschool/11-9-2026/?c=c693b46d-daee-4edc-8a67-4e23b5538e10",
+          "excerpt": "The Jackson HomeSchool varsity basketball team has an away conference game @ Meridian HomeSchool (Meridian, MS) today @ 7p.",
+          "subjects": [
+            "Meridian HomeSchool",
+            "Jackson HomeSchool"
+          ]
+        }
+      },
+      {
+        "id": "records-3",
+        "kind": "record",
+        "claim": "Houston boys enter listed at 2-2-1; North Pontotoc boys at 2-0.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/houston-vs-north-pontotoc-ecru/11-9-2026/?c=21d1b7fe-6ba0-4926-b2c0-58baf4d1970f",
+          "excerpt": "Houston Hilltoppers 2-2-1 Monday, Nov 9, 2026 7:00pm CST North Pontotoc Vikings 2-0",
+          "subjects": [
+            "North Pontotoc",
+            "Houston"
+          ]
+        }
+      },
+      {
+        "id": "site-3",
+        "kind": "schedule",
+        "claim": "The Houston varsity soccer team has an away non-conference match @ North Pontotoc (Ecru, MS) today @ 7p.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/houston-vs-north-pontotoc-ecru/11-9-2026/?c=21d1b7fe-6ba0-4926-b2c0-58baf4d1970f",
+          "excerpt": "The Houston varsity soccer team has an away non-conference match @ North Pontotoc (Ecru, MS) today @ 7p.",
+          "subjects": [
+            "North Pontotoc",
+            "Houston"
+          ]
+        }
+      },
+      {
+        "id": "records-4",
+        "kind": "record",
+        "claim": "Pearl River Central girls enter listed at 1-1; Purvis girls at 2-0-1.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/pearl-river-central-carriere-vs-purvis/11-9-2026/?c=a8a9cfe6-de4b-425f-b052-dcb8dd971b3b",
+          "excerpt": "Pearl River Central Blue Devils 1-1 Monday, Nov 9, 2026 5:30pm CST Purvis Tornadoes 2-0-1",
+          "subjects": [
+            "Purvis",
+            "Pearl River Central"
+          ]
+        }
+      },
+      {
+        "id": "site-4",
+        "kind": "schedule",
+        "claim": "The Pearl River Central varsity soccer team has an away non-conference match @ Purvis (MS) today @ 5:30p.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/pearl-river-central-carriere-vs-purvis/11-9-2026/?c=a8a9cfe6-de4b-425f-b052-dcb8dd971b3b",
+          "excerpt": "The Pearl River Central varsity soccer team has an away non-conference match @ Purvis (MS) today @ 5:30p.",
+          "subjects": [
+            "Purvis",
+            "Pearl River Central"
+          ]
+        }
+      },
+      {
+        "id": "records-5",
+        "kind": "record",
+        "claim": "Pearl River Central boys enter listed at 1-1; Purvis boys at 1-0-2.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/pearl-river-central-carriere-vs-purvis/11-9-2026/?c=6b054134-ad34-4cc1-aa05-3b4191ef2107",
+          "excerpt": "Pearl River Central Blue Devils 1-1 Monday, Nov 9, 2026 7:00pm CST Purvis Tornadoes 1-0-2",
+          "subjects": [
+            "Purvis",
+            "Pearl River Central"
+          ]
+        }
+      },
+      {
+        "id": "site-5",
+        "kind": "schedule",
+        "claim": "The Pearl River Central varsity soccer team has an away non-conference match @ Purvis (MS) today @ 7p.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/pearl-river-central-carriere-vs-purvis/11-9-2026/?c=6b054134-ad34-4cc1-aa05-3b4191ef2107",
+          "excerpt": "The Pearl River Central varsity soccer team has an away non-conference match @ Purvis (MS) today @ 7p.",
+          "subjects": [
+            "Purvis",
+            "Pearl River Central"
+          ]
+        }
+      },
+      {
+        "id": "records-6",
+        "kind": "record",
+        "claim": "Jackson Prep boys enter listed at 2-0; Oak Forest Academy boys at 0-2.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/soccer/match/jackson-prep-ms-vs-oak-forest-academy-amite-la/11-9-2026/?c=e0efab74-a4fe-49df-aab2-9718a099f6c9",
+          "excerpt": "Jackson Prep Patriots 2-0 Monday, Nov 9, 2026 6:00pm CST Oak Forest Academy Yellowjackets 0-2",
+          "subjects": [
+            "Oak Forest Academy",
+            "Jackson Prep"
+          ]
+        }
+      },
+      {
+        "id": "site-6",
+        "kind": "schedule",
+        "claim": "The Jackson Prep varsity soccer team has an away conference match @ Oak Forest Academy (Amite, LA) today @ 6p.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/soccer/match/jackson-prep-ms-vs-oak-forest-academy-amite-la/11-9-2026/?c=e0efab74-a4fe-49df-aab2-9718a099f6c9",
+          "excerpt": "The Jackson Prep varsity soccer team has an away conference match @ Oak Forest Academy (Amite, LA) today @ 6p.",
+          "subjects": [
+            "Oak Forest Academy",
+            "Jackson Prep"
+          ]
+        }
+      },
+      {
+        "id": "records-7",
+        "kind": "record",
+        "claim": "Perry Central girls enter listed at 0-1; Stringer girls at 1-1.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/perry-central-new-augusta-vs-stringer/11-9-2026/?c=99834370-1cbc-4031-8946-c488d39e2325",
+          "excerpt": "Perry Central Bulldogs 0-1 Monday, Nov 9, 2026 6:00pm CST Stringer Red Devils 1-1",
+          "subjects": [
+            "Stringer",
+            "Perry Central"
+          ]
+        }
+      },
+      {
+        "id": "site-7",
+        "kind": "schedule",
+        "claim": "The Perry Central varsity basketball team has an away non-conference game @ Stringer (MS) today @ 6p.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/perry-central-new-augusta-vs-stringer/11-9-2026/?c=99834370-1cbc-4031-8946-c488d39e2325",
+          "excerpt": "The Perry Central varsity basketball team has an away non-conference game @ Stringer (MS) today @ 6p.",
+          "subjects": [
+            "Stringer",
+            "Perry Central"
+          ]
+        }
+      },
+      {
+        "id": "jackson-district",
+        "kind": "record",
+        "claim": "Jackson HomeSchool boys are listed at 4-1 overall and 4-0 in district play.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/jackson/jackson-homeschool-victors/basketball/",
+          "excerpt": "Jackson HomeSchool Victors Varsity Boys Basketball Jackson, MS 63 Followers 26-27 Overall 4-1 District 4-0 (1st)",
+          "subjects": [
+            "Jackson HomeSchool"
+          ]
+        }
+      },
+      {
+        "id": "prep-district",
+        "kind": "record",
+        "claim": "Jackson Prep boys soccer are listed at 2-0 overall and 2-0 in district play.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/jackson/jackson-prep-patriots/soccer/winter/",
+          "excerpt": "Jackson Prep Patriots Varsity Boys Soccer Jackson, MS 105 Followers 26-27 Overall 2-0 District 2-0",
+          "subjects": [
+            "Jackson Prep"
+          ]
+        }
+      },
+      {
+        "id": "jackson-last",
+        "kind": "history",
+        "claim": "Jackson HomeSchool boys basketball beat Tupelo Titans 70-38 on November 7, 2026.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/jackson-homeschool-vs-tupelo-titans/11-7-2026/?c=76838434-8b76-4428-b121-5133124955e7#tab=box-score&schoolid=dfcf0f11-fac7-4477-bc00-0f3e321d656f",
+          "excerpt": "Jackson HomeSchool vs Tupelo Titans | Basketball | 11/07/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Jackson HomeSchool Boys Varsity Basketball @ Tupelo Titans Jackson HomeSchool 4-1 Victors 70 Final 38 Tupelo Titans 3-2 Titans Jackson HomeSchool Boys Varsity Basketball @ Tupelo Titans Game Info On 11/7, the Jackson HomeSchool varsity basketball team won their away conference game against Tupelo Titans (Tupelo, MS) by a score of 70-38.",
+          "subjects": [
+            "Jackson HomeSchool",
+            "Tupelo Titans"
+          ],
+          "date_excerpt": "11/07/2026"
+        },
+        "fact_date": "2026-11-07"
+      },
+      {
+        "id": "jackson-rematch",
+        "kind": "history",
+        "claim": "Jackson HomeSchool boys basketball beat Meridian HomeSchool 54-23 on October 22, 2026.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/jackson-homeschool-vs-meridian-homeschool/10-22-2026/?c=d52e0f9c-53b6-442f-ae7d-906efc9f3c03",
+          "excerpt": "Meridian HomeSchool vs Jackson HomeSchool | Basketball | 10/22/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Meridian HomeSchool Boys Varsity Basketball @ Jackson HomeSchool Meridian HomeSchool 1-1 FLYERS 23 Final 54 Jackson HomeSchool 4-1 Victors Meridian HomeSchool Boys Varsity Basketball @ Jackson HomeSchool Game Info On 10/22, the Meridian HomeSchool varsity basketball team lost their away conference game against Jackson HomeSchool (Jackson, MS) by a score of 54-23.",
+          "subjects": [
+            "Jackson HomeSchool",
+            "Meridian HomeSchool"
+          ],
+          "date_excerpt": "10/22/2026"
+        },
+        "fact_date": "2026-10-22"
+      },
+      {
+        "id": "stringer-last",
+        "kind": "history",
+        "claim": "Stringer girls basketball won 34-28 at Union on November 5, 2026.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/stringer-vs-union/11-5-2026/?c=02131031-9f55-41bf-a928-0cd0fcc8f3fb",
+          "excerpt": "Stringer vs Union | Basketball | 11/05/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Stringer Girls Varsity Basketball @ Union Stringer 1-1 Red Devils 34 Final 28 Union 1-1 Yellowjackets Stringer Girls Varsity Basketball @ Union Streaming & Ticketing Watch Recap Game Info On 11/5, the Stringer varsity basketball team won their away non-conference game against Union (MS) by a score of 34-28.",
+          "subjects": [
+            "Stringer",
+            "Union"
+          ],
+          "date_excerpt": "11/05/2026"
+        },
+        "fact_date": "2026-11-05"
+      },
+      {
+        "id": "pc-girls-last",
+        "kind": "history",
+        "claim": "Presbyterian Christian girls soccer beat Hancock 5-2 on November 3, 2026.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/hancock-kiln-vs-presbyterian-christian-hattiesburg/11-3-2026/?c=5e785a53-cb50-4e74-88a2-47d3e350f6e1#tab=box-score&schoolid=48d686ae-56f1-4158-bbbe-f49bd2066452",
+          "excerpt": "Hancock vs Presbyterian Christian | Soccer | 11/03/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Hancock Girls Varsity Soccer @ PCHS Hancock 1-3 Hawks 2 Final 5 Presbyterian Christian 4-0 Bobcats Hancock Girls Varsity Soccer @ PCHS Game Info On 11/3, the Hancock varsity soccer team lost their away non-conference match against Presbyterian Christian (Hattiesburg, MS) by a score of 5-2.",
+          "subjects": [
+            "Presbyterian Christian",
+            "Hancock"
+          ],
+          "date_excerpt": "11/03/2026"
+        },
+        "fact_date": "2026-11-03"
+      },
+      {
+        "id": "np-last",
+        "kind": "history",
+        "claim": "North Pontotoc boys soccer beat Kosciusko 9-3 on November 5, 2026.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/kosciusko-vs-north-pontotoc-ecru/11-5-2026/?c=2d6c3c49-e3c1-4e1e-8651-06c8dfe30b95",
+          "excerpt": "Kosciusko vs North Pontotoc | Soccer | 11/05/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Kosciusko Boys Varsity Soccer @ North Pontotoc Kosciusko 2-1-1 Whippets 3 Final 9 North Pontotoc 2-0 Vikings Kosciusko Boys Varsity Soccer @ North Pontotoc Game Info On 11/5, the Kosciusko varsity soccer team lost their away non-conference match against North Pontotoc (Ecru, MS) by a score of 9-3.",
+          "subjects": [
+            "North Pontotoc",
+            "Kosciusko"
+          ],
+          "date_excerpt": "11/05/2026"
+        },
+        "fact_date": "2026-11-05"
+      },
+      {
+        "id": "houston-last",
+        "kind": "history",
+        "claim": "Houston boys soccer lost 4-7 to South Panola on November 7, 2026.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/houston-vs-south-panola-batesville/11-7-2026/?c=c7d749ba-1a89-4739-af30-c2efa8707c56#tab=box-score&schoolid=98fa8656-13b5-4c37-9456-6a1730039f48",
+          "excerpt": "Houston vs South Panola | Soccer | 11/07/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Houston Boys Varsity Soccer @ South Panola Houston 2-2-1 Hilltoppers 4 Final 7 South Panola 2-0-1 Tigers Houston Boys Varsity Soccer @ South Panola Game Info On 11/7, the Houston varsity soccer team lost their away non-conference match against South Panola (Batesville, MS) by a score of 7-4.",
+          "subjects": [
+            "Houston",
+            "South Panola"
+          ],
+          "date_excerpt": "11/07/2026"
+        },
+        "fact_date": "2026-11-07"
+      },
+      {
+        "id": "prep-rematch",
+        "kind": "history",
+        "claim": "Jackson Prep boys soccer beat Oak Forest Academy 8-0 on October 29, 2026.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/soccer/match/jackson-prep-ms-vs-oak-forest-academy-amite-la/10-29-2026/?c=fcb5d97d-ec9a-41e0-bf58-fed0b2040f8a",
+          "excerpt": "Oak Forest Academy vs Jackson Prep | Soccer | 10/29/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Oak Forest Academy Boys Varsity Soccer @ Jackson Prep Oak Forest Academy 0-2 Yellowjackets 0 Final 8 Jackson Prep 2-0 Patriots Oak Forest Academy Boys Varsity Soccer @ Jackson Prep Game Info On 10/29, the Oak Forest Academy varsity soccer team lost their away conference match against Jackson Prep (Jackson, MS) by a score of 8-0.",
+          "subjects": [
+            "Jackson Prep",
+            "Oak Forest Academy"
+          ],
+          "date_excerpt": "10/29/2026"
+        },
+        "fact_date": "2026-10-29"
+      },
+      {
+        "id": "purvis-girls-last",
+        "kind": "history",
+        "claim": "Purvis girls soccer won 5-0 at Hattiesburg on November 6, 2026.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/hattiesburg-vs-purvis/11-6-2026/?c=73635046-3a9f-47af-9bbc-ee2c1b735fa3",
+          "excerpt": "Purvis vs Hattiesburg | Soccer | 11/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Purvis Girls Varsity Soccer @ Hattiesburg Purvis 2-0-1 Tornadoes 5 Final 0 Hattiesburg 0-3 Tigers Purvis Girls Varsity Soccer @ Hattiesburg Game Info On 11/6, the Purvis varsity soccer team won their away non-conference match against Hattiesburg (MS) by a score of 5-0.",
+          "subjects": [
+            "Purvis",
+            "Hattiesburg"
+          ],
+          "date_excerpt": "11/06/2026"
+        },
+        "fact_date": "2026-11-06"
+      },
+      {
+        "id": "purvis-boys-last",
+        "kind": "history",
+        "claim": "Purvis boys soccer won 4-0 at Hattiesburg on November 6, 2026.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/hattiesburg-vs-purvis/11-6-2026/?c=54daf2be-b2af-412e-934d-c8ea472ceaf0",
+          "excerpt": "Purvis vs Hattiesburg | Soccer | 11/06/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Purvis Boys Varsity Soccer @ Hattiesburg Purvis 1-0-2 Tornadoes 4 Final 0 Hattiesburg 1-2 Tigers Purvis Boys Varsity Soccer @ Hattiesburg Game Info On 11/6, the Purvis varsity soccer team won their away non-conference match against Hattiesburg (MS) by a score of 4-0.",
+          "subjects": [
+            "Purvis",
+            "Hattiesburg"
+          ],
+          "date_excerpt": "11/06/2026"
+        },
+        "fact_date": "2026-11-06"
+      },
+      {
+        "id": "internal-context",
+        "kind": "context",
+        "claim": "The linked SportsMississippi recap reports Jackson Prep football.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-09",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-06/",
+          "excerpt": "Jackson Prep earned a place in the MAIS Class 4A Division I final Friday, November 6, defeating Jackson Academy 42-21.",
+          "subjects": [
+            "Jackson Prep"
+          ]
+        }
+      }
+    ]
+  }
+}
