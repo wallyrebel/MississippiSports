@@ -1,0 +1,784 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-11-10",
+  "verified_at": "2026-11-11T10:06:06.416981-06:00",
+  "publish": true,
+  "checked_sports": [
+    "basketball",
+    "soccer",
+    "football",
+    "volleyball",
+    "bowling"
+  ],
+  "games": [
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-10",
+      "home": "Center Hill",
+      "away": "Hernando",
+      "status": "final",
+      "home_score": 49,
+      "away_score": 45,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/center-hill-olive-branch-vs-hernando/11-10-2026/?c=2ec698ac-6078-43d0-be13-f108f8d92260",
+        "excerpt": "Hernando vs Center Hill | Basketball | 11/10/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Hernando Boys Varsity Basketball @ Center Hill Hernando 3-1 Tigers 45 Final 49 Center Hill 3-0 Mustangs Hernando Boys Varsity Basketball @ Center Hill Game Info On 11/10, the Hernando varsity basketball team lost their away non-conference game against Center Hill (Olive Branch, MS) by a score of 49-45.",
+        "date_excerpt": "11/10/2026",
+        "home_name": "Center Hill",
+        "away_name": "Hernando"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-10",
+      "home": "Center Hill",
+      "away": "Hernando",
+      "status": "final",
+      "home_score": 49,
+      "away_score": 36,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/center-hill-olive-branch-vs-hernando/11-10-2026/?c=89775b92-b11c-4d03-8694-77c458c52106",
+        "excerpt": "Hernando vs Center Hill | Basketball | 11/10/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Hernando Girls Varsity Basketball @ Center Hill Hernando 0-3 Tigers 36 Final 49 Center Hill 2-1 Mustangs Hernando Girls Varsity Basketball @ Center Hill Game Info On 11/10, the Hernando varsity basketball team lost their away non-conference game against Center Hill (Olive Branch, MS) by a score of 49-36.",
+        "date_excerpt": "11/10/2026",
+        "home_name": "Center Hill",
+        "away_name": "Hernando"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-10",
+      "home": "Tupelo Titans",
+      "away": "Walnut",
+      "status": "final",
+      "home_score": 59,
+      "away_score": 75,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/tupelo-titans-vs-walnut/11-10-2026/?c=a7dc2f53-89a1-4bc1-85b4-deba44d13c34&tab=Stats",
+        "excerpt": "Walnut vs Tupelo Titans | Basketball | 11/10/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Walnut Boys Varsity Basketball @ Tupelo Titans Walnut 2-0 Wildcats 75 Final 59 Tupelo Titans 3-3 Titans Walnut Boys Varsity Basketball @ Tupelo Titans Game Info On 11/10, the Walnut varsity basketball team won their away non-conference game against Tupelo Titans (Tupelo, MS) by a score of 75-59.",
+        "date_excerpt": "11/10/2026",
+        "home_name": "Tupelo Titans",
+        "away_name": "Walnut"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-10",
+      "home": "North Pontotoc",
+      "away": "Lafayette",
+      "status": "final",
+      "home_score": 51,
+      "away_score": 27,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/lafayette-oxford-vs-north-pontotoc-ecru/11-10-2026/?c=d6f73b86-eb56-44c1-a20b-1d8b60df17f8",
+        "excerpt": "Lafayette vs North Pontotoc | Basketball | 11/10/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Lafayette Boys Varsity Basketball @ North Pontotoc Lafayette 2-1 Commodores 27 Final 51 North Pontotoc 3-0 Vikings Lafayette Boys Varsity Basketball @ North Pontotoc Streaming & Ticketing Watch Recap Game Info On 11/10, the Lafayette varsity basketball team lost their away non-conference game against North Pontotoc (Ecru, MS) by a score of 51-27.",
+        "date_excerpt": "11/10/2026",
+        "home_name": "North Pontotoc",
+        "away_name": "Lafayette"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-10",
+      "home": "Nettleton",
+      "away": "Blue Mountain",
+      "status": "final",
+      "home_score": 71,
+      "away_score": 42,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/blue-mountain-vs-nettleton/11-10-2026/?c=e68a8521-623b-4aa9-83f0-0289ee1eb24a",
+        "excerpt": "Blue Mountain vs Nettleton | Basketball | 11/10/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Blue Mountain Boys Varsity Basketball @ Nettleton Blue Mountain 3-1 Cougars 42 Final 71 Nettleton 3-1 Tigers Blue Mountain Boys Varsity Basketball @ Nettleton Game Info On 11/10, the Blue Mountain varsity basketball team lost their away non-conference game against Nettleton (MS) by a score of 71-42.",
+        "date_excerpt": "11/10/2026",
+        "home_name": "Nettleton",
+        "away_name": "Blue Mountain"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-10",
+      "home": "Kossuth",
+      "away": "Tishomingo County",
+      "status": "final",
+      "home_score": 68,
+      "away_score": 54,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/kossuth-vs-tishomingo-county-iuka/11-10-2026/?c=17d40b19-d4f2-4afb-9150-dcf46595edee",
+        "excerpt": "Tishomingo County vs Kossuth | Basketball | 11/10/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Tishomingo County Boys Varsity Basketball @ Kossuth Tishomingo County 0-2 Braves 54 Final 68 Kossuth 1-0 Aggies Tishomingo County Boys Varsity Basketball @ Kossuth Game Info On 11/10, the Tishomingo County varsity basketball team lost their away non-conference game against Kossuth (MS) by a score of 68-54.",
+        "date_excerpt": "11/10/2026",
+        "home_name": "Kossuth",
+        "away_name": "Tishomingo County"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-10",
+      "home": "Terry",
+      "away": "Meridian",
+      "status": "final",
+      "home_score": 46,
+      "away_score": 63,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/meridian-vs-terry/11-10-2026/?c=d97edccb-8b20-4603-a2b2-69602fa376be",
+        "excerpt": "Meridian vs Terry | Basketball | 11/10/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Meridian Girls Varsity Basketball @ Terry Meridian 4-0 Wildcats 63 Final 46 Terry 2-1 Bulldogs Meridian Girls Varsity Basketball @ Terry Game Info On 11/10, the Meridian varsity basketball team won their away non-conference game against Terry (MS) by a score of 63-46.",
+        "date_excerpt": "11/10/2026",
+        "home_name": "Terry",
+        "away_name": "Meridian"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-10",
+      "home": "Corinth",
+      "away": "Oxford",
+      "status": "final",
+      "home_score": 57,
+      "away_score": 62,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-oxford/11-10-2026/?c=6dbf56fa-6ced-41aa-a6e5-2b7bc0b1adde",
+        "excerpt": "Oxford vs Corinth | Basketball | 11/10/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Oxford Girls Varsity Basketball @ Corinth Oxford 3-0 Chargers 62 Final 57 Corinth 1-1 Warriors Oxford Girls Varsity Basketball @ Corinth Game Info On 11/10, the Oxford varsity basketball team won their away non-conference game against Corinth (MS) by a score of 62-57.",
+        "date_excerpt": "11/10/2026",
+        "home_name": "Corinth",
+        "away_name": "Oxford"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-10",
+      "home": "Pontotoc",
+      "away": "DeSoto Central",
+      "status": "final",
+      "home_score": 53,
+      "away_score": 19,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/desoto-central-southaven-vs-pontotoc/11-10-2026/?c=093add3e-80e4-455d-b6b6-30b749178acf",
+        "excerpt": "DeSoto Central vs Pontotoc | Basketball | 11/10/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball DeSoto Central Girls Varsity Basketball @ Pontotoc DeSoto Central 0-2 Jaguars 19 Final 53 Pontotoc 2-0 Warriors DeSoto Central Girls Varsity Basketball @ Pontotoc Game Info On 11/10, the DeSoto Central varsity basketball team lost their away non-conference game against Pontotoc (MS) by a score of 53-19.",
+        "date_excerpt": "11/10/2026",
+        "home_name": "Pontotoc",
+        "away_name": "DeSoto Central"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-10",
+      "home": "New Site",
+      "away": "Alcorn Central",
+      "status": "final",
+      "home_score": 61,
+      "away_score": 38,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen-vs-new-site/11-10-2026/?c=25946a75-8034-4987-9a2f-a1e0ee76a684",
+        "excerpt": "Alcorn Central vs New Site | Basketball | 11/10/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Alcorn Central Girls Varsity Basketball @ New Site Alcorn Central 0-2 Golden Bears 38 Final 61 New Site 4-0 N Royals Alcorn Central Girls Varsity Basketball @ New Site Game Info On 11/10, the Alcorn Central varsity basketball team lost their away non-conference game against New Site (MS) by a score of 61-38.",
+        "date_excerpt": "11/10/2026",
+        "home_name": "New Site",
+        "away_name": "Alcorn Central"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-10",
+      "home": "Nettleton",
+      "away": "Blue Mountain",
+      "status": "final",
+      "home_score": 49,
+      "away_score": 28,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/blue-mountain-vs-nettleton/11-10-2026/?c=eb1a07f4-515e-4b41-8cdb-46f654474872",
+        "excerpt": "Blue Mountain vs Nettleton | Basketball | 11/10/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Blue Mountain Girls Varsity Basketball @ Nettleton Blue Mountain 2-2 Cougars 28 Final 49 Nettleton 1-2 Tigers Blue Mountain Girls Varsity Basketball @ Nettleton Game Info On 11/10, the Blue Mountain varsity basketball team lost their away non-conference game against Nettleton (MS) by a score of 49-28.",
+        "date_excerpt": "11/10/2026",
+        "home_name": "Nettleton",
+        "away_name": "Blue Mountain"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-10",
+      "home": "Tupelo",
+      "away": "New Albany",
+      "status": "final",
+      "home_score": 2,
+      "away_score": 1,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/new-albany-vs-tupelo/11-10-2026/?c=d2f8bb36-8b47-4b77-a055-f067b571fa4d",
+        "excerpt": "New Albany vs Tupelo | Soccer | 11/10/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer New Albany Boys Varsity Soccer @ Tupelo New Albany 2-2 Bulldogs 1 Final 2 Tupelo 2-0 Golden Wave New Albany Boys Varsity Soccer @ Tupelo Game Info On 11/10, the New Albany varsity soccer team lost their away non-conference match against Tupelo (MS) by a score of 2-1.",
+        "date_excerpt": "11/10/2026",
+        "home_name": "Tupelo",
+        "away_name": "New Albany"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-10",
+      "home": "Grenada",
+      "away": "South Pontotoc",
+      "status": "final",
+      "home_score": 0,
+      "away_score": 4,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/grenada-vs-south-pontotoc/11-10-2026/?c=20b9e237-dc06-4da1-95d0-aab3e0daa085",
+        "excerpt": "South Pontotoc vs Grenada | Soccer | 11/10/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer South Pontotoc Boys Varsity Soccer @ Grenada South Pontotoc 1-3 Cougars 4 Final 0 Grenada 2-4 Chargers South Pontotoc Boys Varsity Soccer @ Grenada Game Info On 11/10, the South Pontotoc varsity soccer team won their away non-conference match against Grenada (MS) by a score of 4-0.",
+        "date_excerpt": "11/10/2026",
+        "home_name": "Grenada",
+        "away_name": "South Pontotoc"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-10",
+      "home": "Center Hill",
+      "away": "Lafayette",
+      "status": "final",
+      "home_score": 0,
+      "away_score": 2,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/center-hill-olive-branch-vs-lafayette-oxford/11-10-2026/?c=da882a32-8e6d-4b46-9e72-ffcbb3c688c8",
+        "excerpt": "Lafayette vs Center Hill | Soccer | 11/10/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Lafayette Girls Varsity Soccer @ Center Hill Lafayette 3-0-1 Commodores 2 Final 0 Center Hill 2-1 Mustangs Lafayette Girls Varsity Soccer @ Center Hill Game Info On 11/10, the Lafayette varsity soccer team won their away non-conference match against Center Hill (Olive Branch, MS) by a score of 2-0.",
+        "date_excerpt": "11/10/2026",
+        "home_name": "Center Hill",
+        "away_name": "Lafayette"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-10",
+      "home": "Horn Lake",
+      "away": "Lake Cormorant",
+      "status": "final",
+      "home_score": 2,
+      "away_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/horn-lake-vs-lake-cormorant/11-10-2026/?c=439ff50c-a724-4bad-9856-04cb41e4ffca",
+        "excerpt": "Lake Cormorant vs Horn Lake | Soccer | 11/10/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team Tickets Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Lake Cormorant Girls Varsity Soccer @ Horn Lake Lake Cormorant 0-4-1 0 Final 2 Horn Lake 1-2 Eagles Lake Cormorant Girls Varsity Soccer @ Horn Lake Game Info On 11/10, the Lake Cormorant varsity soccer team lost their away non-conference match against Horn Lake (MS) by a score of 2-0.",
+        "date_excerpt": "11/10/2026",
+        "home_name": "Horn Lake",
+        "away_name": "Lake Cormorant"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-06/",
+      "title": "Earlier varsity recap: Meridian basketball and Center Hill soccer"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Scores from last Night: Center Hill ends Hernando's unbeaten start; Wilbanks leads Walnut",
+    "headline_fact_ids": [
+      "game-0",
+      "records-0",
+      "hernando-first-loss",
+      "game-2",
+      "walnut-box",
+      "wilbanks-identity"
+    ],
+    "html": "<p data-facts=\"game-0 records-0 hernando-first-loss game-2 records-2 walnut-box wilbanks-identity game-6 records-6 game-3 game-7 game-9 game-12 game-13 game-14\">Center Hill handed Hernando its first boys basketball loss Tuesday, November 10, winning a close home game while completing a varsity basketball sweep. Walnut stayed unbeaten behind Logan Wilbanks' all-around performance, and Meridian's girls kept their perfect start with a road victory at Terry. The night also brought wins for North Pontotoc, Oxford and New Site, with shutouts among the selected soccer results.</p>\n<h2 data-facts=\"game-0 game-1 records-0 records-1 hernando-first-loss\">Center Hill scores a home sweep</h2>\n<p data-facts=\"game-0 records-0 hernando-first-loss game-1 records-1\">Center Hill's boys <a href=\"https://www.maxpreps.com/ms/basketball/game/center-hill-olive-branch-vs-hernando/11-10-2026/?c=2ec698ac-6078-43d0-be13-f108f8d92260\">held off Hernando 49-45</a>, moving to a listed 3-0 and leaving the Tigers 3-1. It was Hernando's first loss after three wins, as <a href=\"https://desotocountynews.com/desoto-county-sports/desoto-county-sports-2026-11-11/\">DeSoto County News confirms</a>. The girls also finished on 49 points, <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/center-hill-olive-branch-vs-hernando/11-10-2026/?c=89775b92-b11c-4d03-8694-77c458c52106\">beating Hernando 49-36</a>. The Mustangs were listed at 2-1 afterward, while the Lady Tigers stood at 0-3. The matching winning totals gave Center Hill both games without the boys surrendering their unbeaten record.</p>\n<h2 data-facts=\"game-2 records-2 walnut-box wilbanks-identity\">Wilbanks leads Walnut's unbeaten start</h2>\n<p data-facts=\"game-2 records-2 walnut-box wilbanks-identity bayless-identity cardwell-identity johnson-identity bryant-identity\">Walnut <a href=\"https://www.maxpreps.com/ms/basketball/game/tupelo-titans-vs-walnut/11-10-2026/?c=a7dc2f53-89a1-4bc1-85b4-deba44d13c34&tab=Stats\">won 75-59 at Tupelo Titans</a>, with the Wildcats listed at 2-0 and the Titans at 3-3. <a href=\"https://www.maxpreps.com/ms/walnut/walnut-wildcats/athletes/logan-wilbanks/?careerid=6vjvneo0a4ug0\">Logan Wilbanks</a> scored 22 points, collected nine rebounds and had five assists in Walnut's posted box score. Weston Bayless added 14 points, Sawyer Cardwell 12 and Garrett Johnson 11. Walker Bryant contributed nine points and 13 rebounds. Wilbanks supplied the leading scoring line, while Bryant's rebounding gave the Wildcats another substantial contribution.</p>\n<h2 data-facts=\"game-3 records-3 game-4 records-4 game-5 kossuth-periods\">North Pontotoc stays perfect; Nettleton and Kossuth pull clear</h2>\n<p data-facts=\"game-3 records-3 game-4 records-4 game-10 records-10\">North Pontotoc's boys <a href=\"https://www.maxpreps.com/ms/basketball/game/lafayette-oxford-vs-north-pontotoc-ecru/11-10-2026/?c=d6f73b86-eb56-44c1-a20b-1d8b60df17f8\">beat Lafayette 51-27</a> to reach a listed 3-0, leaving the Commodores 2-1. Nettleton took both basketball games against Blue Mountain. The boys <a href=\"https://www.maxpreps.com/ms/basketball/game/blue-mountain-vs-nettleton/11-10-2026/?c=e68a8521-623b-4aa9-83f0-0289ee1eb24a\">won 71-42</a>, with both teams listed at 3-1 after the result. The girls <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/blue-mountain-vs-nettleton/11-10-2026/?c=eb1a07f4-515e-4b41-8cdb-46f654474872\">won 49-28</a>; Nettleton stood at 1-2 and Blue Mountain at 2-2. The boys result put a first loss on the Cougars' listed record while bringing the Tigers level with them.</p>\n<p data-facts=\"game-5 records-5 kossuth-periods\">Kossuth's boys <a href=\"https://www.maxpreps.com/ms/basketball/game/kossuth-vs-tishomingo-county-iuka/11-10-2026/?c=17d40b19-d4f2-4afb-9150-dcf46595edee\">defeated Tishomingo County 68-54</a>. The Aggies' decisive stretch came in the third quarter, when they outscored the Braves 26-6. The teams then scored 17 apiece in the fourth. Kossuth was listed at 1-0 after the win, with Tishomingo County 0-2.</p>\n<h2 data-facts=\"game-6 records-6 meridian-periods game-7 records-7\">Meridian and Oxford keep girls basketball starts intact</h2>\n<p data-facts=\"game-6 records-6 meridian-periods\">Meridian's girls <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/meridian-vs-terry/11-10-2026/?c=d97edccb-8b20-4603-a2b2-69602fa376be\">won 63-46 at Terry</a>, moving to a listed 4-0 while the Bulldogs stood at 2-1. The Wildcats outscored Terry 19-9 in the third quarter and 20-13 in the fourth. Those second-half periods supplied the separation in a road win that preserved Meridian's unbeaten start.</p>\n<p data-facts=\"game-7 records-7 game-8 records-8 game-9 records-9\">Oxford <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-oxford/11-10-2026/?c=6dbf56fa-6ced-41aa-a6e5-2b7bc0b1adde\">held off Corinth 62-57</a> and was listed at 3-0 afterward. Corinth's overall record is omitted because the checked sources disagree. Pontotoc <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/desoto-central-southaven-vs-pontotoc/11-10-2026/?c=093add3e-80e4-455d-b6b6-30b749178acf\">beat DeSoto Central 53-19</a>, with the Warriors listed at 2-0 and the Jaguars 0-2. New Site <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen-vs-new-site/11-10-2026/?c=25946a75-8034-4987-9a2f-a1e0ee76a684\">defeated Alcorn Central 61-38</a> to reach a listed 4-0; the Golden Bears stood at 0-2. The results extended unbeaten starts through both a close finish at Corinth and wider winning margins elsewhere.</p>\n<h2 data-facts=\"game-11 records-11 tupelo-halves game-12 records-12\">Boys soccer: Tupelo protects its lead; South Pontotoc posts a shutout</h2>\n<p data-facts=\"game-11 records-11 tupelo-halves game-12 records-12\">Tupelo <a href=\"https://www.maxpreps.com/ms/soccer/match/new-albany-vs-tupelo/11-10-2026/?c=d2f8bb36-8b47-4b77-a055-f067b571fa4d\">beat New Albany 2-1</a>, scoring twice in the first half before the Bulldogs answered in the second. The Golden Wave were listed at 2-0 and New Albany at 2-2. South Pontotoc <a href=\"https://www.maxpreps.com/ms/soccer/match/grenada-vs-south-pontotoc/11-10-2026/?c=20b9e237-dc06-4da1-95d0-aab3e0daa085\">won 4-0 at Grenada</a>, recording a clean sheet with the Cougars listed at 1-3 and the Chargers 2-4.</p>\n<h2 data-facts=\"game-13 records-13 game-14 records-14 hornlake-halves\">Girls soccer: Lafayette remains unbeaten, Horn Lake earns a win</h2>\n<p data-facts=\"game-13 records-13 game-14 records-14 hornlake-halves\">Lafayette <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/center-hill-olive-branch-vs-lafayette-oxford/11-10-2026/?c=da882a32-8e6d-4b46-9e72-ffcbb3c688c8\">won 2-0 at Center Hill</a> and was listed at 3-0-1, with the Mustangs at 2-1. Horn Lake <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/horn-lake-vs-lake-cormorant/11-10-2026/?c=439ff50c-a724-4bad-9856-04cb41e4ffca\">beat visiting Lake Cormorant 2-0</a>, scoring once in each half. The Lady Eagles were listed at 1-2 and the Gators 0-4-1. Both winners kept their opponents off the scoreboard, with Lafayette maintaining an unbeaten record and Horn Lake putting a victory on its early-season ledger.</p>\n<p data-facts=\"internal-context\">For more recent Meridian basketball and Center Hill soccer coverage, read our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-11-06/\">earlier Scores from last Night recap</a>.</p>",
+    "facts": [
+      {
+        "id": "records-0",
+        "kind": "record",
+        "claim": "After the result, Hernando boys are listed at 3-1; Center Hill boys at 3-0.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/center-hill-olive-branch-vs-hernando/11-10-2026/?c=2ec698ac-6078-43d0-be13-f108f8d92260",
+          "excerpt": "Hernando 3-1 Tigers 45 Final 49 Center Hill 3-0 Mustangs",
+          "subjects": [
+            "Center Hill",
+            "Hernando"
+          ]
+        }
+      },
+      {
+        "id": "records-1",
+        "kind": "record",
+        "claim": "After the result, Hernando girls are listed at 0-3; Center Hill girls at 2-1.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/center-hill-olive-branch-vs-hernando/11-10-2026/?c=89775b92-b11c-4d03-8694-77c458c52106",
+          "excerpt": "Hernando 0-3 Tigers 36 Final 49 Center Hill 2-1 Mustangs",
+          "subjects": [
+            "Center Hill",
+            "Hernando"
+          ]
+        }
+      },
+      {
+        "id": "records-2",
+        "kind": "record",
+        "claim": "After the result, Walnut boys are listed at 2-0; Tupelo Titans boys at 3-3.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/tupelo-titans-vs-walnut/11-10-2026/?c=a7dc2f53-89a1-4bc1-85b4-deba44d13c34&tab=Stats",
+          "excerpt": "Walnut 2-0 Wildcats 75 Final 59 Tupelo Titans 3-3 Titans",
+          "subjects": [
+            "Tupelo Titans",
+            "Walnut"
+          ]
+        }
+      },
+      {
+        "id": "records-3",
+        "kind": "record",
+        "claim": "After the result, Lafayette boys are listed at 2-1; North Pontotoc boys at 3-0.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/lafayette-oxford-vs-north-pontotoc-ecru/11-10-2026/?c=d6f73b86-eb56-44c1-a20b-1d8b60df17f8",
+          "excerpt": "Lafayette 2-1 Commodores 27 Final 51 North Pontotoc 3-0 Vikings",
+          "subjects": [
+            "North Pontotoc",
+            "Lafayette"
+          ]
+        }
+      },
+      {
+        "id": "records-4",
+        "kind": "record",
+        "claim": "After the result, Blue Mountain boys are listed at 3-1; Nettleton boys at 3-1.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/blue-mountain-vs-nettleton/11-10-2026/?c=e68a8521-623b-4aa9-83f0-0289ee1eb24a",
+          "excerpt": "Blue Mountain 3-1 Cougars 42 Final 71 Nettleton 3-1 Tigers",
+          "subjects": [
+            "Nettleton",
+            "Blue Mountain"
+          ]
+        }
+      },
+      {
+        "id": "records-5",
+        "kind": "record",
+        "claim": "After the result, Tishomingo County boys are listed at 0-2; Kossuth boys at 1-0.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/kossuth-vs-tishomingo-county-iuka/11-10-2026/?c=17d40b19-d4f2-4afb-9150-dcf46595edee",
+          "excerpt": "Tishomingo County 0-2 Braves 54 Final 68 Kossuth 1-0 Aggies",
+          "subjects": [
+            "Kossuth",
+            "Tishomingo County"
+          ]
+        }
+      },
+      {
+        "id": "records-6",
+        "kind": "record",
+        "claim": "After the result, Meridian girls are listed at 4-0; Terry girls at 2-1.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/meridian-vs-terry/11-10-2026/?c=d97edccb-8b20-4603-a2b2-69602fa376be",
+          "excerpt": "Meridian 4-0 Wildcats 63 Final 46 Terry 2-1 Bulldogs",
+          "subjects": [
+            "Terry",
+            "Meridian"
+          ]
+        }
+      },
+      {
+        "id": "records-7",
+        "kind": "record",
+        "claim": "Oxford girls are listed at 3-0 after the win; Corinth record is omitted because sources conflict.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-oxford/11-10-2026/?c=6dbf56fa-6ced-41aa-a6e5-2b7bc0b1adde",
+          "excerpt": "Oxford 3-0 Chargers",
+          "subjects": [
+            "Oxford"
+          ]
+        }
+      },
+      {
+        "id": "records-8",
+        "kind": "record",
+        "claim": "After the result, DeSoto Central girls are listed at 0-2; Pontotoc girls at 2-0.",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/desoto-central-southaven-vs-pontotoc/11-10-2026/?c=093add3e-80e4-455d-b6b6-30b749178acf",
+          "excerpt": "DeSoto Central 0-2 Jaguars 19 Final 53 Pontotoc 2-0 Warriors",
+          "subjects": [
+            "Pontotoc",
+            "DeSoto Central"
+          ]
+        }
+      },
+      {
+        "id": "records-9",
+        "kind": "record",
+        "claim": "After the result, Alcorn Central girls are listed at 0-2; New Site girls at 4-0.",
+        "game_indexes": [
+          9
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/alcorn-central-glen-vs-new-site/11-10-2026/?c=25946a75-8034-4987-9a2f-a1e0ee76a684",
+          "excerpt": "Alcorn Central 0-2 Golden Bears 38 Final 61 New Site 4-0 N Royals",
+          "subjects": [
+            "New Site",
+            "Alcorn Central"
+          ]
+        }
+      },
+      {
+        "id": "records-10",
+        "kind": "record",
+        "claim": "After the result, Blue Mountain girls are listed at 2-2; Nettleton girls at 1-2.",
+        "game_indexes": [
+          10
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/blue-mountain-vs-nettleton/11-10-2026/?c=eb1a07f4-515e-4b41-8cdb-46f654474872",
+          "excerpt": "Blue Mountain 2-2 Cougars 28 Final 49 Nettleton 1-2 Tigers",
+          "subjects": [
+            "Nettleton",
+            "Blue Mountain"
+          ]
+        }
+      },
+      {
+        "id": "records-11",
+        "kind": "record",
+        "claim": "After the result, New Albany boys are listed at 2-2; Tupelo boys at 2-0.",
+        "game_indexes": [
+          11
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/new-albany-vs-tupelo/11-10-2026/?c=d2f8bb36-8b47-4b77-a055-f067b571fa4d",
+          "excerpt": "New Albany 2-2 Bulldogs 1 Final 2 Tupelo 2-0 Golden Wave",
+          "subjects": [
+            "Tupelo",
+            "New Albany"
+          ]
+        }
+      },
+      {
+        "id": "records-12",
+        "kind": "record",
+        "claim": "After the result, South Pontotoc boys are listed at 1-3; Grenada boys at 2-4.",
+        "game_indexes": [
+          12
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/grenada-vs-south-pontotoc/11-10-2026/?c=20b9e237-dc06-4da1-95d0-aab3e0daa085",
+          "excerpt": "South Pontotoc 1-3 Cougars 4 Final 0 Grenada 2-4 Chargers",
+          "subjects": [
+            "Grenada",
+            "South Pontotoc"
+          ]
+        }
+      },
+      {
+        "id": "records-13",
+        "kind": "record",
+        "claim": "After the result, Lafayette girls are listed at 3-0-1; Center Hill girls at 2-1.",
+        "game_indexes": [
+          13
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/center-hill-olive-branch-vs-lafayette-oxford/11-10-2026/?c=da882a32-8e6d-4b46-9e72-ffcbb3c688c8",
+          "excerpt": "Lafayette 3-0-1 Commodores 2 Final 0 Center Hill 2-1 Mustangs",
+          "subjects": [
+            "Center Hill",
+            "Lafayette"
+          ]
+        }
+      },
+      {
+        "id": "records-14",
+        "kind": "record",
+        "claim": "After the result, Lake Cormorant girls are listed at 0-4-1; Horn Lake girls at 1-2.",
+        "game_indexes": [
+          14
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/horn-lake-vs-lake-cormorant/11-10-2026/?c=439ff50c-a724-4bad-9856-04cb41e4ffca",
+          "excerpt": "Lake Cormorant 0-4-1 0 Final 2 Horn Lake 1-2 Eagles",
+          "subjects": [
+            "Horn Lake",
+            "Lake Cormorant"
+          ]
+        }
+      },
+      {
+        "id": "hernando-first-loss",
+        "kind": "stakes",
+        "claim": "Center Hill handed Hernando its first boys basketball loss after three wins.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://desotocountynews.com/desoto-county-sports/desoto-county-sports-2026-11-11/",
+          "excerpt": "handing Hernando its first loss after three wins.",
+          "subjects": [
+            "Hernando"
+          ]
+        }
+      },
+      {
+        "id": "meridian-periods",
+        "kind": "context",
+        "claim": "Meridian girls outscored Terry 19-9 in the third quarter and 20-13 in the fourth.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/meridian-vs-terry/11-10-2026/?c=d97edccb-8b20-4603-a2b2-69602fa376be",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Meridian 13 11 19 20 63 Terry 15 9 9 13 46",
+          "subjects": [
+            "Meridian",
+            "Terry"
+          ]
+        }
+      },
+      {
+        "id": "kossuth-periods",
+        "kind": "context",
+        "claim": "Kossuth boys outscored Tishomingo County 26-6 in the third quarter; each team scored 17 in the fourth.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/kossuth-vs-tishomingo-county-iuka/11-10-2026/?c=17d40b19-d4f2-4afb-9150-dcf46595edee",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Tishomingo County 18 13 6 17 54 Kossuth 12 13 26 17 68",
+          "subjects": [
+            "Kossuth",
+            "Tishomingo County"
+          ]
+        }
+      },
+      {
+        "id": "tupelo-halves",
+        "kind": "context",
+        "claim": "Tupelo boys scored twice in the first half; New Albany scored once in the second half.",
+        "game_indexes": [
+          11
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/new-albany-vs-tupelo/11-10-2026/?c=d2f8bb36-8b47-4b77-a055-f067b571fa4d",
+          "excerpt": "Boxscore 1 2 Final New Albany 0 1 1 Tupelo 2 0 2",
+          "subjects": [
+            "Tupelo",
+            "New Albany"
+          ]
+        }
+      },
+      {
+        "id": "hornlake-halves",
+        "kind": "context",
+        "claim": "Horn Lake girls scored once in each half against Lake Cormorant.",
+        "game_indexes": [
+          14
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/horn-lake-vs-lake-cormorant/11-10-2026/?c=439ff50c-a724-4bad-9856-04cb41e4ffca",
+          "excerpt": "Boxscore 1 2 Final Lake Cormorant 0 0 0 Horn Lake 1 1 2",
+          "subjects": [
+            "Horn Lake",
+            "Lake Cormorant"
+          ]
+        }
+      },
+      {
+        "id": "walnut-box",
+        "kind": "result",
+        "claim": "Walnut box score: L. Wilbanks 22 points, 9 rebounds and 5 assists; W. Bayless 14 points; S. Cardwell 12 points; G. Johnson 11 points; W. Bryant 9 points and 13 rebounds.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/tupelo-titans-vs-walnut/11-10-2026/?c=a7dc2f53-89a1-4bc1-85b4-deba44d13c34&tab=Stats",
+          "excerpt": "Totals # Name Min Pts OReb DReb Reb Ast Stl Blk TO PF Team Totals 75 16 20 36 13 13 4 14 18 1 J. Luster (Sr) 4 3 2 5 0 5 1 0 5 2 S. Cardwell (Jr) 12 2 2 4 2 0 1 0 1 3 L. Wilbanks (Sr) 22 2 7 9 5 3 0 2 3 4 J. McAlister (So) 3 2 1 3 4 0 0 3 4 5 W. Bayless (Jr) 14 1 0 1 1 3 0 4 0 11 G. Johnson (So) 11 0 1 1 0 0 0 0 1 12 W. Bryant (Fr) 9 6 7 13 1 2 2 5 4",
+          "subjects": [
+            "L. Wilbanks",
+            "W. Bayless",
+            "S. Cardwell",
+            "G. Johnson",
+            "W. Bryant"
+          ]
+        }
+      },
+      {
+        "id": "wilbanks-identity",
+        "kind": "context",
+        "claim": "The Walnut game box score links L. Wilbanks to the public profile of Logan Wilbanks.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/athletes/logan-wilbanks/?careerid=6vjvneo0a4ug0",
+          "excerpt": "MS Walnut Logan Wilbanks Logan Wilbanks",
+          "subjects": [
+            "Logan Wilbanks",
+            "Walnut"
+          ]
+        }
+      },
+      {
+        "id": "bayless-identity",
+        "kind": "context",
+        "claim": "The Walnut game box score links W. Bayless to the public profile of Weston Bayless.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/athletes/weston-bayless/?careerid=7i4ppeucti0dd",
+          "excerpt": "MS Walnut Weston Bayless Weston Bayless",
+          "subjects": [
+            "Weston Bayless",
+            "Walnut"
+          ]
+        }
+      },
+      {
+        "id": "cardwell-identity",
+        "kind": "context",
+        "claim": "The Walnut game box score links S. Cardwell to the public profile of Sawyer Cardwell.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/athletes/sawyer-cardwell/?careerid=ujf04bcoltjue",
+          "excerpt": "MS Walnut Sawyer Cardwell Sawyer Cardwell",
+          "subjects": [
+            "Sawyer Cardwell",
+            "Walnut"
+          ]
+        }
+      },
+      {
+        "id": "johnson-identity",
+        "kind": "context",
+        "claim": "The Walnut game box score links G. Johnson to the public profile of Garrett Johnson.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/athletes/garrett-johnson/?careerid=c2ll7rchdbp33",
+          "excerpt": "MS Walnut Garrett Johnson Garrett Johnson",
+          "subjects": [
+            "Garrett Johnson",
+            "Walnut"
+          ]
+        }
+      },
+      {
+        "id": "bryant-identity",
+        "kind": "context",
+        "claim": "The Walnut game box score links W. Bryant to the public profile of Walker Bryant.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/athletes/walker-bryant/?careerid=2uqmp7o1utlm6",
+          "excerpt": "MS Walnut Walker Bryant Walker Bryant",
+          "subjects": [
+            "Walker Bryant",
+            "Walnut"
+          ]
+        }
+      },
+      {
+        "id": "internal-context",
+        "kind": "context",
+        "claim": "The linked SportsMississippi recap includes Meridian basketball and Center Hill soccer.",
+        "game_indexes": [
+          0,
+          6,
+          13
+        ],
+        "as_of_date": "2026-11-10",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-06/",
+          "excerpt": "Away from football, Meridian swept its basketball games at Starkville, Brandon and Northwest Rankin won girls soccer meetings between unbeaten teams, and Center Hill and DeSoto Central split penalty-shootout decisions.",
+          "subjects": [
+            "Meridian",
+            "Center Hill"
+          ]
+        }
+      }
+    ]
+  }
+}
