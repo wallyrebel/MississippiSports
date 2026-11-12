@@ -1,0 +1,265 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-11-12",
+  "verified_at": "2026-11-12T15:09:40.822101-06:00",
+  "publish": true,
+  "checked_sports": [
+    "soccer",
+    "basketball"
+  ],
+  "games": [
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-12",
+      "home": "Center Hill",
+      "away": "Lewisburg",
+      "status": "scheduled",
+      "start_time": "2026-11-12T17:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/center-hill-olive-branch-vs-lewisburg-olive-branch/11-12-2026/?c=bc0412e7-150e-401b-88c2-45e9d011d4a7",
+        "excerpt": "Lewisburg vs Center Hill | Soccer | 11/12/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Lewisburg Girls Varsity Soccer @ Center Hill Lewisburg Patriots 3-0 Thursday, Nov 12, 2026 5:00pm CST Center Hill Mustangs 2-1 Lewisburg Girls Varsity Soccer @ Center Hill Streaming & Ticketing Purchase Tickets Game Info The Lewisburg varsity soccer team has an away non-conference match @ Center Hill (Olive Branch, MS) today @ 5p.",
+        "date_excerpt": "11/12/2026",
+        "time_excerpt": "5:00pm CST",
+        "home_name": "Center Hill",
+        "away_name": "Lewisburg"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-12",
+      "home": "Center Hill",
+      "away": "Lewisburg",
+      "status": "scheduled",
+      "start_time": "2026-11-12T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/center-hill-olive-branch-vs-lewisburg-olive-branch/11-12-2026/?c=7d928a09-8238-4b9e-8237-65bd3bbf0fcc",
+        "excerpt": "Lewisburg vs Center Hill | Soccer | 11/12/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Lewisburg Boys Varsity Soccer @ Center Hill Lewisburg Patriots 2-0 Thursday, Nov 12, 2026 7:00pm CST Center Hill Mustangs 3-1 Lewisburg Boys Varsity Soccer @ Center Hill Streaming & Ticketing Purchase Tickets Game Info The Lewisburg varsity soccer team has an away non-conference match @ Center Hill (Olive Branch, MS) today @ 7p.",
+        "date_excerpt": "11/12/2026",
+        "time_excerpt": "7:00pm CST",
+        "home_name": "Center Hill",
+        "away_name": "Lewisburg"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-12",
+      "home": "South Panola",
+      "away": "Hernando",
+      "status": "scheduled",
+      "start_time": "2026-11-12T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/hernando-vs-south-panola-batesville/11-12-2026/?c=29bd75c3-c1da-471e-92fe-eee6628faf11",
+        "excerpt": "Hernando vs South Panola | Basketball | 11/12/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Hernando Girls Varsity Basketball @ South Panola Hernando Tigers 0-3 Thursday, Nov 12, 2026 6:00pm CST South Panola Tigers 3-0 Hernando Girls Varsity Basketball @ South Panola Streaming & Ticketing Purchase Tickets Game Info The Hernando varsity basketball team has an away non-conference game @ South Panola (Batesville, MS) today @ 6p.",
+        "date_excerpt": "11/12/2026",
+        "time_excerpt": "6:00pm CST",
+        "home_name": "South Panola",
+        "away_name": "Hernando"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-12",
+      "home": "Walnut",
+      "away": "Corinth",
+      "status": "scheduled",
+      "start_time": "2026-11-12T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-walnut/11-12-2026/?c=8842981d-5da2-435a-bfaa-1ef5694af8ac",
+        "excerpt": "Corinth vs Walnut | Basketball | 11/12/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Corinth Girls Varsity Basketball @ Walnut Corinth Warriors 1-1 Thursday, Nov 12, 2026 6:00pm CST Walnut Wildcats 3-0 Corinth Girls Varsity Basketball @ Walnut Game Info The Corinth varsity basketball team has an away non-conference game @ Walnut (MS) today @ 6p.",
+        "date_excerpt": "11/12/2026",
+        "time_excerpt": "6:00pm CST",
+        "home_name": "Walnut",
+        "away_name": "Corinth"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-10/",
+      "title": "Recent roundup including Center Hill, Hernando and Walnut boys basketball"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: Lewisburg brings unbeaten soccer teams to Center Hill",
+    "headline_fact_ids": [
+      "game-0",
+      "game-1",
+      "records-0",
+      "records-1"
+    ],
+    "html": "<p data-facts=\"game-0 game-1 records-0 records-1 site-0 site-1 game-2 game-3 records-2 records-3\">Lewisburg puts two unbeaten soccer starts on the line at Center Hill on Thursday, November 12. The girls open at 5 p.m. Central, with the boys following at 7 p.m., giving the Patriots two road tests against hosts who also carry winning records. On the basketball court, South Panola and Walnut each enter a 6 p.m. girls game at 3-0. Their visitors arrive in different positions: Hernando is looking for its first listed win, while Corinth brings a 1-1 record.</p>\n<h2 data-facts=\"game-0 game-1 records-0 records-1\">Soccer: Lewisburg takes its winning starts to Center Hill</h2>\n<p data-facts=\"game-0 records-0 site-0\">The <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/center-hill-olive-branch-vs-lewisburg-olive-branch/11-12-2026/?c=bc0412e7-150e-401b-88c2-45e9d011d4a7\">girls matchup in Olive Branch</a> pairs Lewisburg’s listed 3-0 record with Center Hill’s 2-1 mark. The 5 p.m. start offers Lewisburg a chance to add another win away from home while Center Hill can halt the visitors’ unbeaten opening. The non-district meeting brings together teams that have each won more often than they have lost.</p>\n<p data-facts=\"game-1 records-1 site-1\">The <a href=\"https://www.maxpreps.com/ms/soccer/match/center-hill-olive-branch-vs-lewisburg-olive-branch/11-12-2026/?c=7d928a09-8238-4b9e-8237-65bd3bbf0fcc\">boys take over at 7 p.m.</a> with Lewisburg listed at 2-0 and Center Hill at 3-1. Center Hill has more wins on the current matchup listing, while Lewisburg has yet to take a loss. The Patriots can leave with their unbeaten mark intact only by adding a road result against a side that already has three wins. Like the girls opener, this is a non-district match.</p>\n<h2 data-facts=\"game-2 game-3 records-2 records-3\">Girls basketball: unbeaten hosts face different challenges</h2>\n<p data-facts=\"game-2 records-2 site-2\">In Batesville, <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/hernando-vs-south-panola-batesville/11-12-2026/?c=29bd75c3-c1da-471e-92fe-eee6628faf11\">South Panola hosts Hernando at 6 p.m.</a> The current listing has South Panola at 3-0 and Hernando at 0-3. South Panola can extend its perfect start to four wins; Hernando has the opportunity to break through against an opponent that has not yet lost. The non-district meeting puts South Panola’s winning run against Hernando’s search for a breakthrough.</p>\n<p data-facts=\"game-3 records-3 site-3\">Farther north, <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-walnut/11-12-2026/?c=8842981d-5da2-435a-bfaa-1ef5694af8ac\">Walnut welcomes Corinth at 6 p.m.</a> with another unbeaten start to protect on its home floor. Walnut is listed at 3-0 and Corinth at 1-1, making this a chance for the Wildcats to keep their opening run intact or for the Warriors to move to a winning record. The game is non-district.</p>\n<p data-facts=\"internal-context\">For broader recent coverage of some of these schools, our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-11-10/\">November 10 scores roundup</a> includes boys basketball involving Center Hill, Hernando and Walnut.</p>",
+    "facts": [
+      {
+        "id": "records-0",
+        "kind": "record",
+        "claim": "The current girls soccer matchup lists Lewisburg at 3-0 and Center Hill at 2-1.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/center-hill-olive-branch-vs-lewisburg-olive-branch/11-12-2026/?c=bc0412e7-150e-401b-88c2-45e9d011d4a7",
+          "excerpt": "Lewisburg Patriots 3-0 Thursday, Nov 12, 2026 5:00pm CST Center Hill Mustangs 2-1",
+          "subjects": [
+            "Center Hill",
+            "Lewisburg"
+          ]
+        }
+      },
+      {
+        "id": "site-0",
+        "kind": "schedule",
+        "claim": "The Lewisburg varsity soccer team has an away non-conference match @ Center Hill (Olive Branch, MS) today @ 5p.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/center-hill-olive-branch-vs-lewisburg-olive-branch/11-12-2026/?c=bc0412e7-150e-401b-88c2-45e9d011d4a7",
+          "excerpt": "The Lewisburg varsity soccer team has an away non-conference match @ Center Hill (Olive Branch, MS) today @ 5p.",
+          "subjects": [
+            "Center Hill",
+            "Lewisburg"
+          ]
+        }
+      },
+      {
+        "id": "records-1",
+        "kind": "record",
+        "claim": "The current boys soccer matchup lists Lewisburg at 2-0 and Center Hill at 3-1.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/center-hill-olive-branch-vs-lewisburg-olive-branch/11-12-2026/?c=7d928a09-8238-4b9e-8237-65bd3bbf0fcc",
+          "excerpt": "Lewisburg Patriots 2-0 Thursday, Nov 12, 2026 7:00pm CST Center Hill Mustangs 3-1",
+          "subjects": [
+            "Center Hill",
+            "Lewisburg"
+          ]
+        }
+      },
+      {
+        "id": "site-1",
+        "kind": "schedule",
+        "claim": "The Lewisburg varsity soccer team has an away non-conference match @ Center Hill (Olive Branch, MS) today @ 7p.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/center-hill-olive-branch-vs-lewisburg-olive-branch/11-12-2026/?c=7d928a09-8238-4b9e-8237-65bd3bbf0fcc",
+          "excerpt": "The Lewisburg varsity soccer team has an away non-conference match @ Center Hill (Olive Branch, MS) today @ 7p.",
+          "subjects": [
+            "Center Hill",
+            "Lewisburg"
+          ]
+        }
+      },
+      {
+        "id": "records-2",
+        "kind": "record",
+        "claim": "The current girls basketball matchup lists Hernando at 0-3 and South Panola at 3-0.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/hernando-vs-south-panola-batesville/11-12-2026/?c=29bd75c3-c1da-471e-92fe-eee6628faf11",
+          "excerpt": "Hernando Tigers 0-3 Thursday, Nov 12, 2026 6:00pm CST South Panola Tigers 3-0",
+          "subjects": [
+            "South Panola",
+            "Hernando"
+          ]
+        }
+      },
+      {
+        "id": "site-2",
+        "kind": "schedule",
+        "claim": "The Hernando varsity basketball team has an away non-conference game @ South Panola (Batesville, MS) today @ 6p.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/hernando-vs-south-panola-batesville/11-12-2026/?c=29bd75c3-c1da-471e-92fe-eee6628faf11",
+          "excerpt": "The Hernando varsity basketball team has an away non-conference game @ South Panola (Batesville, MS) today @ 6p.",
+          "subjects": [
+            "South Panola",
+            "Hernando"
+          ]
+        }
+      },
+      {
+        "id": "records-3",
+        "kind": "record",
+        "claim": "The current girls basketball matchup lists Corinth at 1-1 and Walnut at 3-0.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-walnut/11-12-2026/?c=8842981d-5da2-435a-bfaa-1ef5694af8ac",
+          "excerpt": "Corinth Warriors 1-1 Thursday, Nov 12, 2026 6:00pm CST Walnut Wildcats 3-0",
+          "subjects": [
+            "Walnut",
+            "Corinth"
+          ]
+        }
+      },
+      {
+        "id": "site-3",
+        "kind": "schedule",
+        "claim": "The Corinth varsity basketball team has an away non-conference game @ Walnut (MS) today @ 6p.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-walnut/11-12-2026/?c=8842981d-5da2-435a-bfaa-1ef5694af8ac",
+          "excerpt": "The Corinth varsity basketball team has an away non-conference game @ Walnut (MS) today @ 6p.",
+          "subjects": [
+            "Walnut",
+            "Corinth"
+          ]
+        }
+      },
+      {
+        "id": "internal-context",
+        "kind": "context",
+        "claim": "The November 10 SportsMississippi roundup covers boys basketball involving Center Hill, Hernando and Walnut.",
+        "game_indexes": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "as_of_date": "2026-11-12",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-10/",
+          "excerpt": "Center Hill handed Hernando its first boys basketball loss Tuesday, November 10, winning a close home game while completing a varsity basketball sweep. Walnut stayed unbeaten behind Logan Wilbanks",
+          "subjects": [
+            "Center Hill",
+            "Hernando",
+            "Walnut"
+          ]
+        }
+      }
+    ]
+  }
+}
