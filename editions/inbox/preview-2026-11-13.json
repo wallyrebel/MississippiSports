@@ -1,0 +1,567 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-11-13",
+  "verified_at": "2026-11-13T15:28:13.030961-06:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "basketball",
+    "soccer"
+  ],
+  "games": [
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-13",
+      "away": "Starkville",
+      "home": "Tupelo",
+      "status": "scheduled",
+      "start_time": "2026-11-13T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/starkville-vs-tupelo/11-13-2026/?c=77798906-f77e-4f45-8fc9-f6a878798fa6",
+        "excerpt": "Starkville vs Tupelo | Football | 11/13/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Starkville Varsity Football @ Tupelo Starkville Yellowjackets 7-3 Friday, Nov 13, 2026 7:00pm CST Tupelo Golden Wave 11-0 Starkville Varsity Football @ Tupelo Streaming & Ticketing Purchase Tickets Game Info The Starkville varsity football team has an away playoff game @ Tupelo (MS) today @ 7p.",
+        "date_excerpt": "11/13/2026",
+        "time_excerpt": "7:00pm CST",
+        "home_name": "Tupelo",
+        "away_name": "Starkville"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-13",
+      "away": "Brandon",
+      "home": "Gulfport",
+      "status": "scheduled",
+      "start_time": "2026-11-13T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/brandon-vs-gulfport/11-13-2026/?c=07e7bfbf-881a-407a-aa3d-77c4bdc26dc2",
+        "excerpt": "Brandon vs Gulfport | Football | 11/13/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Brandon Varsity Football @ Gulfport Brandon Bulldogs 7-3 Friday, Nov 13, 2026 7:00pm CST Gulfport Admirals 9-1 Brandon Varsity Football @ Gulfport Streaming & Ticketing Purchase Tickets Game Info The Brandon varsity football team has an away playoff game @ Gulfport (MS) today @ 7p.",
+        "date_excerpt": "11/13/2026",
+        "time_excerpt": "7:00pm CST",
+        "home_name": "Gulfport",
+        "away_name": "Brandon"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-13",
+      "away": "Kossuth",
+      "home": "Winona",
+      "status": "scheduled",
+      "start_time": "2026-11-13T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/kossuth-vs-winona/11-13-2026/?c=b0d32ffc-022f-4e65-87d1-39b36ca32ba8",
+        "excerpt": "Kossuth vs Winona | Football | 11/13/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Kossuth Varsity Football @ Winona Kossuth Aggies 7-3 Friday, Nov 13, 2026 7:00pm CST Winona Tigers 11-0 Kossuth Varsity Football @ Winona Game Info The Kossuth varsity football team has an away playoff game @ Winona (MS) today @ 7p.",
+        "date_excerpt": "11/13/2026",
+        "time_excerpt": "7:00pm CST",
+        "home_name": "Winona",
+        "away_name": "Kossuth"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-13",
+      "away": "Ridgeland",
+      "home": "Lake Cormorant",
+      "status": "scheduled",
+      "start_time": "2026-11-13T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/lake-cormorant-vs-ridgeland/11-13-2026/?c=79149b0f-04cd-4b8d-b054-ccb86761aba7",
+        "excerpt": "Ridgeland vs Lake Cormorant | Football | 11/13/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Ridgeland Varsity Football @ Lake Cormorant Ridgeland Titans 5-5 Friday, Nov 13, 2026 7:00pm CST Lake Cormorant 10-0 Ridgeland Varsity Football @ Lake Cormorant Streaming & Ticketing Purchase Tickets Game Info The Ridgeland varsity football team has an away playoff game @ Lake Cormorant (MS) today @ 7p.",
+        "date_excerpt": "11/13/2026",
+        "time_excerpt": "7:00pm CST",
+        "home_name": "Lake Cormorant",
+        "away_name": "Ridgeland"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-13",
+      "away": "North Pontotoc",
+      "home": "Houston",
+      "status": "scheduled",
+      "start_time": "2026-11-13T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/houston-vs-north-pontotoc-ecru/11-13-2026/?c=344ca23d-a2b0-477d-8123-b6f32751ef94",
+        "excerpt": "North Pontotoc vs Houston | Basketball | 11/13/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball North Pontotoc Girls Varsity Basketball @ Houston North Pontotoc Vikings 4-1 Friday, Nov 13, 2026 6:00pm CST Houston Hilltoppers 2-0 North Pontotoc Girls Varsity Basketball @ Houston Game Info The North Pontotoc varsity basketball team has an away non-conference game @ Houston (MS) today @ 6p.",
+        "date_excerpt": "11/13/2026",
+        "time_excerpt": "6:00pm CST",
+        "home_name": "Houston",
+        "away_name": "North Pontotoc"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-13",
+      "away": "North Pontotoc",
+      "home": "Houston",
+      "status": "scheduled",
+      "start_time": "2026-11-13T19:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/houston-vs-north-pontotoc-ecru/11-13-2026/?c=1d36a9a5-d93f-485a-bf2f-aeec475d5944",
+        "excerpt": "North Pontotoc vs Houston | Basketball | 11/13/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball North Pontotoc Boys Varsity Basketball @ Houston North Pontotoc Vikings 4-0 Friday, Nov 13, 2026 7:30pm CST Houston Hilltoppers 1-0 North Pontotoc Boys Varsity Basketball @ Houston Game Info The North Pontotoc varsity basketball team has an away non-conference game @ Houston (MS) today @ 7:30p.",
+        "date_excerpt": "11/13/2026",
+        "time_excerpt": "7:30pm CST",
+        "home_name": "Houston",
+        "away_name": "North Pontotoc"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-13",
+      "away": "Clinton",
+      "home": "St. Patrick",
+      "status": "scheduled",
+      "start_time": "2026-11-13T17:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/clinton-vs-st-patrick-biloxi/11-13-2026/?c=b3d0a81e-1ab4-4a58-b361-268564f53581",
+        "excerpt": "Clinton vs St. Patrick | Soccer | 11/13/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Clinton Girls Varsity Soccer @ St. Patrick Clinton Arrows 3-0 Friday, Nov 13, 2026 5:30pm CST St. Patrick Fighting Irish 3-2 Clinton Girls Varsity Soccer @ St. Patrick Streaming & Ticketing Purchase Tickets Game Info The Clinton varsity soccer team has an away non-conference match @ St. Patrick (Biloxi, MS) today @ 5:30p.",
+        "date_excerpt": "11/13/2026",
+        "time_excerpt": "5:30pm CST",
+        "home_name": "St. Patrick",
+        "away_name": "Clinton"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-13",
+      "away": "Clinton",
+      "home": "St. Patrick",
+      "status": "scheduled",
+      "start_time": "2026-11-13T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/clinton-vs-st-patrick-biloxi/11-13-2026/?c=87119b64-8f71-4d27-843f-c4e6f80dbe2a",
+        "excerpt": "Clinton vs St. Patrick | Soccer | 11/13/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Clinton Boys Varsity Soccer @ St. Patrick Clinton Arrows 1-2 Friday, Nov 13, 2026 7:00pm CST St. Patrick Fighting Irish 1-2-1 Clinton Boys Varsity Soccer @ St. Patrick Streaming & Ticketing Purchase Tickets Game Info The Clinton varsity soccer team has an away non-conference match @ St. Patrick (Biloxi, MS) today @ 7p.",
+        "date_excerpt": "11/13/2026",
+        "time_excerpt": "7:00pm CST",
+        "home_name": "St. Patrick",
+        "away_name": "Clinton"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-05/",
+      "title": "Earlier football roundup: Tupelo and Lake Cormorant"
+    },
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-10/",
+      "title": "Earlier North Pontotoc basketball coverage"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: Unbeaten hosts face playoff tests from Tupelo to Winona",
+    "headline_fact_ids": [
+      "game-0",
+      "game-2",
+      "records-0",
+      "records-2",
+      "site-0",
+      "site-2"
+    ],
+    "html": "<p data-facts=\"game-0 game-1 game-2 game-3 records-0 records-1 records-2 records-3 site-0 site-1 site-2 site-3 game-4 game-5 game-6 records-4 records-5 records-6 site-4 site-5 site-6\">Tupelo, Winona and Lake Cormorant take unbeaten football records into home playoff games Friday, November 13, with three visiting teams trying to end both a perfect run and a postseason bid. Starkville goes to Tupelo, Kossuth visits Winona and Ridgeland heads to Lake Cormorant. All three kick off at 7 p.m. Central, as does Brandon’s playoff trip to Gulfport. The evening also offers unbeaten starts to watch on the basketball court in Houston and on the soccer field in Biloxi.</p>\n<h2 data-facts=\"game-0 records-0 site-0 round-0\">Football: Tupelo’s perfect run meets Starkville</h2>\n<p data-facts=\"game-0 records-0 site-0 round-0 internal-football regular-season\">The <a href=\"https://www.maxpreps.com/ms/football/game/starkville-vs-tupelo/11-13-2026/?c=77798906-f77e-4f45-8fc9-f6a878798fa6\">Starkville–Tupelo matchup</a> lists the Golden Wave at 11-0 and the Yellowjackets at 7-3 entering a first-round playoff game. Tupelo has the unbeaten record and the home field, but Friday requires a postseason result to keep its season going. Starkville’s road assignment is to deliver the first loss to a host that has won every listed game. Our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-11-05/\">earlier football roundup</a> followed Tupelo and Lake Cormorant as they completed unbeaten regular seasons.</p>\n<p data-facts=\"game-2 game-3 records-2 records-3 site-2 site-3 round-2 round-3 regular-season\">The challenge is similar for Kossuth and Ridgeland, although the playoff rounds differ. <a href=\"https://www.maxpreps.com/ms/football/game/kossuth-vs-winona/11-13-2026/?c=b0d32ffc-022f-4e65-87d1-39b36ca32ba8\">Kossuth, listed at 7-3, visits 11-0 Winona</a> in the Class 3A North second round. Kossuth is trying to make its postseason run continue on the road against a host that has yet to lose. <a href=\"https://www.maxpreps.com/ms/football/game/lake-cormorant-vs-ridgeland/11-13-2026/?c=79149b0f-04cd-4b8d-b054-ccb86761aba7\">Lake Cormorant hosts 5-5 Ridgeland</a> in a first-round game with the hosts listed at 10-0. That pairing moves Lake Cormorant from protecting a perfect regular season to playing for its next postseason step.</p>\n<p data-facts=\"game-1 records-1 site-1\">On the Coast, <a href=\"https://www.maxpreps.com/ms/football/game/brandon-vs-gulfport/11-13-2026/?c=07e7bfbf-881a-407a-aa3d-77c4bdc26dc2\">Brandon visits Gulfport at 7 p.m.</a> with the Bulldogs listed at 7-3 and the Admirals at 9-1. Gulfport’s record gives it the stronger winning percentage entering the matchup, while Brandon brings seven wins into an away playoff game.</p>\n<h2 data-facts=\"game-4 game-5 records-4 records-5\">Basketball: North Pontotoc and Houston put winning starts together</h2>\n<p data-facts=\"game-4 game-5 records-4 records-5 site-4 site-5 internal-basketball\">Houston’s girls host North Pontotoc at <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/houston-vs-north-pontotoc-ecru/11-13-2026/?c=344ca23d-a2b0-477d-8123-b6f32751ef94\">6 p.m.</a>, followed by the boys at <a href=\"https://www.maxpreps.com/ms/basketball/game/houston-vs-north-pontotoc-ecru/11-13-2026/?c=1d36a9a5-d93f-485a-bf2f-aeec475d5944\">7:30 p.m.</a> The girls matchup lists Houston at 2-0 and North Pontotoc at 4-1, making this a home test of the Hilltoppers’ unbeaten opening against visitors with four wins. The boys bring two perfect records: North Pontotoc is listed at 4-0 and Houston at 1-0. The Vikings have more completed wins on the matchup listing, while Houston has an opportunity to hand them their first loss. Both games are non-district. For more on the Vikings’ early season, see our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-11-10/\">earlier North Pontotoc basketball coverage</a>.</p>\n<h2 data-facts=\"game-6 game-7 records-6 records-7 site-6 site-7\">Soccer: Clinton’s unbeaten girls head to Biloxi</h2>\n<p data-facts=\"game-6 game-7 records-6 records-7 site-6 site-7\">The earliest selected kickoff is <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/clinton-vs-st-patrick-biloxi/11-13-2026/?c=b3d0a81e-1ab4-4a58-b361-268564f53581\">Clinton at St. Patrick in girls soccer at 5:30 p.m.</a> The current listing pairs Clinton’s 3-0 start with St. Patrick’s 3-2 record. The Arrows can extend a perfect opening on the road, while the Fighting Irish can add a win against an unbeaten visitor. The <a href=\"https://www.maxpreps.com/ms/soccer/match/clinton-vs-st-patrick-biloxi/11-13-2026/?c=87119b64-8f71-4d27-843f-c4e6f80dbe2a\">boys follow at 7 p.m.</a> with Clinton listed at 1-2 and St. Patrick at 1-2-1; each has a chance to add a second win. Both matches are non-district and are listed at St. Patrick in Biloxi.</p>",
+    "facts": [
+      {
+        "id": "records-0",
+        "kind": "record",
+        "claim": "The current boys football matchup lists Starkville at 7-3 and Tupelo at 11-0.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/starkville-vs-tupelo/11-13-2026/?c=77798906-f77e-4f45-8fc9-f6a878798fa6",
+          "excerpt": "Starkville Yellowjackets 7-3 Friday, Nov 13, 2026 7:00pm CST Tupelo Golden Wave 11-0",
+          "subjects": [
+            "Starkville",
+            "Tupelo"
+          ]
+        }
+      },
+      {
+        "id": "site-0",
+        "kind": "stakes",
+        "claim": "The Starkville varsity football team has an away playoff game @ Tupelo (MS) today @ 7p.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/starkville-vs-tupelo/11-13-2026/?c=77798906-f77e-4f45-8fc9-f6a878798fa6",
+          "excerpt": "The Starkville varsity football team has an away playoff game @ Tupelo (MS) today @ 7p.",
+          "subjects": [
+            "Starkville",
+            "Tupelo"
+          ]
+        }
+      },
+      {
+        "id": "records-1",
+        "kind": "record",
+        "claim": "The current boys football matchup lists Brandon at 7-3 and Gulfport at 9-1.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/brandon-vs-gulfport/11-13-2026/?c=07e7bfbf-881a-407a-aa3d-77c4bdc26dc2",
+          "excerpt": "Brandon Bulldogs 7-3 Friday, Nov 13, 2026 7:00pm CST Gulfport Admirals 9-1",
+          "subjects": [
+            "Brandon",
+            "Gulfport"
+          ]
+        }
+      },
+      {
+        "id": "site-1",
+        "kind": "stakes",
+        "claim": "The Brandon varsity football team has an away playoff game @ Gulfport (MS) today @ 7p.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/brandon-vs-gulfport/11-13-2026/?c=07e7bfbf-881a-407a-aa3d-77c4bdc26dc2",
+          "excerpt": "The Brandon varsity football team has an away playoff game @ Gulfport (MS) today @ 7p.",
+          "subjects": [
+            "Brandon",
+            "Gulfport"
+          ]
+        }
+      },
+      {
+        "id": "records-2",
+        "kind": "record",
+        "claim": "The current boys football matchup lists Kossuth at 7-3 and Winona at 11-0.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/kossuth-vs-winona/11-13-2026/?c=b0d32ffc-022f-4e65-87d1-39b36ca32ba8",
+          "excerpt": "Kossuth Aggies 7-3 Friday, Nov 13, 2026 7:00pm CST Winona Tigers 11-0",
+          "subjects": [
+            "Kossuth",
+            "Winona"
+          ]
+        }
+      },
+      {
+        "id": "site-2",
+        "kind": "stakes",
+        "claim": "The Kossuth varsity football team has an away playoff game @ Winona (MS) today @ 7p.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/kossuth-vs-winona/11-13-2026/?c=b0d32ffc-022f-4e65-87d1-39b36ca32ba8",
+          "excerpt": "The Kossuth varsity football team has an away playoff game @ Winona (MS) today @ 7p.",
+          "subjects": [
+            "Kossuth",
+            "Winona"
+          ]
+        }
+      },
+      {
+        "id": "records-3",
+        "kind": "record",
+        "claim": "The current boys football matchup lists Ridgeland at 5-5 and Lake Cormorant at 10-0.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/lake-cormorant-vs-ridgeland/11-13-2026/?c=79149b0f-04cd-4b8d-b054-ccb86761aba7",
+          "excerpt": "Ridgeland Titans 5-5 Friday, Nov 13, 2026 7:00pm CST Lake Cormorant 10-0",
+          "subjects": [
+            "Ridgeland",
+            "Lake Cormorant"
+          ]
+        }
+      },
+      {
+        "id": "site-3",
+        "kind": "stakes",
+        "claim": "The Ridgeland varsity football team has an away playoff game @ Lake Cormorant (MS) today @ 7p.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/lake-cormorant-vs-ridgeland/11-13-2026/?c=79149b0f-04cd-4b8d-b054-ccb86761aba7",
+          "excerpt": "The Ridgeland varsity football team has an away playoff game @ Lake Cormorant (MS) today @ 7p.",
+          "subjects": [
+            "Ridgeland",
+            "Lake Cormorant"
+          ]
+        }
+      },
+      {
+        "id": "records-4",
+        "kind": "record",
+        "claim": "The current girls basketball matchup lists North Pontotoc at 4-1 and Houston at 2-0.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/houston-vs-north-pontotoc-ecru/11-13-2026/?c=344ca23d-a2b0-477d-8123-b6f32751ef94",
+          "excerpt": "North Pontotoc Vikings 4-1 Friday, Nov 13, 2026 6:00pm CST Houston Hilltoppers 2-0",
+          "subjects": [
+            "North Pontotoc",
+            "Houston"
+          ]
+        }
+      },
+      {
+        "id": "site-4",
+        "kind": "schedule",
+        "claim": "The North Pontotoc varsity basketball team has an away non-conference game @ Houston (MS) today @ 6p.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/houston-vs-north-pontotoc-ecru/11-13-2026/?c=344ca23d-a2b0-477d-8123-b6f32751ef94",
+          "excerpt": "The North Pontotoc varsity basketball team has an away non-conference game @ Houston (MS) today @ 6p.",
+          "subjects": [
+            "North Pontotoc",
+            "Houston"
+          ]
+        }
+      },
+      {
+        "id": "records-5",
+        "kind": "record",
+        "claim": "The current boys basketball matchup lists North Pontotoc at 4-0 and Houston at 1-0.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/houston-vs-north-pontotoc-ecru/11-13-2026/?c=1d36a9a5-d93f-485a-bf2f-aeec475d5944",
+          "excerpt": "North Pontotoc Vikings 4-0 Friday, Nov 13, 2026 7:30pm CST Houston Hilltoppers 1-0",
+          "subjects": [
+            "North Pontotoc",
+            "Houston"
+          ]
+        }
+      },
+      {
+        "id": "site-5",
+        "kind": "schedule",
+        "claim": "The North Pontotoc varsity basketball team has an away non-conference game @ Houston (MS) today @ 7:30p.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/houston-vs-north-pontotoc-ecru/11-13-2026/?c=1d36a9a5-d93f-485a-bf2f-aeec475d5944",
+          "excerpt": "The North Pontotoc varsity basketball team has an away non-conference game @ Houston (MS) today @ 7:30p.",
+          "subjects": [
+            "North Pontotoc",
+            "Houston"
+          ]
+        }
+      },
+      {
+        "id": "records-6",
+        "kind": "record",
+        "claim": "The current girls soccer matchup lists Clinton at 3-0 and St. Patrick at 3-2.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/clinton-vs-st-patrick-biloxi/11-13-2026/?c=b3d0a81e-1ab4-4a58-b361-268564f53581",
+          "excerpt": "Clinton Arrows 3-0 Friday, Nov 13, 2026 5:30pm CST St. Patrick Fighting Irish 3-2",
+          "subjects": [
+            "Clinton",
+            "St. Patrick"
+          ]
+        }
+      },
+      {
+        "id": "site-6",
+        "kind": "schedule",
+        "claim": "The Clinton varsity soccer team has an away non-conference match @ St. Patrick (Biloxi, MS) today @ 5:30p.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/clinton-vs-st-patrick-biloxi/11-13-2026/?c=b3d0a81e-1ab4-4a58-b361-268564f53581",
+          "excerpt": "The Clinton varsity soccer team has an away non-conference match @ St. Patrick (Biloxi, MS) today @ 5:30p.",
+          "subjects": [
+            "Clinton",
+            "St. Patrick"
+          ]
+        }
+      },
+      {
+        "id": "records-7",
+        "kind": "record",
+        "claim": "The current boys soccer matchup lists Clinton at 1-2 and St. Patrick at 1-2-1.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/clinton-vs-st-patrick-biloxi/11-13-2026/?c=87119b64-8f71-4d27-843f-c4e6f80dbe2a",
+          "excerpt": "Clinton Arrows 1-2 Friday, Nov 13, 2026 7:00pm CST St. Patrick Fighting Irish 1-2-1",
+          "subjects": [
+            "Clinton",
+            "St. Patrick"
+          ]
+        }
+      },
+      {
+        "id": "site-7",
+        "kind": "schedule",
+        "claim": "The Clinton varsity soccer team has an away non-conference match @ St. Patrick (Biloxi, MS) today @ 7p.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/clinton-vs-st-patrick-biloxi/11-13-2026/?c=87119b64-8f71-4d27-843f-c4e6f80dbe2a",
+          "excerpt": "The Clinton varsity soccer team has an away non-conference match @ St. Patrick (Biloxi, MS) today @ 7p.",
+          "subjects": [
+            "Clinton",
+            "St. Patrick"
+          ]
+        }
+      },
+      {
+        "id": "round-0",
+        "kind": "stakes",
+        "claim": "Starkville at Tupelo is listed as a first-round playoff game.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/starkville-vs-tupelo/11-13-2026/?c=77798906-f77e-4f45-8fc9-f6a878798fa6",
+          "excerpt": "Sign in High School Football Mississippi High School Football Starkville Varsity Football @ Tupelo Starkville Yellowjackets 7-3 Friday, Nov 13, 2026 7:00pm CST Tupelo Golden Wave 11-0 Starkville Varsity Football @ Tupelo Streaming & Ticketing Purchase Tickets Game Info The Starkville varsity football team has an away playoff game @ Tupelo (MS) today @ 7p. Scorekeeper J. Newell THS Scorekeeper C. McCarter SHS Scorekeeper Matchup Roster Game Details Friday, Nov 13, 2026 7:00pm CST Playoff 2026 Football Championships 1st Round Playoffs",
+          "subjects": [
+            "Starkville",
+            "Tupelo"
+          ]
+        }
+      },
+      {
+        "id": "round-2",
+        "kind": "stakes",
+        "claim": "Kossuth at Winona is listed as a Round 2 - 3A North playoff game.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/kossuth-vs-winona/11-13-2026/?c=b0d32ffc-022f-4e65-87d1-39b36ca32ba8",
+          "excerpt": "Sign in High School Football Mississippi High School Football Kossuth Varsity Football @ Winona Kossuth Aggies 7-3 Friday, Nov 13, 2026 7:00pm CST Winona Tigers 11-0 Kossuth Varsity Football @ Winona Game Info The Kossuth varsity football team has an away playoff game @ Winona (MS) today @ 7p. Scorekeeper M. Walker WHS Scorekeeper A. Glidewell KHS Scorekeeper Matchup Roster Game Details Friday, Nov 13, 2026 7:00pm CST Playoff 2026 Football Championships Round 2 - 3A North playoff game",
+          "subjects": [
+            "Kossuth",
+            "Winona"
+          ]
+        }
+      },
+      {
+        "id": "round-3",
+        "kind": "stakes",
+        "claim": "Ridgeland at Lake Cormorant is listed as a first-round playoff game.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-13",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/lake-cormorant-vs-ridgeland/11-13-2026/?c=79149b0f-04cd-4b8d-b054-ccb86761aba7",
+          "excerpt": "Sign in High School Football Mississippi High School Football Ridgeland Varsity Football @ Lake Cormorant Ridgeland Titans 5-5 Friday, Nov 13, 2026 7:00pm CST Lake Cormorant 10-0 Ridgeland Varsity Football @ Lake Cormorant Streaming & Ticketing Purchase Tickets Game Info The Ridgeland varsity football team has an away playoff game @ Lake Cormorant (MS) today @ 7p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Friday, Nov 13, 2026 7:00pm CST Playoff 2026 Football Championships 1st Round Playoffs",
+          "subjects": [
+            "Ridgeland",
+            "Lake Cormorant"
+          ]
+        }
+      },
+      {
+        "id": "internal-football",
+        "kind": "context",
+        "claim": "The linked earlier football roundup includes Lake Cormorant and Tupelo.",
+        "game_indexes": [
+          0,
+          3
+        ],
+        "as_of_date": "2026-11-13",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-05/",
+          "excerpt": "Football: Lake Cormorant finishes perfect; Tupelo adds a shutout",
+          "subjects": [
+            "Lake Cormorant",
+            "Tupelo"
+          ]
+        }
+      },
+      {
+        "id": "internal-basketball",
+        "kind": "context",
+        "claim": "The linked earlier roundup includes North Pontotoc basketball coverage.",
+        "game_indexes": [
+          4,
+          5
+        ],
+        "as_of_date": "2026-11-13",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-10/",
+          "excerpt": "The night also brought wins for North Pontotoc, Oxford and New Site",
+          "subjects": [
+            "North Pontotoc"
+          ]
+        }
+      },
+      {
+        "id": "regular-season",
+        "kind": "context",
+        "claim": "Earlier coverage reported Lake Cormorant finished 10-0 and Tupelo reached 11-0 before the postseason.",
+        "game_indexes": [
+          0,
+          3
+        ],
+        "as_of_date": "2026-11-13",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-05/",
+          "excerpt": "The Gators finished 10-0, with the Conquistadors listed at 3-8 after the loss. DeSoto County News confirms the unbeaten regular-season finish , a concrete milestone before attention shifts to the postseason. Tupelo kept DeSoto Central off the scoreboard in a 38-0 home win . The result left the Golden Wave 11-0 and the Jaguars 7-3. Tupelo and Lake Cormorant",
+          "subjects": [
+            "Lake Cormorant",
+            "Tupelo"
+          ]
+        }
+      }
+    ]
+  }
+}
