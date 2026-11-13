@@ -1,0 +1,447 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-11-12",
+  "verified_at": "2026-11-13T08:05:20.226212-06:00",
+  "publish": true,
+  "checked_sports": [
+    "basketball",
+    "soccer",
+    "football",
+    "bowling"
+  ],
+  "games": [
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-12",
+      "away": "Corinth",
+      "home": "Walnut",
+      "status": "final",
+      "away_score": 55,
+      "home_score": 52,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-walnut/11-12-2026/?c=8842981d-5da2-435a-bfaa-1ef5694af8ac",
+        "excerpt": "Corinth vs Walnut | Basketball | 11/12/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Corinth Girls Varsity Basketball @ Walnut Corinth 2-1 Warriors 55 Final 52 Walnut 3-1 Wildcats Corinth Girls Varsity Basketball @ Walnut Game Info On 11/12, the Corinth varsity basketball team won their away non-conference game against Walnut (MS) by a score of 55-52.",
+        "date_excerpt": "11/12/2026",
+        "home_name": "Walnut",
+        "away_name": "Corinth"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-12",
+      "away": "Lewisburg",
+      "home": "Center Hill",
+      "status": "final",
+      "away_score": 5,
+      "home_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/center-hill-olive-branch-vs-lewisburg-olive-branch/11-12-2026/?c=bc0412e7-150e-401b-88c2-45e9d011d4a7",
+        "excerpt": "Lewisburg vs Center Hill | Soccer | 11/12/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Lewisburg Girls Varsity Soccer @ Center Hill Lewisburg 4-0 Patriots 5 Final 0 Center Hill 2-2 Mustangs Lewisburg Girls Varsity Soccer @ Center Hill Game Info On 11/12, the Lewisburg varsity soccer team won their away non-conference match against Center Hill (Olive Branch, MS) by a score of 5-0.",
+        "date_excerpt": "11/12/2026",
+        "home_name": "Center Hill",
+        "away_name": "Lewisburg"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-12",
+      "away": "Lewisburg",
+      "home": "Center Hill",
+      "status": "final",
+      "away_score": 1,
+      "home_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/center-hill-olive-branch-vs-lewisburg-olive-branch/11-12-2026/?c=7d928a09-8238-4b9e-8237-65bd3bbf0fcc",
+        "excerpt": "Lewisburg vs Center Hill | Soccer | 11/12/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Lewisburg Boys Varsity Soccer @ Center Hill Lewisburg 3-0 Patriots 1 Final 0 Center Hill 3-2 Mustangs Lewisburg Boys Varsity Soccer @ Center Hill Game Info On 11/12, the Lewisburg varsity soccer team won their away non-conference match against Center Hill (Olive Branch, MS) by a score of 1-0.",
+        "date_excerpt": "11/12/2026",
+        "home_name": "Center Hill",
+        "away_name": "Lewisburg"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-12",
+      "away": "Hernando",
+      "home": "South Panola",
+      "status": "final",
+      "away_score": 29,
+      "home_score": 62,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/hernando-vs-south-panola-batesville/11-12-2026/?c=29bd75c3-c1da-471e-92fe-eee6628faf11",
+        "excerpt": "Hernando vs South Panola | Basketball | 11/12/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Hernando Girls Varsity Basketball @ South Panola Hernando 0-4 Tigers 29 Final 62 South Panola 4-0 Tigers Hernando Girls Varsity Basketball @ South Panola Game Info On 11/12, the Hernando varsity basketball team lost their away non-conference game against South Panola (Batesville, MS) by a score of 62-29.",
+        "date_excerpt": "11/12/2026",
+        "home_name": "South Panola",
+        "away_name": "Hernando"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-12",
+      "away": "Hernando",
+      "home": "South Panola",
+      "status": "final",
+      "away_score": 75,
+      "home_score": 67,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/hernando-vs-south-panola-batesville/11-12-2026/?c=e513f5f7-b07b-4118-9a12-a84dfb31bb66",
+        "excerpt": "Hernando vs South Panola | Basketball | 11/12/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Hernando Boys Varsity Basketball @ South Panola Hernando 4-1 Tigers 75 Final 67 South Panola 0-4 Tigers Hernando Boys Varsity Basketball @ South Panola Game Info On 11/12, the Hernando varsity basketball team won their away non-conference game against South Panola (Batesville, MS) by a score of 75-67.",
+        "date_excerpt": "11/12/2026",
+        "home_name": "South Panola",
+        "away_name": "Hernando"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-12",
+      "away": "Wayne County",
+      "home": "Meridian",
+      "status": "final",
+      "away_score": 48,
+      "home_score": 71,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/meridian-vs-wayne-county-war-eagleslady-war-eagles-waynesboro/11-12-2026/?c=7a9c11af-8184-4af1-88c6-b22a8ae1a945",
+        "excerpt": "Wayne County vs Meridian | Basketball | 11/12/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Wayne County Boys Varsity Basketball @ Meridian Wayne County 0-2 War Eagles 48 Final 71 Meridian 4-0 Wildcats Wayne County Boys Varsity Basketball @ Meridian Game Info On 11/12, the Wayne County varsity basketball team lost their away non-conference game against Meridian (MS) by a score of 71-48.",
+        "date_excerpt": "11/12/2026",
+        "home_name": "Meridian",
+        "away_name": "Wayne County"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-12",
+      "away": "Southaven",
+      "home": "Lafayette",
+      "status": "final",
+      "away_score": 70,
+      "home_score": 39,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/lafayette-oxford-vs-southaven/11-12-2026/?c=ce3ea434-9475-4656-99d6-afdc5869eecf",
+        "excerpt": "Southaven vs Lafayette | Basketball | 11/12/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Southaven Boys Varsity Basketball @ Lafayette Southaven 2-0 Chargers 70 Final 39 Lafayette 2-2 Commodores Southaven Boys Varsity Basketball @ Lafayette Game Info On 11/12, the Southaven varsity basketball team won their away non-conference game against Lafayette (Oxford, MS) by a score of 70-39.",
+        "date_excerpt": "11/12/2026",
+        "home_name": "Lafayette",
+        "away_name": "Southaven"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-12",
+      "away": "Tupelo",
+      "home": "Starkville",
+      "status": "final",
+      "away_score": 3,
+      "home_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/starkville-vs-tupelo/11-12-2026/?c=52992658-abd3-4de0-8664-f8500c88b76e",
+        "excerpt": "Tupelo vs Starkville | Soccer | 11/12/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Tupelo Girls Varsity Soccer @ Starkville Tupelo 2-1 Golden Wave 3 Final 0 Starkville 1-4 Yellowjackets Tupelo Girls Varsity Soccer @ Starkville Game Info On 11/12, the Tupelo varsity soccer team won their away non-conference match against Starkville (MS) by a score of 3-0.",
+        "date_excerpt": "11/12/2026",
+        "home_name": "Starkville",
+        "away_name": "Tupelo"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-12",
+      "away": "Tupelo",
+      "home": "Starkville",
+      "status": "final",
+      "away_score": 3,
+      "home_score": 1,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/starkville-vs-tupelo/11-12-2026/?c=98d8b875-c06e-4201-9f88-e7f9c6416999",
+        "excerpt": "Tupelo vs Starkville | Soccer | 11/12/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Tupelo Boys Varsity Soccer @ Starkville Tupelo 3-0 Golden Wave 3 Final 1 Starkville 2-3 Yellowjackets Tupelo Boys Varsity Soccer @ Starkville Game Info On 11/12, the Tupelo varsity soccer team won their away non-conference match against Starkville (MS) by a score of 3-1.",
+        "date_excerpt": "11/12/2026",
+        "home_name": "Starkville",
+        "away_name": "Tupelo"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-12",
+      "away": "Newton County Academy",
+      "home": "Central Holmes Christian",
+      "status": "final",
+      "away_score": 30,
+      "home_score": 8,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/central-holmes-christian-lexington-vs-newton-county-academy-decatur/11-12-2026/?c=b4f319c5-8796-4c10-a574-8f395c886042",
+        "excerpt": "Newton County Academy vs Central Holmes Christian | Football | 11/12/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football NCA Varsity Football @ CHCHS Newton County Academy 10-4 Generals 30 Final 8 Central Holmes Christian 9-2 Trojans NCA Varsity Football @ CHCHS Game Info On 11/12, the Newton County Academy varsity football team won their away playoff game against Central Holmes Christian (Lexington, MS) by a score of 30-8.",
+        "date_excerpt": "11/12/2026",
+        "home_name": "Central Holmes Christian",
+        "away_name": "Newton County Academy"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-11-12/",
+      "title": "Thursday Games To Watch: Lewisburg, Center Hill, Walnut and Corinth"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Scores from last Night: Corinth ends Walnut’s unbeaten start; Lewisburg sweeps Center Hill",
+    "headline_fact_ids": [
+      "game-0",
+      "records-0",
+      "preview-walnut",
+      "game-1",
+      "game-2"
+    ],
+    "html": "<p data-facts=\"game-0 records-0 preview-walnut game-1 game-2 records-1 records-2 preview-soccer\">Corinth stopped Walnut’s unbeaten girls basketball start with a 55-52 road victory Thursday, November 12, while Lewisburg kept both of its soccer teams perfect with a pair of shutouts at Center Hill. The Warriors left Walnut with a listed 2-1 record and handed the Wildcats their first loss. Lewisburg’s girls won 5-0 and its boys won 1-0, turning two of the night’s featured matchups into wins without conceding a goal.</p>\n<h2 data-facts=\"game-0 records-0 preview-walnut game-3 records-3\">Girls basketball: Corinth changes the story at Walnut</h2>\n<p data-facts=\"game-0 records-0 preview-walnut\">Walnut entered at 3-0 in our <a href=\"https://sportsmississippi.com/sports/sportsms-preview-2026-11-12/\">Thursday Games To Watch preview</a>, with Corinth listed at 1-1. The <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-walnut/11-12-2026/?c=8842981d-5da2-435a-bfaa-1ef5694af8ac\">55-52 final</a> moved Corinth to a winning record, while Walnut’s current matchup record is 3-1. The Warriors turned a trip to an unbeaten opponent into a narrow road win.</p>\n<p data-facts=\"game-3 records-3 game-4 records-4\">South Panola’s girls preserved their unbeaten start in Batesville, <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/hernando-vs-south-panola-batesville/11-12-2026/?c=29bd75c3-c1da-471e-92fe-eee6628faf11\">beating Hernando 62-29</a>. The completed matchup lists South Panola at 4-0 and Hernando at 0-4. The boys result went the visitors’ way: <a href=\"https://www.maxpreps.com/ms/basketball/game/hernando-vs-south-panola-batesville/11-12-2026/?c=e513f5f7-b07b-4118-9a12-a84dfb31bb66\">Hernando won 75-67</a>, leaving its listed record at 4-1 and South Panola’s at 0-4. The schools split the two verified varsity basketball games.</p>\n<h2 data-facts=\"game-1 game-2 records-1 records-2 preview-soccer\">Soccer: Lewisburg leaves Center Hill with two clean sheets</h2>\n<p data-facts=\"game-1 game-2 records-1 records-2 preview-soccer\">Lewisburg’s girls <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/center-hill-olive-branch-vs-lewisburg-olive-branch/11-12-2026/?c=bc0412e7-150e-401b-88c2-45e9d011d4a7\">won 5-0 at Center Hill</a> and reached a listed 4-0 record. The boys <a href=\"https://www.maxpreps.com/ms/soccer/match/center-hill-olive-branch-vs-lewisburg-olive-branch/11-12-2026/?c=7d928a09-8238-4b9e-8237-65bd3bbf0fcc\">followed with a 1-0 victory</a> and are listed at 3-0. Both programs therefore protected the unbeaten starts that brought them into Thursday’s preview. Center Hill’s completed matchup listings stand at 2-2 for the girls and 3-2 for the boys.</p>\n<p data-facts=\"game-7 game-8 records-7 records-8\">Tupelo also won both of its verified soccer games on the road. The <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/starkville-vs-tupelo/11-12-2026/?c=52992658-abd3-4de0-8664-f8500c88b76e\">girls beat Starkville 3-0</a>, while the <a href=\"https://www.maxpreps.com/ms/soccer/match/starkville-vs-tupelo/11-12-2026/?c=98d8b875-c06e-4201-9f88-e7f9c6416999\">boys won 3-1</a>. Tupelo’s boys remain unbeaten at a listed 3-0; the girls are 2-1. Starkville’s corresponding records are 2-3 for the boys and 1-4 for the girls.</p>\n<h2 data-facts=\"game-5 game-6 records-5 records-6\">Boys basketball: Meridian and Southaven stay unbeaten</h2>\n<p data-facts=\"game-5 records-5 game-6 records-6\">Meridian <a href=\"https://www.maxpreps.com/ms/basketball/game/meridian-vs-wayne-county-war-eagleslady-war-eagles-waynesboro/11-12-2026/?c=7a9c11af-8184-4af1-88c6-b22a8ae1a945\">beat visiting Wayne County 71-48</a> to reach a listed 4-0 record; Wayne County is listed at 0-2. Southaven added an unbeaten road result of its own, <a href=\"https://www.maxpreps.com/ms/basketball/game/lafayette-oxford-vs-southaven/11-12-2026/?c=ce3ea434-9475-4656-99d6-afdc5869eecf\">winning 70-39 at Lafayette</a>. The completed matchup lists the Chargers at 2-0 and Lafayette at 2-2. Those wins extended two more perfect starts alongside the soccer and girls basketball results above.</p>\n<h2 data-facts=\"game-9 nca-playoff\">Football: Newton County Academy wins on the road</h2>\n<p data-facts=\"game-9 records-9 nca-playoff\">Newton County Academy <a href=\"https://www.maxpreps.com/ms/football/game/central-holmes-christian-lexington-vs-newton-county-academy-decatur/11-12-2026/?c=b4f319c5-8796-4c10-a574-8f395c886042\">earned a 30-8 road playoff win over Central Holmes Christian in Lexington</a>. The completed listing puts the Generals at 10-4 and Central Holmes Christian at 9-2.</p>",
+    "facts": [
+      {
+        "id": "records-0",
+        "kind": "record",
+        "claim": "The completed girls basketball matchup lists Corinth at 2-1 and Walnut at 3-1.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-walnut/11-12-2026/?c=8842981d-5da2-435a-bfaa-1ef5694af8ac",
+          "excerpt": "Corinth 2-1 Warriors 55 Final 52 Walnut 3-1",
+          "subjects": [
+            "Corinth",
+            "Walnut"
+          ]
+        }
+      },
+      {
+        "id": "records-1",
+        "kind": "record",
+        "claim": "The completed girls soccer matchup lists Lewisburg at 4-0 and Center Hill at 2-2.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/center-hill-olive-branch-vs-lewisburg-olive-branch/11-12-2026/?c=bc0412e7-150e-401b-88c2-45e9d011d4a7",
+          "excerpt": "Lewisburg 4-0 Patriots 5 Final 0 Center Hill 2-2",
+          "subjects": [
+            "Lewisburg",
+            "Center Hill"
+          ]
+        }
+      },
+      {
+        "id": "records-2",
+        "kind": "record",
+        "claim": "The completed boys soccer matchup lists Lewisburg at 3-0 and Center Hill at 3-2.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/center-hill-olive-branch-vs-lewisburg-olive-branch/11-12-2026/?c=7d928a09-8238-4b9e-8237-65bd3bbf0fcc",
+          "excerpt": "Lewisburg 3-0 Patriots 1 Final 0 Center Hill 3-2",
+          "subjects": [
+            "Lewisburg",
+            "Center Hill"
+          ]
+        }
+      },
+      {
+        "id": "records-3",
+        "kind": "record",
+        "claim": "The completed girls basketball matchup lists Hernando at 0-4 and South Panola at 4-0.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/hernando-vs-south-panola-batesville/11-12-2026/?c=29bd75c3-c1da-471e-92fe-eee6628faf11",
+          "excerpt": "Hernando 0-4 Tigers 29 Final 62 South Panola 4-0",
+          "subjects": [
+            "Hernando",
+            "South Panola"
+          ]
+        }
+      },
+      {
+        "id": "records-4",
+        "kind": "record",
+        "claim": "The completed boys basketball matchup lists Hernando at 4-1 and South Panola at 0-4.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/hernando-vs-south-panola-batesville/11-12-2026/?c=e513f5f7-b07b-4118-9a12-a84dfb31bb66",
+          "excerpt": "Hernando 4-1 Tigers 75 Final 67 South Panola 0-4",
+          "subjects": [
+            "Hernando",
+            "South Panola"
+          ]
+        }
+      },
+      {
+        "id": "records-5",
+        "kind": "record",
+        "claim": "The completed boys basketball matchup lists Wayne County at 0-2 and Meridian at 4-0.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/meridian-vs-wayne-county-war-eagleslady-war-eagles-waynesboro/11-12-2026/?c=7a9c11af-8184-4af1-88c6-b22a8ae1a945",
+          "excerpt": "Wayne County 0-2 War Eagles 48 Final 71 Meridian 4-0",
+          "subjects": [
+            "Wayne County",
+            "Meridian"
+          ]
+        }
+      },
+      {
+        "id": "records-6",
+        "kind": "record",
+        "claim": "The completed boys basketball matchup lists Southaven at 2-0 and Lafayette at 2-2.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/lafayette-oxford-vs-southaven/11-12-2026/?c=ce3ea434-9475-4656-99d6-afdc5869eecf",
+          "excerpt": "Southaven 2-0 Chargers 70 Final 39 Lafayette 2-2",
+          "subjects": [
+            "Southaven",
+            "Lafayette"
+          ]
+        }
+      },
+      {
+        "id": "records-7",
+        "kind": "record",
+        "claim": "The completed girls soccer matchup lists Tupelo at 2-1 and Starkville at 1-4.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/starkville-vs-tupelo/11-12-2026/?c=52992658-abd3-4de0-8664-f8500c88b76e",
+          "excerpt": "Tupelo 2-1 Golden Wave 3 Final 0 Starkville 1-4",
+          "subjects": [
+            "Tupelo",
+            "Starkville"
+          ]
+        }
+      },
+      {
+        "id": "records-8",
+        "kind": "record",
+        "claim": "The completed boys soccer matchup lists Tupelo at 3-0 and Starkville at 2-3.",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-11-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/starkville-vs-tupelo/11-12-2026/?c=98d8b875-c06e-4201-9f88-e7f9c6416999",
+          "excerpt": "Tupelo 3-0 Golden Wave 3 Final 1 Starkville 2-3",
+          "subjects": [
+            "Tupelo",
+            "Starkville"
+          ]
+        }
+      },
+      {
+        "id": "records-9",
+        "kind": "record",
+        "claim": "The completed boys football matchup lists Newton County Academy at 10-4 and Central Holmes Christian at 9-2.",
+        "game_indexes": [
+          9
+        ],
+        "as_of_date": "2026-11-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/central-holmes-christian-lexington-vs-newton-county-academy-decatur/11-12-2026/?c=b4f319c5-8796-4c10-a574-8f395c886042",
+          "excerpt": "Newton County Academy 10-4 Generals 30 Final 8 Central Holmes Christian 9-2",
+          "subjects": [
+            "Newton County Academy",
+            "Central Holmes Christian"
+          ]
+        }
+      },
+      {
+        "id": "nca-playoff",
+        "kind": "stakes",
+        "claim": "On 11/12, the Newton County Academy varsity football team won their away playoff game against Central Holmes Christian (Lexington, MS) by a score of 30-8.",
+        "game_indexes": [
+          9
+        ],
+        "as_of_date": "2026-11-12",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/central-holmes-christian-lexington-vs-newton-county-academy-decatur/11-12-2026/?c=b4f319c5-8796-4c10-a574-8f395c886042",
+          "excerpt": "On 11/12, the Newton County Academy varsity football team won their away playoff game against Central Holmes Christian (Lexington, MS) by a score of 30-8.",
+          "subjects": [
+            "Newton County Academy",
+            "Central Holmes Christian"
+          ]
+        }
+      },
+      {
+        "id": "preview-walnut",
+        "kind": "record",
+        "claim": "The prior Games To Watch preview listed Walnut entering at 3-0 and Corinth at 1-1.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-12",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-11-12/",
+          "excerpt": "Walnut is listed at 3-0 and Corinth at 1-1",
+          "subjects": [
+            "Walnut",
+            "Corinth"
+          ]
+        }
+      },
+      {
+        "id": "preview-soccer",
+        "kind": "context",
+        "claim": "The prior Games To Watch preview covered Lewisburg at Center Hill in girls and boys soccer.",
+        "game_indexes": [
+          1,
+          2
+        ],
+        "as_of_date": "2026-11-12",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-11-12/",
+          "excerpt": "Lewisburg puts two unbeaten soccer starts on the line at Center Hill",
+          "subjects": [
+            "Lewisburg",
+            "Center Hill"
+          ]
+        }
+      }
+    ]
+  }
+}
