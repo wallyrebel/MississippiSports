@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import json
 import sys
 import time
 from pathlib import Path
@@ -233,6 +234,23 @@ def run(
         raise typer.Exit(1)
 
 
+def record_audit(event: dict) -> None:
+    """Append one line per story decision to data/rewrite-audit.jsonl.
+
+    The file is uploaded as a workflow artifact so every published or held
+    story can be traced to its source, the reason and the offending details.
+    Audit logging must never stop publishing, so write errors are ignored.
+    """
+    try:
+        path = Path("data") / "rewrite-audit.jsonl"
+        path.parent.mkdir(parents=True, exist_ok=True)
+        event = {"time": pendulum.now("UTC").to_iso8601_string(), **event}
+        with path.open("a", encoding="utf-8") as handle:
+            handle.write(json.dumps(event, ensure_ascii=False, default=str) + "\n")
+    except OSError:
+        pass
+
+
 def process_feed(
     feed_config: FeedConfig,
     settings: AppSettings,
@@ -301,11 +319,27 @@ def process_feed(
                 skipped += 1
                 continue
 
+            # A story held on several consecutive runs waits for an editor. It
+            # is not scraped or sent to the model again, and it does not use up
+            # this feed's per-run budget.
+            max_attempts = getattr(settings, "article_max_rewrite_attempts", 3)
+            held_attempts, held_reason = dedupe_store.rejection_state(entry_key)
+            if held_attempts >= max_attempts:
+                logger.info(
+                    "entry_held_after_rejections",
+                    title=get_entry_title(entry)[:50],
+                    attempts=held_attempts,
+                    reason=held_reason,
+                )
+                skipped += 1
+                continue
+
             if attempted >= feed_config.max_per_run:
                 break
             attempted += 1
 
             # Process entry
+            outcome: dict = {}
             result = process_entry(
                 entry=entry,
                 feed_config=feed_config,
@@ -315,6 +349,7 @@ def process_feed(
                 dry_run=dry_run,
                 logger=logger,
                 config_path=config_path,
+                outcome=outcome,
             )
 
             if result:
@@ -330,7 +365,16 @@ def process_feed(
                         wp_post_url=result.get("link"),
                     )
                 processed += 1
-                
+                record_audit({
+                    "decision": "dry_run" if dry_run else "published",
+                    "feed": feed_config.name,
+                    "source_title": get_entry_title(entry),
+                    "source_link": get_entry_link(entry) or "",
+                    "headline": result.get("title", {}).get("rendered")
+                    if isinstance(result.get("title"), dict) else None,
+                    "post_url": result.get("link"),
+                })
+
                 # Track for email notification
                 if published_articles is not None and result.get("link"):
                     published_articles.append({
@@ -340,6 +384,29 @@ def process_feed(
                     })
             else:
                 errors += 1
+                rejection = outcome.get("rejection")
+                if rejection:
+                    attempts = held_attempts + 1
+                    if not dry_run:
+                        attempts = dedupe_store.record_rejection(
+                            entry_key=entry_key,
+                            feed_url=feed_config.url,
+                            entry_title=get_entry_title(entry),
+                            entry_link=get_entry_link(entry) or "",
+                            reason=rejection.get("reason") or "unknown",
+                            details=json.dumps(rejection.get("details") or {}, default=str),
+                        )
+                    record_audit({
+                        "decision": "held" if attempts >= max_attempts else "rejected",
+                        "feed": feed_config.name,
+                        "source_title": get_entry_title(entry),
+                        "source_link": get_entry_link(entry) or "",
+                        "headline": rejection.get("headline"),
+                        "reason": rejection.get("reason"),
+                        "details": rejection.get("details") or {},
+                        "attempts": attempts,
+                        "max_attempts": max_attempts,
+                    })
 
             # Rate limit between entries
             time.sleep(1)
@@ -365,8 +432,13 @@ def process_entry(
     dry_run: bool,
     logger,
     config_path: str = "",
+    outcome: Optional[dict] = None,
 ) -> Optional[dict]:
     """Process a single RSS entry.
+
+    When ``outcome`` is supplied, a content hold is reported in
+    ``outcome["rejection"]`` (reason, details, headline). API and network
+    failures are not reported there, so they never count toward the hold limit.
 
     Returns:
         WordPress post data if successful, None otherwise.
@@ -400,6 +472,8 @@ def process_entry(
 
     if not rewritten:
         logger.error("rewrite_failed", title=title[:50])
+        if outcome is not None and getattr(rewriter, "last_rejection", None):
+            outcome["rejection"] = rewriter.last_rejection
         return None
 
     # Validate before any media, taxonomy, or post writes, including test/custom rewriters.
@@ -409,6 +483,9 @@ def process_entry(
                                                else DepthPolicy())
     if problem:
         logger.warning("entry_rewrite_rejected", title=title[:50], reason=problem)
+        if outcome is not None:
+            outcome["rejection"] = {"reason": problem, "details": {},
+                                    "headline": rewritten.get("headline")}
         return None
 
     # Find image

@@ -116,6 +116,7 @@ def test_processed_front_of_feed_does_not_starve_unseen_entries(monkeypatch, set
     monkeypatch.setattr(cli, "process_entry", process)
     dedupe = Mock()
     dedupe.is_processed.side_effect = lambda key: int(key.split(":", 1)[1]) < 5
+    dedupe.rejection_state.return_value = (0, None)
     feed = FeedConfig(name="Busy school", url="https://example.com/feed", max_per_run=5)
     processed, skipped, errors = cli.process_feed(feed, settings, dedupe, Mock(), Mock(), False, 48, Mock())
     assert [call.kwargs["entry"]["id"] for call in process.call_args_list] == [str(i) for i in range(5, 10)]
