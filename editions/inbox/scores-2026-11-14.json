@@ -1,0 +1,513 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-11-14",
+  "verified_at": "2026-11-15T08:03:50.669504-06:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "basketball",
+    "soccer"
+  ],
+  "games": [
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-14",
+      "away": "SAHE",
+      "home": "Pine Belt",
+      "status": "final",
+      "away_score": 32,
+      "home_score": 12,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/pine-belt-hattiesburg-vs-sahe-brandon/11-14-2026/?c=a8c5063d-908c-4975-aeaa-49dcd6c55352",
+        "excerpt": "SAHE vs Pine Belt | Football | 11/14/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football SAHE Varsity Football vs. Pine Belt SAHE 9-2 S Warriors 32 Final 12 Pine Belt 10-2 Spartans SAHE Varsity Football vs. Pine Belt Game Info On 11/14, the SAHE varsity football team won their neutral playoff game against Pine Belt (Hattiesburg, MS) by a score of 32-12.",
+        "date_excerpt": "11/14/2026",
+        "home_name": "Pine Belt",
+        "away_name": "SAHE"
+      },
+      "neutral_site": true
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-14",
+      "away": "St. Martin",
+      "home": "Meridian",
+      "status": "final",
+      "away_score": 18,
+      "home_score": 69,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/meridian-vs-st-martin-ocean-springs/11-14-2026/?c=5023a58b-7c89-4a24-b2a3-375e10eceb80",
+        "excerpt": "St. Martin vs Meridian | Basketball | 11/14/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball St. Martin Girls Varsity Basketball @ Meridian St. Martin 0-3 Yellow Jackets 18 Final 69 Meridian 6-0 Wildcats St. Martin Girls Varsity Basketball @ Meridian Game Info On 11/14, the St. Martin varsity basketball team lost their away non-conference game against Meridian (MS) by a score of 69-18.",
+        "date_excerpt": "11/14/2026",
+        "home_name": "Meridian",
+        "away_name": "St. Martin"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-14",
+      "away": "Starkville",
+      "home": "Ramsay",
+      "status": "final",
+      "away_score": 55,
+      "home_score": 48,
+      "evidence": {
+        "url": "https://www.maxpreps.com/inter-state/basketball/girls/game/ramsay-birmingham-al-vs-starkville-ms/11-14-2026/?c=d99fbd84-6f1f-42f4-8c7a-8757aa36c9f4",
+        "excerpt": "Starkville vs Ramsay | Basketball | 11/14/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Alabama High School Basketball Starkville Girls Varsity Basketball @ Ramsay Starkville 4-1 Yellowjackets 55 Final 48 Ramsay 3-1 Rams Starkville Girls Varsity Basketball @ Ramsay Game Info On 11/14, the Starkville varsity basketball team won their away non-conference game against Ramsay (Birmingham, AL) by a score of 55-48.",
+        "date_excerpt": "11/14/2026",
+        "home_name": "Ramsay",
+        "away_name": "Starkville"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-14",
+      "away": "Bob Jones",
+      "home": "Biloxi",
+      "status": "final",
+      "away_score": 66,
+      "home_score": 73,
+      "evidence": {
+        "url": "https://www.maxpreps.com/inter-state/basketball/girls/game/biloxi-ms-vs-bob-jones-madison-al/11-14-2026/?c=9862d927-bccb-4eec-893e-cff4c3890f10",
+        "excerpt": "Bob Jones vs Biloxi | Basketball | 11/14/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Bob Jones Girls Varsity Basketball vs. Biloxi Bob Jones 3-2 Patriots 66 Final 73 Biloxi 4-0 Indians Bob Jones Girls Varsity Basketball vs. Biloxi Game Info On 11/14, the Bob Jones varsity basketball team lost their neutral non-conference game against Biloxi (MS) by a score of 73-66.",
+        "date_excerpt": "11/14/2026",
+        "home_name": "Biloxi",
+        "away_name": "Bob Jones"
+      },
+      "neutral_site": true
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-14",
+      "away": "Houston",
+      "home": "Belmont",
+      "status": "final",
+      "away_score": 75,
+      "home_score": 58,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/belmont-vs-houston/11-14-2026/?c=2393ba87-97b2-40a8-8642-70af8c767705",
+        "excerpt": "Houston vs Belmont | Basketball | 11/14/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Houston Girls Varsity Basketball @ Belmont Houston 4-0 Hilltoppers 75 Final 58 Belmont 0-2 Cardinals Houston Girls Varsity Basketball @ Belmont Game Info On 11/14, the Houston varsity basketball team won their away tournament game against Belmont (MS) by a score of 75-58.",
+        "date_excerpt": "11/14/2026",
+        "home_name": "Belmont",
+        "away_name": "Houston"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-14",
+      "away": "Brandon",
+      "home": "Hernando",
+      "status": "final",
+      "away_score": 1,
+      "home_score": 2,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/brandon-vs-hernando/11-14-2026/?c=6f4b3f2a-066c-4cfe-9603-2010295ac139",
+        "excerpt": "Brandon vs Hernando | Soccer | 11/14/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Brandon Boys Varsity Soccer @ Hernando Brandon 2-3-1 Bulldogs 1 Final 2 Hernando 5-1-2 Tigers Brandon Boys Varsity Soccer @ Hernando Game Info On 11/14, the Brandon varsity soccer team lost their away non-conference match against Hernando (MS) by a score of 2-1.",
+        "date_excerpt": "11/14/2026",
+        "home_name": "Hernando",
+        "away_name": "Brandon"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-14",
+      "away": "Brandon",
+      "home": "Hernando",
+      "status": "final",
+      "away_score": 0,
+      "home_score": 1,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/brandon-vs-hernando/11-14-2026/?c=7956a7c1-4e8a-46b7-bbd4-8e9fea865858",
+        "excerpt": "Brandon vs Hernando | Soccer | 11/14/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Brandon Girls Varsity Soccer @ Hernando Brandon 5-2 Bulldogs 0 Final 1 Hernando 5-2-1 Tigers Brandon Girls Varsity Soccer @ Hernando Game Info On 11/14, the Brandon varsity soccer team lost their away non-conference match against Hernando (MS) by a score of 1-0.",
+        "date_excerpt": "11/14/2026",
+        "home_name": "Hernando",
+        "away_name": "Brandon"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-14",
+      "away": "Brandon",
+      "home": "Lewisburg",
+      "status": "final",
+      "away_score": 1,
+      "home_score": 3,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/brandon-vs-lewisburg-olive-branch/11-14-2026/?c=19f497de-9544-4c3b-bc72-3234a5cee079",
+        "excerpt": "Brandon vs Lewisburg | Soccer | 11/14/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Brandon Boys Varsity Soccer @ Lewisburg Brandon 2-3-1 Bulldogs 1 Final 3 Lewisburg 4-0 Patriots Brandon Boys Varsity Soccer @ Lewisburg Game Info On 11/14, the Brandon varsity soccer team lost their away non-conference match against Lewisburg (Olive Branch, MS) by a score of 3-1.",
+        "date_excerpt": "11/14/2026",
+        "home_name": "Lewisburg",
+        "away_name": "Brandon"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-14",
+      "away": "Brandon",
+      "home": "Lewisburg",
+      "status": "final",
+      "away_score": 3,
+      "home_score": 1,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/brandon-vs-lewisburg-olive-branch/11-14-2026/?c=633ef7db-1961-403d-af87-f65ac2468ad1",
+        "excerpt": "Brandon vs Lewisburg | Soccer | 11/14/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Brandon Girls Varsity Soccer @ Lewisburg Brandon 5-2 Bulldogs 3 Final 1 Lewisburg 4-1 Patriots Brandon Girls Varsity Soccer @ Lewisburg Game Info On 11/14, the Brandon varsity soccer team won their away non-conference match against Lewisburg (Olive Branch, MS) by a score of 3-1.",
+        "date_excerpt": "11/14/2026",
+        "home_name": "Lewisburg",
+        "away_name": "Brandon"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-11-14/",
+      "title": "Saturday Games To Watch: SAHE, Pine Belt, Meridian and more"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Scores from last Night: SAHE turns tables on Pine Belt; Meridian girls reach 6-0",
+    "headline_fact_ids": [
+      "game-0",
+      "records-0",
+      "site-0",
+      "sahe-history",
+      "game-1",
+      "records-1"
+    ],
+    "html": "<p data-facts=\"game-0 records-0 site-0 game-1 records-1 game-2 records-2 game-3 records-3 game-4 records-4 sahe-history game-5 game-6 game-7 game-8\">SAHE turned the tables on Pine Belt with a 32-12 neutral-site football playoff win Saturday, November 14, while Meridian’s girls reached a listed 6-0 with a 69-18 victory over St. Martin. Starkville added a road win against Ramsay, and Biloxi and Houston kept unbeaten girls basketball starts intact. The selected soccer results brought two narrow Hernando wins against Brandon and a split for Lewisburg against the same opponent.</p>\n<h2 data-facts=\"game-0 records-0 site-0 sahe-history preview-championship\">Football: SAHE reverses the earlier result against Pine Belt</h2>\n<p data-facts=\"game-0 records-0 site-0 sahe-history preview-championship sahe-identity pinebelt-identity\">SAHE <a href=\"https://www.maxpreps.com/ms/football/game/pine-belt-hattiesburg-vs-sahe-brandon/11-14-2026/?c=a8c5063d-908c-4975-aeaa-49dcd6c55352\">defeated Pine Belt 32-12</a> in the neutral playoff game identified in our <a href=\"https://sportsmississippi.com/sports/sportsms-preview-2026-11-14/\">Saturday Games To Watch preview</a> as the MSCAA Championship. The completed matchup lists the Brandon-based Warriors at 9-2 and the Hattiesburg-based Spartans at 10-2. The outcome reversed their <a href=\"https://www.maxpreps.com/ms/football/game/pine-belt-hattiesburg-vs-sahe-brandon/9-19-2026/?c=1d38be30-1dbb-403b-b501-a294bcf9e714\">September 19 meeting, which Pine Belt won</a>. Saturday gave SAHE the later playoff victory after that regular-season defeat.</p>\n<h2 data-facts=\"game-1 records-1 meridian-quarters\">Girls basketball: Meridian starts fast and stays perfect</h2>\n<p data-facts=\"game-1 records-1 meridian-quarters\">Meridian <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/meridian-vs-st-martin-ocean-springs/11-14-2026/?c=5023a58b-7c89-4a24-b2a3-375e10eceb80\">beat visiting St. Martin 69-18</a> and is listed at 6-0, with the Yellow Jackets at 0-3. The posted box score shows how quickly the Wildcats separated: Meridian scored 30 points in the first quarter and 29 in the second. That opening carried the hosts to another win without surrendering their perfect start.</p>\n<p data-facts=\"game-2 records-2 site-2 starkville-identity game-3 records-3 site-3\">Starkville <a href=\"https://www.maxpreps.com/inter-state/basketball/girls/game/ramsay-birmingham-al-vs-starkville-ms/11-14-2026/?c=d99fbd84-6f1f-42f4-8c7a-8757aa36c9f4\">won 55-48 at Ramsay in Birmingham, Alabama</a>, moving to a listed 4-1 record and handing the Rams their first loss at 3-1. Biloxi also came through a close girls game, <a href=\"https://www.maxpreps.com/inter-state/basketball/girls/game/biloxi-ms-vs-bob-jones-madison-al/11-14-2026/?c=9862d927-bccb-4eec-893e-cff4c3890f10\">beating Bob Jones 73-66 at a neutral site</a>. The Indians remain unbeaten at a listed 4-0, while Bob Jones is listed at 3-2.</p>\n<p data-facts=\"game-4 records-4 site-4 game-1 game-3 records-1 records-3\">Houston <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/belmont-vs-houston/11-14-2026/?c=2393ba87-97b2-40a8-8642-70af8c767705\">won its away tournament game at Belmont 75-58</a> to reach a listed 4-0 record. Belmont’s completed matchup record is 0-2. Houston joined Meridian and Biloxi among the unbeaten girls programs that extended their starts in this selection of Saturday results.</p>\n<h2 data-facts=\"game-5 game-6 hernando-halftime\">Soccer: Hernando wins twice against Brandon</h2>\n<p data-facts=\"game-5 game-6 hernando-halftime\">Hernando took both verified varsity soccer matches against Brandon by a single goal. The <a href=\"https://www.maxpreps.com/ms/soccer/match/brandon-vs-hernando/11-14-2026/?c=6f4b3f2a-066c-4cfe-9603-2010295ac139\">boys won 2-1</a>: the posted box score has the teams level 1-1 at halftime, with Hernando scoring the only goal after the break. The <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/brandon-vs-hernando/11-14-2026/?c=7956a7c1-4e8a-46b7-bbd4-8e9fea865858\">girls won 1-0</a>, giving the Tigers a shutout alongside the boys’ narrow result.</p>\n<p data-facts=\"game-7 game-8 records-7 records-8\">Lewisburg split its verified matches against Brandon. The <a href=\"https://www.maxpreps.com/ms/soccer/match/brandon-vs-lewisburg-olive-branch/11-14-2026/?c=19f497de-9544-4c3b-bc72-3234a5cee079\">boys won 3-1</a> and remain unbeaten at a listed 4-0. The <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/brandon-vs-lewisburg-olive-branch/11-14-2026/?c=633ef7db-1961-403d-af87-f65ac2468ad1\">girls lost 3-1</a> and are listed at 4-1, marking their first loss. Brandon therefore recorded a win against Lewisburg’s girls alongside its other selected soccer results.</p>",
+    "facts": [
+      {
+        "id": "records-0",
+        "kind": "record",
+        "claim": "The completed boys football matchup lists SAHE at 9-2 and Pine Belt at 10-2.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-14",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/pine-belt-hattiesburg-vs-sahe-brandon/11-14-2026/?c=a8c5063d-908c-4975-aeaa-49dcd6c55352",
+          "excerpt": "SAHE 9-2 S Warriors 32 Final 12 Pine Belt 10-2",
+          "subjects": [
+            "SAHE",
+            "Pine Belt"
+          ]
+        }
+      },
+      {
+        "id": "site-0",
+        "kind": "stakes",
+        "claim": "On 11/14, the SAHE varsity football team won their neutral playoff game against Pine Belt (Hattiesburg, MS) by a score of 32-12.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-14",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/pine-belt-hattiesburg-vs-sahe-brandon/11-14-2026/?c=a8c5063d-908c-4975-aeaa-49dcd6c55352",
+          "excerpt": "On 11/14, the SAHE varsity football team won their neutral playoff game against Pine Belt (Hattiesburg, MS) by a score of 32-12.",
+          "subjects": [
+            "SAHE",
+            "Pine Belt"
+          ]
+        }
+      },
+      {
+        "id": "records-1",
+        "kind": "record",
+        "claim": "The completed girls basketball matchup lists St. Martin at 0-3 and Meridian at 6-0.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-14",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/meridian-vs-st-martin-ocean-springs/11-14-2026/?c=5023a58b-7c89-4a24-b2a3-375e10eceb80",
+          "excerpt": "St. Martin 0-3 Yellow Jackets 18 Final 69 Meridian 6-0",
+          "subjects": [
+            "St. Martin",
+            "Meridian"
+          ]
+        }
+      },
+      {
+        "id": "records-2",
+        "kind": "record",
+        "claim": "The completed girls basketball matchup lists Starkville at 4-1 and Ramsay at 3-1.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-14",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/girls/game/ramsay-birmingham-al-vs-starkville-ms/11-14-2026/?c=d99fbd84-6f1f-42f4-8c7a-8757aa36c9f4",
+          "excerpt": "Starkville 4-1 Yellowjackets 55 Final 48 Ramsay 3-1",
+          "subjects": [
+            "Starkville",
+            "Ramsay"
+          ]
+        }
+      },
+      {
+        "id": "site-2",
+        "kind": "context",
+        "claim": "On 11/14, the Starkville varsity basketball team won their away non-conference game against Ramsay (Birmingham, AL) by a score of 55-48.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-14",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/girls/game/ramsay-birmingham-al-vs-starkville-ms/11-14-2026/?c=d99fbd84-6f1f-42f4-8c7a-8757aa36c9f4",
+          "excerpt": "On 11/14, the Starkville varsity basketball team won their away non-conference game against Ramsay (Birmingham, AL) by a score of 55-48.",
+          "subjects": [
+            "Starkville",
+            "Ramsay"
+          ]
+        }
+      },
+      {
+        "id": "records-3",
+        "kind": "record",
+        "claim": "The completed girls basketball matchup lists Bob Jones at 3-2 and Biloxi at 4-0.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-14",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/girls/game/biloxi-ms-vs-bob-jones-madison-al/11-14-2026/?c=9862d927-bccb-4eec-893e-cff4c3890f10",
+          "excerpt": "Bob Jones 3-2 Patriots 66 Final 73 Biloxi 4-0",
+          "subjects": [
+            "Bob Jones",
+            "Biloxi"
+          ]
+        }
+      },
+      {
+        "id": "site-3",
+        "kind": "context",
+        "claim": "On 11/14, the Bob Jones varsity basketball team lost their neutral non-conference game against Biloxi (MS) by a score of 73-66.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-14",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/girls/game/biloxi-ms-vs-bob-jones-madison-al/11-14-2026/?c=9862d927-bccb-4eec-893e-cff4c3890f10",
+          "excerpt": "On 11/14, the Bob Jones varsity basketball team lost their neutral non-conference game against Biloxi (MS) by a score of 73-66.",
+          "subjects": [
+            "Bob Jones",
+            "Biloxi"
+          ]
+        }
+      },
+      {
+        "id": "records-4",
+        "kind": "record",
+        "claim": "The completed girls basketball matchup lists Houston at 4-0 and Belmont at 0-2.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-14",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/belmont-vs-houston/11-14-2026/?c=2393ba87-97b2-40a8-8642-70af8c767705",
+          "excerpt": "Houston 4-0 Hilltoppers 75 Final 58 Belmont 0-2",
+          "subjects": [
+            "Houston",
+            "Belmont"
+          ]
+        }
+      },
+      {
+        "id": "site-4",
+        "kind": "context",
+        "claim": "On 11/14, the Houston varsity basketball team won their away tournament game against Belmont (MS) by a score of 75-58.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-14",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/belmont-vs-houston/11-14-2026/?c=2393ba87-97b2-40a8-8642-70af8c767705",
+          "excerpt": "On 11/14, the Houston varsity basketball team won their away tournament game against Belmont (MS) by a score of 75-58.",
+          "subjects": [
+            "Houston",
+            "Belmont"
+          ]
+        }
+      },
+      {
+        "id": "records-7",
+        "kind": "record",
+        "claim": "The completed boys soccer matchup lists Lewisburg at 4-0.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-14",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/brandon-vs-lewisburg-olive-branch/11-14-2026/?c=19f497de-9544-4c3b-bc72-3234a5cee079",
+          "excerpt": "Lewisburg 4-0 Patriots",
+          "subjects": [
+            "Lewisburg"
+          ]
+        }
+      },
+      {
+        "id": "records-8",
+        "kind": "record",
+        "claim": "The completed girls soccer matchup lists Lewisburg at 4-1.",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-11-14",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/brandon-vs-lewisburg-olive-branch/11-14-2026/?c=633ef7db-1961-403d-af87-f65ac2468ad1",
+          "excerpt": "Lewisburg 4-1 Patriots",
+          "subjects": [
+            "Lewisburg"
+          ]
+        }
+      },
+      {
+        "id": "meridian-quarters",
+        "kind": "result",
+        "claim": "Meridian scored 30 points in the first quarter and 29 in the second against St. Martin.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-14",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/meridian-vs-st-martin-ocean-springs/11-14-2026/?c=5023a58b-7c89-4a24-b2a3-375e10eceb80",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final St. Martin 4 5 7 2 18 Meridian 30 29 4 6 69",
+          "subjects": [
+            "St. Martin",
+            "Meridian"
+          ]
+        }
+      },
+      {
+        "id": "hernando-halftime",
+        "kind": "result",
+        "claim": "Brandon and Hernando boys were level 1-1 at halftime; Hernando scored the only goal of the second half.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-14",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/brandon-vs-hernando/11-14-2026/?c=6f4b3f2a-066c-4cfe-9603-2010295ac139",
+          "excerpt": "Boxscore 1 2 Final Brandon 1 0 1 Hernando 1 1 2",
+          "subjects": [
+            "Brandon",
+            "Hernando"
+          ]
+        }
+      },
+      {
+        "id": "sahe-history",
+        "kind": "history",
+        "claim": "Pine Belt defeated SAHE on September 19, 2026.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-14",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/pine-belt-hattiesburg-vs-sahe-brandon/9-19-2026/?c=1d38be30-1dbb-403b-b501-a294bcf9e714",
+          "excerpt": "Pine Belt vs SAHE | Football | 09/19/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Pine Belt Varsity Football @ SAHE Pine Belt 10-2 Spartans 36 Final 14 SAHE 9-2 S Warriors Pine Belt Varsity Football @ SAHE Game Info On 9/19, the Pine Belt varsity football team won their away conference game against SAHE (Brandon, MS) by a score of 36-14.",
+          "subjects": [
+            "Pine Belt",
+            "SAHE"
+          ],
+          "date_excerpt": "09/19/2026"
+        },
+        "fact_date": "2026-09-19"
+      },
+      {
+        "id": "preview-championship",
+        "kind": "context",
+        "claim": "The previous Games To Watch preview identified the SAHE and Pine Belt game as the MSCAA Championship.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-14",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-11-14/",
+          "excerpt": "SAHE of Brandon and Pine Belt of Hattiesburg meet at 6 p.m. Central in a neutral-site game listed as the MSCAA Championship.",
+          "subjects": [
+            "SAHE",
+            "Pine Belt"
+          ]
+        }
+      },
+      {
+        "id": "sahe-identity",
+        "kind": "context",
+        "claim": "SAHE is a Mississippi varsity football program based in Brandon.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-14",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/brandon/sahe-warriors/football/",
+          "excerpt": "SAHE Warriors Varsity Football Brandon, MS",
+          "subjects": [
+            "SAHE",
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "pinebelt-identity",
+        "kind": "context",
+        "claim": "Pine Belt is a Mississippi varsity football program based in Hattiesburg.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-14",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/hattiesburg/pine-belt-spartans/football/",
+          "excerpt": "Pine Belt Spartans Varsity Football Hattiesburg, MS",
+          "subjects": [
+            "Pine Belt",
+            "Hattiesburg"
+          ]
+        }
+      },
+      {
+        "id": "starkville-identity",
+        "kind": "context",
+        "claim": "Starkville is a Mississippi girls varsity basketball program.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-14",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/starkville/starkville-yellowjackets/basketball/girls/",
+          "excerpt": "Starkville Yellowjackets Varsity Girls Basketball Starkville, MS",
+          "subjects": [
+            "Starkville"
+          ]
+        }
+      }
+    ]
+  }
+}
