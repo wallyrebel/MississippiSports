@@ -1,0 +1,260 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-11-16",
+  "verified_at": "2026-11-16T15:01:50-06:00",
+  "publish": true,
+  "checked_sports": [
+    "basketball",
+    "soccer"
+  ],
+  "games": [
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-16",
+      "home": "Hickory Flat",
+      "away": "South Pontotoc",
+      "status": "scheduled",
+      "start_time": "2026-11-16T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/hickory-flat-vs-south-pontotoc/11-16-2026/?c=512895d1-31f9-4295-8ee4-432082ad86e7",
+        "excerpt": "south pontotoc vs hickory flat | basketball | 11/16/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school girls basketball mississippi high school basketball south pontotoc girls varsity basketball @ hickory flat south pontotoc cougars 4-0 monday, nov 16, 2026 6:00pm cst hickory flat rebels 3-2",
+        "date_excerpt": "11/16/2026",
+        "home_name": "Hickory Flat",
+        "away_name": "South Pontotoc",
+        "time_excerpt": "6:00pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-16",
+      "home": "Hickory Flat",
+      "away": "South Pontotoc",
+      "status": "scheduled",
+      "start_time": "2026-11-16T19:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/hickory-flat-vs-south-pontotoc/11-16-2026/?c=875342c5-1977-4f34-bbcb-131c64828ee2",
+        "excerpt": "south pontotoc vs hickory flat | basketball | 11/16/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school basketball mississippi high school basketball south pontotoc boys varsity basketball @ hickory flat south pontotoc cougars 2-2 monday, nov 16, 2026 7:30pm cst hickory flat rebels 1-4",
+        "date_excerpt": "11/16/2026",
+        "home_name": "Hickory Flat",
+        "away_name": "South Pontotoc",
+        "time_excerpt": "7:30pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-16",
+      "home": "East Rankin Academy",
+      "away": "Bayou Academy",
+      "status": "scheduled",
+      "start_time": "2026-11-16T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/bayou-academy-cleveland-vs-east-rankin-academy-pelahatchie/11-16-2026/?c=8f4ec2d9-b4d8-40b1-8cb7-f96b45432ed2",
+        "excerpt": "bayou academy vs east rankin academy | basketball | 11/16/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school basketball mississippi high school basketball bayou academy boys varsity basketball @ east rankin academy bayou academy colts 0-1 monday, nov 16, 2026 7:00pm cst east rankin academy patriots 3-1",
+        "date_excerpt": "11/16/2026",
+        "home_name": "East Rankin Academy",
+        "away_name": "Bayou Academy",
+        "time_excerpt": "7:00pm CST"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-16",
+      "home": "Brandon",
+      "away": "Starkville",
+      "status": "scheduled",
+      "start_time": "2026-11-16T19:15:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/brandon-vs-starkville/11-16-2026/?c=fbeaee2f-82c1-42cc-b3d2-3b1a5aa88c7b",
+        "excerpt": "starkville vs brandon | soccer | 11/16/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school soccer mississippi high school soccer starkville boys varsity soccer @ brandon starkville yellowjackets 3-3 monday, nov 16, 2026 7:15pm cst brandon bulldogs 2-3-1",
+        "date_excerpt": "11/16/2026",
+        "home_name": "Brandon",
+        "away_name": "Starkville",
+        "time_excerpt": "7:15pm CST"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-14/",
+      "title": "Saturday's varsity soccer and basketball recap"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: Unbeaten South Pontotoc girls visit Hickory Flat; Starkville heads to Brandon",
+    "headline_fact_ids": [
+      "game-0",
+      "records-0",
+      "game-3"
+    ],
+    "html": "<p data-facts=\"game-0 records-0 site-0 game-3 records-3\">South Pontotoc’s unbeaten girls basketball start gets a road test at Hickory Flat on Monday, November 16, leading a selected Mississippi varsity slate that also includes boys basketball and soccer. The Cougars enter at a listed 4-0 against a 3-2 host, while Starkville’s boys soccer team visits Brandon with a chance to move above an even record.</p>\n<h2 data-facts=\"game-0 records-0 site-0\">Girls basketball: South Pontotoc takes its perfect start on the road</h2>\n<p data-facts=\"game-0 records-0 site-0\">The <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/hickory-flat-vs-south-pontotoc/11-16-2026/?c=512895d1-31f9-4295-8ee4-432082ad86e7\">South Pontotoc–Hickory Flat girls game tips at 6 p.m. CST</a>. Both teams bring winning records. South Pontotoc’s 4-0 opening meets Hickory Flat’s 3-2 start in a nonconference matchup, with the Rebels getting the home opportunity to hand the Cougars their first loss.</p>\n<h2 data-facts=\"game-1 game-2 records-1 records-2\">Boys basketball: contrasting starts at Hickory Flat and East Rankin</h2>\n<p data-facts=\"game-1 records-1 site-1\">South Pontotoc’s boys follow with a <a href=\"https://www.maxpreps.com/ms/basketball/game/hickory-flat-vs-south-pontotoc/11-16-2026/?c=875342c5-1977-4f34-bbcb-131c64828ee2\">7:30 p.m. CST visit to Hickory Flat</a>. The Cougars are listed at 2-2 and the Rebels at 1-4. The nonconference game offers South Pontotoc a chance to move to a winning record, while Hickory Flat can take a step toward closing its early deficit with a home victory.</p>\n<p data-facts=\"game-2 records-2 site-2\">At <a href=\"https://www.maxpreps.com/ms/basketball/game/bayou-academy-cleveland-vs-east-rankin-academy-pelahatchie/11-16-2026/?c=8f4ec2d9-b4d8-40b1-8cb7-f96b45432ed2\">East Rankin Academy, Bayou Academy’s boys are scheduled for 7 p.m. CST</a>. The Patriots bring a listed 3-1 record to their home floor in Pelahatchie; the visiting Colts are 0-1. East Rankin has the stronger opening record, but Bayou has only one reported game behind its mark. That difference in the available sample is useful context: the Colts are seeking their first listed win against a host trying to build on a winning start.</p>\n<h2 data-facts=\"game-3 records-3\">Boys soccer: Starkville and Brandon seek a step forward</h2>\n<p data-facts=\"game-3 records-3 site-3 internal-soccer\">The soccer selection is <a href=\"https://www.maxpreps.com/ms/soccer/match/brandon-vs-starkville/11-16-2026/?c=fbeaee2f-82c1-42cc-b3d2-3b1a5aa88c7b\">Starkville at Brandon at 7:15 p.m. CST</a>. Starkville enters at a listed 3-3, with Brandon at 2-3-1. A road win would put the Yellowjackets above an even record; a home win would bring the Bulldogs level in wins and losses. It is a nonconference match, and readers can revisit Brandon’s recent soccer coverage in <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-11-14/\">Saturday’s varsity recap</a>.</p>",
+    "facts": [
+      {
+        "id": "records-0",
+        "kind": "record",
+        "claim": "South Pontotoc Cougars 4-0 Monday, Nov 16, 2026 6:00pm CST Hickory Flat Rebels 3-2",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/hickory-flat-vs-south-pontotoc/11-16-2026/?c=512895d1-31f9-4295-8ee4-432082ad86e7",
+          "excerpt": "South Pontotoc Cougars 4-0 Monday, Nov 16, 2026 6:00pm CST Hickory Flat Rebels 3-2",
+          "subjects": [
+            "South Pontotoc",
+            "Hickory Flat"
+          ]
+        }
+      },
+      {
+        "id": "site-0",
+        "kind": "schedule",
+        "claim": "the south pontotoc varsity basketball team has an away non-conference game @ hickory flat (ms) today @ 6p.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/hickory-flat-vs-south-pontotoc/11-16-2026/?c=512895d1-31f9-4295-8ee4-432082ad86e7",
+          "excerpt": "the south pontotoc varsity basketball team has an away non-conference game @ hickory flat (ms) today @ 6p.",
+          "subjects": [
+            "South Pontotoc",
+            "Hickory Flat"
+          ]
+        }
+      },
+      {
+        "id": "records-1",
+        "kind": "record",
+        "claim": "South Pontotoc Cougars 2-2 Monday, Nov 16, 2026 7:30pm CST Hickory Flat Rebels 1-4",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/hickory-flat-vs-south-pontotoc/11-16-2026/?c=875342c5-1977-4f34-bbcb-131c64828ee2",
+          "excerpt": "South Pontotoc Cougars 2-2 Monday, Nov 16, 2026 7:30pm CST Hickory Flat Rebels 1-4",
+          "subjects": [
+            "South Pontotoc",
+            "Hickory Flat"
+          ]
+        }
+      },
+      {
+        "id": "site-1",
+        "kind": "schedule",
+        "claim": "the south pontotoc varsity basketball team has an away non-conference game @ hickory flat (ms) today @ 7:30p.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/hickory-flat-vs-south-pontotoc/11-16-2026/?c=875342c5-1977-4f34-bbcb-131c64828ee2",
+          "excerpt": "the south pontotoc varsity basketball team has an away non-conference game @ hickory flat (ms) today @ 7:30p.",
+          "subjects": [
+            "South Pontotoc",
+            "Hickory Flat"
+          ]
+        }
+      },
+      {
+        "id": "records-2",
+        "kind": "record",
+        "claim": "Bayou Academy Colts 0-1 Monday, Nov 16, 2026 7:00pm CST East Rankin Academy Patriots 3-1",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/bayou-academy-cleveland-vs-east-rankin-academy-pelahatchie/11-16-2026/?c=8f4ec2d9-b4d8-40b1-8cb7-f96b45432ed2",
+          "excerpt": "Bayou Academy Colts 0-1 Monday, Nov 16, 2026 7:00pm CST East Rankin Academy Patriots 3-1",
+          "subjects": [
+            "Bayou Academy",
+            "East Rankin Academy"
+          ]
+        }
+      },
+      {
+        "id": "site-2",
+        "kind": "schedule",
+        "claim": "the bayou academy varsity basketball team has an away non-conference game @ east rankin academy (pelahatchie, ms) today @ 7p.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/bayou-academy-cleveland-vs-east-rankin-academy-pelahatchie/11-16-2026/?c=8f4ec2d9-b4d8-40b1-8cb7-f96b45432ed2",
+          "excerpt": "the bayou academy varsity basketball team has an away non-conference game @ east rankin academy (pelahatchie, ms) today @ 7p.",
+          "subjects": [
+            "Bayou Academy",
+            "East Rankin Academy"
+          ]
+        }
+      },
+      {
+        "id": "records-3",
+        "kind": "record",
+        "claim": "Starkville Yellowjackets 3-3 Monday, Nov 16, 2026 7:15pm CST Brandon Bulldogs 2-3-1",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/brandon-vs-starkville/11-16-2026/?c=fbeaee2f-82c1-42cc-b3d2-3b1a5aa88c7b",
+          "excerpt": "Starkville Yellowjackets 3-3 Monday, Nov 16, 2026 7:15pm CST Brandon Bulldogs 2-3-1",
+          "subjects": [
+            "Starkville",
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "site-3",
+        "kind": "schedule",
+        "claim": "the starkville varsity soccer team has an away non-conference match @ brandon (ms) today @ 7:15p.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/brandon-vs-starkville/11-16-2026/?c=fbeaee2f-82c1-42cc-b3d2-3b1a5aa88c7b",
+          "excerpt": "the starkville varsity soccer team has an away non-conference match @ brandon (ms) today @ 7:15p.",
+          "subjects": [
+            "Starkville",
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "internal-soccer",
+        "kind": "context",
+        "claim": "The linked Sports Mississippi recap covers Brandon boys soccer against Hernando and Lewisburg.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-14/",
+          "excerpt": "soccer: hernando wins twice against brandon hernando took both verified varsity soccer matches against brandon by a single goal. the boys won 2-1",
+          "subjects": [
+            "Brandon",
+            "Hernando"
+          ]
+        }
+      }
+    ]
+  }
+}
