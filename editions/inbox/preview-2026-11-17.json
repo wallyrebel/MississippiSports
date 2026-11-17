@@ -1,0 +1,494 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-11-17",
+  "verified_at": "2026-11-17T15:05:06-06:00",
+  "publish": true,
+  "checked_sports": [
+    "basketball",
+    "soccer",
+    "football",
+    "volleyball",
+    "bowling",
+    "wrestling"
+  ],
+  "games": [
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-17",
+      "away": "Amite County",
+      "home": "Tylertown",
+      "status": "scheduled",
+      "start_time": "2026-11-17T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/amite-county-liberty-vs-tylertown/11-17-2026/?c=bd36c422-e972-442b-9d8c-fbec23613000",
+        "excerpt": "amite county vs tylertown | basketball | 11/17/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school basketball mississippi high school basketball amite county boys varsity basketball @ tylertown amite county trojans 4-0 tuesday, nov 17, 2026 7:00pm cst tylertown chiefs 3-0 amite county boys varsity basketball @ tylertown",
+        "date_excerpt": "11/17/2026",
+        "home_name": "Tylertown",
+        "away_name": "Amite County",
+        "time_excerpt": "7:00pm cst"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-17",
+      "away": "Harrison Central",
+      "home": "St. Patrick",
+      "status": "scheduled",
+      "start_time": "2026-11-17T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/harrison-central-gulfport-vs-st-patrick-biloxi/11-17-2026/?c=9f3bfc9e-91ce-44cc-90fc-cfec3c465446",
+        "excerpt": "harrison central vs st. patrick | basketball | 11/17/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school girls basketball mississippi high school basketball harrison central girls varsity basketball @ st. patrick harrison central red rebels 3-0 tuesday, nov 17, 2026 6:00pm cst st. patrick fighting irish 6-0 harrison central girls varsity basketball @ st. patrick streaming & ticketing purchase tickets",
+        "date_excerpt": "11/17/2026",
+        "home_name": "St. Patrick",
+        "away_name": "Harrison Central",
+        "time_excerpt": "6:00pm cst"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-17",
+      "away": "Louisville",
+      "home": "Pontotoc",
+      "status": "scheduled",
+      "start_time": "2026-11-17T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/louisville-vs-pontotoc/11-17-2026/?c=6a8fdf89-2816-4333-81e1-2f36e3fef288",
+        "excerpt": "louisville vs pontotoc | basketball | 11/17/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school girls basketball mississippi high school basketball louisville girls varsity basketball @ pontotoc louisville wildcats 6-0 tuesday, nov 17, 2026 6:00pm cst pontotoc warriors 2-1 louisville girls varsity basketball @ pontotoc",
+        "date_excerpt": "11/17/2026",
+        "home_name": "Pontotoc",
+        "away_name": "Louisville",
+        "time_excerpt": "6:00pm cst"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-17",
+      "away": "Meridian",
+      "home": "Neshoba Central",
+      "status": "scheduled",
+      "start_time": "2026-11-17T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/meridian-vs-neshoba-central-philadelphia/11-17-2026/?c=eeb3e697-6539-432b-8a48-3722af940470",
+        "excerpt": "meridian vs neshoba central | basketball | 11/17/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school basketball mississippi high school basketball meridian boys varsity basketball @ neshoba central meridian wildcats 4-0 tuesday, nov 17, 2026 7:00pm cst neshoba central rockets 4-1 meridian boys varsity basketball @ neshoba central",
+        "date_excerpt": "11/17/2026",
+        "home_name": "Neshoba Central",
+        "away_name": "Meridian",
+        "time_excerpt": "7:00pm cst"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-17",
+      "away": "Ripley",
+      "home": "Mooreville",
+      "status": "scheduled",
+      "start_time": "2026-11-17T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/mooreville-vs-ripley/11-17-2026/?c=acf8f6da-cbfc-4e2b-bf19-18177d067892",
+        "excerpt": "ripley vs mooreville | basketball | 11/17/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school basketball mississippi high school basketball ripley boys varsity basketball @ mooreville ripley tigers 2-0 tuesday, nov 17, 2026 7:00pm cst mooreville troopers 4-1 ripley boys varsity basketball @ mooreville",
+        "date_excerpt": "11/17/2026",
+        "home_name": "Mooreville",
+        "away_name": "Ripley",
+        "time_excerpt": "7:00pm cst"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-17",
+      "away": "Lewisburg",
+      "home": "Center Hill",
+      "status": "scheduled",
+      "start_time": "2026-11-17T19:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/center-hill-olive-branch-vs-lewisburg-olive-branch/11-17-2026/?c=66bd41ab-d66e-4bde-8ec8-286cf09a6253",
+        "excerpt": "lewisburg vs center hill | basketball | 11/17/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school basketball mississippi high school basketball lewisburg boys varsity basketball @ center hill lewisburg patriots 2-1 tuesday, nov 17, 2026 7:30pm cst center hill mustangs 3-0 lewisburg boys varsity basketball @ center hill streaming & ticketing purchase tickets",
+        "date_excerpt": "11/17/2026",
+        "home_name": "Center Hill",
+        "away_name": "Lewisburg",
+        "time_excerpt": "7:30pm cst"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-17",
+      "away": "Oak Grove",
+      "home": "Gulfport",
+      "status": "scheduled",
+      "start_time": "2026-11-17T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/gulfport-vs-oak-grove-hattiesburg/11-17-2026/?c=efeb2b14-e284-420b-8a9e-23b0e25be2e9",
+        "excerpt": "oak grove vs gulfport | soccer | 11/17/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school soccer mississippi high school soccer oak grove boys varsity soccer @ gulfport oak grove warriors 6-0-2 tuesday, nov 17, 2026 7:00pm cst gulfport admirals 5-0-1 oak grove boys varsity soccer @ gulfport streaming & ticketing purchase tickets",
+        "date_excerpt": "11/17/2026",
+        "home_name": "Gulfport",
+        "away_name": "Oak Grove",
+        "time_excerpt": "7:00pm cst"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-17",
+      "away": "Oxford",
+      "home": "Lewisburg",
+      "status": "scheduled",
+      "start_time": "2026-11-17T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/lewisburg-olive-branch-vs-oxford/11-17-2026/?c=6bb3b39e-95cb-4668-aaf0-1ee080990097",
+        "excerpt": "oxford vs lewisburg | soccer | 11/17/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school soccer mississippi high school soccer oxford boys varsity soccer @ lewisburg oxford chargers 2-1-1 tuesday, nov 17, 2026 7:00pm cst lewisburg patriots 4-0 oxford boys varsity soccer @ lewisburg streaming & ticketing purchase tickets",
+        "date_excerpt": "11/17/2026",
+        "home_name": "Lewisburg",
+        "away_name": "Oxford",
+        "time_excerpt": "7:00pm cst"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-12/",
+      "title": "Recent varsity recap: Meridian basketball and Lewisburg soccer"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: Unbeaten starts collide at Tylertown and St. Patrick",
+    "headline_fact_ids": [
+      "game-0",
+      "records-0",
+      "game-1",
+      "records-1"
+    ],
+    "html": "<p data-facts=\"game-0 records-0 game-1 records-1 game-6 records-6\">Unbeaten starts face their clearest test when they meet each other. Amite County visits Tylertown in boys basketball Tuesday, November 17, while Harrison Central travels to St. Patrick for a girls matchup between teams without a reported loss. On the soccer field, Oak Grove and Gulfport bring unbeaten records of their own into a meeting on the Coast.</p>\n<p data-facts=\"game-0 game-1 game-2 game-3 game-4 game-5 game-6 game-7\">Those matchups lead this selection of Mississippi varsity games to watch tonight. Basketball offers opportunities to protect perfect records or challenge a strong early start; soccer brings a pair of unbeaten opponents together and gives Oxford a chance to test Lewisburg. All listed start times are Central Standard Time.</p>\n<h2 data-facts=\"game-0 records-0\">Boys basketball: Amite County and Tylertown put perfect starts together</h2>\n<p data-facts=\"game-0 records-0 site-0\"><a href=\"https://www.maxpreps.com/ms/basketball/game/amite-county-liberty-vs-tylertown/11-17-2026/?c=bd36c422-e972-442b-9d8c-fbec23613000\">Amite County at Tylertown is scheduled for 7 p.m.</a> The visiting Trojans enter at 4-0 and the Chiefs at 3-0, making this a direct test of two unbeaten openings. Neither team has a loss to explain away: a decisive result would give the winner another victory while handing the other its first defeat. The listing identifies this as a nonconference game, so the immediate significance is the strength of the start rather than district positioning.</p>\n<h2 data-facts=\"game-1 records-1 game-2 records-2\">Girls basketball: St. Patrick and Louisville defend unbeaten records</h2>\n<p data-facts=\"game-1 records-1 site-1\"><a href=\"https://www.maxpreps.com/ms/basketball/girls/game/harrison-central-gulfport-vs-st-patrick-biloxi/11-17-2026/?c=9f3bfc9e-91ce-44cc-90fc-cfec3c465446\">Harrison Central visits St. Patrick at 6 p.m.</a> with the Red Rebels listed at 3-0 and the Fighting Irish at 6-0. St. Patrick has the longer unbeaten run, but Harrison Central arrives with a perfect record as well. That combination gives the matchup more substance than a routine early-season date: both sides can measure a clean opening against another team that has kept winning.</p>\n<p data-facts=\"game-2 records-2 site-2\">At the same time, <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/louisville-vs-pontotoc/11-17-2026/?c=6a8fdf89-2816-4333-81e1-2f36e3fef288\">Louisville’s girls visit Pontotoc at 6 p.m.</a> The Wildcats bring a 6-0 record into a nonconference game against the 2-1 Warriors. Pontotoc has a winning start of its own and the home floor; Louisville has the opportunity to extend a longer winning run on the road. The contrast makes the game worth following without treating the teams’ different numbers of reported games as a complete measure of their strength.</p>\n<h2 data-facts=\"game-3 records-3 game-4 records-4 game-5 records-5\">Boys basketball: unbeaten visitors, unbeaten hosts and winning challengers</h2>\n<p data-facts=\"game-3 records-3 site-3\"><a href=\"https://www.maxpreps.com/ms/basketball/game/meridian-vs-neshoba-central-philadelphia/11-17-2026/?c=eeb3e697-6539-432b-8a48-3722af940470\">Meridian heads to Neshoba Central at 7 p.m.</a> with a 4-0 record, while the Rockets are 4-1. This is a meeting of teams that have each already collected four wins, with Neshoba Central trying to turn home court into Meridian’s first setback. The Wildcats can preserve a perfect start against a host whose early record gives the matchup clear competitive interest.</p>\n<p data-facts=\"game-4 records-4 site-4 ripley-scoring\"><a href=\"https://www.maxpreps.com/ms/basketball/game/mooreville-vs-ripley/11-17-2026/?c=acf8f6da-cbfc-4e2b-bf19-18177d067892\">Ripley’s boys visit Mooreville at 7 p.m.</a> The Tigers are listed at 2-0 and the Troopers at 4-1. The matchup’s scoring-averages table lists Ripley at 70.5 points per game and Mooreville at 58.4. Those figures come from different early-season samples, but they give the matchup an offensive thread to follow: whether Ripley can maintain its reported pace against a host with more games behind its winning record.</p>\n<p data-facts=\"game-5 records-5 site-5\">In DeSoto County, <a href=\"https://www.maxpreps.com/ms/basketball/game/center-hill-olive-branch-vs-lewisburg-olive-branch/11-17-2026/?c=66bd41ab-d66e-4bde-8ec8-286cf09a6253\">Lewisburg visits Center Hill at 7:30 p.m.</a> The Mustangs enter at 3-0 and the Patriots at 2-1. Center Hill can keep its perfect opening going at home, while Lewisburg has a chance to deliver a local opponent’s first defeat. Although the schools are county rivals, the current game listing identifies the contest as nonconference.</p>\n<h2 data-facts=\"game-6 records-6 game-7 records-7\">Boys soccer: unbeaten teams meet in Gulfport; Lewisburg faces Oxford</h2>\n<p data-facts=\"game-6 records-6 site-6\"><a href=\"https://www.maxpreps.com/ms/soccer/match/gulfport-vs-oak-grove-hattiesburg/11-17-2026/?c=efeb2b14-e284-420b-8a9e-23b0e25be2e9\">Oak Grove at Gulfport kicks off at 7 p.m.</a> The Warriors are listed at 6-0-2 and the Admirals at 5-0-1. Both have avoided defeat, but both also have draws, so this is a test of unbeaten records rather than perfect ones. A winning result would separate the teams on the night and end the opponent’s loss-free opening; another draw would preserve both unbeaten marks.</p>\n<p data-facts=\"game-7 records-7 site-7\"><a href=\"https://www.maxpreps.com/ms/soccer/match/lewisburg-olive-branch-vs-oxford/11-17-2026/?c=6bb3b39e-95cb-4668-aaf0-1ee080990097\">Oxford visits Lewisburg at 7 p.m.</a> The Patriots bring a 4-0 record, with the Chargers at 2-1-1. Lewisburg is trying to maintain a perfect opening, while Oxford offers a winning-record challenge that includes experience with both a defeat and a draw. The game gives the Patriots another chance to protect their home field and the Chargers an opportunity to interrupt an unbeaten start.</p>\n<p data-facts=\"internal-background\">For recent background on teams in tonight’s selection, revisit our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-11-12/\">varsity recap featuring Meridian basketball and Lewisburg soccer</a>.</p>",
+    "facts": [
+      {
+        "id": "records-0",
+        "kind": "record",
+        "claim": "Amite County enters at 4-0; Tylertown enters at 3-0.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-17",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/amite-county-liberty-vs-tylertown/11-17-2026/?c=bd36c422-e972-442b-9d8c-fbec23613000",
+          "excerpt": "amite county boys varsity basketball @ tylertown amite county trojans 4-0 tuesday, nov 17, 2026 7:00pm cst tylertown chiefs 3-0 amite county boys varsity basketball @ tylertown",
+          "subjects": [
+            "Amite County",
+            "Tylertown"
+          ]
+        }
+      },
+      {
+        "id": "site-0",
+        "kind": "schedule",
+        "claim": "the amite county varsity basketball team has an away non-conference game @ tylertown (ms) today @ 7p.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-17",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/amite-county-liberty-vs-tylertown/11-17-2026/?c=bd36c422-e972-442b-9d8c-fbec23613000",
+          "excerpt": "the amite county varsity basketball team has an away non-conference game @ tylertown (ms) today @ 7p.",
+          "subjects": [
+            "Amite County",
+            "Tylertown"
+          ]
+        }
+      },
+      {
+        "id": "records-1",
+        "kind": "record",
+        "claim": "Harrison Central enters at 3-0; St. Patrick enters at 6-0.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-17",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/harrison-central-gulfport-vs-st-patrick-biloxi/11-17-2026/?c=9f3bfc9e-91ce-44cc-90fc-cfec3c465446",
+          "excerpt": "harrison central girls varsity basketball @ st. patrick harrison central red rebels 3-0 tuesday, nov 17, 2026 6:00pm cst st. patrick fighting irish 6-0 harrison central girls varsity basketball @ st. patrick streaming & ticketing purchase tickets",
+          "subjects": [
+            "Harrison Central",
+            "St. Patrick"
+          ]
+        }
+      },
+      {
+        "id": "site-1",
+        "kind": "schedule",
+        "claim": "the harrison central varsity basketball team has an away non-conference game @ st. patrick (biloxi, ms) today @ 6p.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-17",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/harrison-central-gulfport-vs-st-patrick-biloxi/11-17-2026/?c=9f3bfc9e-91ce-44cc-90fc-cfec3c465446",
+          "excerpt": "the harrison central varsity basketball team has an away non-conference game @ st. patrick (biloxi, ms) today @ 6p.",
+          "subjects": [
+            "Harrison Central",
+            "St. Patrick"
+          ]
+        }
+      },
+      {
+        "id": "records-2",
+        "kind": "record",
+        "claim": "Louisville enters at 6-0; Pontotoc enters at 2-1.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-17",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/louisville-vs-pontotoc/11-17-2026/?c=6a8fdf89-2816-4333-81e1-2f36e3fef288",
+          "excerpt": "louisville girls varsity basketball @ pontotoc louisville wildcats 6-0 tuesday, nov 17, 2026 6:00pm cst pontotoc warriors 2-1 louisville girls varsity basketball @ pontotoc",
+          "subjects": [
+            "Louisville",
+            "Pontotoc"
+          ]
+        }
+      },
+      {
+        "id": "site-2",
+        "kind": "schedule",
+        "claim": "the louisville varsity basketball team has an away non-conference game @ pontotoc (ms) today @ 6p.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-17",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/louisville-vs-pontotoc/11-17-2026/?c=6a8fdf89-2816-4333-81e1-2f36e3fef288",
+          "excerpt": "the louisville varsity basketball team has an away non-conference game @ pontotoc (ms) today @ 6p.",
+          "subjects": [
+            "Louisville",
+            "Pontotoc"
+          ]
+        }
+      },
+      {
+        "id": "records-3",
+        "kind": "record",
+        "claim": "Meridian enters at 4-0; Neshoba Central enters at 4-1.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-17",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/meridian-vs-neshoba-central-philadelphia/11-17-2026/?c=eeb3e697-6539-432b-8a48-3722af940470",
+          "excerpt": "meridian boys varsity basketball @ neshoba central meridian wildcats 4-0 tuesday, nov 17, 2026 7:00pm cst neshoba central rockets 4-1 meridian boys varsity basketball @ neshoba central",
+          "subjects": [
+            "Meridian",
+            "Neshoba Central"
+          ]
+        }
+      },
+      {
+        "id": "site-3",
+        "kind": "schedule",
+        "claim": "the meridian varsity basketball team has an away non-conference game @ neshoba central (philadelphia, ms) today @ 7p.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-17",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/meridian-vs-neshoba-central-philadelphia/11-17-2026/?c=eeb3e697-6539-432b-8a48-3722af940470",
+          "excerpt": "the meridian varsity basketball team has an away non-conference game @ neshoba central (philadelphia, ms) today @ 7p.",
+          "subjects": [
+            "Meridian",
+            "Neshoba Central"
+          ]
+        }
+      },
+      {
+        "id": "records-4",
+        "kind": "record",
+        "claim": "Ripley enters at 2-0; Mooreville enters at 4-1.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-17",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/mooreville-vs-ripley/11-17-2026/?c=acf8f6da-cbfc-4e2b-bf19-18177d067892",
+          "excerpt": "ripley boys varsity basketball @ mooreville ripley tigers 2-0 tuesday, nov 17, 2026 7:00pm cst mooreville troopers 4-1 ripley boys varsity basketball @ mooreville",
+          "subjects": [
+            "Ripley",
+            "Mooreville"
+          ]
+        }
+      },
+      {
+        "id": "site-4",
+        "kind": "schedule",
+        "claim": "the ripley varsity basketball team has an away non-conference game @ mooreville (ms) today @ 7p.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-17",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/mooreville-vs-ripley/11-17-2026/?c=acf8f6da-cbfc-4e2b-bf19-18177d067892",
+          "excerpt": "the ripley varsity basketball team has an away non-conference game @ mooreville (ms) today @ 7p.",
+          "subjects": [
+            "Ripley",
+            "Mooreville"
+          ]
+        }
+      },
+      {
+        "id": "records-5",
+        "kind": "record",
+        "claim": "Lewisburg enters at 2-1; Center Hill enters at 3-0.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-17",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/center-hill-olive-branch-vs-lewisburg-olive-branch/11-17-2026/?c=66bd41ab-d66e-4bde-8ec8-286cf09a6253",
+          "excerpt": "lewisburg boys varsity basketball @ center hill lewisburg patriots 2-1 tuesday, nov 17, 2026 7:30pm cst center hill mustangs 3-0 lewisburg boys varsity basketball @ center hill streaming & ticketing purchase tickets",
+          "subjects": [
+            "Lewisburg",
+            "Center Hill"
+          ]
+        }
+      },
+      {
+        "id": "site-5",
+        "kind": "schedule",
+        "claim": "the lewisburg varsity basketball team has an away non-conference game @ center hill (olive branch, ms) today @ 7:30p.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-17",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/center-hill-olive-branch-vs-lewisburg-olive-branch/11-17-2026/?c=66bd41ab-d66e-4bde-8ec8-286cf09a6253",
+          "excerpt": "the lewisburg varsity basketball team has an away non-conference game @ center hill (olive branch, ms) today @ 7:30p.",
+          "subjects": [
+            "Lewisburg",
+            "Center Hill"
+          ]
+        }
+      },
+      {
+        "id": "records-6",
+        "kind": "record",
+        "claim": "Oak Grove enters at 6-0-2; Gulfport enters at 5-0-1.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-17",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/gulfport-vs-oak-grove-hattiesburg/11-17-2026/?c=efeb2b14-e284-420b-8a9e-23b0e25be2e9",
+          "excerpt": "oak grove boys varsity soccer @ gulfport oak grove warriors 6-0-2 tuesday, nov 17, 2026 7:00pm cst gulfport admirals 5-0-1 oak grove boys varsity soccer @ gulfport streaming & ticketing purchase tickets",
+          "subjects": [
+            "Oak Grove",
+            "Gulfport"
+          ]
+        }
+      },
+      {
+        "id": "site-6",
+        "kind": "schedule",
+        "claim": "the oak grove varsity soccer team has an away non-conference match @ gulfport (ms) today @ 7p.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-17",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/gulfport-vs-oak-grove-hattiesburg/11-17-2026/?c=efeb2b14-e284-420b-8a9e-23b0e25be2e9",
+          "excerpt": "the oak grove varsity soccer team has an away non-conference match @ gulfport (ms) today @ 7p.",
+          "subjects": [
+            "Oak Grove",
+            "Gulfport"
+          ]
+        }
+      },
+      {
+        "id": "records-7",
+        "kind": "record",
+        "claim": "Oxford enters at 2-1-1; Lewisburg enters at 4-0.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-17",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/lewisburg-olive-branch-vs-oxford/11-17-2026/?c=6bb3b39e-95cb-4668-aaf0-1ee080990097",
+          "excerpt": "oxford boys varsity soccer @ lewisburg oxford chargers 2-1-1 tuesday, nov 17, 2026 7:00pm cst lewisburg patriots 4-0 oxford boys varsity soccer @ lewisburg streaming & ticketing purchase tickets",
+          "subjects": [
+            "Oxford",
+            "Lewisburg"
+          ]
+        }
+      },
+      {
+        "id": "site-7",
+        "kind": "schedule",
+        "claim": "the oxford varsity soccer team has an away non-conference match @ lewisburg (olive branch, ms) today @ 7p.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-17",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/lewisburg-olive-branch-vs-oxford/11-17-2026/?c=6bb3b39e-95cb-4668-aaf0-1ee080990097",
+          "excerpt": "the oxford varsity soccer team has an away non-conference match @ lewisburg (olive branch, ms) today @ 7p.",
+          "subjects": [
+            "Oxford",
+            "Lewisburg"
+          ]
+        }
+      },
+      {
+        "id": "ripley-scoring",
+        "kind": "context",
+        "claim": "The matchup scoring averages list Ripley at 70.5 and Mooreville at 58.4 points per game.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-17",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/mooreville-vs-ripley/11-17-2026/?c=acf8f6da-cbfc-4e2b-bf19-18177d067892",
+          "excerpt": "scoring averages final ripley 70.5 mooreville 58.4",
+          "subjects": [
+            "Ripley",
+            "Mooreville"
+          ]
+        }
+      },
+      {
+        "id": "internal-background",
+        "kind": "context",
+        "claim": "The earlier varsity recap includes Meridian basketball and Lewisburg soccer.",
+        "game_indexes": [
+          3,
+          7
+        ],
+        "as_of_date": "2026-11-17",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-12/",
+          "excerpt": "meridian beat visiting wayne county 71-48 to reach a listed 4-0 record",
+          "subjects": [
+            "Meridian"
+          ]
+        }
+      }
+    ]
+  }
+}
