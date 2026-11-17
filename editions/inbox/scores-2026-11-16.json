@@ -1,0 +1,441 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-11-16",
+  "verified_at": "2026-11-17T08:06:49-06:00",
+  "publish": true,
+  "checked_sports": [
+    "basketball",
+    "soccer"
+  ],
+  "games": [
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-16",
+      "home": "Hickory Flat",
+      "away": "South Pontotoc",
+      "status": "final",
+      "home_score": 23,
+      "away_score": 65,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/hickory-flat-vs-south-pontotoc/11-16-2026/?c=512895d1-31f9-4295-8ee4-432082ad86e7",
+        "excerpt": "south pontotoc vs hickory flat | basketball | 11/16/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school girls basketball mississippi high school basketball south pontotoc girls varsity basketball @ hickory flat south pontotoc 5-0 cougars 65 final 23 hickory flat 3-3 rebels",
+        "date_excerpt": "11/16/2026",
+        "home_name": "Hickory Flat",
+        "away_name": "South Pontotoc"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-16",
+      "home": "Hickory Flat",
+      "away": "South Pontotoc",
+      "status": "final",
+      "home_score": 34,
+      "away_score": 63,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/hickory-flat-vs-south-pontotoc/11-16-2026/?c=875342c5-1977-4f34-bbcb-131c64828ee2",
+        "excerpt": "south pontotoc vs hickory flat | basketball | 11/16/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school basketball mississippi high school basketball south pontotoc boys varsity basketball @ hickory flat south pontotoc 3-2 cougars 63 final 34 hickory flat 1-5 rebels",
+        "date_excerpt": "11/16/2026",
+        "home_name": "Hickory Flat",
+        "away_name": "South Pontotoc"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-16",
+      "home": "Brandon",
+      "away": "Starkville",
+      "status": "final",
+      "home_score": 1,
+      "away_score": 4,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/brandon-vs-starkville/11-16-2026/?c=fbeaee2f-82c1-42cc-b3d2-3b1a5aa88c7b",
+        "excerpt": "starkville vs brandon | soccer | 11/16/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school soccer mississippi high school soccer starkville boys varsity soccer @ brandon starkville 4-3 yellowjackets 4 final 1 brandon 2-4-1 bulldogs",
+        "date_excerpt": "11/16/2026",
+        "home_name": "Brandon",
+        "away_name": "Starkville"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-16",
+      "home": "Forrest County Agricultural",
+      "away": "Pearl River Central",
+      "status": "final",
+      "home_score": 41,
+      "away_score": 39,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/forrest-county-agricultural-brooklyn-vs-pearl-river-central-carriere/11-16-2026/?c=08f9fa35-0a61-41a2-8a9c-7253c24b7b88",
+        "excerpt": "pearl river central vs forrest county agricultural | basketball | 11/16/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school basketball mississippi high school basketball pearl river central boys varsity basketball @ fcahs pearl river central 1-2 blue devils 39 final 41 forrest county agricultural 1-2 aggies",
+        "date_excerpt": "11/16/2026",
+        "home_name": "Forrest County Agricultural",
+        "away_name": "Pearl River Central"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-16",
+      "home": "Forrest County Agricultural",
+      "away": "Loyd Star",
+      "status": "final",
+      "home_score": 1,
+      "away_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/forrest-county-agricultural-brooklyn-vs-loyd-star-brookhaven/11-16-2026/?c=9e10b806-5b2d-45d0-81ee-9fcda32f7ad5",
+        "excerpt": "loyd star vs forrest county agricultural | soccer | 11/16/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school girls soccer mississippi high school soccer loyd star girls varsity soccer @ fcahs loyd star 5-3 hornets 0 final 1 forrest county agricultural 4-1 aggies",
+        "date_excerpt": "11/16/2026",
+        "home_name": "Forrest County Agricultural",
+        "away_name": "Loyd Star"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-16",
+      "home": "Ashland",
+      "away": "Wheeler",
+      "status": "final",
+      "home_score": 69,
+      "away_score": 81,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/ashland-vs-wheeler/11-16-2026/?c=76714967-abba-4f13-833a-be1a0a3c25da",
+        "excerpt": "wheeler vs ashland | basketball | 11/16/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school basketball mississippi high school basketball wheeler boys varsity basketball @ ashland wheeler 2-1 eagles 81 final 69 ashland 0-5 blue devils",
+        "date_excerpt": "11/16/2026",
+        "home_name": "Ashland",
+        "away_name": "Wheeler"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-11-16/",
+      "title": "Monday's Games To Watch preview"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Scores from last Night: South Pontotoc sweeps Hickory Flat; Starkville wins at Brandon",
+    "headline_fact_ids": [
+      "game-0",
+      "game-1",
+      "game-2",
+      "site-0",
+      "site-1",
+      "site-2"
+    ],
+    "html": "<p data-facts=\"game-0 game-1 game-2 game-3 game-4 records-0 records-1 records-2 site-0 site-1 site-2 site-3 site-4\">South Pontotoc swept its varsity basketball visit to Hickory Flat on Monday, November 16, with the girls staying unbeaten in a 65-23 win and the boys winning 63-34. Starkville added a 4-1 boys soccer victory at Brandon, moving above an even record, while Forrest County Agricultural earned home wins in boys basketball and girls soccer.</p>\n<h2 data-facts=\"game-0 records-0\">Girls basketball: South Pontotoc keeps its perfect start</h2>\n<p data-facts=\"game-0 records-0 site-0 box-0\">South Pontotoc’s girls <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/hickory-flat-vs-south-pontotoc/11-16-2026/?c=512895d1-31f9-4295-8ee4-432082ad86e7\">beat Hickory Flat 65-23</a> and are listed at 5-0 on the completed matchup page. Hickory Flat’s updated record is 3-3. The Cougars established control early: the posted box score gives them a 21-5 first quarter and a 20-8 second quarter, putting the home team under pressure before halftime.</p>\n<p data-facts=\"game-0 records-0 box-0 internal-preview\">The unbeaten start that led <a href=\"https://sportsmississippi.com/sports/sportsms-preview-2026-11-16/\">Monday’s Games To Watch preview</a> remained intact. South Pontotoc continued to limit Hickory Flat after the break, with the Rebels scoring eight points in the third quarter and two in the fourth. The result extended the Cougars’ perfect opening while bringing Hickory Flat level in wins and losses.</p>\n<h2 data-facts=\"game-1 game-3 game-5 records-1 records-3 records-5\">Boys basketball: Cougars finish the sweep; Aggies edge Pearl River Central</h2>\n<p data-facts=\"game-1 records-1 site-1 box-1\">South Pontotoc’s boys <a href=\"https://www.maxpreps.com/ms/basketball/game/hickory-flat-vs-south-pontotoc/11-16-2026/?c=875342c5-1977-4f34-bbcb-131c64828ee2\">won 63-34 at Hickory Flat</a> to reach a listed 3-2 record, with the Rebels at 1-5. The opening quarter was close at 13-11, but South Pontotoc won the second quarter 13-4 to create separation. The Cougars also finished strongly, outscoring Hickory Flat 22-9 in the fourth. Their win completed the basketball sweep and put them above an even record.</p>\n<p data-facts=\"game-3 records-3 site-3\">Forrest County Agricultural <a href=\"https://www.maxpreps.com/ms/basketball/game/forrest-county-agricultural-brooklyn-vs-pearl-river-central-carriere/11-16-2026/?c=08f9fa35-0a61-41a2-8a9c-7253c24b7b88\">held off visiting Pearl River Central 41-39</a> in boys basketball. Both teams are listed at 1-2 after the nonconference game. The narrow result gave the Aggies their first listed victory, with the Blue Devils leaving Brooklyn with the same overall record as their hosts.</p>\n<p data-facts=\"game-5 records-5 site-5\">Wheeler <a href=\"https://www.maxpreps.com/ms/basketball/game/ashland-vs-wheeler/11-16-2026/?c=76714967-abba-4f13-833a-be1a0a3c25da\">won 81-69 at Ashland</a> and is listed at 2-1, while Ashland is listed at 0-5. The Eagles emerged from the road game with a winning record; the Blue Devils are still seeking their first listed victory.</p>\n<h2 data-facts=\"game-2 records-2\">Boys soccer: Starkville takes charge at Brandon</h2>\n<p data-facts=\"game-2 records-2 site-2 box-2\">Starkville <a href=\"https://www.maxpreps.com/ms/soccer/match/brandon-vs-starkville/11-16-2026/?c=fbeaee2f-82c1-42cc-b3d2-3b1a5aa88c7b\">won its road soccer match at Brandon 4-1</a> and is listed at 4-3, while Brandon is listed at 2-4-1. The posted box score shows the Yellowjackets leading 2-0 at halftime and adding two more goals after the break, with Brandon scoring once in the second half. Starkville paired a strong opening half with further scoring to secure the nonconference win.</p>\n<h2 data-facts=\"game-4 records-4\">Girls soccer: Forrest County Agricultural makes its goal stand</h2>\n<p data-facts=\"game-4 records-4 site-4 box-4\">Forrest County Agricultural’s girls <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/forrest-county-agricultural-brooklyn-vs-loyd-star-brookhaven/11-16-2026/?c=9e10b806-5b2d-45d0-81ee-9fcda32f7ad5\">beat visiting Loyd Star 1-0</a>, with the completed matchup listing the Aggies at 4-1 and the Hornets at 5-3. The box score credits Forrest County Agricultural with a first-half goal and shows a scoreless second half. That opening goal proved enough for a shutout win, giving the Aggies another result to build on in their winning start.</p>",
+    "facts": [
+      {
+        "id": "records-0",
+        "kind": "record",
+        "claim": "south pontotoc 5-0 cougars 65 final 23 hickory flat 3-3 rebels",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/hickory-flat-vs-south-pontotoc/11-16-2026/?c=512895d1-31f9-4295-8ee4-432082ad86e7",
+          "excerpt": "south pontotoc 5-0 cougars 65 final 23 hickory flat 3-3 rebels",
+          "subjects": [
+            "South Pontotoc",
+            "Hickory Flat"
+          ]
+        }
+      },
+      {
+        "id": "box-0",
+        "kind": "result",
+        "claim": "boxscore q1 q2 q3 q4 final south pontotoc 21 20 16 8 65 hickory flat 5 8 8 2 23",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/hickory-flat-vs-south-pontotoc/11-16-2026/?c=512895d1-31f9-4295-8ee4-432082ad86e7",
+          "excerpt": "boxscore q1 q2 q3 q4 final south pontotoc 21 20 16 8 65 hickory flat 5 8 8 2 23",
+          "subjects": [
+            "South Pontotoc",
+            "Hickory Flat"
+          ]
+        }
+      },
+      {
+        "id": "site-0",
+        "kind": "result",
+        "claim": "on 11/16, the south pontotoc varsity basketball team won their away non-conference game against hickory flat (ms) by a score of 65-23.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/hickory-flat-vs-south-pontotoc/11-16-2026/?c=512895d1-31f9-4295-8ee4-432082ad86e7",
+          "excerpt": "on 11/16, the south pontotoc varsity basketball team won their away non-conference game against hickory flat (ms) by a score of 65-23.",
+          "subjects": [
+            "South Pontotoc",
+            "Hickory Flat"
+          ]
+        }
+      },
+      {
+        "id": "records-1",
+        "kind": "record",
+        "claim": "south pontotoc 3-2 cougars 63 final 34 hickory flat 1-5 rebels",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/hickory-flat-vs-south-pontotoc/11-16-2026/?c=875342c5-1977-4f34-bbcb-131c64828ee2",
+          "excerpt": "south pontotoc 3-2 cougars 63 final 34 hickory flat 1-5 rebels",
+          "subjects": [
+            "South Pontotoc",
+            "Hickory Flat"
+          ]
+        }
+      },
+      {
+        "id": "box-1",
+        "kind": "result",
+        "claim": "boxscore q1 q2 q3 q4 final south pontotoc 13 13 15 22 63 hickory flat 11 4 10 9 34",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/hickory-flat-vs-south-pontotoc/11-16-2026/?c=875342c5-1977-4f34-bbcb-131c64828ee2",
+          "excerpt": "boxscore q1 q2 q3 q4 final south pontotoc 13 13 15 22 63 hickory flat 11 4 10 9 34",
+          "subjects": [
+            "South Pontotoc",
+            "Hickory Flat"
+          ]
+        }
+      },
+      {
+        "id": "site-1",
+        "kind": "result",
+        "claim": "on 11/16, the south pontotoc varsity basketball team won their away non-conference game against hickory flat (ms) by a score of 63-34.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/hickory-flat-vs-south-pontotoc/11-16-2026/?c=875342c5-1977-4f34-bbcb-131c64828ee2",
+          "excerpt": "on 11/16, the south pontotoc varsity basketball team won their away non-conference game against hickory flat (ms) by a score of 63-34.",
+          "subjects": [
+            "South Pontotoc",
+            "Hickory Flat"
+          ]
+        }
+      },
+      {
+        "id": "records-2",
+        "kind": "record",
+        "claim": "starkville 4-3 yellowjackets 4 final 1 brandon 2-4-1 bulldogs",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/brandon-vs-starkville/11-16-2026/?c=fbeaee2f-82c1-42cc-b3d2-3b1a5aa88c7b",
+          "excerpt": "starkville 4-3 yellowjackets 4 final 1 brandon 2-4-1 bulldogs",
+          "subjects": [
+            "Starkville",
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "box-2",
+        "kind": "result",
+        "claim": "boxscore 1 2 final starkville 2 2 4 brandon 0 1 1",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/brandon-vs-starkville/11-16-2026/?c=fbeaee2f-82c1-42cc-b3d2-3b1a5aa88c7b",
+          "excerpt": "boxscore 1 2 final starkville 2 2 4 brandon 0 1 1",
+          "subjects": [
+            "Starkville",
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "site-2",
+        "kind": "result",
+        "claim": "on 11/16, the starkville varsity soccer team won their away non-conference match against brandon (ms) by a score of 4-1.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/brandon-vs-starkville/11-16-2026/?c=fbeaee2f-82c1-42cc-b3d2-3b1a5aa88c7b",
+          "excerpt": "on 11/16, the starkville varsity soccer team won their away non-conference match against brandon (ms) by a score of 4-1.",
+          "subjects": [
+            "Starkville",
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "internal-preview",
+        "kind": "context",
+        "claim": "The linked Games To Watch preview covered South Pontotoc at Hickory Flat and Starkville at Brandon.",
+        "game_indexes": [
+          0,
+          1,
+          2
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-11-16/",
+          "excerpt": "games to watch: unbeaten south pontotoc girls visit hickory flat; starkville heads to brandon",
+          "subjects": [
+            "South Pontotoc",
+            "Hickory Flat",
+            "Starkville",
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "records-3",
+        "kind": "record",
+        "claim": "pearl river central 1-2 blue devils 39 final 41 forrest county agricultural 1-2 aggies",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/forrest-county-agricultural-brooklyn-vs-pearl-river-central-carriere/11-16-2026/?c=08f9fa35-0a61-41a2-8a9c-7253c24b7b88",
+          "excerpt": "pearl river central 1-2 blue devils 39 final 41 forrest county agricultural 1-2 aggies",
+          "subjects": [
+            "Pearl River Central",
+            "Forrest County Agricultural"
+          ]
+        }
+      },
+      {
+        "id": "site-3",
+        "kind": "result",
+        "claim": "on 11/16, the pearl river central varsity basketball team lost their away non-conference game against forrest county agricultural (brooklyn, ms) by a score of 41-39.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/forrest-county-agricultural-brooklyn-vs-pearl-river-central-carriere/11-16-2026/?c=08f9fa35-0a61-41a2-8a9c-7253c24b7b88",
+          "excerpt": "on 11/16, the pearl river central varsity basketball team lost their away non-conference game against forrest county agricultural (brooklyn, ms) by a score of 41-39.",
+          "subjects": [
+            "Pearl River Central",
+            "Forrest County Agricultural"
+          ]
+        }
+      },
+      {
+        "id": "records-4",
+        "kind": "record",
+        "claim": "loyd star 5-3 hornets 0 final 1 forrest county agricultural 4-1 aggies",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/forrest-county-agricultural-brooklyn-vs-loyd-star-brookhaven/11-16-2026/?c=9e10b806-5b2d-45d0-81ee-9fcda32f7ad5",
+          "excerpt": "loyd star 5-3 hornets 0 final 1 forrest county agricultural 4-1 aggies",
+          "subjects": [
+            "Loyd Star",
+            "Forrest County Agricultural"
+          ]
+        }
+      },
+      {
+        "id": "site-4",
+        "kind": "result",
+        "claim": "on 11/16, the loyd star varsity soccer team lost their away non-conference match against forrest county agricultural (brooklyn, ms) by a score of 1-0.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/forrest-county-agricultural-brooklyn-vs-loyd-star-brookhaven/11-16-2026/?c=9e10b806-5b2d-45d0-81ee-9fcda32f7ad5",
+          "excerpt": "on 11/16, the loyd star varsity soccer team lost their away non-conference match against forrest county agricultural (brooklyn, ms) by a score of 1-0.",
+          "subjects": [
+            "Loyd Star",
+            "Forrest County Agricultural"
+          ]
+        }
+      },
+      {
+        "id": "records-5",
+        "kind": "record",
+        "claim": "wheeler 2-1 eagles 81 final 69 ashland 0-5 blue devils",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/ashland-vs-wheeler/11-16-2026/?c=76714967-abba-4f13-833a-be1a0a3c25da",
+          "excerpt": "wheeler 2-1 eagles 81 final 69 ashland 0-5 blue devils",
+          "subjects": [
+            "Wheeler",
+            "Ashland"
+          ]
+        }
+      },
+      {
+        "id": "site-5",
+        "kind": "result",
+        "claim": "on 11/16, the wheeler varsity basketball team won their away non-conference game against ashland (ms) by a score of 81-69.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/ashland-vs-wheeler/11-16-2026/?c=76714967-abba-4f13-833a-be1a0a3c25da",
+          "excerpt": "on 11/16, the wheeler varsity basketball team won their away non-conference game against ashland (ms) by a score of 81-69.",
+          "subjects": [
+            "Wheeler",
+            "Ashland"
+          ]
+        }
+      },
+      {
+        "id": "box-4",
+        "kind": "result",
+        "claim": "boxscore 1 2 final loyd star 0 0 0 forrest county agricultural 1 0 1",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-16",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/forrest-county-agricultural-brooklyn-vs-loyd-star-brookhaven/11-16-2026/?c=9e10b806-5b2d-45d0-81ee-9fcda32f7ad5",
+          "excerpt": "boxscore 1 2 final loyd star 0 0 0 forrest county agricultural 1 0 1",
+          "subjects": [
+            "Loyd Star",
+            "Forrest County Agricultural"
+          ]
+        }
+      }
+    ]
+  }
+}
