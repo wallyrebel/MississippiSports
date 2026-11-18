@@ -1,0 +1,464 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-11-18",
+  "verified_at": "2026-11-18T15:11:47-06:00",
+  "publish": true,
+  "checked_sports": [
+    "basketball",
+    "soccer",
+    "football",
+    "bowling",
+    "volleyball",
+    "wrestling",
+    "cross country",
+    "swimming"
+  ],
+  "games": [
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-18",
+      "away": "Cleveland Central",
+      "home": "Clarksdale",
+      "status": "scheduled",
+      "start_time": "2026-11-18T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/clarksdale-vs-cleveland-central/11-18-2026/?c=4cc62c6d-2107-462c-b29d-6d25b51dc63d",
+        "excerpt": "cleveland central vs clarksdale | basketball | 11/18/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school girls basketball mississippi high school basketball cleveland central girls varsity basketball @ clarksdale cleveland central wolves 3-1 wednesday, nov 18, 2026 6:00pm cst clarksdale wildcats 4-0 cleveland central girls varsity basketball @ clarksdale",
+        "date_excerpt": "11/18/2026",
+        "away_name": "Cleveland Central",
+        "home_name": "Clarksdale",
+        "time_excerpt": "6:00pm cst"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-18",
+      "away": "West Tallahatchie",
+      "home": "Palmer",
+      "status": "scheduled",
+      "start_time": "2026-11-18T19:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/palmer-marks-vs-west-tallahatchie-webb/11-18-2026/?c=68a622a2-8822-4f63-bd5f-1d9d3ef24839",
+        "excerpt": "west tallahatchie vs palmer | basketball | 11/18/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school basketball mississippi high school basketball west tallahatchie boys varsity basketball @ palmer west tallahatchie choctaws 0-3 wednesday, nov 18, 2026 7:30pm cst palmer dragons 3-0 west tallahatchie boys varsity basketball @ palmer",
+        "date_excerpt": "11/18/2026",
+        "away_name": "West Tallahatchie",
+        "home_name": "Palmer",
+        "time_excerpt": "7:30pm cst"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-18",
+      "away": "Rosa Fort",
+      "home": "Riverside",
+      "status": "scheduled",
+      "start_time": "2026-11-18T19:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/riverside-avon-vs-rosa-fort-tunica/11-18-2026/?c=b0b9804d-2620-4d3d-8aa2-b63bb69529a7",
+        "excerpt": "rosa fort vs riverside | basketball | 11/18/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school basketball mississippi high school basketball rosa fort boys varsity basketball @ riverside rosa fort lions 3-0 wednesday, nov 18, 2026 7:30pm cst riverside bulldogs 2-4 rosa fort boys varsity basketball @ riverside streaming & ticketing purchase tickets",
+        "date_excerpt": "11/18/2026",
+        "away_name": "Rosa Fort",
+        "home_name": "Riverside",
+        "time_excerpt": "7:30pm cst"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-18",
+      "away": "Edwards",
+      "home": "Coahoma County",
+      "status": "scheduled",
+      "start_time": "2026-11-18T17:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/coahoma-county-red-panthers-clarksdale-vs-edwards-ruleville/11-18-2026/?c=7b464be1-ed7e-4b5b-b4fe-11c2c9a38d32",
+        "excerpt": "edwards vs coahoma county | basketball | 11/18/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school basketball mississippi high school basketball edwards boys varsity basketball @ coahoma county edwards tigers 3-2 wednesday, nov 18, 2026 5:00pm cst coahoma county panthers 3-1 edwards boys varsity basketball @ coahoma county",
+        "date_excerpt": "11/18/2026",
+        "away_name": "Edwards",
+        "home_name": "Coahoma County",
+        "time_excerpt": "5:00pm cst"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-18",
+      "away": "West Tallahatchie",
+      "home": "Palmer",
+      "status": "scheduled",
+      "start_time": "2026-11-18T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/palmer-marks-vs-west-tallahatchie-webb/11-18-2026/?c=c902bc00-ac9d-4dcb-95dd-fb58e0090227",
+        "excerpt": "west tallahatchie vs palmer | basketball | 11/18/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school girls basketball mississippi high school basketball west tallahatchie girls varsity basketball @ palmer west tallahatchie choctaws 2-1 wednesday, nov 18, 2026 6:00pm cst palmer dragons 2-2 west tallahatchie girls varsity basketball @ palmer",
+        "date_excerpt": "11/18/2026",
+        "away_name": "West Tallahatchie",
+        "home_name": "Palmer",
+        "time_excerpt": "6:00pm cst"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-18",
+      "away": "Rosa Fort",
+      "home": "Riverside",
+      "status": "scheduled",
+      "start_time": "2026-11-18T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/riverside-avon-vs-rosa-fort-tunica/11-18-2026/?c=2f7622cf-8fdf-4c90-992c-c680ecf61628",
+        "excerpt": "rosa fort vs riverside | basketball | 11/18/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school girls basketball mississippi high school basketball rosa fort girls varsity basketball @ riverside rosa fort lions 0-2 wednesday, nov 18, 2026 6:00pm cst riverside bulldogs 3-3 rosa fort girls varsity basketball @ riverside streaming & ticketing purchase tickets",
+        "date_excerpt": "11/18/2026",
+        "away_name": "Rosa Fort",
+        "home_name": "Riverside",
+        "time_excerpt": "6:00pm cst"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-18",
+      "away": "Bayou Academy",
+      "home": "Madison-Ridgeland Academy",
+      "status": "scheduled",
+      "start_time": "2026-11-18T17:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/bayou-academy-cleveland-vs-madison-ridgeland-academy/11-18-2026/?c=f147e19c-98ba-4f63-ae9c-bc05b6eed4b4",
+        "excerpt": "bayou academy vs madison-ridgeland academy | soccer | 11/18/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school soccer mississippi high school soccer bayou academy boys varsity soccer @ mra bayou academy colts 1-1 wednesday, nov 18, 2026 5:00pm cst madison-ridgeland academy patriots 1-0 bayou academy boys varsity soccer @ mra",
+        "date_excerpt": "11/18/2026",
+        "away_name": "Bayou Academy",
+        "home_name": "Madison-Ridgeland Academy",
+        "time_excerpt": "5:00pm cst"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-18",
+      "away": "Washington",
+      "home": "Heritage Academy",
+      "status": "scheduled",
+      "start_time": "2026-11-18T17:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/heritage-academy-columbus-vs-washington-greenville/11-18-2026/?c=ef1b8978-d445-4a2f-ac1e-e5037dfeed7d",
+        "excerpt": "washington vs heritage academy | soccer | 11/18/2026 maxpreps gofan ticketing nfhs network streaming maxpreps advantage coach tools football football home teams players states scores rankings stat leaders photos playoffs videos record book news live streams baseball baseball home teams players states scores rankings stat leaders photos playoffs record book news live streams b. basketball b. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. basketball g. basketball home teams players states scores rankings stat leaders photos playoffs videos record book news live streams g. volleyball g. volleyball home teams players states scores rankings stat leaders photos playoffs record book news live streams popular sports all sports boys baseball basketball beach volleyball cross country football golf ice hockey lacrosse soccer swimming tennis track & field volleyball water polo wrestling girls basketball beach volleyball cross country field hockey flag football golf ice hockey lacrosse soccer softball swimming tennis track & field volleyball water polo apps maxpreps follow your favorite high school teams and players mp stats for ipad stat keeping for basketball teams pro photography photo galleries explore and purchase photos of your local teams and players watch video center see top plays & highlights of the best high school sports live streams & replays get access to live game streams and full replays for 8000+ schools content contributors coaches set up your high school team gofan ticketing digital tickets don't miss the action – get official tickets sign in high school soccer mississippi high school soccer washington boys varsity soccer @ heritage academy washington generals 0-0 wednesday, nov 18, 2026 5:00pm cst heritage academy patriots 3-0 washington boys varsity soccer @ heritage academy",
+        "date_excerpt": "11/18/2026",
+        "away_name": "Washington",
+        "home_name": "Heritage Academy",
+        "time_excerpt": "5:00pm cst"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-04/",
+      "title": "Earlier Coahoma County and Riverside basketball coverage"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: Clarksdale girls, Palmer and Rosa Fort boys defend unbeaten starts",
+    "headline_fact_ids": [
+      "game-0",
+      "records-0",
+      "game-1",
+      "records-1",
+      "game-2",
+      "records-2"
+    ],
+    "html": "<p data-facts=\"game-0 records-0 game-1 records-1 game-2 records-2\">Clarksdale’s unbeaten girls basketball start faces a winning Cleveland Central team Wednesday night, while Palmer and Rosa Fort try to protect perfect boys records. Those early-season tests lead a November 18 selection that also includes a district soccer matchup at Madison-Ridgeland Academy.</p>\n<p data-facts=\"game-0 game-1 game-2 game-3 game-4 game-5 game-6 game-7\">The basketball schedule stretches from late afternoon into the evening, with boys soccer beginning at 5 p.m. All start times below are Central Standard Time, and the records are the pregame figures listed when the matchups were checked.</p>\n<h2 data-facts=\"game-0 records-0\">Cleveland Central at Clarksdale: a winning challenger for the unbeaten Wildcats</h2>\n<p data-facts=\"game-0 records-0 context-0\">Clarksdale’s girls enter at 4-0 for the <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/clarksdale-vs-cleveland-central/11-18-2026/?c=4cc62c6d-2107-462c-b29d-6d25b51dc63d\">6 p.m. home game against Cleveland Central</a>. The Wolves arrive at 3-1, giving the Wildcats a challenger that has also won most of its early games. Cleveland Central can hand Clarksdale its first defeat, while the Wildcats can extend their unbeaten opening against a team with only one loss. The listing identifies the game as nonconference.</p>\n<h2 data-facts=\"game-1 game-4 records-1 records-4\">West Tallahatchie at Palmer: different tests in the two varsity games</h2>\n<p data-facts=\"game-1 records-1 context-1\">Palmer’s boys are 3-0 ahead of the <a href=\"https://www.maxpreps.com/ms/basketball/game/palmer-marks-vs-west-tallahatchie-webb/11-18-2026/?c=68a622a2-8822-4f63-bd5f-1d9d3ef24839\">7:30 p.m. meeting in Marks</a>, while West Tallahatchie is 0-3. The Dragons can preserve their perfect opening; the Choctaws are trying to turn their first reported victory into an interruption of that run. The contrasting records frame the matchup without making it a district standings contest: it is listed as nonconference.</p>\n<p data-facts=\"game-4 records-4 context-4\">The <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/palmer-marks-vs-west-tallahatchie-webb/11-18-2026/?c=c902bc00-ac9d-4dcb-95dd-fb58e0090227\">girls game is scheduled for 6 p.m.</a> and brings a different balance. West Tallahatchie is 2-1 and Palmer is 2-2. A Choctaws win would strengthen an already winning start, while the Dragons have a chance to move above the break-even mark at home.</p>\n<h2 data-facts=\"game-2 game-5 records-2 records-5\">Rosa Fort at Riverside: Lions boys take an unbeaten start on the road</h2>\n<p data-facts=\"game-2 records-2 context-2\">Rosa Fort’s boys carry a 3-0 record into the <a href=\"https://www.maxpreps.com/ms/basketball/game/riverside-avon-vs-rosa-fort-tunica/11-18-2026/?c=b0b9804d-2620-4d3d-8aa2-b63bb69529a7\">7:30 p.m. game at Riverside in Avon</a>. The Bulldogs are 2-4 and have an opportunity to challenge an unbeaten visitor on their own floor. An unbeaten visitor against a host trying to improve its opening record gives this nonconference game a clear point of interest.</p>\n<p data-facts=\"game-2 records-2 game-5 records-5 context-5\">In the <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/riverside-avon-vs-rosa-fort-tunica/11-18-2026/?c=2f7622cf-8fdf-4c90-992c-c680ecf61628\">6 p.m. girls matchup</a>, Riverside is 3-3 and Rosa Fort is 0-2. The Bulldogs can move to a winning record, while the Lions seek their first reported win. Riverside enters the girls game with the stronger listed record, while Rosa Fort brings the unbeaten team into the boys contest.</p>\n<h2 data-facts=\"game-3 records-3\">Edwards at Coahoma County: winning boys teams meet at 5</h2>\n<p data-facts=\"game-3 records-3 context-3\">Coahoma County’s boys bring a 3-1 record into the <a href=\"https://www.maxpreps.com/ms/basketball/game/coahoma-county-red-panthers-clarksdale-vs-edwards-ruleville/11-18-2026/?c=7b464be1-ed7e-4b5b-b4fe-11c2c9a38d32\">5 p.m. home game against Edwards</a>, which is 3-2. The Panthers can improve on a start that includes only one loss, while an Edwards victory would give the Tigers a stronger winning margin in their record. Edwards travels from Ruleville to Clarksdale for the nonconference contest.</p>\n<p data-facts=\"game-3 game-5\">For more basketball coverage involving these schools, see our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-11-04/\">earlier Coahoma County and Riverside report</a>.</p>\n<h2 data-facts=\"game-6 records-6 context-6\">Bayou Academy at MRA: district stakes in boys soccer</h2>\n<p data-facts=\"game-6 records-6 context-6\">The <a href=\"https://www.maxpreps.com/ms/soccer/match/bayou-academy-cleveland-vs-madison-ridgeland-academy/11-18-2026/?c=f147e19c-98ba-4f63-ae9c-bc05b6eed4b4\">5 p.m. boys match at Madison-Ridgeland Academy</a> carries a different kind of significance: MaxPreps lists it as a conference match. MRA is 1-0 overall and Bayou Academy is 1-1. The Patriots can keep their unbeaten opening intact, while the Colts can move to a winning record in a game that also matters within their conference schedule.</p>\n<h2 data-facts=\"game-7 records-7\">Washington at Heritage Academy: Patriots defend a perfect opening</h2>\n<p data-facts=\"game-7 records-7 context-7\">Heritage Academy’s boys are 3-0 entering the <a href=\"https://www.maxpreps.com/ms/soccer/match/heritage-academy-columbus-vs-washington-greenville/11-18-2026/?c=ef1b8978-d445-4a2f-ac1e-e5037dfeed7d\">5 p.m. home match against Washington</a>. Washington’s listing shows 0-0, so there is no reported season result to use as a form guide for the Generals. Heritage’s perfect opening supplies the reason to follow this meeting in Columbus; the match is listed as nonconference.</p>",
+    "facts": [
+      {
+        "id": "records-0",
+        "kind": "record",
+        "claim": "high school girls basketball mississippi high school basketball cleveland central girls varsity basketball @ clarksdale cleveland central wolves 3-1 wednesday, nov 18, 2026 6:00pm cst clarksdale wildcats 4-0 cleveland central girls varsity basketball @ clarksdale",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/clarksdale-vs-cleveland-central/11-18-2026/?c=4cc62c6d-2107-462c-b29d-6d25b51dc63d",
+          "excerpt": "high school girls basketball mississippi high school basketball cleveland central girls varsity basketball @ clarksdale cleveland central wolves 3-1 wednesday, nov 18, 2026 6:00pm cst clarksdale wildcats 4-0 cleveland central girls varsity basketball @ clarksdale",
+          "subjects": [
+            "Cleveland Central",
+            "Clarksdale"
+          ]
+        }
+      },
+      {
+        "id": "context-0",
+        "kind": "context",
+        "claim": "game info the cleveland central varsity basketball team has an away non-conference game @ clarksdale (ms) today @ 6p. scorekeeper no scorekeeper sign up to score game no scorekeeper sign up to score game matchup roster",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/clarksdale-vs-cleveland-central/11-18-2026/?c=4cc62c6d-2107-462c-b29d-6d25b51dc63d",
+          "excerpt": "game info the cleveland central varsity basketball team has an away non-conference game @ clarksdale (ms) today @ 6p. scorekeeper no scorekeeper sign up to score game no scorekeeper sign up to score game matchup roster",
+          "subjects": [
+            "Cleveland Central",
+            "Clarksdale"
+          ]
+        }
+      },
+      {
+        "id": "records-1",
+        "kind": "record",
+        "claim": "high school basketball mississippi high school basketball west tallahatchie boys varsity basketball @ palmer west tallahatchie choctaws 0-3 wednesday, nov 18, 2026 7:30pm cst palmer dragons 3-0 west tallahatchie boys varsity basketball @ palmer",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/palmer-marks-vs-west-tallahatchie-webb/11-18-2026/?c=68a622a2-8822-4f63-bd5f-1d9d3ef24839",
+          "excerpt": "high school basketball mississippi high school basketball west tallahatchie boys varsity basketball @ palmer west tallahatchie choctaws 0-3 wednesday, nov 18, 2026 7:30pm cst palmer dragons 3-0 west tallahatchie boys varsity basketball @ palmer",
+          "subjects": [
+            "West Tallahatchie",
+            "Palmer"
+          ]
+        }
+      },
+      {
+        "id": "context-1",
+        "kind": "context",
+        "claim": "game info the west tallahatchie varsity basketball team has an away non-conference game @ palmer (marks, ms) today @ 7:30p. scorekeeper c. davis phs scorekeeper no scorekeeper sign up to score game matchup roster",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/palmer-marks-vs-west-tallahatchie-webb/11-18-2026/?c=68a622a2-8822-4f63-bd5f-1d9d3ef24839",
+          "excerpt": "game info the west tallahatchie varsity basketball team has an away non-conference game @ palmer (marks, ms) today @ 7:30p. scorekeeper c. davis phs scorekeeper no scorekeeper sign up to score game matchup roster",
+          "subjects": [
+            "West Tallahatchie",
+            "Palmer"
+          ]
+        }
+      },
+      {
+        "id": "records-2",
+        "kind": "record",
+        "claim": "high school basketball mississippi high school basketball rosa fort boys varsity basketball @ riverside rosa fort lions 3-0 wednesday, nov 18, 2026 7:30pm cst riverside bulldogs 2-4 rosa fort boys varsity basketball @ riverside streaming & ticketing purchase tickets",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/riverside-avon-vs-rosa-fort-tunica/11-18-2026/?c=b0b9804d-2620-4d3d-8aa2-b63bb69529a7",
+          "excerpt": "high school basketball mississippi high school basketball rosa fort boys varsity basketball @ riverside rosa fort lions 3-0 wednesday, nov 18, 2026 7:30pm cst riverside bulldogs 2-4 rosa fort boys varsity basketball @ riverside streaming & ticketing purchase tickets",
+          "subjects": [
+            "Rosa Fort",
+            "Riverside"
+          ]
+        }
+      },
+      {
+        "id": "context-2",
+        "kind": "context",
+        "claim": "game info the rosa fort varsity basketball team has an away non-conference game @ riverside (avon, ms) today @ 7:30p. scorekeeper no scorekeeper sign up to score game no scorekeeper sign up to score game matchup roster",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/riverside-avon-vs-rosa-fort-tunica/11-18-2026/?c=b0b9804d-2620-4d3d-8aa2-b63bb69529a7",
+          "excerpt": "game info the rosa fort varsity basketball team has an away non-conference game @ riverside (avon, ms) today @ 7:30p. scorekeeper no scorekeeper sign up to score game no scorekeeper sign up to score game matchup roster",
+          "subjects": [
+            "Rosa Fort",
+            "Riverside"
+          ]
+        }
+      },
+      {
+        "id": "records-3",
+        "kind": "record",
+        "claim": "high school basketball mississippi high school basketball edwards boys varsity basketball @ coahoma county edwards tigers 3-2 wednesday, nov 18, 2026 5:00pm cst coahoma county panthers 3-1 edwards boys varsity basketball @ coahoma county",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/coahoma-county-red-panthers-clarksdale-vs-edwards-ruleville/11-18-2026/?c=7b464be1-ed7e-4b5b-b4fe-11c2c9a38d32",
+          "excerpt": "high school basketball mississippi high school basketball edwards boys varsity basketball @ coahoma county edwards tigers 3-2 wednesday, nov 18, 2026 5:00pm cst coahoma county panthers 3-1 edwards boys varsity basketball @ coahoma county",
+          "subjects": [
+            "Edwards",
+            "Coahoma County"
+          ]
+        }
+      },
+      {
+        "id": "context-3",
+        "kind": "context",
+        "claim": "game info the edwards varsity basketball team has an away non-conference game @ coahoma county (clarksdale, ms) today @ 5p. scorekeeper no scorekeeper sign up to score game a. sanders ehs scorekeeper matchup roster",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/coahoma-county-red-panthers-clarksdale-vs-edwards-ruleville/11-18-2026/?c=7b464be1-ed7e-4b5b-b4fe-11c2c9a38d32",
+          "excerpt": "game info the edwards varsity basketball team has an away non-conference game @ coahoma county (clarksdale, ms) today @ 5p. scorekeeper no scorekeeper sign up to score game a. sanders ehs scorekeeper matchup roster",
+          "subjects": [
+            "Edwards",
+            "Coahoma County"
+          ]
+        }
+      },
+      {
+        "id": "records-4",
+        "kind": "record",
+        "claim": "high school girls basketball mississippi high school basketball west tallahatchie girls varsity basketball @ palmer west tallahatchie choctaws 2-1 wednesday, nov 18, 2026 6:00pm cst palmer dragons 2-2 west tallahatchie girls varsity basketball @ palmer",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/palmer-marks-vs-west-tallahatchie-webb/11-18-2026/?c=c902bc00-ac9d-4dcb-95dd-fb58e0090227",
+          "excerpt": "high school girls basketball mississippi high school basketball west tallahatchie girls varsity basketball @ palmer west tallahatchie choctaws 2-1 wednesday, nov 18, 2026 6:00pm cst palmer dragons 2-2 west tallahatchie girls varsity basketball @ palmer",
+          "subjects": [
+            "West Tallahatchie",
+            "Palmer"
+          ]
+        }
+      },
+      {
+        "id": "context-4",
+        "kind": "context",
+        "claim": "game info the west tallahatchie varsity basketball team has an away non-conference game @ palmer (marks, ms) today @ 6p. scorekeeper c. davis phs scorekeeper no scorekeeper sign up to score game matchup roster",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/palmer-marks-vs-west-tallahatchie-webb/11-18-2026/?c=c902bc00-ac9d-4dcb-95dd-fb58e0090227",
+          "excerpt": "game info the west tallahatchie varsity basketball team has an away non-conference game @ palmer (marks, ms) today @ 6p. scorekeeper c. davis phs scorekeeper no scorekeeper sign up to score game matchup roster",
+          "subjects": [
+            "West Tallahatchie",
+            "Palmer"
+          ]
+        }
+      },
+      {
+        "id": "records-5",
+        "kind": "record",
+        "claim": "high school girls basketball mississippi high school basketball rosa fort girls varsity basketball @ riverside rosa fort lions 0-2 wednesday, nov 18, 2026 6:00pm cst riverside bulldogs 3-3 rosa fort girls varsity basketball @ riverside streaming & ticketing purchase tickets",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/riverside-avon-vs-rosa-fort-tunica/11-18-2026/?c=2f7622cf-8fdf-4c90-992c-c680ecf61628",
+          "excerpt": "high school girls basketball mississippi high school basketball rosa fort girls varsity basketball @ riverside rosa fort lions 0-2 wednesday, nov 18, 2026 6:00pm cst riverside bulldogs 3-3 rosa fort girls varsity basketball @ riverside streaming & ticketing purchase tickets",
+          "subjects": [
+            "Rosa Fort",
+            "Riverside"
+          ]
+        }
+      },
+      {
+        "id": "context-5",
+        "kind": "context",
+        "claim": "game info the rosa fort varsity basketball team has an away non-conference game @ riverside (avon, ms) today @ 6p. scorekeeper no scorekeeper sign up to score game no scorekeeper sign up to score game matchup roster",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/riverside-avon-vs-rosa-fort-tunica/11-18-2026/?c=2f7622cf-8fdf-4c90-992c-c680ecf61628",
+          "excerpt": "game info the rosa fort varsity basketball team has an away non-conference game @ riverside (avon, ms) today @ 6p. scorekeeper no scorekeeper sign up to score game no scorekeeper sign up to score game matchup roster",
+          "subjects": [
+            "Rosa Fort",
+            "Riverside"
+          ]
+        }
+      },
+      {
+        "id": "records-6",
+        "kind": "record",
+        "claim": "high school soccer mississippi high school soccer bayou academy boys varsity soccer @ mra bayou academy colts 1-1 wednesday, nov 18, 2026 5:00pm cst madison-ridgeland academy patriots 1-0 bayou academy boys varsity soccer @ mra",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/bayou-academy-cleveland-vs-madison-ridgeland-academy/11-18-2026/?c=f147e19c-98ba-4f63-ae9c-bc05b6eed4b4",
+          "excerpt": "high school soccer mississippi high school soccer bayou academy boys varsity soccer @ mra bayou academy colts 1-1 wednesday, nov 18, 2026 5:00pm cst madison-ridgeland academy patriots 1-0 bayou academy boys varsity soccer @ mra",
+          "subjects": [
+            "Bayou Academy",
+            "Madison-Ridgeland Academy"
+          ]
+        }
+      },
+      {
+        "id": "context-6",
+        "kind": "context",
+        "claim": "game info the bayou academy varsity soccer team has an away conference match @ madison-ridgeland academy (madison, ms) today @ 5p. matchup",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/bayou-academy-cleveland-vs-madison-ridgeland-academy/11-18-2026/?c=f147e19c-98ba-4f63-ae9c-bc05b6eed4b4",
+          "excerpt": "game info the bayou academy varsity soccer team has an away conference match @ madison-ridgeland academy (madison, ms) today @ 5p. matchup",
+          "subjects": [
+            "Bayou Academy",
+            "Madison-Ridgeland Academy"
+          ]
+        }
+      },
+      {
+        "id": "records-7",
+        "kind": "record",
+        "claim": "high school soccer mississippi high school soccer washington boys varsity soccer @ heritage academy washington generals 0-0 wednesday, nov 18, 2026 5:00pm cst heritage academy patriots 3-0 washington boys varsity soccer @ heritage academy",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/heritage-academy-columbus-vs-washington-greenville/11-18-2026/?c=ef1b8978-d445-4a2f-ac1e-e5037dfeed7d",
+          "excerpt": "high school soccer mississippi high school soccer washington boys varsity soccer @ heritage academy washington generals 0-0 wednesday, nov 18, 2026 5:00pm cst heritage academy patriots 3-0 washington boys varsity soccer @ heritage academy",
+          "subjects": [
+            "Washington",
+            "Heritage Academy"
+          ]
+        }
+      },
+      {
+        "id": "context-7",
+        "kind": "context",
+        "claim": "game info the washington varsity soccer team has an away non-conference match @ heritage academy (columbus, ms) today @ 5p. matchup roster",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/heritage-academy-columbus-vs-washington-greenville/11-18-2026/?c=ef1b8978-d445-4a2f-ac1e-e5037dfeed7d",
+          "excerpt": "game info the washington varsity soccer team has an away non-conference match @ heritage academy (columbus, ms) today @ 5p. matchup roster",
+          "subjects": [
+            "Washington",
+            "Heritage Academy"
+          ]
+        }
+      }
+    ]
+  }
+}
