@@ -1,0 +1,495 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-11-19",
+  "verified_at": "2026-11-19T15:02:35.476217-06:00",
+  "publish": true,
+  "checked_sports": [
+    "basketball",
+    "soccer",
+    "football",
+    "volleyball",
+    "bowling",
+    "wrestling"
+  ],
+  "games": [
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-19",
+      "home": "Ripley",
+      "away": "Center Hill",
+      "status": "scheduled",
+      "start_time": "2026-11-19T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/center-hill-olive-branch-vs-ripley/11-19-2026/?c=0998575c-2983-4b57-95f5-fd1d273cae5d",
+        "excerpt": "Center Hill vs Ripley | Basketball | 11/19/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Center Hill Boys Varsity Basketball @ Ripley Center Hill Mustangs 4-0 Thursday, Nov 19, 2026 7:00pm CST Ripley Tigers 3-0 Center Hill Boys Varsity Basketball @ Ripley",
+        "date_excerpt": "11/19/2026",
+        "time_excerpt": "7:00pm CST",
+        "home_name": "Ripley",
+        "away_name": "Center Hill"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-19",
+      "home": "Southaven",
+      "away": "South Panola",
+      "status": "scheduled",
+      "start_time": "2026-11-19T19:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/south-panola-batesville-vs-southaven/11-19-2026/?c=8387ba91-428a-4524-83fa-9a590b6260d5",
+        "excerpt": "South Panola vs Southaven | Basketball | 11/19/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball South Panola Boys Varsity Basketball @ Southaven South Panola Tigers 0-5 Thursday, Nov 19, 2026 7:30pm CST Southaven Chargers 2-0 South Panola Boys Varsity Basketball @ Southaven Streaming & Ticketing Purchase Tickets",
+        "date_excerpt": "11/19/2026",
+        "time_excerpt": "7:30pm CST",
+        "home_name": "Southaven",
+        "away_name": "South Panola"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-19",
+      "home": "Ripley",
+      "away": "Center Hill",
+      "status": "scheduled",
+      "start_time": "2026-11-19T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/center-hill-olive-branch-vs-ripley/11-19-2026/?c=273592f5-6354-480c-9cce-e87f3ec68ef7",
+        "excerpt": "Center Hill vs Ripley | Basketball | 11/19/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Center Hill Girls Varsity Basketball @ Ripley Center Hill Mustangs 3-1 Thursday, Nov 19, 2026 6:00pm CST Ripley Tigers 3-1 Center Hill Girls Varsity Basketball @ Ripley",
+        "date_excerpt": "11/19/2026",
+        "time_excerpt": "6:00pm CST",
+        "home_name": "Ripley",
+        "away_name": "Center Hill"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-19",
+      "home": "Southaven",
+      "away": "South Panola",
+      "status": "scheduled",
+      "start_time": "2026-11-19T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/south-panola-batesville-vs-southaven/11-19-2026/?c=57dd5aaf-9c00-4bec-850a-81ab9656bd14",
+        "excerpt": "South Panola vs Southaven | Basketball | 11/19/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball South Panola Girls Varsity Basketball @ Southaven South Panola Tigers 5-0 Thursday, Nov 19, 2026 6:00pm CST Southaven Chargers 2-2 South Panola Girls Varsity Basketball @ Southaven Streaming & Ticketing Purchase Tickets",
+        "date_excerpt": "11/19/2026",
+        "time_excerpt": "6:00pm CST",
+        "home_name": "Southaven",
+        "away_name": "South Panola"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-19",
+      "home": "Center Hill",
+      "away": "Oxford",
+      "status": "scheduled",
+      "start_time": "2026-11-19T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/center-hill-olive-branch-vs-oxford/11-19-2026/?c=9cd23886-64df-4284-ba9e-4dea228b352e",
+        "excerpt": "Oxford vs Center Hill | Soccer | 11/19/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Oxford Boys Varsity Soccer @ Center Hill Oxford Chargers 3-1-1 Thursday, Nov 19, 2026 7:00pm CST Center Hill Mustangs 4-2 Oxford Boys Varsity Soccer @ Center Hill Streaming & Ticketing Purchase Tickets",
+        "date_excerpt": "11/19/2026",
+        "time_excerpt": "7:00pm CST",
+        "home_name": "Center Hill",
+        "away_name": "Oxford"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-19",
+      "home": "West Harrison",
+      "away": "Harrison Central",
+      "status": "scheduled",
+      "start_time": "2026-11-19T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/harrison-central-gulfport-vs-west-harrison-gulfport/11-19-2026/?c=79147bb5-c28e-4525-90ad-16d857e51483",
+        "excerpt": "Harrison Central vs West Harrison | Soccer | 11/19/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Harrison Central Boys Varsity Soccer @ West Harrison Harrison Central Red Rebels 6-0 Thursday, Nov 19, 2026 7:00pm CST West Harrison Hurricanes 7-1-1 Harrison Central Boys Varsity Soccer @ West Harrison",
+        "date_excerpt": "11/19/2026",
+        "time_excerpt": "7:00pm CST",
+        "home_name": "West Harrison",
+        "away_name": "Harrison Central"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-19",
+      "home": "Center Hill",
+      "away": "Oxford",
+      "status": "scheduled",
+      "start_time": "2026-11-19T17:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/center-hill-olive-branch-vs-oxford/11-19-2026/?c=e65ae659-7bfe-498c-b8ac-ae43b3d54621",
+        "excerpt": "Oxford vs Center Hill | Soccer | 11/19/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Oxford Girls Varsity Soccer @ Center Hill Oxford Chargers 4-1 Thursday, Nov 19, 2026 5:30pm CST Center Hill Mustangs 2-3 Oxford Girls Varsity Soccer @ Center Hill Streaming & Ticketing Purchase Tickets",
+        "date_excerpt": "11/19/2026",
+        "time_excerpt": "5:30pm CST",
+        "home_name": "Center Hill",
+        "away_name": "Oxford"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-19",
+      "home": "West Harrison",
+      "away": "Harrison Central",
+      "status": "scheduled",
+      "start_time": "2026-11-19T17:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/harrison-central-gulfport-vs-west-harrison-gulfport/11-19-2026/?c=45bbd7f3-3bab-4e27-9458-2610805998e7",
+        "excerpt": "Harrison Central vs West Harrison | Soccer | 11/19/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Harrison Central Girls Varsity Soccer @ West Harrison Harrison Central Red Rebels 3-4-1 Thursday, Nov 19, 2026 5:30pm CST West Harrison Hurricanes 7-1 Harrison Central Girls Varsity Soccer @ West Harrison",
+        "date_excerpt": "11/19/2026",
+        "time_excerpt": "5:30pm CST",
+        "home_name": "West Harrison",
+        "away_name": "Harrison Central"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-17/",
+      "title": "Scores from last Night: Ripley rallies in overtime; Pontotoc ends Louisville unbeaten start"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: Unbeaten Center Hill and Ripley collide; Harrison Central faces West Harrison",
+    "headline_fact_ids": [
+      "game-0",
+      "records-0",
+      "game-5",
+      "records-5"
+    ],
+    "html": "<p data-facts=\"game-0 records-0 game-5 records-5\">An unbeaten start will be tested Thursday night in Ripley, where Center Hill brings a 4-0 boys basketball record to a Tigers team that is 3-0. On the Coast, Harrison Central takes a perfect 6-0 boys soccer record to West Harrison, which has lost only once in a 7-1-1 opening.</p>\n<p data-facts=\"game-0 game-1 game-2 game-3 game-4 game-5 game-6 game-7\">Those meetings lead this November 19 Games To Watch selection, with basketball doubleheaders in Ripley and Southaven and soccer doubleheaders at Center Hill and West Harrison. All start times below are Central Standard Time and were checked before publication.</p>\n<h2 data-facts=\"game-0 game-2 records-0 records-2\">Center Hill at Ripley: perfect boys records, evenly matched girls starts</h2>\n<p data-facts=\"game-0 records-0 context-0 center-hill-scorer\">The <a href=\"https://www.maxpreps.com/ms/basketball/game/center-hill-olive-branch-vs-ripley/11-19-2026/?c=0998575c-2983-4b57-95f5-fd1d273cae5d\">7 p.m. boys game</a> pairs two teams that have yet to take a reported loss. Center Hill enters 4-0 and Ripley 3-0, making this a direct test of both unbeaten openings. Center Hill lists Cardale Manuel at 18.5 points per game, giving the Mustangs a proven scoring option for the road test. The game is listed as nonconference.</p>\n<p data-facts=\"game-2 records-2 context-2\">The <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/center-hill-olive-branch-vs-ripley/11-19-2026/?c=273592f5-6354-480c-9cce-e87f3ec68ef7\">girls game tips at 6 p.m.</a> with both teams at 3-1. Their matching records give the opener a different balance from the unbeaten boys meeting: either the Mustangs or Tigers can leave with a fourth victory and only one loss.</p>\n<p data-facts=\"game-0 game-2\">For the results that preceded this matchup, see our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-11-17/\">Tuesday recap covering Ripley and Center Hill</a>.</p>\n<h2 data-facts=\"game-5 game-7 records-5 records-7\">Harrison Central at West Harrison: winning starts meet in district soccer</h2>\n<p data-facts=\"game-5 records-5 context-5\">Harrison Central puts its 6-0 boys record on the line in the <a href=\"https://www.maxpreps.com/ms/soccer/match/harrison-central-gulfport-vs-west-harrison-gulfport/11-19-2026/?c=79147bb5-c28e-4525-90ad-16d857e51483\">7 p.m. match at West Harrison</a>. The Hurricanes enter 7-1-1, giving the Red Rebels an opponent that has already built a substantial winning record of its own. The match is listed as a conference contest, adding district significance to the effort to stay unbeaten.</p>\n<p data-facts=\"game-7 records-7 context-7\">The <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/harrison-central-gulfport-vs-west-harrison-gulfport/11-19-2026/?c=45bbd7f3-3bab-4e27-9458-2610805998e7\">girls match starts at 5:30 p.m.</a>. West Harrison is 7-1, while Harrison Central is 3-4-1. That makes the opener an opportunity for the Red Rebels to challenge a strong early record on the road; the Hurricanes can protect their winning start in another fixture listed as a conference match.</p>\n<h2 data-facts=\"game-3 game-1 records-3 records-1\">South Panola at Southaven: unbeaten teams on opposite sides of the doubleheader</h2>\n<p data-facts=\"game-3 records-3 context-3 south-panola-rematch\">South Panola brings the unbeaten girls team into the <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/south-panola-batesville-vs-southaven/11-19-2026/?c=57dd5aaf-9c00-4bec-850a-81ab9656bd14\">6 p.m. opener</a>. The Tigers are 5-0 and Southaven is 2-2. It is also a rematch: South Panola won the November 10 meeting 54-40. Southaven can move above the break-even mark by reversing that result, while South Panola has an opportunity to add another victory against the Chargers.</p>\n<p data-facts=\"game-1 records-1 context-1\">The roles reverse in the <a href=\"https://www.maxpreps.com/ms/basketball/game/south-panola-batesville-vs-southaven/11-19-2026/?c=8387ba91-428a-4524-83fa-9a590b6260d5\">7:30 p.m. boys game</a>: Southaven is 2-0, while South Panola is looking for its first reported win after a 0-5 start. The Chargers have the perfect record to protect, and the Tigers have a chance to change the direction of their opening stretch. Both basketball games are listed as nonconference.</p>\n<h2 data-facts=\"game-6 game-4 records-6 records-4\">Oxford at Center Hill: Chargers take winning soccer records on the road</h2>\n<p data-facts=\"game-6 records-6 context-6\">Oxford’s girls enter the <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/center-hill-olive-branch-vs-oxford/11-19-2026/?c=e65ae659-7bfe-498c-b8ac-ae43b3d54621\">5:30 p.m. match</a> at 4-1 against a Center Hill team listed at 2-3. The Chargers can build on a start with only one defeat, while the Mustangs can get back to an even record by winning at home.</p>\n<p data-facts=\"game-4 records-4 context-4\">The <a href=\"https://www.maxpreps.com/ms/soccer/match/center-hill-olive-branch-vs-oxford/11-19-2026/?c=9cd23886-64df-4284-ba9e-4dea228b352e\">7 p.m. boys match</a> brings together two winning records: Oxford is 3-1-1 and Center Hill is 4-2. Neither team is unbeaten, but each has more wins than losses to defend in a nonconference meeting. With both Oxford squads traveling to Olive Branch, the doubleheader offers a useful comparison of how their early form holds up away from home.</p>",
+    "facts": [
+      {
+        "id": "records-0",
+        "kind": "record",
+        "claim": "Center Hill Boys Varsity Basketball @ Ripley Center Hill Mustangs 4-0 Thursday, Nov 19, 2026 7:00pm CST Ripley Tigers 3-0 Center Hill Boys Varsity Basketball @ Ripley",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-19",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/center-hill-olive-branch-vs-ripley/11-19-2026/?c=0998575c-2983-4b57-95f5-fd1d273cae5d",
+          "excerpt": "Center Hill Boys Varsity Basketball @ Ripley Center Hill Mustangs 4-0 Thursday, Nov 19, 2026 7:00pm CST Ripley Tigers 3-0 Center Hill Boys Varsity Basketball @ Ripley",
+          "subjects": [
+            "Center Hill",
+            "Ripley"
+          ]
+        }
+      },
+      {
+        "id": "context-0",
+        "kind": "context",
+        "claim": "Game Info The Center Hill varsity basketball team has an away non-conference game @ Ripley (MS) today @ 7p. Scorekeeper No Scorekeeper Sign Up to Score Game B. Suggs CHHS Scorekeeper",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-19",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/center-hill-olive-branch-vs-ripley/11-19-2026/?c=0998575c-2983-4b57-95f5-fd1d273cae5d",
+          "excerpt": "Game Info The Center Hill varsity basketball team has an away non-conference game @ Ripley (MS) today @ 7p. Scorekeeper No Scorekeeper Sign Up to Score Game B. Suggs CHHS Scorekeeper",
+          "subjects": [
+            "Center Hill",
+            "Ripley"
+          ]
+        }
+      },
+      {
+        "id": "records-1",
+        "kind": "record",
+        "claim": "South Panola Boys Varsity Basketball @ Southaven South Panola Tigers 0-5 Thursday, Nov 19, 2026 7:30pm CST Southaven Chargers 2-0 South Panola Boys Varsity Basketball @ Southaven Streaming & Ticketing Purchase Tickets",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-19",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/south-panola-batesville-vs-southaven/11-19-2026/?c=8387ba91-428a-4524-83fa-9a590b6260d5",
+          "excerpt": "South Panola Boys Varsity Basketball @ Southaven South Panola Tigers 0-5 Thursday, Nov 19, 2026 7:30pm CST Southaven Chargers 2-0 South Panola Boys Varsity Basketball @ Southaven Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "South Panola",
+            "Southaven"
+          ]
+        }
+      },
+      {
+        "id": "context-1",
+        "kind": "context",
+        "claim": "Game Info The South Panola varsity basketball team has an away non-conference game @ Southaven (MS) today @ 7:30p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-19",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/south-panola-batesville-vs-southaven/11-19-2026/?c=8387ba91-428a-4524-83fa-9a590b6260d5",
+          "excerpt": "Game Info The South Panola varsity basketball team has an away non-conference game @ Southaven (MS) today @ 7:30p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game",
+          "subjects": [
+            "South Panola",
+            "Southaven"
+          ]
+        }
+      },
+      {
+        "id": "records-2",
+        "kind": "record",
+        "claim": "Center Hill Girls Varsity Basketball @ Ripley Center Hill Mustangs 3-1 Thursday, Nov 19, 2026 6:00pm CST Ripley Tigers 3-1 Center Hill Girls Varsity Basketball @ Ripley",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-19",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/center-hill-olive-branch-vs-ripley/11-19-2026/?c=273592f5-6354-480c-9cce-e87f3ec68ef7",
+          "excerpt": "Center Hill Girls Varsity Basketball @ Ripley Center Hill Mustangs 3-1 Thursday, Nov 19, 2026 6:00pm CST Ripley Tigers 3-1 Center Hill Girls Varsity Basketball @ Ripley",
+          "subjects": [
+            "Center Hill",
+            "Ripley"
+          ]
+        }
+      },
+      {
+        "id": "context-2",
+        "kind": "context",
+        "claim": "Game Info The Center Hill varsity basketball team has an away non-conference game @ Ripley (MS) today @ 6p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-19",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/center-hill-olive-branch-vs-ripley/11-19-2026/?c=273592f5-6354-480c-9cce-e87f3ec68ef7",
+          "excerpt": "Game Info The Center Hill varsity basketball team has an away non-conference game @ Ripley (MS) today @ 6p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game",
+          "subjects": [
+            "Center Hill",
+            "Ripley"
+          ]
+        }
+      },
+      {
+        "id": "records-3",
+        "kind": "record",
+        "claim": "South Panola Girls Varsity Basketball @ Southaven South Panola Tigers 5-0 Thursday, Nov 19, 2026 6:00pm CST Southaven Chargers 2-2 South Panola Girls Varsity Basketball @ Southaven Streaming & Ticketing Purchase Tickets",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-19",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/south-panola-batesville-vs-southaven/11-19-2026/?c=57dd5aaf-9c00-4bec-850a-81ab9656bd14",
+          "excerpt": "South Panola Girls Varsity Basketball @ Southaven South Panola Tigers 5-0 Thursday, Nov 19, 2026 6:00pm CST Southaven Chargers 2-2 South Panola Girls Varsity Basketball @ Southaven Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "South Panola",
+            "Southaven"
+          ]
+        }
+      },
+      {
+        "id": "context-3",
+        "kind": "context",
+        "claim": "Game Info The South Panola varsity basketball team has an away non-conference game @ Southaven (MS) today @ 6p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-19",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/south-panola-batesville-vs-southaven/11-19-2026/?c=57dd5aaf-9c00-4bec-850a-81ab9656bd14",
+          "excerpt": "Game Info The South Panola varsity basketball team has an away non-conference game @ Southaven (MS) today @ 6p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game",
+          "subjects": [
+            "South Panola",
+            "Southaven"
+          ]
+        }
+      },
+      {
+        "id": "records-4",
+        "kind": "record",
+        "claim": "Oxford Boys Varsity Soccer @ Center Hill Oxford Chargers 3-1-1 Thursday, Nov 19, 2026 7:00pm CST Center Hill Mustangs 4-2 Oxford Boys Varsity Soccer @ Center Hill Streaming & Ticketing Purchase Tickets",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-19",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/center-hill-olive-branch-vs-oxford/11-19-2026/?c=9cd23886-64df-4284-ba9e-4dea228b352e",
+          "excerpt": "Oxford Boys Varsity Soccer @ Center Hill Oxford Chargers 3-1-1 Thursday, Nov 19, 2026 7:00pm CST Center Hill Mustangs 4-2 Oxford Boys Varsity Soccer @ Center Hill Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "Oxford",
+            "Center Hill"
+          ]
+        }
+      },
+      {
+        "id": "context-4",
+        "kind": "context",
+        "claim": "Game Info The Oxford varsity soccer team has an away non-conference match @ Center Hill (Olive Branch, MS) today @ 7p.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-19",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/center-hill-olive-branch-vs-oxford/11-19-2026/?c=9cd23886-64df-4284-ba9e-4dea228b352e",
+          "excerpt": "Game Info The Oxford varsity soccer team has an away non-conference match @ Center Hill (Olive Branch, MS) today @ 7p.",
+          "subjects": [
+            "Oxford",
+            "Center Hill"
+          ]
+        }
+      },
+      {
+        "id": "records-5",
+        "kind": "record",
+        "claim": "Harrison Central Boys Varsity Soccer @ West Harrison Harrison Central Red Rebels 6-0 Thursday, Nov 19, 2026 7:00pm CST West Harrison Hurricanes 7-1-1 Harrison Central Boys Varsity Soccer @ West Harrison",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-19",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/harrison-central-gulfport-vs-west-harrison-gulfport/11-19-2026/?c=79147bb5-c28e-4525-90ad-16d857e51483",
+          "excerpt": "Harrison Central Boys Varsity Soccer @ West Harrison Harrison Central Red Rebels 6-0 Thursday, Nov 19, 2026 7:00pm CST West Harrison Hurricanes 7-1-1 Harrison Central Boys Varsity Soccer @ West Harrison",
+          "subjects": [
+            "Harrison Central",
+            "West Harrison"
+          ]
+        }
+      },
+      {
+        "id": "context-5",
+        "kind": "context",
+        "claim": "Game Info The Harrison Central varsity soccer team has an away conference match @ West Harrison (Gulfport, MS) today @ 7p.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-19",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/harrison-central-gulfport-vs-west-harrison-gulfport/11-19-2026/?c=79147bb5-c28e-4525-90ad-16d857e51483",
+          "excerpt": "Game Info The Harrison Central varsity soccer team has an away conference match @ West Harrison (Gulfport, MS) today @ 7p.",
+          "subjects": [
+            "Harrison Central",
+            "West Harrison"
+          ]
+        }
+      },
+      {
+        "id": "records-6",
+        "kind": "record",
+        "claim": "Oxford Girls Varsity Soccer @ Center Hill Oxford Chargers 4-1 Thursday, Nov 19, 2026 5:30pm CST Center Hill Mustangs 2-3 Oxford Girls Varsity Soccer @ Center Hill Streaming & Ticketing Purchase Tickets",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-19",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/center-hill-olive-branch-vs-oxford/11-19-2026/?c=e65ae659-7bfe-498c-b8ac-ae43b3d54621",
+          "excerpt": "Oxford Girls Varsity Soccer @ Center Hill Oxford Chargers 4-1 Thursday, Nov 19, 2026 5:30pm CST Center Hill Mustangs 2-3 Oxford Girls Varsity Soccer @ Center Hill Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "Oxford",
+            "Center Hill"
+          ]
+        }
+      },
+      {
+        "id": "context-6",
+        "kind": "context",
+        "claim": "Game Info The Oxford varsity soccer team has an away non-conference match @ Center Hill (Olive Branch, MS) today @ 5:30p.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-19",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/center-hill-olive-branch-vs-oxford/11-19-2026/?c=e65ae659-7bfe-498c-b8ac-ae43b3d54621",
+          "excerpt": "Game Info The Oxford varsity soccer team has an away non-conference match @ Center Hill (Olive Branch, MS) today @ 5:30p.",
+          "subjects": [
+            "Oxford",
+            "Center Hill"
+          ]
+        }
+      },
+      {
+        "id": "records-7",
+        "kind": "record",
+        "claim": "Harrison Central Girls Varsity Soccer @ West Harrison Harrison Central Red Rebels 3-4-1 Thursday, Nov 19, 2026 5:30pm CST West Harrison Hurricanes 7-1 Harrison Central Girls Varsity Soccer @ West Harrison",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-19",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/harrison-central-gulfport-vs-west-harrison-gulfport/11-19-2026/?c=45bbd7f3-3bab-4e27-9458-2610805998e7",
+          "excerpt": "Harrison Central Girls Varsity Soccer @ West Harrison Harrison Central Red Rebels 3-4-1 Thursday, Nov 19, 2026 5:30pm CST West Harrison Hurricanes 7-1 Harrison Central Girls Varsity Soccer @ West Harrison",
+          "subjects": [
+            "Harrison Central",
+            "West Harrison"
+          ]
+        }
+      },
+      {
+        "id": "context-7",
+        "kind": "context",
+        "claim": "Game Info The Harrison Central varsity soccer team has an away conference match @ West Harrison (Gulfport, MS) today @ 5:30p.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-19",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/harrison-central-gulfport-vs-west-harrison-gulfport/11-19-2026/?c=45bbd7f3-3bab-4e27-9458-2610805998e7",
+          "excerpt": "Game Info The Harrison Central varsity soccer team has an away conference match @ West Harrison (Gulfport, MS) today @ 5:30p.",
+          "subjects": [
+            "Harrison Central",
+            "West Harrison"
+          ]
+        }
+      },
+      {
+        "id": "center-hill-scorer",
+        "kind": "context",
+        "claim": "Center Hill lists Cardale Manuel at 18.5 points per game.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-19",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/center-hill-olive-branch-vs-ripley/11-19-2026/?c=0998575c-2983-4b57-95f5-fd1d273cae5d",
+          "excerpt": "Key Players Avg. Per Game Cardale Manuel #0 G Points 18.5 -- Not Enough Data Travion Conner #3 PG/SG Rebounds 4.3 -- Not Enough Data Kayden Johnson #2 PG Assists 2.8 -- Not Enough Data Travion Conner #3 PG/SG Steals 2.0 -- Not Enough Data ",
+          "subjects": [
+            "Cardale Manuel",
+            "Avg. Per Game"
+          ]
+        }
+      },
+      {
+        "id": "south-panola-rematch",
+        "kind": "history",
+        "fact_date": "2026-11-10",
+        "claim": "South Panola beat Southaven 54-40 in girls basketball on November 10, 2026.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-19",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/south-panola-batesville-vs-southaven/11-19-2026/?c=57dd5aaf-9c00-4bec-850a-81ab9656bd14",
+          "excerpt": "Head-to-Head 11/10/2026 54 40 11/19/2026 -- --",
+          "date_excerpt": "11/10/2026",
+          "subjects": [
+            "Head-to-Head"
+          ]
+        }
+      }
+    ]
+  }
+}
