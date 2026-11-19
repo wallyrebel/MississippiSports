@@ -1,0 +1,413 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-11-18",
+  "verified_at": "2026-11-19T14:03:01.506796+00:00",
+  "publish": true,
+  "checked_sports": [
+    "basketball",
+    "soccer",
+    "football",
+    "bowling",
+    "volleyball",
+    "wrestling",
+    "cross country",
+    "swimming"
+  ],
+  "games": [
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-18",
+      "home": "Clarksdale",
+      "away": "Cleveland Central",
+      "status": "final",
+      "home_score": 17,
+      "away_score": 32,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/clarksdale-vs-cleveland-central/11-18-2026/?c=4cc62c6d-2107-462c-b29d-6d25b51dc63d",
+        "excerpt": "Cleveland Central vs Clarksdale | Basketball | 11/18/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Cleveland Central Girls Varsity Basketball @ Clarksdale Cleveland Central 4-1 Wolves 32 Final 17 Clarksdale 4-1 Wildcats Cleveland Central Girls Varsity Basketball @ Clarksdale Game Info On 11/18, the Cleveland Central varsity basketball team won their away non-conference game against Clarksdale (MS) by a score of 32-17.",
+        "date_excerpt": "11/18/2026",
+        "home_name": "Clarksdale",
+        "away_name": "Cleveland Central"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-18",
+      "home": "Clarksdale",
+      "away": "Cleveland Central",
+      "status": "final",
+      "home_score": 34,
+      "away_score": 41,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/clarksdale-vs-cleveland-central/11-18-2026/?c=ce234153-5b36-4fd9-b293-9d7172dc4ea6",
+        "excerpt": "Cleveland Central vs Clarksdale | Basketball | 11/18/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Cleveland Central Boys Varsity Basketball @ Clarksdale Cleveland Central 2-3 Wolves 41 Final 34 Clarksdale 0-5 Wildcats Cleveland Central Boys Varsity Basketball @ Clarksdale Game Info On 11/18, the Cleveland Central varsity basketball team won their away non-conference game against Clarksdale (MS) by a score of 41-34.",
+        "date_excerpt": "11/18/2026",
+        "home_name": "Clarksdale",
+        "away_name": "Cleveland Central"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-18",
+      "home": "Riverside",
+      "away": "Rosa Fort",
+      "status": "final",
+      "home_score": 22,
+      "away_score": 68,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/riverside-avon-vs-rosa-fort-tunica/11-18-2026/?c=b0b9804d-2620-4d3d-8aa2-b63bb69529a7",
+        "excerpt": "Rosa Fort vs Riverside | Basketball | 11/18/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Rosa Fort Boys Varsity Basketball @ Riverside Rosa Fort 4-0 Lions 68 Final 22 Riverside 2-5 Bulldogs Rosa Fort Boys Varsity Basketball @ Riverside Game Info On 11/18, the Rosa Fort varsity basketball team won their away non-conference game against Riverside (Avon, MS) by a score of 68-22.",
+        "date_excerpt": "11/18/2026",
+        "home_name": "Riverside",
+        "away_name": "Rosa Fort"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-18",
+      "home": "Coahoma County",
+      "away": "Edwards",
+      "status": "final",
+      "home_score": 38,
+      "away_score": 49,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/coahoma-county-red-panthers-clarksdale-vs-edwards-ruleville/11-18-2026/?c=7b464be1-ed7e-4b5b-b4fe-11c2c9a38d32",
+        "excerpt": "Edwards vs Coahoma County | Basketball | 11/18/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Edwards Boys Varsity Basketball @ Coahoma County Edwards 4-2 Tigers 49 Final 38 Coahoma County 3-2 Panthers Edwards Boys Varsity Basketball @ Coahoma County Game Info On 11/18, the Edwards varsity basketball team won their away non-conference game against Coahoma County (Clarksdale, MS) by a score of 49-38.",
+        "date_excerpt": "11/18/2026",
+        "home_name": "Coahoma County",
+        "away_name": "Edwards"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-18",
+      "home": "Coahoma County",
+      "away": "Edwards",
+      "status": "final",
+      "home_score": 44,
+      "away_score": 32,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/coahoma-county-red-panthers-clarksdale-vs-edwards-ruleville/11-18-2026/?c=0dfe64e4-37dc-4404-997d-90f8da5c5b0c",
+        "excerpt": "Edwards vs Coahoma County | Basketball | 11/18/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Edwards Girls Varsity Basketball @ Coahoma County Edwards 1-5 Tigers 32 Final 44 Coahoma County 3-4 Panthers Edwards Girls Varsity Basketball @ Coahoma County Game Info On 11/18, the Edwards varsity basketball team lost their away non-conference game against Coahoma County (Clarksdale, MS) by a score of 44-32.",
+        "date_excerpt": "11/18/2026",
+        "home_name": "Coahoma County",
+        "away_name": "Edwards"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-18",
+      "home": "Madison-Ridgeland Academy",
+      "away": "Bayou Academy",
+      "status": "final",
+      "home_score": 2,
+      "away_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/bayou-academy-cleveland-vs-madison-ridgeland-academy/11-18-2026/?c=f147e19c-98ba-4f63-ae9c-bc05b6eed4b4",
+        "excerpt": "Bayou Academy vs Madison-Ridgeland Academy | Soccer | 11/18/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Bayou Academy Boys Varsity Soccer @ MRA Bayou Academy 1-2 Colts 0 Final 2 Madison-Ridgeland Academy 2-0 Patriots Bayou Academy Boys Varsity Soccer @ MRA Game Info On 11/18, the Bayou Academy varsity soccer team lost their away conference match against Madison-Ridgeland Academy (Madison, MS) by a score of 2-0.",
+        "date_excerpt": "11/18/2026",
+        "home_name": "Madison-Ridgeland Academy",
+        "away_name": "Bayou Academy"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-18",
+      "home": "Heritage Academy",
+      "away": "Washington",
+      "status": "final",
+      "home_score": 1,
+      "away_score": 0,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/heritage-academy-columbus-vs-washington-greenville/11-18-2026/?c=ef1b8978-d445-4a2f-ac1e-e5037dfeed7d",
+        "excerpt": "Washington vs Heritage Academy | Soccer | 11/18/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Washington Boys Varsity Soccer @ Heritage Academy Washington 0-1 Generals 0 Final 1 Heritage Academy 4-0 Patriots Washington Boys Varsity Soccer @ Heritage Academy Game Info On 11/18, the Washington varsity soccer team lost their away non-conference match against Heritage Academy (Columbus, MS) by a score of 1-0.",
+        "date_excerpt": "11/18/2026",
+        "home_name": "Heritage Academy",
+        "away_name": "Washington"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-18",
+      "home": "Delta Streets Academy",
+      "away": "Regents",
+      "status": "final",
+      "home_score": 2,
+      "away_score": 1,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/delta-streets-academy-greenwood-vs-regents-oxford/11-18-2026/?c=9c8257dd-8c56-4d76-b0f5-ffea28a0efba",
+        "excerpt": "Regents vs Delta Streets Academy | Soccer | 11/18/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Regents Boys Varsity Soccer @ DSA Regents 0-1 Lions 1 Final 2 Delta Streets Academy 3-2 Lions Regents Boys Varsity Soccer @ DSA Game Info On 11/18, the Regents varsity soccer team lost their away non-conference match against Delta Streets Academy (Greenwood, MS) by a score of 2-1.",
+        "date_excerpt": "11/18/2026",
+        "home_name": "Delta Streets Academy",
+        "away_name": "Regents"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-18",
+      "home": "River Oaks",
+      "away": "Newton County Academy",
+      "status": "final",
+      "home_score": 36,
+      "away_score": 6,
+      "evidence": {
+        "url": "https://www.maxpreps.com/inter-state/football/game/newton-county-academy-decatur-ms-vs-river-oaks-monroe-la/11-18-2026/?c=b78bb6a4-f60b-49b1-83c6-a51f6d7a65ca",
+        "excerpt": "Newton County Academy vs River Oaks | Football | 11/18/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Louisiana High School Football NCA Varsity Football @ River Oaks Newton County Academy 10-5 Generals 6 Final 36 River Oaks 12-1 Mustangs NCA Varsity Football @ River Oaks Game Info On 11/18, the Newton County Academy varsity football team lost their away playoff game against River Oaks (Monroe, LA) by a score of 36-6.",
+        "date_excerpt": "11/18/2026",
+        "home_name": "River Oaks",
+        "away_name": "Newton County Academy"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-11-18/",
+      "title": "November 18 Games To Watch"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Scores from last Night: Cleveland Central ends Clarksdale’s perfect start; Rosa Fort stays unbeaten",
+    "headline_fact_ids": [
+      "game-0",
+      "record-0",
+      "game-2",
+      "record-2"
+    ],
+    "html": "<p data-facts=\"game-0 record-0 game-2 record-2\">Cleveland Central ended Clarksdale’s unbeaten girls basketball start Wednesday, winning 32–17 on the road, while Rosa Fort’s boys kept their own perfect opening intact with a 68–22 victory at Riverside. The results gave the Wolves and Wildcats matching 4–1 girls records and pushed the Lions to 4–0.</p>\n<p data-facts=\"game-5 game-6 record-5 record-6\">On the soccer field, Madison-Ridgeland Academy and Heritage Academy both protected unbeaten records with shutouts. MRA beat Bayou Academy 2–0 in a conference match, and Heritage edged Washington 1–0 in Columbus.</p>\n<h2 data-facts=\"game-0 game-1\">Cleveland Central takes both games at Clarksdale</h2>\n<p data-facts=\"game-0 record-0\">The Cleveland Central girls’ road win changed the early-season picture for both teams: the Wolves improved to 4–1, and Clarksdale took its first defeat. The Wildcats finished with 17 points in the nonconference meeting, while Cleveland Central’s 32 were enough to send the visiting team home with the victory.</p>\n<p data-facts=\"game-1 record-1 boys-fourth\">The boys game also went to Cleveland Central, 41–34, with the fourth quarter supplying the decisive separation. The Wolves outscored Clarksdale 16–6 in the final period after scoring eight, nine and eight points in the opening three quarters. Cleveland Central moved to 2–3; the Wildcats fell to 0–5.</p>\n<h2 data-facts=\"game-2 game-3 game-4\">Rosa Fort stays perfect; Edwards and Coahoma County split</h2>\n<p data-facts=\"game-2 record-2\">Rosa Fort’s boys faced a road test at Riverside and left with a 68–22 nonconference win. The Lions’ unbeaten record now stands at 4–0, while the Bulldogs are 2–5. The Lions were among the unbeaten teams featured in <a href=\"https://sportsmississippi.com/sports/sportsms-preview-2026-11-18/\">Wednesday’s Games To Watch preview</a>, which also featured Cleveland Central’s girls and the MRA and Heritage soccer matches.</p>\n<p data-facts=\"game-3 record-3\">Edwards’ boys won 49–38 at Coahoma County in another meeting between teams with winning records. The Tigers improved to 4–2, while the Panthers’ postgame mark is 3–2. The nonconference result adds a road win to Edwards’ early-season schedule.</p>\n<p data-facts=\"game-4 record-4\">Coahoma County took the girls game 44–32, ensuring the schools split the varsity basketball results. The Panthers are 3–4 after the win, and Edwards is 1–5. </p>\n<h2 data-facts=\"game-5 game-6 game-7\">Unbeaten soccer starts continue at MRA and Heritage</h2>\n<p data-facts=\"game-5 record-5\">MRA’s 2–0 home win over Bayou Academy carried conference significance as well as extending its unbeaten opening. The Patriots are 2–0 overall after keeping the Colts off the scoreboard; Bayou Academy’s record is 1–2. The match listing identifies it as a conference contest.</p>\n<p data-facts=\"game-6 record-6\">Heritage Academy needed only one goal to preserve its perfect start against Washington. The 1–0 nonconference victory put the Patriots at 4–0. Washington’s reported record is 0–1 after the trip to Columbus.</p>\n<p data-facts=\"game-7 record-7 regents-halves\">Delta Streets Academy also won at home, beating Regents 2–1 in Greenwood. All the scoring came in the first half: DSA scored twice and Regents once, with neither team adding a second-half goal. DSA is 3–2, while Regents’ reported record is 0–1.</p>\n<h2 data-facts=\"game-8\">River Oaks builds early lead against Newton County Academy</h2>\n<p data-facts=\"game-8 record-8 football-quarters\">In football, Newton County Academy lost 36–6 at River Oaks in Monroe, Louisiana. River Oaks scored eight points in the first quarter, 20 in the second and eight in the third; the Generals’ six points came in the fourth. The game page identifies the contest as a playoff game and lists River Oaks at 12–1 and Newton County Academy at 10–5 afterward.</p>",
+    "facts": [
+      {
+        "id": "record-0",
+        "kind": "record",
+        "claim": "Cleveland Central girls and Clarksdale girls each have postgame records of 4-1; Clarksdale has its first loss.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/clarksdale-vs-cleveland-central/11-18-2026/?c=4cc62c6d-2107-462c-b29d-6d25b51dc63d",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Cleveland Central Girls Varsity Basketball @ Clarksdale Cleveland Central 4-1 Wolves 32 Final 17 Clarksdale 4-1 Wildcats Cleveland Central Girls Varsity Basketball @ Clarksdale",
+          "subjects": [
+            "Clarksdale",
+            "Cleveland Central"
+          ]
+        }
+      },
+      {
+        "id": "record-1",
+        "kind": "record",
+        "claim": "Cleveland Central boys are 2-3 and Clarksdale boys are 0-5 after the game.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/clarksdale-vs-cleveland-central/11-18-2026/?c=ce234153-5b36-4fd9-b293-9d7172dc4ea6",
+          "excerpt": "High School Basketball Mississippi High School Basketball Cleveland Central Boys Varsity Basketball @ Clarksdale Cleveland Central 2-3 Wolves 41 Final 34 Clarksdale 0-5 Wildcats Cleveland Central Boys Varsity Basketball @ Clarksdale",
+          "subjects": [
+            "Clarksdale",
+            "Cleveland Central"
+          ]
+        }
+      },
+      {
+        "id": "record-2",
+        "kind": "record",
+        "claim": "Rosa Fort boys remain unbeaten at 4-0; Riverside boys are 2-5.",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/riverside-avon-vs-rosa-fort-tunica/11-18-2026/?c=b0b9804d-2620-4d3d-8aa2-b63bb69529a7",
+          "excerpt": "High School Basketball Mississippi High School Basketball Rosa Fort Boys Varsity Basketball @ Riverside Rosa Fort 4-0 Lions 68 Final 22 Riverside 2-5 Bulldogs Rosa Fort Boys Varsity Basketball @ Riverside",
+          "subjects": [
+            "Riverside",
+            "Rosa Fort"
+          ]
+        }
+      },
+      {
+        "id": "record-3",
+        "kind": "record",
+        "claim": "Edwards boys are 4-2; Coahoma County boys are 3-2.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/coahoma-county-red-panthers-clarksdale-vs-edwards-ruleville/11-18-2026/?c=7b464be1-ed7e-4b5b-b4fe-11c2c9a38d32",
+          "excerpt": "High School Basketball Mississippi High School Basketball Edwards Boys Varsity Basketball @ Coahoma County Edwards 4-2 Tigers 49 Final 38 Coahoma County 3-2 Panthers Edwards Boys Varsity Basketball @ Coahoma County",
+          "subjects": [
+            "Coahoma County",
+            "Edwards"
+          ]
+        }
+      },
+      {
+        "id": "record-4",
+        "kind": "record",
+        "claim": "Coahoma County girls are 3-4; Edwards girls are 1-5.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/coahoma-county-red-panthers-clarksdale-vs-edwards-ruleville/11-18-2026/?c=0dfe64e4-37dc-4404-997d-90f8da5c5b0c",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Edwards Girls Varsity Basketball @ Coahoma County Edwards 1-5 Tigers 32 Final 44 Coahoma County 3-4 Panthers Edwards Girls Varsity Basketball @ Coahoma County",
+          "subjects": [
+            "Coahoma County",
+            "Edwards"
+          ]
+        }
+      },
+      {
+        "id": "record-5",
+        "kind": "record",
+        "claim": "Madison-Ridgeland Academy boys are unbeaten at 2-0; Bayou Academy boys are 1-2.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/bayou-academy-cleveland-vs-madison-ridgeland-academy/11-18-2026/?c=f147e19c-98ba-4f63-ae9c-bc05b6eed4b4",
+          "excerpt": "High School Soccer Mississippi High School Soccer Bayou Academy Boys Varsity Soccer @ MRA Bayou Academy 1-2 Colts 0 Final 2 Madison-Ridgeland Academy 2-0 Patriots Bayou Academy Boys Varsity Soccer @ MRA",
+          "subjects": [
+            "Madison-Ridgeland Academy",
+            "Bayou Academy"
+          ]
+        }
+      },
+      {
+        "id": "record-6",
+        "kind": "record",
+        "claim": "Heritage Academy boys remain unbeaten at 4-0; Washington boys are 0-1.",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/heritage-academy-columbus-vs-washington-greenville/11-18-2026/?c=ef1b8978-d445-4a2f-ac1e-e5037dfeed7d",
+          "excerpt": "High School Soccer Mississippi High School Soccer Washington Boys Varsity Soccer @ Heritage Academy Washington 0-1 Generals 0 Final 1 Heritage Academy 4-0 Patriots Washington Boys Varsity Soccer @ Heritage Academy",
+          "subjects": [
+            "Heritage Academy",
+            "Washington"
+          ]
+        }
+      },
+      {
+        "id": "record-7",
+        "kind": "record",
+        "claim": "Delta Streets Academy boys are 3-2; Regents boys are 0-1.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/delta-streets-academy-greenwood-vs-regents-oxford/11-18-2026/?c=9c8257dd-8c56-4d76-b0f5-ffea28a0efba",
+          "excerpt": "High School Soccer Mississippi High School Soccer Regents Boys Varsity Soccer @ DSA Regents 0-1 Lions 1 Final 2 Delta Streets Academy 3-2 Lions Regents Boys Varsity Soccer @ DSA",
+          "subjects": [
+            "Delta Streets Academy",
+            "Regents"
+          ]
+        }
+      },
+      {
+        "id": "record-8",
+        "kind": "record",
+        "claim": "River Oaks is 12-1; Newton County Academy is 10-5 after the football game.",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/football/game/newton-county-academy-decatur-ms-vs-river-oaks-monroe-la/11-18-2026/?c=b78bb6a4-f60b-49b1-83c6-a51f6d7a65ca",
+          "excerpt": "High School Football Louisiana High School Football NCA Varsity Football @ River Oaks Newton County Academy 10-5 Generals 6 Final 36 River Oaks 12-1 Mustangs NCA Varsity Football @ River Oaks",
+          "subjects": [
+            "River Oaks",
+            "Newton County Academy"
+          ]
+        }
+      },
+      {
+        "id": "boys-fourth",
+        "kind": "context",
+        "claim": "Cleveland Central boys scored 16 fourth-quarter points while Clarksdale scored 6; Cleveland Central scored 8, 9 and 8 in the other quarters, and Clarksdale scored 10, 11 and 7.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/clarksdale-vs-cleveland-central/11-18-2026/?c=ce234153-5b36-4fd9-b293-9d7172dc4ea6",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Cleveland Central 8 9 8 16 41 Clarksdale 10 11 7 6 34",
+          "subjects": [
+            "Cleveland Central",
+            "Clarksdale"
+          ]
+        }
+      },
+      {
+        "id": "regents-halves",
+        "kind": "context",
+        "claim": "Delta Streets Academy scored 2 in the first half and 0 in the second; Regents scored 1 in the first half and 0 in the second.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/delta-streets-academy-greenwood-vs-regents-oxford/11-18-2026/?c=9c8257dd-8c56-4d76-b0f5-ffea28a0efba",
+          "excerpt": "Boxscore 1 2 Final Regents 1 0 1 Delta Streets Academy 2 0 2",
+          "subjects": [
+            "Delta Streets Academy",
+            "Regents"
+          ]
+        }
+      },
+      {
+        "id": "football-quarters",
+        "kind": "context",
+        "claim": "River Oaks scored 8, 20 and 8 in the first three quarters and 0 in the fourth; Newton County Academy scored 0 in the first three quarters and 6 in the fourth.",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-11-18",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/football/game/newton-county-academy-decatur-ms-vs-river-oaks-monroe-la/11-18-2026/?c=b78bb6a4-f60b-49b1-83c6-a51f6d7a65ca",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Newton County Academy 0 0 0 6 6 River Oaks 8 20 8 0 36",
+          "subjects": [
+            "Newton County Academy",
+            "River Oaks"
+          ]
+        }
+      }
+    ]
+  }
+}
