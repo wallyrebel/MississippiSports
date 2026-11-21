@@ -1,0 +1,568 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-11-21",
+  "verified_at": "2026-11-21T21:09:15.221292+00:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "basketball",
+    "soccer",
+    "volleyball",
+    "bowling",
+    "wrestling"
+  ],
+  "games": [
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-21",
+      "home": "Columbus",
+      "away": "Olive Branch",
+      "status": "scheduled",
+      "start_time": "2026-11-21T16:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/columbus-vs-olive-branch/11-21-2026/?c=7a766d46-79ca-4375-95b2-83aee84bf030",
+        "excerpt": "Olive Branch vs Columbus | Basketball | 11/21/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Olive Branch Girls Varsity Basketball @ Columbus Olive Branch Conquistadors 2-0 Saturday, Nov 21, 2026 4:30pm CST Columbus Falcons 1-3 Olive Branch Girls Varsity Basketball @ Columbus Game Info The Olive Branch varsity basketball team has an away non-conference game @ Columbus (MS) today @ 4:30p.",
+        "date_excerpt": "11/21/2026",
+        "home_name": "Columbus",
+        "away_name": "Olive Branch",
+        "time_excerpt": "4:30pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-21",
+      "home": "Starkville",
+      "away": "Olive Branch",
+      "status": "scheduled",
+      "start_time": "2026-11-21T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/olive-branch-vs-starkville/11-21-2026/?c=b35f1da5-8cf2-4b16-a1cd-8715e2132b96",
+        "excerpt": "Olive Branch vs Starkville | Basketball | 11/21/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Olive Branch Boys Varsity Basketball @ Starkville Olive Branch Conquistadors 2-0 Saturday, Nov 21, 2026 6:00pm CST Starkville Yellowjackets 2-3 Olive Branch Boys Varsity Basketball @ Starkville Game Info The Olive Branch varsity basketball team has an away non-conference game @ Starkville (MS) today @ 6p.",
+        "date_excerpt": "11/21/2026",
+        "home_name": "Starkville",
+        "away_name": "Olive Branch",
+        "time_excerpt": "6:00pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-21",
+      "home": "Florence",
+      "away": "North Pike",
+      "status": "scheduled",
+      "start_time": "2026-11-21T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/florence-vs-north-pike-summit/11-21-2026/?c=79cafc56-539c-404f-935a-0e8a337e6379",
+        "excerpt": "North Pike vs Florence | Basketball | 11/21/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball North Pike Girls Varsity Basketball @ Florence North Pike Jaguars 4-1 Saturday, Nov 21, 2026 6:00pm CST Florence Eagles 3-1 North Pike Girls Varsity Basketball @ Florence Streaming & Ticketing Purchase Tickets Game Info The North Pike varsity basketball team has an away tournament game @ Florence (MS) today @ 6p.",
+        "date_excerpt": "11/21/2026",
+        "home_name": "Florence",
+        "away_name": "North Pike",
+        "time_excerpt": "6:00pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-21",
+      "home": "Florence",
+      "away": "North Pike",
+      "status": "scheduled",
+      "start_time": "2026-11-21T19:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/florence-vs-north-pike-summit/11-21-2026/?c=3d41e416-05d8-4cde-ba20-b0b6a7219ab2",
+        "excerpt": "North Pike vs Florence | Basketball | 11/21/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball North Pike Boys Varsity Basketball @ Florence North Pike Jaguars 4-1 Saturday, Nov 21, 2026 7:30pm CST Florence Eagles 1-2 North Pike Boys Varsity Basketball @ Florence Streaming & Ticketing Purchase Tickets Game Info The North Pike varsity basketball team has an away tournament game @ Florence (MS) today @ 7:30p.",
+        "date_excerpt": "11/21/2026",
+        "home_name": "Florence",
+        "away_name": "North Pike",
+        "time_excerpt": "7:30pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-21",
+      "home": "Columbus",
+      "away": "Northwest Rankin",
+      "status": "scheduled",
+      "start_time": "2026-11-21T19:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/columbus-vs-northwest-rankin-brandon/11-21-2026/?c=10259ef2-43c7-4ad2-bb04-5e311017908c",
+        "excerpt": "Northwest Rankin vs Columbus | Basketball | 11/21/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Northwest Rankin Boys Varsity Basketball @ Columbus Northwest Rankin Cougars 3-2 Saturday, Nov 21, 2026 7:30pm CST Columbus Falcons 4-1 Northwest Rankin Boys Varsity Basketball @ Columbus Streaming & Ticketing Purchase Tickets Game Info The Northwest Rankin varsity basketball team has an away non-conference game @ Columbus (MS) today @ 7:30p.",
+        "date_excerpt": "11/21/2026",
+        "home_name": "Columbus",
+        "away_name": "Northwest Rankin",
+        "time_excerpt": "7:30pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-21",
+      "home": "Kosciusko",
+      "away": "Holmes County Central",
+      "status": "scheduled",
+      "start_time": "2026-11-21T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/holmes-county-central-lexington-vs-kosciusko/11-21-2026/?c=fbb2da3b-e1ba-4dd4-bfe0-f81df75e6ad0",
+        "excerpt": "Holmes County Central vs Kosciusko | Basketball | 11/21/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball HCCHS Girls Varsity Basketball @ Kosciusko Holmes County Central Jaguars 1-5 Saturday, Nov 21, 2026 6:00pm CST Kosciusko Whippets 3-1 HCCHS Girls Varsity Basketball @ Kosciusko Streaming & Ticketing Purchase Tickets Game Info The Holmes County Central varsity basketball team has an away non-conference game @ Kosciusko (MS) today @ 6p.",
+        "date_excerpt": "11/21/2026",
+        "home_name": "Kosciusko",
+        "away_name": "Holmes County Central",
+        "time_excerpt": "6:00pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-21",
+      "home": "Kosciusko",
+      "away": "Holmes County Central",
+      "status": "scheduled",
+      "start_time": "2026-11-21T19:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/holmes-county-central-lexington-vs-kosciusko/11-21-2026/?c=ad98dbcb-732b-48de-bf53-2a5f06d7a7a4",
+        "excerpt": "Holmes County Central vs Kosciusko | Basketball | 11/21/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball HCCHS Boys Varsity Basketball @ Kosciusko Holmes County Central Jaguars 0-6 Saturday, Nov 21, 2026 7:30pm CST Kosciusko Whippets 3-0 HCCHS Boys Varsity Basketball @ Kosciusko Streaming & Ticketing Purchase Tickets Game Info The Holmes County Central varsity basketball team has an away non-conference game @ Kosciusko (MS) today @ 7:30p.",
+        "date_excerpt": "11/21/2026",
+        "home_name": "Kosciusko",
+        "away_name": "Holmes County Central",
+        "time_excerpt": "7:30pm CST"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-21",
+      "home": "Richland",
+      "away": "Corinth",
+      "status": "scheduled",
+      "start_time": "2026-11-21T16:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/corinth-vs-richland/11-21-2026/?c=1c584066-3e14-4509-97b9-be490edcb8f9",
+        "excerpt": "Corinth vs Richland | Soccer | 11/21/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Corinth Boys Varsity Soccer @ Richland Corinth Warriors 2-5-1 Saturday, Nov 21, 2026 4:30pm CST Richland Rangers 2-6-2 Corinth Boys Varsity Soccer @ Richland Game Info The Corinth varsity soccer team has an away non-conference match @ Richland (MS) today @ 4:30p.",
+        "date_excerpt": "11/21/2026",
+        "home_name": "Richland",
+        "away_name": "Corinth",
+        "time_excerpt": "4:30pm CST"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-21",
+      "home": "Pass Christian",
+      "away": "Amory",
+      "status": "scheduled",
+      "start_time": "2026-11-21T17:45:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/amory-vs-pass-christian/11-21-2026/?c=1ea2f088-916c-4edb-9997-92223d1e1d7f",
+        "excerpt": "Amory vs Pass Christian | Soccer | 11/21/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Amory Boys Varsity Soccer @ Pass Christian Amory Panthers 5-2 Saturday, Nov 21, 2026 5:45pm CST Pass Christian Pirates 3-4-1 Amory Boys Varsity Soccer @ Pass Christian Game Info The Amory varsity soccer team has an away non-conference match @ Pass Christian (MS) today @ 5:45p.",
+        "date_excerpt": "11/21/2026",
+        "home_name": "Pass Christian",
+        "away_name": "Amory",
+        "time_excerpt": "5:45pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-21",
+      "home": "Choctaw Central",
+      "away": "Jackson Academy",
+      "status": "scheduled",
+      "start_time": "2026-11-21T16:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/choctaw-central-philadelphia-vs-jackson-academy/11-21-2026/?c=ddcf80d0-b405-40a4-8c26-0b4743b07ebe",
+        "excerpt": "Jackson Academy vs Choctaw Central | Basketball | 11/21/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Jackson Academy Girls Varsity Basketball @ Choctaw Central Jackson Academy Raiders 2-2 Saturday, Nov 21, 2026 4:30pm CST Choctaw Central Ftng Warriors 3-4 Jackson Academy Girls Varsity Basketball @ Choctaw Central Game Info The Jackson Academy varsity basketball team has an away non-conference game @ Choctaw Central (Philadelphia, MS) today @ 4:30p.",
+        "date_excerpt": "11/21/2026",
+        "home_name": "Choctaw Central",
+        "away_name": "Jackson Academy",
+        "time_excerpt": "4:30pm CST"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-20/",
+      "title": "Latest statewide scores roundup, including Olive Branch soccer"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: Olive Branch takes unbeaten starts on the road; North Pike visits Florence",
+    "headline_fact_ids": [
+      "game-0",
+      "game-1",
+      "records-0",
+      "records-1",
+      "game-2",
+      "game-3"
+    ],
+    "html": "<p data-facts=\"game-0 game-1 records-0 records-1 game-2 game-3 records-2 records-3 game-7 game-8\">Olive Branch puts unbeaten girls and boys basketball starts on the road Saturday, while North Pike visits Florence with winning records in both varsity divisions. Those matchups lead the remaining November 21, 2026, slate, with boys soccer offering an additional Northeast Mississippi connection through Corinth and Amory.</p>\n<p data-facts=\"game-0 game-1 game-2 game-3 game-4 game-5 game-6 game-7 game-8 game-9\">This Games To Watch selection covers upcoming varsity games whose dates and start times were verified before publication. All times are Central Standard Time. Records are the entering figures listed on the individual matchup pages; completed games and contests already underway are excluded.</p>\n<h2 data-facts=\"game-0 game-1 records-0 records-1\">Olive Branch sends unbeaten basketball teams on the road</h2>\n<p data-facts=\"game-0 records-0 context-0\">Olive Branch’s girls enter <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/columbus-vs-olive-branch/11-21-2026/?c=7a766d46-79ca-4375-95b2-83aee84bf030\">the 4:30 p.m. game at Columbus</a> at 2–0. Columbus is listed at 1–3, making this a chance for the Falcons to challenge an unbeaten opponent at home. For the Conquistadors, the nonconference trip offers another test of a perfect opening away from their own floor.</p>\n<p data-facts=\"game-1 records-1 context-1\">The boys face a different opponent: <a href=\"https://www.maxpreps.com/ms/basketball/game/olive-branch-vs-starkville/11-21-2026/?c=b35f1da5-8cf2-4b16-a1cd-8715e2132b96\">Olive Branch visits Starkville at 6 p.m.</a> with a matching 2–0 record. The Yellowjackets enter 2–3. The records put the immediate opportunity in clear terms—Olive Branch can protect its unbeaten start, while Starkville can move back to an even record by winning at home. This game is also listed as nonconference.</p>\n<p data-facts=\"game-0 game-1\">For more coverage involving Olive Branch and other Mississippi schools, see our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-11-20/\">latest statewide scores roundup</a>.</p>\n<h2 data-facts=\"game-2 game-3 records-2 records-3\">North Pike and Florence meet at the Thanksgiving Classic</h2>\n<p data-facts=\"game-2 records-2 context-2\">The <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/florence-vs-north-pike-summit/11-21-2026/?c=79cafc56-539c-404f-935a-0e8a337e6379\">6 p.m. girls game</a> brings together North Pike at 4–1 and Florence at 3–1. Both have winning starts with only one reported defeat, giving this matchup more balance on paper than a meeting between an unbeaten team and a struggling opponent. The fixture is listed as part of the Florence Thanksgiving Classic.</p>\n<p data-facts=\"game-3 records-3 context-3\">North Pike’s boys also enter 4–1 for <a href=\"https://www.maxpreps.com/ms/basketball/game/florence-vs-north-pike-summit/11-21-2026/?c=3d41e416-05d8-4cde-ba20-b0b6a7219ab2\">the 7:30 p.m. meeting with Florence</a>, which is listed at 1–2. The Eagles have an opportunity to even their record, while the Jaguars can build on a start that already includes several wins. The boys fixture is identified as a tournament game at the same Thanksgiving Classic.</p>\n<h2 data-facts=\"game-4 records-4\">Columbus and Northwest Rankin bring winning records</h2>\n<p data-facts=\"game-4 records-4 context-4\">Columbus hosts Northwest Rankin in <a href=\"https://www.maxpreps.com/ms/basketball/game/columbus-vs-northwest-rankin-brandon/11-21-2026/?c=10259ef2-43c7-4ad2-bb04-5e311017908c\">a 7:30 p.m. boys basketball game</a> pairing the Falcons’ 4–1 record with the Cougars’ 3–2 start. Each team has more wins than losses entering the nonconference meeting. For Columbus, the attraction is the opportunity to extend a strong opening against another winning opponent; Northwest Rankin can strengthen its own early record on the road.</p>\n<h2 data-facts=\"game-5 game-6 records-5 records-6\">Kosciusko’s boys protect a perfect start</h2>\n<p data-facts=\"game-5 records-5 context-5\">Kosciusko’s girls are listed at 3–1 ahead of <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/holmes-county-central-lexington-vs-kosciusko/11-21-2026/?c=fbb2da3b-e1ba-4dd4-bfe0-f81df75e6ad0\">the 6 p.m. game against Holmes County Central</a>. The visiting Jaguars enter 1–5. The Whippets can build on an opening with only one loss, while Holmes County Central has a chance to improve a difficult early record against a winning team.</p>\n<p data-facts=\"game-6 records-6 context-6\">The <a href=\"https://www.maxpreps.com/ms/basketball/game/holmes-county-central-lexington-vs-kosciusko/11-21-2026/?c=ad98dbcb-732b-48de-bf53-2a5f06d7a7a4\">7:30 p.m. boys game</a> gives Kosciusko an unbeaten record to defend. The Whippets enter 3–0 and Holmes County Central is listed at 0–6. Both varsity games are nonconference, with the boys matchup offering the visitors a chance to earn their first reported win while trying to hand Kosciusko its first defeat.</p>\n<h2 data-facts=\"game-7 game-8\">Soccer: Corinth at Richland, Amory at Pass Christian</h2>\n<p data-facts=\"game-7 records-7 context-7\">Corinth’s boys meet Richland at <a href=\"https://www.maxpreps.com/ms/soccer/match/corinth-vs-richland/11-21-2026/?c=1c584066-3e14-4509-97b9-be490edcb8f9\">4:30 p.m.</a> in a nonconference soccer match. The Warriors enter with a listed 2–5–1 record and Richland is 2–6–2. With neither team carrying a winning record into the fixture, the match offers an opportunity to add a needed victory rather than defend a perfect start.</p>\n<p data-facts=\"game-8 records-8 context-8\">Amory brings the stronger entering record to <a href=\"https://www.maxpreps.com/ms/soccer/match/amory-vs-pass-christian/11-21-2026/?c=1ea2f088-916c-4edb-9997-92223d1e1d7f\">its 5:45 p.m. boys match at Pass Christian</a>. The Panthers are listed at 5–2 and the Pirates at 3–4–1. That contrast makes the nonconference meeting worth following: Amory can extend a winning opening away from home, while Pass Christian can draw level in wins and losses by beating a winning opponent.</p>\n<h2 data-facts=\"game-9 records-9\">Jackson Academy visits Choctaw Central</h2>\n<p data-facts=\"game-9 records-9 context-9\">Another girls basketball option is <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/choctaw-central-philadelphia-vs-jackson-academy/11-21-2026/?c=ddcf80d0-b405-40a4-8c26-0b4743b07ebe\">Jackson Academy at Choctaw Central at 4:30 p.m.</a>. The Raiders enter 2–2 and the Warriors 3–4. Jackson Academy can move above the break-even mark, while Choctaw Central can reach it. The matchup is listed as nonconference, with both teams seeking a result that changes the balance of their early records.</p>",
+    "facts": [
+      {
+        "id": "records-0",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball Olive Branch Girls Varsity Basketball @ Columbus Olive Branch Conquistadors 2-0 Saturday, Nov 21, 2026 4:30pm CST Columbus Falcons 1-3 Olive Branch Girls Varsity Basketball @ Columbus",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-21",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/columbus-vs-olive-branch/11-21-2026/?c=7a766d46-79ca-4375-95b2-83aee84bf030",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Olive Branch Girls Varsity Basketball @ Columbus Olive Branch Conquistadors 2-0 Saturday, Nov 21, 2026 4:30pm CST Columbus Falcons 1-3 Olive Branch Girls Varsity Basketball @ Columbus",
+          "subjects": [
+            "Olive Branch",
+            "Columbus"
+          ]
+        }
+      },
+      {
+        "id": "context-0",
+        "kind": "context",
+        "claim": "The Olive Branch varsity basketball team has an away non-conference game @ Columbus (MS) today @ 4:30p. Game Details Saturday, Nov 21, 2026 4:30pm CST Non-District",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-21",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/columbus-vs-olive-branch/11-21-2026/?c=7a766d46-79ca-4375-95b2-83aee84bf030",
+          "excerpt": "Game Info The Olive Branch varsity basketball team has an away non-conference game @ Columbus (MS) today @ 4:30p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Saturday, Nov 21, 2026 4:30pm CST Non-District",
+          "subjects": [
+            "Olive Branch",
+            "Columbus"
+          ]
+        }
+      },
+      {
+        "id": "records-1",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Olive Branch Boys Varsity Basketball @ Starkville Olive Branch Conquistadors 2-0 Saturday, Nov 21, 2026 6:00pm CST Starkville Yellowjackets 2-3 Olive Branch Boys Varsity Basketball @ Starkville",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-21",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/olive-branch-vs-starkville/11-21-2026/?c=b35f1da5-8cf2-4b16-a1cd-8715e2132b96",
+          "excerpt": "High School Basketball Mississippi High School Basketball Olive Branch Boys Varsity Basketball @ Starkville Olive Branch Conquistadors 2-0 Saturday, Nov 21, 2026 6:00pm CST Starkville Yellowjackets 2-3 Olive Branch Boys Varsity Basketball @ Starkville",
+          "subjects": [
+            "Olive Branch",
+            "Starkville"
+          ]
+        }
+      },
+      {
+        "id": "context-1",
+        "kind": "context",
+        "claim": "The Olive Branch varsity basketball team has an away non-conference game @ Starkville (MS) today @ 6p. Game Details Saturday, Nov 21, 2026 6:00pm CST Non-District",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-21",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/olive-branch-vs-starkville/11-21-2026/?c=b35f1da5-8cf2-4b16-a1cd-8715e2132b96",
+          "excerpt": "Game Info The Olive Branch varsity basketball team has an away non-conference game @ Starkville (MS) today @ 6p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Saturday, Nov 21, 2026 6:00pm CST Non-District",
+          "subjects": [
+            "Olive Branch",
+            "Starkville"
+          ]
+        }
+      },
+      {
+        "id": "records-2",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball North Pike Girls Varsity Basketball @ Florence North Pike Jaguars 4-1 Saturday, Nov 21, 2026 6:00pm CST Florence Eagles 3-1 North Pike Girls Varsity Basketball @ Florence Streaming & Ticketing Purchase Tickets",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-21",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/florence-vs-north-pike-summit/11-21-2026/?c=79cafc56-539c-404f-935a-0e8a337e6379",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball North Pike Girls Varsity Basketball @ Florence North Pike Jaguars 4-1 Saturday, Nov 21, 2026 6:00pm CST Florence Eagles 3-1 North Pike Girls Varsity Basketball @ Florence Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "North Pike",
+            "Florence"
+          ]
+        }
+      },
+      {
+        "id": "context-2",
+        "kind": "context",
+        "claim": "The North Pike varsity basketball team has an away tournament game @ Florence (MS) today @ 6p. Game Details Saturday, Nov 21, 2026 6:00pm CST Tournament Florence Thanksgiving Classic",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-21",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/florence-vs-north-pike-summit/11-21-2026/?c=79cafc56-539c-404f-935a-0e8a337e6379",
+          "excerpt": "Game Info The North Pike varsity basketball team has an away tournament game @ Florence (MS) today @ 6p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Saturday, Nov 21, 2026 6:00pm CST Tournament Florence Thanksgiving Classic",
+          "subjects": [
+            "North Pike",
+            "Florence"
+          ]
+        }
+      },
+      {
+        "id": "records-3",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball North Pike Boys Varsity Basketball @ Florence North Pike Jaguars 4-1 Saturday, Nov 21, 2026 7:30pm CST Florence Eagles 1-2 North Pike Boys Varsity Basketball @ Florence Streaming & Ticketing Purchase Tickets",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-21",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/florence-vs-north-pike-summit/11-21-2026/?c=3d41e416-05d8-4cde-ba20-b0b6a7219ab2",
+          "excerpt": "High School Basketball Mississippi High School Basketball North Pike Boys Varsity Basketball @ Florence North Pike Jaguars 4-1 Saturday, Nov 21, 2026 7:30pm CST Florence Eagles 1-2 North Pike Boys Varsity Basketball @ Florence Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "North Pike",
+            "Florence"
+          ]
+        }
+      },
+      {
+        "id": "context-3",
+        "kind": "context",
+        "claim": "The North Pike varsity basketball team has an away tournament game @ Florence (MS) today @ 7:30p. Game Details Saturday, Nov 21, 2026 7:30pm CST Tournament @ Florence Thanksgiving Classic North Pike (Summit) Team Videos 3:09 11/3 Highlights @ West Lincoln 4:51 11/3 Highlights @ West Lincoln",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-21",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/florence-vs-north-pike-summit/11-21-2026/?c=3d41e416-05d8-4cde-ba20-b0b6a7219ab2",
+          "excerpt": "Game Info The North Pike varsity basketball team has an away tournament game @ Florence (MS) today @ 7:30p. Scorekeeper T. Norwood FHS Scorekeeper No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Saturday, Nov 21, 2026 7:30pm CST Tournament @ Florence Thanksgiving Classic North Pike (Summit) Team Videos 3:09 11/3 Highlights @ West Lincoln 4:51 11/3 Highlights @ West Lincoln",
+          "subjects": [
+            "North Pike",
+            "Florence"
+          ]
+        }
+      },
+      {
+        "id": "records-4",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Northwest Rankin Boys Varsity Basketball @ Columbus Northwest Rankin Cougars 3-2 Saturday, Nov 21, 2026 7:30pm CST Columbus Falcons 4-1 Northwest Rankin Boys Varsity Basketball @ Columbus Streaming & Ticketing Purchase Tickets",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-21",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/columbus-vs-northwest-rankin-brandon/11-21-2026/?c=10259ef2-43c7-4ad2-bb04-5e311017908c",
+          "excerpt": "High School Basketball Mississippi High School Basketball Northwest Rankin Boys Varsity Basketball @ Columbus Northwest Rankin Cougars 3-2 Saturday, Nov 21, 2026 7:30pm CST Columbus Falcons 4-1 Northwest Rankin Boys Varsity Basketball @ Columbus Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "Northwest Rankin",
+            "Columbus"
+          ]
+        }
+      },
+      {
+        "id": "context-4",
+        "kind": "context",
+        "claim": "The Northwest Rankin varsity basketball team has an away non-conference game @ Columbus (MS) today @ 7:30p. Game Details Saturday, Nov 21, 2026 7:30pm CST Non-District Northwest Rankin (Brandon) Team Videos 3:06 11/17 Highlights @ Choctaw Central",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-21",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/columbus-vs-northwest-rankin-brandon/11-21-2026/?c=10259ef2-43c7-4ad2-bb04-5e311017908c",
+          "excerpt": "Game Info The Northwest Rankin varsity basketball team has an away non-conference game @ Columbus (MS) today @ 7:30p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Saturday, Nov 21, 2026 7:30pm CST Non-District Northwest Rankin (Brandon) Team Videos 3:06 11/17 Highlights @ Choctaw Central",
+          "subjects": [
+            "Northwest Rankin",
+            "Columbus"
+          ]
+        }
+      },
+      {
+        "id": "records-5",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball HCCHS Girls Varsity Basketball @ Kosciusko Holmes County Central Jaguars 1-5 Saturday, Nov 21, 2026 6:00pm CST Kosciusko Whippets 3-1 HCCHS Girls Varsity Basketball @ Kosciusko Streaming & Ticketing Purchase Tickets",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-21",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/holmes-county-central-lexington-vs-kosciusko/11-21-2026/?c=fbb2da3b-e1ba-4dd4-bfe0-f81df75e6ad0",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball HCCHS Girls Varsity Basketball @ Kosciusko Holmes County Central Jaguars 1-5 Saturday, Nov 21, 2026 6:00pm CST Kosciusko Whippets 3-1 HCCHS Girls Varsity Basketball @ Kosciusko Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "Holmes County Central",
+            "Kosciusko"
+          ]
+        }
+      },
+      {
+        "id": "context-5",
+        "kind": "context",
+        "claim": "The Holmes County Central varsity basketball team has an away non-conference game @ Kosciusko (MS) today @ 6p. Game Details Saturday, Nov 21, 2026 6:00pm CST Non-District Holmes County Central (Lexington) Team Videos 1:50 11/3 Highlights @ Choctaw Central",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-21",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/holmes-county-central-lexington-vs-kosciusko/11-21-2026/?c=fbb2da3b-e1ba-4dd4-bfe0-f81df75e6ad0",
+          "excerpt": "Game Info The Holmes County Central varsity basketball team has an away non-conference game @ Kosciusko (MS) today @ 6p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Saturday, Nov 21, 2026 6:00pm CST Non-District Holmes County Central (Lexington) Team Videos 1:50 11/3 Highlights @ Choctaw Central",
+          "subjects": [
+            "Holmes County Central",
+            "Kosciusko"
+          ]
+        }
+      },
+      {
+        "id": "records-6",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball HCCHS Boys Varsity Basketball @ Kosciusko Holmes County Central Jaguars 0-6 Saturday, Nov 21, 2026 7:30pm CST Kosciusko Whippets 3-0 HCCHS Boys Varsity Basketball @ Kosciusko Streaming & Ticketing Purchase Tickets",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-21",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/holmes-county-central-lexington-vs-kosciusko/11-21-2026/?c=ad98dbcb-732b-48de-bf53-2a5f06d7a7a4",
+          "excerpt": "High School Basketball Mississippi High School Basketball HCCHS Boys Varsity Basketball @ Kosciusko Holmes County Central Jaguars 0-6 Saturday, Nov 21, 2026 7:30pm CST Kosciusko Whippets 3-0 HCCHS Boys Varsity Basketball @ Kosciusko Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "Holmes County Central",
+            "Kosciusko"
+          ]
+        }
+      },
+      {
+        "id": "context-6",
+        "kind": "context",
+        "claim": "The Holmes County Central varsity basketball team has an away non-conference game @ Kosciusko (MS) today @ 7:30p. Game Details Saturday, Nov 21, 2026 7:30pm CST Non-District Holmes County Central (Lexington) Team Videos 2:12 11/3 Highlights @ Choctaw Central",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-21",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/holmes-county-central-lexington-vs-kosciusko/11-21-2026/?c=ad98dbcb-732b-48de-bf53-2a5f06d7a7a4",
+          "excerpt": "Game Info The Holmes County Central varsity basketball team has an away non-conference game @ Kosciusko (MS) today @ 7:30p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Saturday, Nov 21, 2026 7:30pm CST Non-District Holmes County Central (Lexington) Team Videos 2:12 11/3 Highlights @ Choctaw Central",
+          "subjects": [
+            "Holmes County Central",
+            "Kosciusko"
+          ]
+        }
+      },
+      {
+        "id": "records-7",
+        "kind": "record",
+        "claim": "High School Soccer Mississippi High School Soccer Corinth Boys Varsity Soccer @ Richland Corinth Warriors 2-5-1 Saturday, Nov 21, 2026 4:30pm CST Richland Rangers 2-6-2 Corinth Boys Varsity Soccer @ Richland",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-21",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/corinth-vs-richland/11-21-2026/?c=1c584066-3e14-4509-97b9-be490edcb8f9",
+          "excerpt": "High School Soccer Mississippi High School Soccer Corinth Boys Varsity Soccer @ Richland Corinth Warriors 2-5-1 Saturday, Nov 21, 2026 4:30pm CST Richland Rangers 2-6-2 Corinth Boys Varsity Soccer @ Richland",
+          "subjects": [
+            "Corinth",
+            "Richland"
+          ]
+        }
+      },
+      {
+        "id": "context-7",
+        "kind": "context",
+        "claim": "The Corinth varsity soccer team has an away non-conference match @ Richland (MS) today @ 4:30p. Game Details Saturday, Nov 21, 2026 4:30pm CST Non-District",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-21",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/corinth-vs-richland/11-21-2026/?c=1c584066-3e14-4509-97b9-be490edcb8f9",
+          "excerpt": "Game Info The Corinth varsity soccer team has an away non-conference match @ Richland (MS) today @ 4:30p. Matchup Game Details Saturday, Nov 21, 2026 4:30pm CST Non-District",
+          "subjects": [
+            "Corinth",
+            "Richland"
+          ]
+        }
+      },
+      {
+        "id": "records-8",
+        "kind": "record",
+        "claim": "High School Soccer Mississippi High School Soccer Amory Boys Varsity Soccer @ Pass Christian Amory Panthers 5-2 Saturday, Nov 21, 2026 5:45pm CST Pass Christian Pirates 3-4-1 Amory Boys Varsity Soccer @ Pass Christian",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-11-21",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/amory-vs-pass-christian/11-21-2026/?c=1ea2f088-916c-4edb-9997-92223d1e1d7f",
+          "excerpt": "High School Soccer Mississippi High School Soccer Amory Boys Varsity Soccer @ Pass Christian Amory Panthers 5-2 Saturday, Nov 21, 2026 5:45pm CST Pass Christian Pirates 3-4-1 Amory Boys Varsity Soccer @ Pass Christian",
+          "subjects": [
+            "Amory",
+            "Pass Christian"
+          ]
+        }
+      },
+      {
+        "id": "context-8",
+        "kind": "context",
+        "claim": "The Amory varsity soccer team has an away non-conference match @ Pass Christian (MS) today @ 5:45p. Game Details Saturday, Nov 21, 2026 5:45pm CST Non-District",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-11-21",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/amory-vs-pass-christian/11-21-2026/?c=1ea2f088-916c-4edb-9997-92223d1e1d7f",
+          "excerpt": "Game Info The Amory varsity soccer team has an away non-conference match @ Pass Christian (MS) today @ 5:45p. Matchup Roster Game Details Saturday, Nov 21, 2026 5:45pm CST Non-District",
+          "subjects": [
+            "Amory",
+            "Pass Christian"
+          ]
+        }
+      },
+      {
+        "id": "records-9",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball Jackson Academy Girls Varsity Basketball @ Choctaw Central Jackson Academy Raiders 2-2 Saturday, Nov 21, 2026 4:30pm CST Choctaw Central Ftng Warriors 3-4 Jackson Academy Girls Varsity Basketball @ Choctaw Central",
+        "game_indexes": [
+          9
+        ],
+        "as_of_date": "2026-11-21",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/choctaw-central-philadelphia-vs-jackson-academy/11-21-2026/?c=ddcf80d0-b405-40a4-8c26-0b4743b07ebe",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Jackson Academy Girls Varsity Basketball @ Choctaw Central Jackson Academy Raiders 2-2 Saturday, Nov 21, 2026 4:30pm CST Choctaw Central Ftng Warriors 3-4 Jackson Academy Girls Varsity Basketball @ Choctaw Central",
+          "subjects": [
+            "Jackson Academy",
+            "Choctaw Central"
+          ]
+        }
+      },
+      {
+        "id": "context-9",
+        "kind": "context",
+        "claim": "The Jackson Academy varsity basketball team has an away non-conference game @ Choctaw Central (Philadelphia, MS) today @ 4:30p. Game Details Saturday, Nov 21, 2026 4:30pm CST Non-District Choctaw Central (Philadelphia) Team Videos 3:04 11/10 Highlights vs Yazoo City 3:08 11/17 Highlights vs NW Rankin 3:08 11/19 Highlights vs Neshoba Central",
+        "game_indexes": [
+          9
+        ],
+        "as_of_date": "2026-11-21",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/choctaw-central-philadelphia-vs-jackson-academy/11-21-2026/?c=ddcf80d0-b405-40a4-8c26-0b4743b07ebe",
+          "excerpt": "Game Info The Jackson Academy varsity basketball team has an away non-conference game @ Choctaw Central (Philadelphia, MS) today @ 4:30p. Scorekeeper No Scorekeeper Sign Up to Score Game M. Hope JA Scorekeeper Matchup Roster Game Details Saturday, Nov 21, 2026 4:30pm CST Non-District Choctaw Central (Philadelphia) Team Videos 3:04 11/10 Highlights vs Yazoo City 3:08 11/17 Highlights vs NW Rankin 3:08 11/19 Highlights vs Neshoba Central",
+          "subjects": [
+            "Jackson Academy",
+            "Choctaw Central"
+          ]
+        }
+      }
+    ]
+  }
+}
