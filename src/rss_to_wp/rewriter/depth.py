@@ -76,31 +76,79 @@ def numeric_details(text):
     return set(re.findall(r"(?<!\w)(\d+(?:\.\d+)?)(?:st|nd|rd|th)?(?!\w)", text))
 
 
-def article_depth_problem(article, source, title="", policy=DEFAULT_DEPTH_POLICY):
+_NUMBER_WORDS = ("zero one two three four five six seven eight nine ten eleven twelve thirteen "
+                 "fourteen fifteen sixteen seventeen eighteen nineteen twenty").split()
+_ORDINAL_WORDS = ("first", "second", "third", "fourth", "fifth", "sixth", "seventh", "eighth",
+                  "ninth", "tenth")
+
+
+def _as_written(value, text):
+    """Return a normalized number the way the draft spelled it, for logs and repair feedback."""
+    forms = [value]
+    if value.isdigit():
+        number = int(value)
+        if number < len(_NUMBER_WORDS):
+            forms.append(_NUMBER_WORDS[number])
+        if 1 <= number <= len(_ORDINAL_WORDS):
+            forms.append(_ORDINAL_WORDS[number - 1])
+    lowered = plain_text(text).casefold()
+    for form in forms:
+        if re.search(r"(?<!\w)" + re.escape(form) + r"(?:st|nd|rd|th)?(?!\w)", lowered):
+            return form
+    return value
+
+
+def article_depth_report(article, source, title="", policy=DEFAULT_DEPTH_POLICY):
+    """Return ``(problem, details)``; details name what tripped the check.
+
+    The checks are unchanged from ``article_depth_problem``. Details exist so a
+    held draft can be audited and so one bounded repair request can say exactly
+    what to fix instead of re-rolling the same draft every run.
+    """
     body = article.get("body", "")
     text = plain_text(body)
     minimum, paragraphs = policy.requirements(source)
     source_count = len(words(source))
-    if not minimum and len(words(text)) > max(source_count + 30, int(source_count * 1.4)):
-        return "thin_source_overexpanded"
-    if minimum and len(words(text)) < minimum:
-        return "substantive_source_undercovered"
-    if paragraphs and len([p for p in BeautifulSoup(body, "html.parser").find_all("p")
-                           if p.get_text(" ", strip=True)]) < paragraphs:
-        return "substantive_source_needs_paragraphs"
+    body_count = len(words(text))
+    if not minimum and body_count > max(source_count + 30, int(source_count * 1.4)):
+        return "thin_source_overexpanded", {
+            "body_words": body_count, "source_words": source_count,
+            "maximum_words": max(source_count + 30, int(source_count * 1.4))}
+    if minimum and body_count < minimum:
+        return "substantive_source_undercovered", {
+            "body_words": body_count, "minimum_words": minimum, "source_words": source_count}
+    if paragraphs:
+        found = len([p for p in BeautifulSoup(body, "html.parser").find_all("p")
+                     if p.get_text(" ", strip=True)])
+        if found < paragraphs:
+            return "substantive_source_needs_paragraphs", {
+                "paragraphs": found, "minimum_paragraphs": paragraphs}
     sentences = [re.sub(r"\W+", " ", s).strip().casefold()
                  for s in re.split(r"(?<=[.!?])\s+", text) if len(words(s)) >= 9]
     if len(sentences) != len(set(sentences)):
-        return "repeated_sentence_padding"
+        repeated = sorted({s for s in sentences if sentences.count(s) > 1})
+        return "repeated_sentence_padding", {"repeated": [s[:120] for s in repeated[:3]]}
     # A conservative editorial overlap flag, not a legal safe-harbor formula.
+    body_words = words(text)
     overlap = SequenceMatcher(None, [w.casefold() for w in words(source)],
-                              [w.casefold() for w in words(text)], autojunk=False)
-    if overlap.find_longest_match().size >= 28:
-        return "near_verbatim_source_passage"
+                              [w.casefold() for w in body_words], autojunk=False)
+    longest = overlap.find_longest_match()
+    if longest.size >= 28:
+        return "near_verbatim_source_passage", {
+            "matching_words": longest.size,
+            "passage_starts": " ".join(body_words[longest.b:longest.b + 12])}
     # A narrow, inspectable numeric guard; numbers must already be in source/title.
     article_text = " ".join((article.get("headline", ""), article.get("excerpt", ""), text))
-    if interval_details(article_text) - interval_details(source + " " + title):
-        return "unsupported_time_or_play_interval"
-    if numeric_details(article_text) - numeric_details(source + " " + title):
-        return "unsupported_numeric_detail"
-    return None
+    intervals = interval_details(article_text) - interval_details(source + " " + title)
+    if intervals:
+        return "unsupported_time_or_play_interval", {
+            "intervals": sorted(" ".join(item) for item in intervals)}
+    numbers = numeric_details(article_text) - numeric_details(source + " " + title)
+    if numbers:
+        return "unsupported_numeric_detail", {
+            "numbers": sorted(_as_written(value, article_text) for value in numbers)}
+    return None, {}
+
+
+def article_depth_problem(article, source, title="", policy=DEFAULT_DEPTH_POLICY):
+    return article_depth_report(article, source, title, policy)[0]

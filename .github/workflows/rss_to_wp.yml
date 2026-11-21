@@ -25,9 +25,19 @@ on:
 env:
   PYTHON_VERSION: '3.11'
 
+# The job only reads the repository; publishing uses the WordPress secrets.
+permissions:
+  contents: read
+
+# A manual run and the hourly schedule must never publish the same story twice.
+concurrency:
+  group: rss-to-wp-publish
+  cancel-in-progress: false
+
 jobs:
   process-feeds:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     
     steps:
       - name: Checkout repository
@@ -100,11 +110,25 @@ jobs:
           
           python -m rss_to_wp run "${ARGS[@]}"
 
+      # Save even when the run step fails or times out: stories published
+      # before the failure must stay recorded or the next run posts them again.
       - name: Save database to cache
+        if: always() && hashFiles('data/processed.db') != ''
         uses: actions/cache/save@v4
         with:
           path: data/processed.db
           key: processed-db-${{ github.run_id }}
+
+      # One line per story decision (published, rejected, held) with the reason
+      # and the specific values that tripped a check.
+      - name: Upload rewrite audit trail
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: rewrite-audit-${{ github.run_id }}
+          path: data/rewrite-audit.jsonl
+          if-no-files-found: ignore
+          retention-days: 14
 
       - name: Summary
         if: always()
@@ -121,4 +145,10 @@ jobs:
           if [ -f data/processed.db ]; then
             COUNT=$(sqlite3 data/processed.db "SELECT COUNT(*) FROM processed_entries;" 2>/dev/null || echo "N/A")
             echo "- **Total Processed Entries**: $COUNT" >> $GITHUB_STEP_SUMMARY
+            HELD=$(sqlite3 data/processed.db "SELECT COUNT(*) FROM rewrite_rejections WHERE attempts >= 3;" 2>/dev/null || echo "N/A")
+            echo "- **Stories held for an editor**: $HELD" >> $GITHUB_STEP_SUMMARY
+          fi
+          if [ -f data/rewrite-audit.jsonl ]; then
+            echo "- **Published this run**: $(grep -c '"decision": "published"' data/rewrite-audit.jsonl || true)" >> $GITHUB_STEP_SUMMARY
+            echo "- **Rejected or held this run**: $(grep -cE '"decision": "(rejected|held)"' data/rewrite-audit.jsonl || true)" >> $GITHUB_STEP_SUMMARY
           fi
