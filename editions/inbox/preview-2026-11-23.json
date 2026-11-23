@@ -1,0 +1,762 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-11-23",
+  "verified_at": "2026-11-23T21:01:41.674001+00:00",
+  "publish": true,
+  "checked_sports": [
+    "basketball",
+    "soccer",
+    "football",
+    "volleyball",
+    "bowling",
+    "wrestling"
+  ],
+  "games": [
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-23",
+      "home": "Clinton",
+      "away": "Northwest Rankin",
+      "status": "scheduled",
+      "start_time": "2026-11-23T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/clinton-vs-northwest-rankin-brandon/11-23-2026/?c=9f37d06f-146a-47c4-b55b-9d934b865f5e",
+        "excerpt": "Northwest Rankin vs Clinton | Soccer | 11/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer Northwest Rankin Girls Varsity Soccer @ Clinton Northwest Rankin Cougars 5-0-1 Monday, Nov 23, 2026 7:00pm CST Clinton Arrows 4-0 Northwest Rankin Girls Varsity Soccer @ Clinton Streaming & Ticketing Purchase Tickets Game Info The Northwest Rankin varsity soccer team has an away non-conference match @ Clinton (MS) today @ 7p.",
+        "date_excerpt": "11/23/2026",
+        "home_name": "Clinton",
+        "away_name": "Northwest Rankin",
+        "time_excerpt": "7:00pm CST"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-23",
+      "home": "Clinton",
+      "away": "Northwest Rankin",
+      "status": "scheduled",
+      "start_time": "2026-11-23T17:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/clinton-vs-northwest-rankin-brandon/11-23-2026/?c=73ecb1db-d51e-41cb-aee5-6edc5dd25ddb",
+        "excerpt": "Northwest Rankin vs Clinton | Soccer | 11/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer Northwest Rankin Boys Varsity Soccer @ Clinton Northwest Rankin Cougars 3-3 Monday, Nov 23, 2026 5:00pm CST Clinton Arrows 2-3-1 Northwest Rankin Boys Varsity Soccer @ Clinton Streaming & Ticketing Purchase Tickets Game Info The Northwest Rankin varsity soccer team has an away non-conference match @ Clinton (MS) today @ 5p.",
+        "date_excerpt": "11/23/2026",
+        "home_name": "Clinton",
+        "away_name": "Northwest Rankin",
+        "time_excerpt": "5:00pm CST"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-23",
+      "home": "Brandon",
+      "away": "West Lauderdale",
+      "status": "scheduled",
+      "start_time": "2026-11-23T17:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/brandon-vs-west-lauderdale-collinsville/11-23-2026/?c=2eefcf50-f399-4756-8df1-3d3bde262332",
+        "excerpt": "West Lauderdale vs Brandon | Soccer | 11/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer West Lauderdale Girls Varsity Soccer @ Brandon West Lauderdale Knights 8-0 Monday, Nov 23, 2026 5:30pm CST Brandon Bulldogs 6-3 West Lauderdale Girls Varsity Soccer @ Brandon Streaming & Ticketing Purchase Tickets Game Info The West Lauderdale varsity soccer team has an away non-conference match @ Brandon (MS) today @ 5:30p.",
+        "date_excerpt": "11/23/2026",
+        "home_name": "Brandon",
+        "away_name": "West Lauderdale",
+        "time_excerpt": "5:30pm CST"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-23",
+      "home": "Brandon",
+      "away": "West Lauderdale",
+      "status": "scheduled",
+      "start_time": "2026-11-23T19:15:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/brandon-vs-west-lauderdale-collinsville/11-23-2026/?c=dd3e21be-4c4a-4f96-a2c9-5b13de1c60b4",
+        "excerpt": "West Lauderdale vs Brandon | Soccer | 11/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer West Lauderdale Boys Varsity Soccer @ Brandon West Lauderdale Knights 5-4-1 Monday, Nov 23, 2026 7:15pm CST Brandon Bulldogs 3-4-1 West Lauderdale Boys Varsity Soccer @ Brandon Streaming & Ticketing Purchase Tickets Game Info The West Lauderdale varsity soccer team has an away non-conference match @ Brandon (MS) today @ 7:15p.",
+        "date_excerpt": "11/23/2026",
+        "home_name": "Brandon",
+        "away_name": "West Lauderdale",
+        "time_excerpt": "7:15pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-23",
+      "home": "Madison-Ridgeland Academy",
+      "away": "Houston (Tennessee)",
+      "status": "scheduled",
+      "start_time": "2026-11-23T16:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/inter-state/basketball/game/houston-germantown-tn-vs-madison-ridgeland-academy-ms/11-23-2026/?c=5b6cf9c7-83a3-41dd-ac93-8272d315c72e",
+        "excerpt": "Houston vs Madison-Ridgeland Academy | Basketball | 11/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Houston Boys Varsity Basketball @ MRA Houston Mustangs 3-0 Monday, Nov 23, 2026 4:30pm CST Madison-Ridgeland Academy Patriots 3-0 Houston Boys Varsity Basketball @ MRA Game Info The Houston varsity basketball team has an away non-conference game @ Madison-Ridgeland Academy (Madison, MS) today @ 4:30p.",
+        "date_excerpt": "11/23/2026",
+        "home_name": "Madison-Ridgeland Academy",
+        "away_name": "Houston",
+        "time_excerpt": "4:30pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-23",
+      "home": "West Union",
+      "away": "Holly Springs",
+      "status": "scheduled",
+      "start_time": "2026-11-23T16:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/holly-springs-vs-west-union-myrtle/11-23-2026/?c=5e87960d-8571-4d83-881a-597e3976faaa",
+        "excerpt": "Holly Springs vs West Union | Basketball | 11/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Holly Springs Boys Varsity Basketball vs. West Union Holly Springs Hawks 1-4 Monday, Nov 23, 2026 4:30pm CST West Union Eagles 6-0 Holly Springs Boys Varsity Basketball vs. West Union Game Info The Holly Springs varsity basketball team has a neutral tournament game vs. West Union (Myrtle, MS) today @ 4:30p.",
+        "date_excerpt": "11/23/2026",
+        "home_name": "West Union",
+        "away_name": "Holly Springs",
+        "time_excerpt": "4:30pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-23",
+      "home": "Oxford",
+      "away": "Jackson Prep",
+      "status": "scheduled",
+      "start_time": "2026-11-23T17:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/jackson-prep-vs-oxford/11-23-2026/?c=84af49d4-028e-434f-8b2c-9933bd967c6d",
+        "excerpt": "Jackson Prep vs Oxford | Basketball | 11/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Jackson Prep Girls Varsity Basketball @ Oxford Jackson Prep Patriots 5-2 Monday, Nov 23, 2026 5:30pm CST Oxford Chargers 6-0 Jackson Prep Girls Varsity Basketball @ Oxford Streaming & Ticketing Purchase Tickets Game Info The Jackson Prep varsity basketball team has an away tournament game @ Oxford (MS) today @ 5:30p.",
+        "date_excerpt": "11/23/2026",
+        "home_name": "Oxford",
+        "away_name": "Jackson Prep",
+        "time_excerpt": "5:30pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-23",
+      "home": "Booneville",
+      "away": "Center Hill",
+      "status": "scheduled",
+      "start_time": "2026-11-23T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/booneville-vs-center-hill-olive-branch/11-23-2026/?c=b54ada9f-ecd5-4053-b5b5-e5499eb54c30",
+        "excerpt": "Center Hill vs Booneville | Basketball | 11/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Center Hill Girls Varsity Basketball @ Booneville Center Hill Mustangs 3-2 Monday, Nov 23, 2026 6:00pm CST Booneville Blue Devils 2-0 Center Hill Girls Varsity Basketball @ Booneville Game Info The Center Hill varsity basketball team has an away non-conference game @ Booneville (MS) today @ 6p.",
+        "date_excerpt": "11/23/2026",
+        "home_name": "Booneville",
+        "away_name": "Center Hill",
+        "time_excerpt": "6:00pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-23",
+      "home": "Booneville",
+      "away": "New Hope",
+      "status": "scheduled",
+      "start_time": "2026-11-23T19:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/booneville-vs-new-hope-columbus/11-23-2026/?c=54b2527a-f8d3-4d16-8511-a8e23f1bd2d2",
+        "excerpt": "New Hope vs Booneville | Basketball | 11/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball New Hope Boys Varsity Basketball @ Booneville New Hope Trojans 1-0 Monday, Nov 23, 2026 7:30pm CST Booneville Blue Devils 1-0 New Hope Boys Varsity Basketball @ Booneville Game Info The New Hope varsity basketball team has an away non-conference game @ Booneville (MS) today @ 7:30p.",
+        "date_excerpt": "11/23/2026",
+        "home_name": "Booneville",
+        "away_name": "New Hope",
+        "time_excerpt": "7:30pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-23",
+      "home": "East Union",
+      "away": "Potts Camp",
+      "status": "scheduled",
+      "start_time": "2026-11-23T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/east-union-blue-springs-vs-potts-camp/11-23-2026/?c=573a487a-925b-4cb9-9c15-9d81c89f101c",
+        "excerpt": "Potts Camp vs East Union | Basketball | 11/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Potts Camp Boys Varsity Basketball vs. East Union Potts Camp Cardinals 5-0 Monday, Nov 23, 2026 6:00pm CST East Union Urchins 1-3 Potts Camp Boys Varsity Basketball vs. East Union Game Info The Potts Camp varsity basketball team has a neutral non-conference game vs. East Union (Blue Springs, MS) today @ 6p.",
+        "date_excerpt": "11/23/2026",
+        "home_name": "East Union",
+        "away_name": "Potts Camp",
+        "time_excerpt": "6:00pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-23",
+      "home": "Horn Lake",
+      "away": "Cleveland Central",
+      "status": "scheduled",
+      "start_time": "2026-11-23T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/cleveland-central-vs-horn-lake/11-23-2026/?c=9f57db62-29dd-47e8-a06e-44c256709182",
+        "excerpt": "Cleveland Central vs Horn Lake | Basketball | 11/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Cleveland Central Girls Varsity Basketball @ Horn Lake Cleveland Central Wolves 6-1 Monday, Nov 23, 2026 6:00pm CST Horn Lake Eagles 6-1 Cleveland Central Girls Varsity Basketball @ Horn Lake Game Info The Cleveland Central varsity basketball team has an away non-conference game @ Horn Lake (MS) today @ 6p.",
+        "date_excerpt": "11/23/2026",
+        "home_name": "Horn Lake",
+        "away_name": "Cleveland Central",
+        "time_excerpt": "6:00pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-23",
+      "home": "Florence (Alabama)",
+      "away": "Pontotoc",
+      "status": "scheduled",
+      "start_time": "2026-11-23T16:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/inter-state/basketball/game/florence-al-vs-pontotoc-ms/11-23-2026/?c=77cd264b-58b2-42de-be99-7fd996a1b7e4",
+        "excerpt": "Pontotoc vs Florence | Basketball | 11/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Alabama High School Basketball Pontotoc Boys Varsity Basketball vs. Florence Pontotoc Warriors 3-1 Monday, Nov 23, 2026 4:30pm CST Florence Falcons 3-1 Pontotoc Boys Varsity Basketball vs. Florence Game Info The Pontotoc varsity basketball team has a neutral tournament game vs. Florence (AL) today @ 4:30p.",
+        "date_excerpt": "11/23/2026",
+        "home_name": "Florence",
+        "away_name": "Pontotoc",
+        "time_excerpt": "4:30pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-23",
+      "home": "Hancock",
+      "away": "Tupelo",
+      "status": "scheduled",
+      "start_time": "2026-11-23T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/hancock-kiln-vs-tupelo/11-23-2026/?c=bd540886-2d94-4e9d-b22b-8c6cc3de5bfa",
+        "excerpt": "Tupelo vs Hancock | Basketball | 11/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Tupelo Girls Varsity Basketball @ Hancock Tupelo Golden Wave 1-2 Monday, Nov 23, 2026 6:00pm CST Hancock Hawks 6-0 Tupelo Girls Varsity Basketball @ Hancock Streaming & Ticketing Purchase Tickets Game Info The Tupelo varsity basketball team has an away non-conference game @ Hancock (Kiln, MS) today @ 6p.",
+        "date_excerpt": "11/23/2026",
+        "home_name": "Hancock",
+        "away_name": "Tupelo",
+        "time_excerpt": "6:00pm CST"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-21/",
+      "title": "Saturday varsity results and Horn Lake–Greenwood recap"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: Unbeaten starts collide at Clinton and MRA",
+    "headline_fact_ids": [
+      "game-0",
+      "records-0",
+      "game-4",
+      "records-4",
+      "houston-identity"
+    ],
+    "html": "<p data-facts=\"game-0 records-0 game-4 records-4 houston-identity\">Unbeaten starts meet on the soccer field in Clinton and on the basketball court at Madison-Ridgeland Academy Monday. Clinton’s girls bring a 4–0 record into their match with 5–0–1 Northwest Rankin, while MRA and visiting Houston, Tennessee, each enter their boys basketball game at 3–0.</p>\n<p data-facts=\"game-0 game-4 game-9 records-9\">The remaining November 23, 2026, schedule also includes an unbeaten Potts Camp boys team at the Hickory Flat Thanksgiving Tournament and several other strong early records facing tests. All times below are Central Standard Time. These are selected upcoming varsity fixtures, with entering records checked on their matchup pages; earlier games are omitted.</p>\n<h2 data-facts=\"game-0 records-0\">Clinton and Northwest Rankin put unbeaten soccer records together</h2>\n<p data-facts=\"game-0 records-0 context-0\">The <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/clinton-vs-northwest-rankin-brandon/11-23-2026/?c=9f37d06f-146a-47c4-b55b-9d934b865f5e\">7 p.m. girls soccer match at Clinton</a> is one of the clearest tests of unbeaten form on the remaining slate. Northwest Rankin has five wins and a draw, while the Arrows have won all four of their reported matches. Neither carries a defeat into the nonconference meeting, so both have a loss-free opening to protect.</p>\n<p data-facts=\"game-0 game-1 records-1 context-0 context-1\">The schools’ boys teams meet earlier, <a href=\"https://www.maxpreps.com/ms/soccer/match/clinton-vs-northwest-rankin-brandon/11-23-2026/?c=73ecb1db-d51e-41cb-aee5-6edc5dd25ddb\">at 5 p.m.</a>. Northwest Rankin is listed at 3–3 and Clinton at 2–3–1. Their records give the boys fixture a different emphasis: the Cougars can move above an even record, while the Arrows can draw level in wins and losses. Both matches are listed as nonconference.</p>\n<h2 data-facts=\"game-2 game-3 records-2\">West Lauderdale’s girls take a perfect start to Brandon</h2>\n<p data-facts=\"game-2 records-2 context-2\">West Lauderdale’s girls are 8–0 ahead of <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/brandon-vs-west-lauderdale-collinsville/11-23-2026/?c=2eefcf50-f399-4756-8df1-3d3bde262332\">their 5:30 p.m. match at Brandon</a>. The Bulldogs enter 6–3, providing a winning opponent for a Knights team that has yet to lose a reported game. The nonconference trip gives West Lauderdale an opportunity to extend its perfect opening against a team with several victories of its own.</p>\n<p data-facts=\"game-2 game-3 records-2 records-3 context-2 context-3\">The <a href=\"https://www.maxpreps.com/ms/soccer/match/brandon-vs-west-lauderdale-collinsville/11-23-2026/?c=dd3e21be-4c4a-4f96-a2c9-5b13de1c60b4\">7:15 p.m. boys match</a> pairs West Lauderdale at 5–4–1 with Brandon at 3–4–1. The Knights have a winning record to defend, while the Bulldogs can balance their wins and losses. Both schools therefore have a distinct early-season marker at stake across the soccer doubleheader.</p>\n<h2 data-facts=\"game-4 records-4 houston-identity\">MRA hosts Houston in an unbeaten boys basketball matchup</h2>\n<p data-facts=\"game-4 records-4 context-4 houston-identity\">Madison-Ridgeland Academy hosts the Houston Mustangs of Germantown, Tennessee, <a href=\"https://www.maxpreps.com/inter-state/basketball/game/houston-germantown-tn-vs-madison-ridgeland-academy-ms/11-23-2026/?c=5b6cf9c7-83a3-41dd-ac93-8272d315c72e\">at 4:30 p.m.</a>. Both teams are listed at 3–0. The fixture is identified with the MRA Turkey Shootout and listed as nonconference, bringing together two perfect openings for an interstate test in Madison.</p>\n<h2 data-facts=\"game-5 game-6 records-5 records-6\">West Union and Oxford protect perfect basketball starts</h2>\n<p data-facts=\"game-5 records-5 context-5\">West Union’s boys enter 6–0 for <a href=\"https://www.maxpreps.com/ms/basketball/game/holly-springs-vs-west-union-myrtle/11-23-2026/?c=5e87960d-8571-4d83-881a-597e3976faaa\">the 4:30 p.m. game against Holly Springs</a>, which is listed at 1–4. The Eagles’ unbeaten record makes them the team to measure against in this matchup. The game is a neutral-site tournament fixture at the New Albany Thanksgiving Classic, rather than a regular home game at either school.</p>\n<p data-facts=\"game-6 records-6 context-6\">Oxford’s girls are also 6–0, with <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/jackson-prep-vs-oxford/11-23-2026/?c=84af49d4-028e-434f-8b2c-9933bd967c6d\">Jackson Prep visiting at 5:30 p.m.</a> for a game in the Charger Invitational. Prep enters 5–2. That combination gives the Chargers a winning opponent as they try to preserve their perfect start, with the Patriots seeking a road tournament victory against an unbeaten team.</p>\n<h2 data-facts=\"game-7 game-8 records-7 records-8\">Booneville has unbeaten records in both basketball divisions</h2>\n<p data-facts=\"game-7 records-7 context-7\">Booneville’s girls enter <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/booneville-vs-center-hill-olive-branch/11-23-2026/?c=b54ada9f-ecd5-4053-b5b5-e5499eb54c30\">the 6 p.m. game against Center Hill</a> at 2–0. The visiting Mustangs are listed at 3–2. Center Hill has a winning record of its own to build on, while the Blue Devils have an unbeaten opening to defend in the nonconference meeting.</p>\n<p data-facts=\"game-7 game-8 records-8 context-8\">The boys game <a href=\"https://www.maxpreps.com/ms/basketball/game/booneville-vs-new-hope-columbus/11-23-2026/?c=54b2527a-f8d3-4d16-8511-a8e23f1bd2d2\">follows at 7:30 p.m. against New Hope</a>. Both teams are listed at 1–0, making this another matchup between sides without a reported loss. Their limited early records do not establish a long run of form, but the meeting offers a direct comparison as each tries to build on a winning start.</p>\n<h2 data-facts=\"game-9 records-9 context-9\">Potts Camp brings a perfect start to Hickory Flat</h2>\n<p data-facts=\"game-9 records-9 context-9\">Potts Camp’s boys meet East Union <a href=\"https://www.maxpreps.com/ms/basketball/game/east-union-blue-springs-vs-potts-camp/11-23-2026/?c=573a487a-925b-4cb9-9c15-9d81c89f101c\">at 6 p.m.</a> in the Hickory Flat Thanksgiving Tournament. The Cardinals enter 5–0 and the Urchins 1–3. The game is listed as neutral-site and nonconference. Potts Camp can extend its unbeaten start, while East Union has an opportunity to challenge a team that has won every reported game so far.</p>\n<h2 data-facts=\"game-10 records-10 horn-history\">Horn Lake and Cleveland Central bring matching records</h2>\n<p data-facts=\"game-10 records-10 context-10 horn-history\">Horn Lake hosts Cleveland Central <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/cleveland-central-vs-horn-lake/11-23-2026/?c=9f57db62-29dd-47e8-a06e-44c256709182\">at 6 p.m. in girls basketball</a>, with both teams listed at 6–1. The Eagles are coming off Saturday’s 51–36 loss at Greenwood, so this is a chance to respond against another team with only one reported defeat. That result is covered in our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-11-21/\">Saturday varsity recap</a>. The fixture is identified with Horn Lake’s MS/TN Challenge.</p>\n<h2 data-facts=\"game-11 game-12\">Pontotoc faces an Alabama opponent; Hancock hosts Tupelo</h2>\n<p data-facts=\"game-11 records-11 context-11\">Pontotoc’s boys face <a href=\"https://www.maxpreps.com/inter-state/basketball/game/florence-al-vs-pontotoc-ms/11-23-2026/?c=77cd264b-58b2-42de-be99-7fd996a1b7e4\">Florence, Alabama, at 4:30 p.m.</a> in a neutral-site game at the Booneville High School Thanksgiving Tournament. Both teams are listed at 3–1. Their matching records make this a useful interstate comparison, with each entering the tournament fixture with more wins than losses.</p>\n<p data-facts=\"game-12 records-12 context-12\">Hancock’s girls bring a 6–0 record to <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/hancock-kiln-vs-tupelo/11-23-2026/?c=bd540886-2d94-4e9d-b22b-8c6cc3de5bfa\">the 6 p.m. game against Tupelo in Kiln</a>. The Golden Wave enter 1–2. Hancock has a perfect start to protect at home, while Tupelo can reach an even record by winning the nonconference game.</p>",
+    "facts": [
+      {
+        "id": "records-0",
+        "kind": "record",
+        "claim": "High School Girls Soccer Mississippi High School Soccer Northwest Rankin Girls Varsity Soccer @ Clinton Northwest Rankin Cougars 5-0-1 Monday, Nov 23, 2026 7:00pm CST Clinton Arrows 4-0 Northwest Rankin Girls Varsity Soccer @ Clinton Streaming & Ticketing Purchase Tickets",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/clinton-vs-northwest-rankin-brandon/11-23-2026/?c=9f37d06f-146a-47c4-b55b-9d934b865f5e",
+          "excerpt": "High School Girls Soccer Mississippi High School Soccer Northwest Rankin Girls Varsity Soccer @ Clinton Northwest Rankin Cougars 5-0-1 Monday, Nov 23, 2026 7:00pm CST Clinton Arrows 4-0 Northwest Rankin Girls Varsity Soccer @ Clinton Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "Northwest Rankin",
+            "Clinton"
+          ]
+        }
+      },
+      {
+        "id": "context-0",
+        "kind": "context",
+        "claim": "Game Info The Northwest Rankin varsity soccer team has an away non-conference match @ Clinton (MS) today @ 7p. Matchup Roster Game Details Monday, Nov 23, 2026 7:00pm CST Non-District",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/clinton-vs-northwest-rankin-brandon/11-23-2026/?c=9f37d06f-146a-47c4-b55b-9d934b865f5e",
+          "excerpt": "Game Info The Northwest Rankin varsity soccer team has an away non-conference match @ Clinton (MS) today @ 7p. Matchup Roster Game Details Monday, Nov 23, 2026 7:00pm CST Non-District",
+          "subjects": [
+            "Northwest Rankin",
+            "Clinton"
+          ]
+        }
+      },
+      {
+        "id": "records-1",
+        "kind": "record",
+        "claim": "High School Soccer Mississippi High School Soccer Northwest Rankin Boys Varsity Soccer @ Clinton Northwest Rankin Cougars 3-3 Monday, Nov 23, 2026 5:00pm CST Clinton Arrows 2-3-1 Northwest Rankin Boys Varsity Soccer @ Clinton Streaming & Ticketing Purchase Tickets",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/clinton-vs-northwest-rankin-brandon/11-23-2026/?c=73ecb1db-d51e-41cb-aee5-6edc5dd25ddb",
+          "excerpt": "High School Soccer Mississippi High School Soccer Northwest Rankin Boys Varsity Soccer @ Clinton Northwest Rankin Cougars 3-3 Monday, Nov 23, 2026 5:00pm CST Clinton Arrows 2-3-1 Northwest Rankin Boys Varsity Soccer @ Clinton Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "Northwest Rankin",
+            "Clinton"
+          ]
+        }
+      },
+      {
+        "id": "context-1",
+        "kind": "context",
+        "claim": "Game Info The Northwest Rankin varsity soccer team has an away non-conference match @ Clinton (MS) today @ 5p. Matchup Roster Game Details Monday, Nov 23, 2026 5:00pm CST Non-District",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/clinton-vs-northwest-rankin-brandon/11-23-2026/?c=73ecb1db-d51e-41cb-aee5-6edc5dd25ddb",
+          "excerpt": "Game Info The Northwest Rankin varsity soccer team has an away non-conference match @ Clinton (MS) today @ 5p. Matchup Roster Game Details Monday, Nov 23, 2026 5:00pm CST Non-District",
+          "subjects": [
+            "Northwest Rankin",
+            "Clinton"
+          ]
+        }
+      },
+      {
+        "id": "records-2",
+        "kind": "record",
+        "claim": "High School Girls Soccer Mississippi High School Soccer West Lauderdale Girls Varsity Soccer @ Brandon West Lauderdale Knights 8-0 Monday, Nov 23, 2026 5:30pm CST Brandon Bulldogs 6-3 West Lauderdale Girls Varsity Soccer @ Brandon Streaming & Ticketing Purchase Tickets",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/brandon-vs-west-lauderdale-collinsville/11-23-2026/?c=2eefcf50-f399-4756-8df1-3d3bde262332",
+          "excerpt": "High School Girls Soccer Mississippi High School Soccer West Lauderdale Girls Varsity Soccer @ Brandon West Lauderdale Knights 8-0 Monday, Nov 23, 2026 5:30pm CST Brandon Bulldogs 6-3 West Lauderdale Girls Varsity Soccer @ Brandon Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "West Lauderdale",
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "context-2",
+        "kind": "context",
+        "claim": "Game Info The West Lauderdale varsity soccer team has an away non-conference match @ Brandon (MS) today @ 5:30p. Matchup Roster Game Details Monday, Nov 23, 2026 5:30pm CST Non-District",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/brandon-vs-west-lauderdale-collinsville/11-23-2026/?c=2eefcf50-f399-4756-8df1-3d3bde262332",
+          "excerpt": "Game Info The West Lauderdale varsity soccer team has an away non-conference match @ Brandon (MS) today @ 5:30p. Matchup Roster Game Details Monday, Nov 23, 2026 5:30pm CST Non-District",
+          "subjects": [
+            "West Lauderdale",
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "records-3",
+        "kind": "record",
+        "claim": "High School Soccer Mississippi High School Soccer West Lauderdale Boys Varsity Soccer @ Brandon West Lauderdale Knights 5-4-1 Monday, Nov 23, 2026 7:15pm CST Brandon Bulldogs 3-4-1 West Lauderdale Boys Varsity Soccer @ Brandon Streaming & Ticketing Purchase Tickets",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/brandon-vs-west-lauderdale-collinsville/11-23-2026/?c=dd3e21be-4c4a-4f96-a2c9-5b13de1c60b4",
+          "excerpt": "High School Soccer Mississippi High School Soccer West Lauderdale Boys Varsity Soccer @ Brandon West Lauderdale Knights 5-4-1 Monday, Nov 23, 2026 7:15pm CST Brandon Bulldogs 3-4-1 West Lauderdale Boys Varsity Soccer @ Brandon Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "West Lauderdale",
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "context-3",
+        "kind": "context",
+        "claim": "Game Info The West Lauderdale varsity soccer team has an away non-conference match @ Brandon (MS) today @ 7:15p. Matchup Roster Game Details Monday, Nov 23, 2026 7:15pm CST Non-District",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/brandon-vs-west-lauderdale-collinsville/11-23-2026/?c=dd3e21be-4c4a-4f96-a2c9-5b13de1c60b4",
+          "excerpt": "Game Info The West Lauderdale varsity soccer team has an away non-conference match @ Brandon (MS) today @ 7:15p. Matchup Roster Game Details Monday, Nov 23, 2026 7:15pm CST Non-District",
+          "subjects": [
+            "West Lauderdale",
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "records-4",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Houston Boys Varsity Basketball @ MRA Houston Mustangs 3-0 Monday, Nov 23, 2026 4:30pm CST Madison-Ridgeland Academy Patriots 3-0 Houston Boys Varsity Basketball @ MRA",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/game/houston-germantown-tn-vs-madison-ridgeland-academy-ms/11-23-2026/?c=5b6cf9c7-83a3-41dd-ac93-8272d315c72e",
+          "excerpt": "High School Basketball Mississippi High School Basketball Houston Boys Varsity Basketball @ MRA Houston Mustangs 3-0 Monday, Nov 23, 2026 4:30pm CST Madison-Ridgeland Academy Patriots 3-0 Houston Boys Varsity Basketball @ MRA",
+          "subjects": [
+            "Houston",
+            "Madison-Ridgeland Academy"
+          ]
+        }
+      },
+      {
+        "id": "context-4",
+        "kind": "context",
+        "claim": "Game Info The Houston varsity basketball team has an away non-conference game @ Madison-Ridgeland Academy (Madison, MS) today @ 4:30p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Monday, Nov 23, 2026 4:30pm CST Non-District MRA Turkey Shootout Madison-Ridgeland Academy (Madison) Team Videos 1:13 Erick Dampier Jr. NBPA Top 100 Camp highlights",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/game/houston-germantown-tn-vs-madison-ridgeland-academy-ms/11-23-2026/?c=5b6cf9c7-83a3-41dd-ac93-8272d315c72e",
+          "excerpt": "Game Info The Houston varsity basketball team has an away non-conference game @ Madison-Ridgeland Academy (Madison, MS) today @ 4:30p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Monday, Nov 23, 2026 4:30pm CST Non-District MRA Turkey Shootout Madison-Ridgeland Academy (Madison) Team Videos 1:13 Erick Dampier Jr. NBPA Top 100 Camp highlights",
+          "subjects": [
+            "Houston",
+            "Madison-Ridgeland Academy"
+          ]
+        }
+      },
+      {
+        "id": "records-5",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Holly Springs Boys Varsity Basketball vs. West Union Holly Springs Hawks 1-4 Monday, Nov 23, 2026 4:30pm CST West Union Eagles 6-0 Holly Springs Boys Varsity Basketball vs. West Union",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/holly-springs-vs-west-union-myrtle/11-23-2026/?c=5e87960d-8571-4d83-881a-597e3976faaa",
+          "excerpt": "High School Basketball Mississippi High School Basketball Holly Springs Boys Varsity Basketball vs. West Union Holly Springs Hawks 1-4 Monday, Nov 23, 2026 4:30pm CST West Union Eagles 6-0 Holly Springs Boys Varsity Basketball vs. West Union",
+          "subjects": [
+            "Holly Springs",
+            "West Union"
+          ]
+        }
+      },
+      {
+        "id": "context-5",
+        "kind": "context",
+        "claim": "Game Info The Holly Springs varsity basketball team has a neutral tournament game vs. West Union (Myrtle, MS) today @ 4:30p. Scorekeeper No Scorekeeper Sign Up to Score Game r. loveberry HSHS Scorekeeper Matchup Roster Game Details Monday, Nov 23, 2026 4:30pm CST Tournament New Albany Thanksgiving Classic @ New Albany West Union (Myrtle) Team Videos 1:02 11/20 Highlights vs Myrtle",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/holly-springs-vs-west-union-myrtle/11-23-2026/?c=5e87960d-8571-4d83-881a-597e3976faaa",
+          "excerpt": "Game Info The Holly Springs varsity basketball team has a neutral tournament game vs. West Union (Myrtle, MS) today @ 4:30p. Scorekeeper No Scorekeeper Sign Up to Score Game r. loveberry HSHS Scorekeeper Matchup Roster Game Details Monday, Nov 23, 2026 4:30pm CST Tournament New Albany Thanksgiving Classic @ New Albany West Union (Myrtle) Team Videos 1:02 11/20 Highlights vs Myrtle",
+          "subjects": [
+            "Holly Springs",
+            "West Union"
+          ]
+        }
+      },
+      {
+        "id": "records-6",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball Jackson Prep Girls Varsity Basketball @ Oxford Jackson Prep Patriots 5-2 Monday, Nov 23, 2026 5:30pm CST Oxford Chargers 6-0 Jackson Prep Girls Varsity Basketball @ Oxford Streaming & Ticketing Purchase Tickets",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/jackson-prep-vs-oxford/11-23-2026/?c=84af49d4-028e-434f-8b2c-9933bd967c6d",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Jackson Prep Girls Varsity Basketball @ Oxford Jackson Prep Patriots 5-2 Monday, Nov 23, 2026 5:30pm CST Oxford Chargers 6-0 Jackson Prep Girls Varsity Basketball @ Oxford Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "Jackson Prep",
+            "Oxford"
+          ]
+        }
+      },
+      {
+        "id": "context-6",
+        "kind": "context",
+        "claim": "Game Info The Jackson Prep varsity basketball team has an away tournament game @ Oxford (MS) today @ 5:30p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Monday, Nov 23, 2026 5:30pm CST Tournament Charger Invitational",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/jackson-prep-vs-oxford/11-23-2026/?c=84af49d4-028e-434f-8b2c-9933bd967c6d",
+          "excerpt": "Game Info The Jackson Prep varsity basketball team has an away tournament game @ Oxford (MS) today @ 5:30p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Monday, Nov 23, 2026 5:30pm CST Tournament Charger Invitational",
+          "subjects": [
+            "Jackson Prep",
+            "Oxford"
+          ]
+        }
+      },
+      {
+        "id": "records-7",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball Center Hill Girls Varsity Basketball @ Booneville Center Hill Mustangs 3-2 Monday, Nov 23, 2026 6:00pm CST Booneville Blue Devils 2-0 Center Hill Girls Varsity Basketball @ Booneville",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/booneville-vs-center-hill-olive-branch/11-23-2026/?c=b54ada9f-ecd5-4053-b5b5-e5499eb54c30",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Center Hill Girls Varsity Basketball @ Booneville Center Hill Mustangs 3-2 Monday, Nov 23, 2026 6:00pm CST Booneville Blue Devils 2-0 Center Hill Girls Varsity Basketball @ Booneville",
+          "subjects": [
+            "Center Hill",
+            "Booneville"
+          ]
+        }
+      },
+      {
+        "id": "context-7",
+        "kind": "context",
+        "claim": "Game Info The Center Hill varsity basketball team has an away non-conference game @ Booneville (MS) today @ 6p. Scorekeeper J. Presley BHS Scorekeeper No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Monday, Nov 23, 2026 6:00pm CST Non-District",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/booneville-vs-center-hill-olive-branch/11-23-2026/?c=b54ada9f-ecd5-4053-b5b5-e5499eb54c30",
+          "excerpt": "Game Info The Center Hill varsity basketball team has an away non-conference game @ Booneville (MS) today @ 6p. Scorekeeper J. Presley BHS Scorekeeper No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Monday, Nov 23, 2026 6:00pm CST Non-District",
+          "subjects": [
+            "Center Hill",
+            "Booneville"
+          ]
+        }
+      },
+      {
+        "id": "records-8",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball New Hope Boys Varsity Basketball @ Booneville New Hope Trojans 1-0 Monday, Nov 23, 2026 7:30pm CST Booneville Blue Devils 1-0 New Hope Boys Varsity Basketball @ Booneville",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/booneville-vs-new-hope-columbus/11-23-2026/?c=54b2527a-f8d3-4d16-8511-a8e23f1bd2d2",
+          "excerpt": "High School Basketball Mississippi High School Basketball New Hope Boys Varsity Basketball @ Booneville New Hope Trojans 1-0 Monday, Nov 23, 2026 7:30pm CST Booneville Blue Devils 1-0 New Hope Boys Varsity Basketball @ Booneville",
+          "subjects": [
+            "New Hope",
+            "Booneville"
+          ]
+        }
+      },
+      {
+        "id": "context-8",
+        "kind": "context",
+        "claim": "Game Info The New Hope varsity basketball team has an away non-conference game @ Booneville (MS) today @ 7:30p. Scorekeeper J. Presley BHS Scorekeeper No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Monday, Nov 23, 2026 7:30pm CST Non-District",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/booneville-vs-new-hope-columbus/11-23-2026/?c=54b2527a-f8d3-4d16-8511-a8e23f1bd2d2",
+          "excerpt": "Game Info The New Hope varsity basketball team has an away non-conference game @ Booneville (MS) today @ 7:30p. Scorekeeper J. Presley BHS Scorekeeper No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Monday, Nov 23, 2026 7:30pm CST Non-District",
+          "subjects": [
+            "New Hope",
+            "Booneville"
+          ]
+        }
+      },
+      {
+        "id": "records-9",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Potts Camp Boys Varsity Basketball vs. East Union Potts Camp Cardinals 5-0 Monday, Nov 23, 2026 6:00pm CST East Union Urchins 1-3 Potts Camp Boys Varsity Basketball vs. East Union",
+        "game_indexes": [
+          9
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/east-union-blue-springs-vs-potts-camp/11-23-2026/?c=573a487a-925b-4cb9-9c15-9d81c89f101c",
+          "excerpt": "High School Basketball Mississippi High School Basketball Potts Camp Boys Varsity Basketball vs. East Union Potts Camp Cardinals 5-0 Monday, Nov 23, 2026 6:00pm CST East Union Urchins 1-3 Potts Camp Boys Varsity Basketball vs. East Union",
+          "subjects": [
+            "Potts Camp",
+            "East Union"
+          ]
+        }
+      },
+      {
+        "id": "context-9",
+        "kind": "context",
+        "claim": "Game Info The Potts Camp varsity basketball team has a neutral non-conference game vs. East Union (Blue Springs, MS) today @ 6p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Monday, Nov 23, 2026 6:00pm CST Non-District Hickory Flat Thanksgiving Tournament",
+        "game_indexes": [
+          9
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/east-union-blue-springs-vs-potts-camp/11-23-2026/?c=573a487a-925b-4cb9-9c15-9d81c89f101c",
+          "excerpt": "Game Info The Potts Camp varsity basketball team has a neutral non-conference game vs. East Union (Blue Springs, MS) today @ 6p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Monday, Nov 23, 2026 6:00pm CST Non-District Hickory Flat Thanksgiving Tournament",
+          "subjects": [
+            "Potts Camp",
+            "East Union"
+          ]
+        }
+      },
+      {
+        "id": "records-10",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball Cleveland Central Girls Varsity Basketball @ Horn Lake Cleveland Central Wolves 6-1 Monday, Nov 23, 2026 6:00pm CST Horn Lake Eagles 6-1 Cleveland Central Girls Varsity Basketball @ Horn Lake",
+        "game_indexes": [
+          10
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/cleveland-central-vs-horn-lake/11-23-2026/?c=9f57db62-29dd-47e8-a06e-44c256709182",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Cleveland Central Girls Varsity Basketball @ Horn Lake Cleveland Central Wolves 6-1 Monday, Nov 23, 2026 6:00pm CST Horn Lake Eagles 6-1 Cleveland Central Girls Varsity Basketball @ Horn Lake",
+          "subjects": [
+            "Cleveland Central",
+            "Horn Lake"
+          ]
+        }
+      },
+      {
+        "id": "context-10",
+        "kind": "context",
+        "claim": "Game Info The Cleveland Central varsity basketball team has an away non-conference game @ Horn Lake (MS) today @ 6p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Monday, Nov 23, 2026 6:00pm CST Non-District Horn Lake 4th Annual MS/TN Challenge",
+        "game_indexes": [
+          10
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/cleveland-central-vs-horn-lake/11-23-2026/?c=9f57db62-29dd-47e8-a06e-44c256709182",
+          "excerpt": "Game Info The Cleveland Central varsity basketball team has an away non-conference game @ Horn Lake (MS) today @ 6p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Monday, Nov 23, 2026 6:00pm CST Non-District Horn Lake 4th Annual MS/TN Challenge",
+          "subjects": [
+            "Cleveland Central",
+            "Horn Lake"
+          ]
+        }
+      },
+      {
+        "id": "records-11",
+        "kind": "record",
+        "claim": "High School Basketball Alabama High School Basketball Pontotoc Boys Varsity Basketball vs. Florence Pontotoc Warriors 3-1 Monday, Nov 23, 2026 4:30pm CST Florence Falcons 3-1 Pontotoc Boys Varsity Basketball vs. Florence",
+        "game_indexes": [
+          11
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/game/florence-al-vs-pontotoc-ms/11-23-2026/?c=77cd264b-58b2-42de-be99-7fd996a1b7e4",
+          "excerpt": "High School Basketball Alabama High School Basketball Pontotoc Boys Varsity Basketball vs. Florence Pontotoc Warriors 3-1 Monday, Nov 23, 2026 4:30pm CST Florence Falcons 3-1 Pontotoc Boys Varsity Basketball vs. Florence",
+          "subjects": [
+            "Pontotoc",
+            "Florence"
+          ]
+        }
+      },
+      {
+        "id": "context-11",
+        "kind": "context",
+        "claim": "Game Info The Pontotoc varsity basketball team has a neutral tournament game vs. Florence (AL) today @ 4:30p. Scorekeeper T. Anderson FHS Scorekeeper K. King PHS Scorekeeper Matchup Roster Game Details Monday, Nov 23, 2026 4:30pm CST Tournament Booneville, MS HS Thanksgiving Tournament Florence Team Videos 5:38 11/19 Highlights vs Bob Jones",
+        "game_indexes": [
+          11
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/game/florence-al-vs-pontotoc-ms/11-23-2026/?c=77cd264b-58b2-42de-be99-7fd996a1b7e4",
+          "excerpt": "Game Info The Pontotoc varsity basketball team has a neutral tournament game vs. Florence (AL) today @ 4:30p. Scorekeeper T. Anderson FHS Scorekeeper K. King PHS Scorekeeper Matchup Roster Game Details Monday, Nov 23, 2026 4:30pm CST Tournament Booneville, MS HS Thanksgiving Tournament Florence Team Videos 5:38 11/19 Highlights vs Bob Jones",
+          "subjects": [
+            "Pontotoc",
+            "Florence"
+          ]
+        }
+      },
+      {
+        "id": "records-12",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball Tupelo Girls Varsity Basketball @ Hancock Tupelo Golden Wave 1-2 Monday, Nov 23, 2026 6:00pm CST Hancock Hawks 6-0 Tupelo Girls Varsity Basketball @ Hancock Streaming & Ticketing Purchase Tickets",
+        "game_indexes": [
+          12
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/hancock-kiln-vs-tupelo/11-23-2026/?c=bd540886-2d94-4e9d-b22b-8c6cc3de5bfa",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Tupelo Girls Varsity Basketball @ Hancock Tupelo Golden Wave 1-2 Monday, Nov 23, 2026 6:00pm CST Hancock Hawks 6-0 Tupelo Girls Varsity Basketball @ Hancock Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "Tupelo",
+            "Hancock"
+          ]
+        }
+      },
+      {
+        "id": "context-12",
+        "kind": "context",
+        "claim": "Game Info The Tupelo varsity basketball team has an away non-conference game @ Hancock (Kiln, MS) today @ 6p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Monday, Nov 23, 2026 6:00pm CST Non-District",
+        "game_indexes": [
+          12
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/hancock-kiln-vs-tupelo/11-23-2026/?c=bd540886-2d94-4e9d-b22b-8c6cc3de5bfa",
+          "excerpt": "Game Info The Tupelo varsity basketball team has an away non-conference game @ Hancock (Kiln, MS) today @ 6p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Monday, Nov 23, 2026 6:00pm CST Non-District",
+          "subjects": [
+            "Tupelo",
+            "Hancock"
+          ]
+        }
+      },
+      {
+        "id": "houston-identity",
+        "kind": "context",
+        "claim": "The Houston Mustangs are from Germantown, Tennessee.",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tn/germantown/houston-mustangs/basketball/",
+          "excerpt": "Houston High School (Germantown, TN) Basketball",
+          "subjects": [
+            "Houston",
+            "Germantown, TN"
+          ]
+        }
+      },
+      {
+        "id": "horn-history",
+        "kind": "history",
+        "claim": "Horn Lake girls lost 51-36 at Greenwood on November 21, 2026.",
+        "game_indexes": [
+          10
+        ],
+        "as_of_date": "2026-11-23",
+        "fact_date": "2026-11-21",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/greenwood-vs-horn-lake/11-21-2026/?c=d311f594-91e9-4547-bcc8-d501c81976b8",
+          "excerpt": "Horn Lake vs Greenwood | Basketball | 11/21/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Horn Lake Girls Varsity Basketball @ Greenwood Horn Lake 6-1 Eagles 36 Final 51 Greenwood 6-0 Bulldogs Horn Lake Girls Varsity Basketball @ Greenwood Game Info On 11/21, the Horn Lake varsity basketball team lost their away non-conference game against Greenwood (MS) by a score of 51-36.",
+          "date_excerpt": "11/21/2026",
+          "subjects": [
+            "Horn Lake",
+            "Greenwood"
+          ]
+        }
+      }
+    ]
+  }
+}
