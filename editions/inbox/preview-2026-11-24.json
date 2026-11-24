@@ -1,0 +1,894 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-11-24",
+  "verified_at": "2026-11-24T21:08:03.649629+00:00",
+  "publish": true,
+  "checked_sports": [
+    "basketball",
+    "soccer",
+    "football",
+    "volleyball",
+    "bowling",
+    "wrestling"
+  ],
+  "games": [
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "South Pontotoc",
+      "away": "Mooreville",
+      "status": "scheduled",
+      "start_time": "2026-11-24T16:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/mooreville-vs-south-pontotoc/11-24-2026/?c=4f26906b-ca2b-445e-b330-96e4bd97c837",
+        "excerpt": "Mooreville vs South Pontotoc | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Mooreville Girls Varsity Basketball vs. South Pontotoc Mooreville Troopers 5-3 Tuesday, Nov 24, 2026 4:30pm CST South Pontotoc Cougars 7-0 Mooreville Girls Varsity Basketball vs. South Pontotoc Game Info The Mooreville varsity basketball team has a neutral non-conference game vs. South Pontotoc (Pontotoc, MS) today @ 4:30p.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "South Pontotoc",
+        "away_name": "Mooreville",
+        "time_excerpt": "4:30pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Oxford",
+      "away": "Bayou Academy",
+      "status": "scheduled",
+      "start_time": "2026-11-24T17:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/bayou-academy-cleveland-vs-oxford/11-24-2026/?c=797943b8-1dff-47be-9e44-8bca4f6cd659",
+        "excerpt": "Bayou Academy vs Oxford | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Bayou Academy Girls Varsity Basketball @ Oxford Bayou Academy Colts 3-6 Tuesday, Nov 24, 2026 5:00pm CST Oxford Chargers 6-1 Bayou Academy Girls Varsity Basketball @ Oxford Streaming & Ticketing Purchase Tickets Game Info The Bayou Academy varsity basketball team has an away tournament game @ Oxford (MS) today @ 5p.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Oxford",
+        "away_name": "Bayou Academy",
+        "time_excerpt": "5:00pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Kossuth",
+      "away": "McNairy Central",
+      "status": "scheduled",
+      "start_time": "2026-11-24T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/inter-state/basketball/girls/game/kossuth-ms-vs-mcnairy-central-selmer-tn/11-24-2026/?c=631edbee-0c27-424a-8e0e-be454da80d81",
+        "excerpt": "McNairy Central vs Kossuth | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball McNairy Central Girls Varsity Basketball @ Kossuth McNairy Central Bobcats 3-0 Tuesday, Nov 24, 2026 6:00pm CST Kossuth Aggies 3-2 McNairy Central Girls Varsity Basketball @ Kossuth Game Info The McNairy Central varsity basketball team has an away non-conference game @ Kossuth (MS) today @ 6p.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Kossuth",
+        "away_name": "McNairy Central",
+        "time_excerpt": "6:00pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Hancock",
+      "away": "Northeast Jones",
+      "status": "scheduled",
+      "start_time": "2026-11-24T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/hancock-kiln-vs-northeast-jones-laurel/11-24-2026/?c=462c961b-5551-453b-8b8e-e6fa4db7a7e4",
+        "excerpt": "Northeast Jones vs Hancock | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Northeast Jones Girls Varsity Basketball @ Hancock Northeast Jones Tigers 4-4 Tuesday, Nov 24, 2026 6:00pm CST Hancock Hawks 7-0 Northeast Jones Girls Varsity Basketball @ Hancock Game Info The Northeast Jones varsity basketball team has an away non-conference game @ Hancock (Kiln, MS) today @ 6p.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Hancock",
+        "away_name": "Northeast Jones",
+        "time_excerpt": "6:00pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Belmont",
+      "away": "East Union",
+      "status": "scheduled",
+      "start_time": "2026-11-24T18:45:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/belmont-vs-east-union-blue-springs/11-24-2026/?c=5783e487-dadd-4c69-b3b2-955d36e0a40f",
+        "excerpt": "East Union vs Belmont | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball East Union Girls Varsity Basketball @ Belmont East Union Urchins 5-0 Tuesday, Nov 24, 2026 6:45pm CST Belmont Cardinals 2-3 East Union Girls Varsity Basketball @ Belmont Game Info The East Union varsity basketball team has an away non-conference game @ Belmont (MS) today @ 6:45p.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Belmont",
+        "away_name": "East Union",
+        "time_excerpt": "6:45pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Booneville",
+      "away": "Starkville",
+      "status": "scheduled",
+      "start_time": "2026-11-24T19:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/booneville-vs-starkville/11-24-2026/?c=e20b6a69-483a-410c-8424-d31496b7b396",
+        "excerpt": "Starkville vs Booneville | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Starkville Girls Varsity Basketball @ Booneville Starkville Yellowjackets 5-1 Tuesday, Nov 24, 2026 7:30pm CST Booneville Blue Devils 3-0 Starkville Girls Varsity Basketball @ Booneville Game Info The Starkville varsity basketball team has an away non-conference game @ Booneville (MS) today @ 7:30p.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Booneville",
+        "away_name": "Starkville",
+        "time_excerpt": "7:30pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "DeSoto Central",
+      "away": "Independence",
+      "status": "scheduled",
+      "start_time": "2026-11-24T16:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/desoto-central-southaven-vs-independence/11-24-2026/?c=f5c340e9-bc5f-495c-9a34-730b397bd34b",
+        "excerpt": "Independence vs DeSoto Central | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Independence Boys Varsity Basketball vs. DeSoto Central Independence Wildcats 4-4 Tuesday, Nov 24, 2026 4:30pm CST DeSoto Central Jaguars 3-2 Independence Boys Varsity Basketball vs. DeSoto Central Game Info The Independence varsity basketball team has a neutral non-conference game vs. DeSoto Central (Southaven, MS) today @ 4:30p.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "DeSoto Central",
+        "away_name": "Independence",
+        "time_excerpt": "4:30pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Mooreville",
+      "away": "South Pontotoc",
+      "status": "scheduled",
+      "start_time": "2026-11-24T17:45:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/mooreville-vs-south-pontotoc/11-24-2026/?c=782e8279-13a6-4ffb-b78f-887cecf511cf",
+        "excerpt": "South Pontotoc vs Mooreville | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball South Pontotoc Boys Varsity Basketball vs. Mooreville South Pontotoc Cougars 4-3 Tuesday, Nov 24, 2026 5:45pm CST Mooreville Troopers 5-3 South Pontotoc Boys Varsity Basketball vs. Mooreville Game Info The South Pontotoc varsity basketball team has a neutral tournament game vs. Mooreville (MS) today @ 5:45p.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Mooreville",
+        "away_name": "South Pontotoc",
+        "time_excerpt": "5:45pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Kossuth",
+      "away": "McNairy Central",
+      "status": "scheduled",
+      "start_time": "2026-11-24T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/inter-state/basketball/game/kossuth-ms-vs-mcnairy-central-selmer-tn/11-24-2026/?c=868ee33d-b0ef-4d5b-99d4-2f1b7892a3e2",
+        "excerpt": "McNairy Central vs Kossuth | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball McNairy Central Boys Varsity Basketball @ Kossuth McNairy Central Bobcats 2-1 Tuesday, Nov 24, 2026 7:00pm CST Kossuth Aggies 2-1 McNairy Central Boys Varsity Basketball @ Kossuth Game Info The McNairy Central varsity basketball team has an away non-conference game @ Kossuth (MS) today @ 7p.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Kossuth",
+        "away_name": "McNairy Central",
+        "time_excerpt": "7:00pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Wayne County",
+      "away": "Gulfport",
+      "status": "scheduled",
+      "start_time": "2026-11-24T19:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/gulfport-vs-wayne-county-war-eagleslady-war-eagles-waynesboro/11-24-2026/?c=0b02187f-ace1-4702-b51d-8cb8d23fa2b4",
+        "excerpt": "Gulfport vs Wayne County | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Gulfport Boys Varsity Basketball @ Wayne County Gulfport Admirals 4-0 Tuesday, Nov 24, 2026 7:30pm CST Wayne County War Eagles 1-3 Gulfport Boys Varsity Basketball @ Wayne County Game Info The Gulfport varsity basketball team has an away non-conference game @ Wayne County (Waynesboro, MS) today @ 7:30p.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Wayne County",
+        "away_name": "Gulfport",
+        "time_excerpt": "7:30pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Lawrence County",
+      "away": "Brookhaven",
+      "status": "scheduled",
+      "start_time": "2026-11-24T20:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/brookhaven-vs-lawrence-county-monticello/11-24-2026/?c=856792b4-b3dc-4a26-813b-dcf2bca769ff",
+        "excerpt": "Brookhaven vs Lawrence County | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Brookhaven Boys Varsity Basketball @ Lawrence County Brookhaven Panthers 6-0 Tuesday, Nov 24, 2026 8:30pm CST Lawrence County Cougars 6-2 Brookhaven Boys Varsity Basketball @ Lawrence County Game Info The Brookhaven varsity basketball team has an away non-conference game @ Lawrence County (Monticello, MS) today @ 8:30p.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Lawrence County",
+        "away_name": "Brookhaven",
+        "time_excerpt": "8:30pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Potts Camp",
+      "away": "Falkner",
+      "status": "scheduled",
+      "start_time": "2026-11-24T20:45:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/falkner-vs-potts-camp/11-24-2026/?c=7c9974cc-c6fe-448f-9c31-1d6fe0b53c0f",
+        "excerpt": "Falkner vs Potts Camp | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Falkner Boys Varsity Basketball vs. Potts Camp Falkner Eagles 0-5 Tuesday, Nov 24, 2026 8:45pm CST Potts Camp Cardinals 6-0 Falkner Boys Varsity Basketball vs. Potts Camp Game Info The Falkner varsity basketball team has a neutral non-conference game vs. Potts Camp (MS) today @ 8:45p.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Potts Camp",
+        "away_name": "Falkner",
+        "time_excerpt": "8:45pm CST"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Shannon",
+      "away": "West Point",
+      "status": "scheduled",
+      "start_time": "2026-11-24T17:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/girls/match/shannon-vs-west-point/11-24-2026/?c=b9018c6c-6e8a-45a3-b4e1-71486b7b4bdb",
+        "excerpt": "West Point vs Shannon | Soccer | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Soccer Mississippi High School Soccer West Point Girls Varsity Soccer @ Shannon West Point Green Wave 1-2 Tuesday, Nov 24, 2026 5:30pm CST Shannon Red Raiders 2-0 West Point Girls Varsity Soccer @ Shannon Game Info The West Point varsity soccer team has an away non-conference match @ Shannon (MS) today @ 5:30p.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Shannon",
+        "away_name": "West Point",
+        "time_excerpt": "5:30pm CST"
+      }
+    },
+    {
+      "sport": "soccer",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Shannon",
+      "away": "West Point",
+      "status": "scheduled",
+      "start_time": "2026-11-24T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/soccer/match/shannon-vs-west-point/11-24-2026/?c=1fed7d4a-81ca-45ba-965e-b67f59744f88",
+        "excerpt": "West Point vs Shannon | Soccer | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Soccer Mississippi High School Soccer West Point Boys Varsity Soccer @ Shannon West Point Green Wave 0-1-2 Tuesday, Nov 24, 2026 7:00pm CST Shannon Red Raiders 2-0 West Point Boys Varsity Soccer @ Shannon Game Info The West Point varsity soccer team has an away non-conference match @ Shannon (MS) today @ 7p.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Shannon",
+        "away_name": "West Point",
+        "time_excerpt": "7:00pm CST"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-23/",
+      "title": "Monday varsity results: Booneville, Oxford and South Pontotoc"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: South Pontotoc, Booneville and Brookhaven defend unbeaten starts",
+    "headline_fact_ids": [
+      "game-0",
+      "records-0",
+      "game-5",
+      "records-5",
+      "game-10",
+      "records-10"
+    ],
+    "html": "<p data-facts=\"game-0 records-0 game-5 records-5 game-10 records-10\">South Pontotoc’s unbeaten girls face a winning Mooreville team in New Albany, Booneville’s girls put their perfect start on the line against Starkville, and Brookhaven’s unbeaten boys visit a Lawrence County team with six wins. Those are three of the strongest record-based matchups left on Mississippi’s Tuesday varsity schedule.</p>\n<p data-facts=\"game-0 game-12 game-13\">This November 24, 2026, selection covers upcoming basketball and soccer, with all times Central Standard Time. The entering records below are those reported on the verified matchup pages. Earlier games are excluded; this is a selection of games to follow rather than a complete statewide schedule.</p>\n<h2 data-facts=\"game-0 records-0\">South Pontotoc’s perfect start meets Mooreville in New Albany</h2>\n<p data-facts=\"game-0 records-0 context-0 history-0\">South Pontotoc’s girls arrive at <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/mooreville-vs-south-pontotoc/11-24-2026/?c=4f26906b-ca2b-445e-b330-96e4bd97c837\">the 4:30 p.m. meeting with Mooreville</a> at 7–0, fresh from Monday’s 63–31 victory over Shannon. Mooreville is 5–3. The New Albany Thanksgiving Tournament matchup gives the Cougars an immediate test against a team with a winning record, with their loss-free opening on the line.</p>\n<p data-facts=\"game-7 records-7 context-7 history-7\">The schools’ boys teams meet <a href=\"https://www.maxpreps.com/ms/basketball/game/mooreville-vs-south-pontotoc/11-24-2026/?c=782e8279-13a6-4ffb-b78f-887cecf511cf\">at 5:45 p.m.</a> in the same tournament. Mooreville enters 5–3 and South Pontotoc 4–3. The Cougars are trying to respond to Monday’s 48–41 loss to Alcorn Central, making this a chance to turn a close defeat into a stronger next outing against another winning opponent. Both games are listed as neutral-site fixtures, so the tournament setting matters when planning a trip.</p>\n<h2 data-facts=\"game-5 records-5 game-7 records-7\">Booneville’s girls face a strong Starkville test</h2>\n<p data-facts=\"game-5 records-5 context-5 history-5\">Booneville’s girls host <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/booneville-vs-starkville/11-24-2026/?c=e20b6a69-483a-410c-8424-d31496b7b396\">Starkville at 7:30 p.m.</a> with a 3–0 record. Starkville brings a 5–1 mark, giving the Blue Devils an opponent with only one reported loss. Booneville beat Center Hill 58–25 on Monday; Tuesday’s meeting offers a different measure of that early form against a team that has already put together several wins.</p>\n<p data-facts=\"history-5 history-0 history-7\">Our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-11-23/\">Monday varsity recap</a> has more on Booneville’s victories and the contrasting results for South Pontotoc’s teams.</p>\n<h2 data-facts=\"game-10 records-10\">Brookhaven takes its unbeaten boys record to Lawrence County</h2>\n<p data-facts=\"game-10 records-10 context-10\">The <a href=\"https://www.maxpreps.com/ms/basketball/game/brookhaven-vs-lawrence-county-monticello/11-24-2026/?c=856792b4-b3dc-4a26-813b-dcf2bca769ff\">8:30 p.m. boys game in Monticello</a> pairs Brookhaven at 6–0 with Lawrence County at 6–2. Both have already recorded six victories, giving Brookhaven a winning opponent as it tries to stay perfect. Brookhaven is protecting a perfect opening on the road, while the Cougars can add a victory over a team that has yet to lose. The matchup is listed as nonconference.</p>\n<h2 data-facts=\"game-2 game-8 records-2 records-8\">Kossuth hosts a basketball doubleheader with McNairy Central</h2>\n<p data-facts=\"game-2 records-2 context-2\">Kossuth’s girls are 3–2 ahead of <a href=\"https://www.maxpreps.com/inter-state/basketball/girls/game/kossuth-ms-vs-mcnairy-central-selmer-tn/11-24-2026/?c=631edbee-0c27-424a-8e0e-be454da80d81\">the 6 p.m. game against McNairy Central</a>, which enters 3–0. The Aggies have a winning record to build on, but the visitors have not yet taken a reported loss. That contrast gives the opening game a clear question: can Kossuth stop McNairy’s perfect start on its home floor?</p>\n<p data-facts=\"game-8 records-8 context-8\">The <a href=\"https://www.maxpreps.com/inter-state/basketball/game/kossuth-ms-vs-mcnairy-central-selmer-tn/11-24-2026/?c=868ee33d-b0ef-4d5b-99d4-2f1b7892a3e2\">boys game follows at 7 p.m.</a>, with both teams listed at 2–1. The matching records give this half of the doubleheader a different balance: each side has won more than it has lost, and each can use the nonconference meeting to build on that start.</p>\n<h2 data-facts=\"game-3 records-3 game-4 records-4\">Hancock and East Union girls try to keep perfect starts intact</h2>\n<p data-facts=\"game-3 records-3 context-3 history-3\">Hancock’s girls are 7–0 after Monday’s 50–41 victory over Tupelo. They host <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/hancock-kiln-vs-northeast-jones-laurel/11-24-2026/?c=462c961b-5551-453b-8b8e-e6fa4db7a7e4\">Northeast Jones at 6 p.m. in Kiln</a>. The Tigers enter 4–4, so they can move above an even record by handing the Hawks their first defeat. Hancock, meanwhile, has a quick opportunity to follow its win over the Golden Wave with another home result.</p>\n<p data-facts=\"game-4 records-4 context-4\">East Union’s girls carry a 5–0 record into <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/belmont-vs-east-union-blue-springs/11-24-2026/?c=5783e487-dadd-4c69-b3b2-955d36e0a40f\">the 6:45 p.m. trip to Belmont</a>. The Cardinals are 2–3. The Urchins are trying to preserve their unbeaten opening away from home, while Belmont can balance its wins and losses by beating a team that has won every reported game so far.</p>\n<h2 data-facts=\"game-1 records-1 game-6 records-6\">Oxford looks to respond; DeSoto Central meets Independence</h2>\n<p data-facts=\"game-1 records-1 context-1 history-1\">Oxford’s girls host <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/bayou-academy-cleveland-vs-oxford/11-24-2026/?c=797943b8-1dff-47be-9e44-8bca4f6cd659\">Bayou Academy at 5 p.m.</a> in the Charger Invitational. The Chargers are 6–1 after Monday’s 43–35 loss to Jackson Prep; Bayou is 3–6. Oxford’s first reported defeat makes this a response game, with a chance to resume the winning form that marked its opening rather than let a tournament setback carry into another day.</p>\n<p data-facts=\"game-6 records-6 context-6\">DeSoto Central’s boys meet <a href=\"https://www.maxpreps.com/ms/basketball/game/desoto-central-southaven-vs-independence/11-24-2026/?c=f5c340e9-bc5f-495c-9a34-730b397bd34b\">Independence at 4:30 p.m.</a> in the Senatobia Classic at Senatobia High School. The Jaguars enter 3–2 and the Wildcats 4–4. It is a neutral-site nonconference matchup: DeSoto Central can strengthen a winning record, while Independence can move above an even mark.</p>\n<h2 data-facts=\"game-9 game-11 records-9 records-11\">Gulfport and Potts Camp boys carry unbeaten records into the evening</h2>\n<p data-facts=\"game-9 records-9 context-9\">Gulfport is 4–0 ahead of <a href=\"https://www.maxpreps.com/ms/basketball/game/gulfport-vs-wayne-county-war-eagleslady-war-eagles-waynesboro/11-24-2026/?c=0b02187f-ace1-4702-b51d-8cb8d23fa2b4\">its 7:30 p.m. visit to Wayne County in Waynesboro</a>. The War Eagles are 1–3. The Admirals have a perfect start to protect on the road, while Wayne County has an opportunity to improve its opening record against an unbeaten opponent.</p>\n<p data-facts=\"game-11 records-11 context-11 history-11\">Potts Camp brings a 6–0 record to <a href=\"https://www.maxpreps.com/ms/basketball/game/falkner-vs-potts-camp/11-24-2026/?c=7c9974cc-c6fe-448f-9c31-1d6fe0b53c0f\">the 8:45 p.m. game against Falkner</a> at the Hickory Flat Thanksgiving Tournament. The Cardinals beat East Union 79–53 on Monday; Falkner is 0–5. The records put Potts Camp in the position of defending its unbeaten start, while the Eagles are still seeking their first reported win. This is another neutral-site tournament fixture.</p>\n<h2 data-facts=\"game-12 game-13 records-12 records-13\">Shannon’s soccer teams both bring unbeaten openings</h2>\n<p data-facts=\"game-12 records-12 context-12\">Shannon hosts West Point <a href=\"https://www.maxpreps.com/ms/soccer/girls/match/shannon-vs-west-point/11-24-2026/?c=b9018c6c-6e8a-45a3-b4e1-71486b7b4bdb\">at 5:30 p.m. in girls soccer</a>. The Red Raiders enter 2–0 and the Green Wave 1–2. Shannon has won its reported matches so far, while West Point can draw level in wins and losses in the nonconference meeting.</p>\n<p data-facts=\"game-13 records-13 context-13\">The <a href=\"https://www.maxpreps.com/ms/soccer/match/shannon-vs-west-point/11-24-2026/?c=1fed7d4a-81ca-45ba-965e-b67f59744f88\">boys match is scheduled for 7 p.m.</a>. Shannon is also 2–0 in that division, while West Point is 0–1–2. The Green Wave have two draws but are still seeking a first reported victory, providing a different challenge from the girls fixture as both Shannon teams try to extend winning starts.</p>",
+    "facts": [
+      {
+        "id": "records-0",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball Mooreville Girls Varsity Basketball vs. South Pontotoc Mooreville Troopers 5-3 Tuesday, Nov 24, 2026 4:30pm CST South Pontotoc Cougars 7-0 Mooreville Girls Varsity Basketball vs. South Pontotoc",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/mooreville-vs-south-pontotoc/11-24-2026/?c=4f26906b-ca2b-445e-b330-96e4bd97c837",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Mooreville Girls Varsity Basketball vs. South Pontotoc Mooreville Troopers 5-3 Tuesday, Nov 24, 2026 4:30pm CST South Pontotoc Cougars 7-0 Mooreville Girls Varsity Basketball vs. South Pontotoc",
+          "subjects": [
+            "Mooreville",
+            "South Pontotoc"
+          ]
+        }
+      },
+      {
+        "id": "context-0",
+        "kind": "context",
+        "claim": "Game Info The Mooreville varsity basketball team has a neutral non-conference game vs. South Pontotoc (Pontotoc, MS) today @ 4:30p. Scorekeeper No Scorekeeper Sign Up to Score Game P. Willis MHS Scorekeeper Matchup Roster Game Details Tuesday, Nov 24, 2026 4:30pm CST Non-District New Albany Thanksgiving Tournament",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/mooreville-vs-south-pontotoc/11-24-2026/?c=4f26906b-ca2b-445e-b330-96e4bd97c837",
+          "excerpt": "Game Info The Mooreville varsity basketball team has a neutral non-conference game vs. South Pontotoc (Pontotoc, MS) today @ 4:30p. Scorekeeper No Scorekeeper Sign Up to Score Game P. Willis MHS Scorekeeper Matchup Roster Game Details Tuesday, Nov 24, 2026 4:30pm CST Non-District New Albany Thanksgiving Tournament",
+          "subjects": [
+            "Mooreville",
+            "South Pontotoc"
+          ]
+        }
+      },
+      {
+        "id": "records-1",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball Bayou Academy Girls Varsity Basketball @ Oxford Bayou Academy Colts 3-6 Tuesday, Nov 24, 2026 5:00pm CST Oxford Chargers 6-1 Bayou Academy Girls Varsity Basketball @ Oxford Streaming & Ticketing Purchase Tickets",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/bayou-academy-cleveland-vs-oxford/11-24-2026/?c=797943b8-1dff-47be-9e44-8bca4f6cd659",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Bayou Academy Girls Varsity Basketball @ Oxford Bayou Academy Colts 3-6 Tuesday, Nov 24, 2026 5:00pm CST Oxford Chargers 6-1 Bayou Academy Girls Varsity Basketball @ Oxford Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "Bayou Academy",
+            "Oxford"
+          ]
+        }
+      },
+      {
+        "id": "context-1",
+        "kind": "context",
+        "claim": "Game Info The Bayou Academy varsity basketball team has an away tournament game @ Oxford (MS) today @ 5p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Tuesday, Nov 24, 2026 5:00pm CST Tournament Charger Invitational",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/bayou-academy-cleveland-vs-oxford/11-24-2026/?c=797943b8-1dff-47be-9e44-8bca4f6cd659",
+          "excerpt": "Game Info The Bayou Academy varsity basketball team has an away tournament game @ Oxford (MS) today @ 5p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Tuesday, Nov 24, 2026 5:00pm CST Tournament Charger Invitational",
+          "subjects": [
+            "Bayou Academy",
+            "Oxford"
+          ]
+        }
+      },
+      {
+        "id": "records-2",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball McNairy Central Girls Varsity Basketball @ Kossuth McNairy Central Bobcats 3-0 Tuesday, Nov 24, 2026 6:00pm CST Kossuth Aggies 3-2 McNairy Central Girls Varsity Basketball @ Kossuth",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/girls/game/kossuth-ms-vs-mcnairy-central-selmer-tn/11-24-2026/?c=631edbee-0c27-424a-8e0e-be454da80d81",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball McNairy Central Girls Varsity Basketball @ Kossuth McNairy Central Bobcats 3-0 Tuesday, Nov 24, 2026 6:00pm CST Kossuth Aggies 3-2 McNairy Central Girls Varsity Basketball @ Kossuth",
+          "subjects": [
+            "McNairy Central",
+            "Kossuth"
+          ]
+        }
+      },
+      {
+        "id": "context-2",
+        "kind": "context",
+        "claim": "Game Info The McNairy Central varsity basketball team has an away non-conference game @ Kossuth (MS) today @ 6p. Scorekeeper C. S KHS Scorekeeper No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Tuesday, Nov 24, 2026 6:00pm CST Non-District",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/girls/game/kossuth-ms-vs-mcnairy-central-selmer-tn/11-24-2026/?c=631edbee-0c27-424a-8e0e-be454da80d81",
+          "excerpt": "Game Info The McNairy Central varsity basketball team has an away non-conference game @ Kossuth (MS) today @ 6p. Scorekeeper C. S KHS Scorekeeper No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Tuesday, Nov 24, 2026 6:00pm CST Non-District",
+          "subjects": [
+            "McNairy Central",
+            "Kossuth"
+          ]
+        }
+      },
+      {
+        "id": "records-3",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball Northeast Jones Girls Varsity Basketball @ Hancock Northeast Jones Tigers 4-4 Tuesday, Nov 24, 2026 6:00pm CST Hancock Hawks 7-0 Northeast Jones Girls Varsity Basketball @ Hancock",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/hancock-kiln-vs-northeast-jones-laurel/11-24-2026/?c=462c961b-5551-453b-8b8e-e6fa4db7a7e4",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Northeast Jones Girls Varsity Basketball @ Hancock Northeast Jones Tigers 4-4 Tuesday, Nov 24, 2026 6:00pm CST Hancock Hawks 7-0 Northeast Jones Girls Varsity Basketball @ Hancock",
+          "subjects": [
+            "Northeast Jones",
+            "Hancock"
+          ]
+        }
+      },
+      {
+        "id": "context-3",
+        "kind": "context",
+        "claim": "Game Info The Northeast Jones varsity basketball team has an away non-conference game @ Hancock (Kiln, MS) today @ 6p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Videos Roster Game Details Tuesday, Nov 24, 2026 6:00pm CST Non-District",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/hancock-kiln-vs-northeast-jones-laurel/11-24-2026/?c=462c961b-5551-453b-8b8e-e6fa4db7a7e4",
+          "excerpt": "Game Info The Northeast Jones varsity basketball team has an away non-conference game @ Hancock (Kiln, MS) today @ 6p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Videos Roster Game Details Tuesday, Nov 24, 2026 6:00pm CST Non-District",
+          "subjects": [
+            "Northeast Jones",
+            "Hancock"
+          ]
+        }
+      },
+      {
+        "id": "records-4",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball East Union Girls Varsity Basketball @ Belmont East Union Urchins 5-0 Tuesday, Nov 24, 2026 6:45pm CST Belmont Cardinals 2-3 East Union Girls Varsity Basketball @ Belmont",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/belmont-vs-east-union-blue-springs/11-24-2026/?c=5783e487-dadd-4c69-b3b2-955d36e0a40f",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball East Union Girls Varsity Basketball @ Belmont East Union Urchins 5-0 Tuesday, Nov 24, 2026 6:45pm CST Belmont Cardinals 2-3 East Union Girls Varsity Basketball @ Belmont",
+          "subjects": [
+            "East Union",
+            "Belmont"
+          ]
+        }
+      },
+      {
+        "id": "context-4",
+        "kind": "context",
+        "claim": "Game Info The East Union varsity basketball team has an away non-conference game @ Belmont (MS) today @ 6:45p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Tuesday, Nov 24, 2026 6:45pm CST Non-District East Union (Blue Springs)",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/belmont-vs-east-union-blue-springs/11-24-2026/?c=5783e487-dadd-4c69-b3b2-955d36e0a40f",
+          "excerpt": "Game Info The East Union varsity basketball team has an away non-conference game @ Belmont (MS) today @ 6:45p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Tuesday, Nov 24, 2026 6:45pm CST Non-District East Union (Blue Springs)",
+          "subjects": [
+            "East Union",
+            "Belmont"
+          ]
+        }
+      },
+      {
+        "id": "records-5",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball Starkville Girls Varsity Basketball @ Booneville Starkville Yellowjackets 5-1 Tuesday, Nov 24, 2026 7:30pm CST Booneville Blue Devils 3-0 Starkville Girls Varsity Basketball @ Booneville",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/booneville-vs-starkville/11-24-2026/?c=e20b6a69-483a-410c-8424-d31496b7b396",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Starkville Girls Varsity Basketball @ Booneville Starkville Yellowjackets 5-1 Tuesday, Nov 24, 2026 7:30pm CST Booneville Blue Devils 3-0 Starkville Girls Varsity Basketball @ Booneville",
+          "subjects": [
+            "Starkville",
+            "Booneville"
+          ]
+        }
+      },
+      {
+        "id": "context-5",
+        "kind": "context",
+        "claim": "Game Info The Starkville varsity basketball team has an away non-conference game @ Booneville (MS) today @ 7:30p. Scorekeeper J. Presley BHS Scorekeeper No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Tuesday, Nov 24, 2026 7:30pm CST Non-District",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/booneville-vs-starkville/11-24-2026/?c=e20b6a69-483a-410c-8424-d31496b7b396",
+          "excerpt": "Game Info The Starkville varsity basketball team has an away non-conference game @ Booneville (MS) today @ 7:30p. Scorekeeper J. Presley BHS Scorekeeper No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Tuesday, Nov 24, 2026 7:30pm CST Non-District",
+          "subjects": [
+            "Starkville",
+            "Booneville"
+          ]
+        }
+      },
+      {
+        "id": "records-6",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Independence Boys Varsity Basketball vs. DeSoto Central Independence Wildcats 4-4 Tuesday, Nov 24, 2026 4:30pm CST DeSoto Central Jaguars 3-2 Independence Boys Varsity Basketball vs. DeSoto Central",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/desoto-central-southaven-vs-independence/11-24-2026/?c=f5c340e9-bc5f-495c-9a34-730b397bd34b",
+          "excerpt": "High School Basketball Mississippi High School Basketball Independence Boys Varsity Basketball vs. DeSoto Central Independence Wildcats 4-4 Tuesday, Nov 24, 2026 4:30pm CST DeSoto Central Jaguars 3-2 Independence Boys Varsity Basketball vs. DeSoto Central",
+          "subjects": [
+            "Independence",
+            "DeSoto Central"
+          ]
+        }
+      },
+      {
+        "id": "context-6",
+        "kind": "context",
+        "claim": "Game Info The Independence varsity basketball team has a neutral non-conference game vs. DeSoto Central (Southaven, MS) today @ 4:30p. Scorekeeper A. Eldridge DSCHS Scorekeeper No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Tuesday, Nov 24, 2026 4:30pm CST Non-District Senatobia Classic at Senatobia High School",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/desoto-central-southaven-vs-independence/11-24-2026/?c=f5c340e9-bc5f-495c-9a34-730b397bd34b",
+          "excerpt": "Game Info The Independence varsity basketball team has a neutral non-conference game vs. DeSoto Central (Southaven, MS) today @ 4:30p. Scorekeeper A. Eldridge DSCHS Scorekeeper No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Tuesday, Nov 24, 2026 4:30pm CST Non-District Senatobia Classic at Senatobia High School",
+          "subjects": [
+            "Independence",
+            "DeSoto Central"
+          ]
+        }
+      },
+      {
+        "id": "records-7",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball South Pontotoc Boys Varsity Basketball vs. Mooreville South Pontotoc Cougars 4-3 Tuesday, Nov 24, 2026 5:45pm CST Mooreville Troopers 5-3 South Pontotoc Boys Varsity Basketball vs. Mooreville",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/mooreville-vs-south-pontotoc/11-24-2026/?c=782e8279-13a6-4ffb-b78f-887cecf511cf",
+          "excerpt": "High School Basketball Mississippi High School Basketball South Pontotoc Boys Varsity Basketball vs. Mooreville South Pontotoc Cougars 4-3 Tuesday, Nov 24, 2026 5:45pm CST Mooreville Troopers 5-3 South Pontotoc Boys Varsity Basketball vs. Mooreville",
+          "subjects": [
+            "South Pontotoc",
+            "Mooreville"
+          ]
+        }
+      },
+      {
+        "id": "context-7",
+        "kind": "context",
+        "claim": "Game Info The South Pontotoc varsity basketball team has a neutral tournament game vs. Mooreville (MS) today @ 5:45p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Tuesday, Nov 24, 2026 5:45pm CST Tournament New Albany Thanksgiving Tournament South Pontotoc (Pontotoc)",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/mooreville-vs-south-pontotoc/11-24-2026/?c=782e8279-13a6-4ffb-b78f-887cecf511cf",
+          "excerpt": "Game Info The South Pontotoc varsity basketball team has a neutral tournament game vs. Mooreville (MS) today @ 5:45p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Tuesday, Nov 24, 2026 5:45pm CST Tournament New Albany Thanksgiving Tournament South Pontotoc (Pontotoc)",
+          "subjects": [
+            "South Pontotoc",
+            "Mooreville"
+          ]
+        }
+      },
+      {
+        "id": "records-8",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball McNairy Central Boys Varsity Basketball @ Kossuth McNairy Central Bobcats 2-1 Tuesday, Nov 24, 2026 7:00pm CST Kossuth Aggies 2-1 McNairy Central Boys Varsity Basketball @ Kossuth",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/game/kossuth-ms-vs-mcnairy-central-selmer-tn/11-24-2026/?c=868ee33d-b0ef-4d5b-99d4-2f1b7892a3e2",
+          "excerpt": "High School Basketball Mississippi High School Basketball McNairy Central Boys Varsity Basketball @ Kossuth McNairy Central Bobcats 2-1 Tuesday, Nov 24, 2026 7:00pm CST Kossuth Aggies 2-1 McNairy Central Boys Varsity Basketball @ Kossuth",
+          "subjects": [
+            "McNairy Central",
+            "Kossuth"
+          ]
+        }
+      },
+      {
+        "id": "context-8",
+        "kind": "context",
+        "claim": "Game Info The McNairy Central varsity basketball team has an away non-conference game @ Kossuth (MS) today @ 7p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Tuesday, Nov 24, 2026 7:00pm CST Non-District",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/game/kossuth-ms-vs-mcnairy-central-selmer-tn/11-24-2026/?c=868ee33d-b0ef-4d5b-99d4-2f1b7892a3e2",
+          "excerpt": "Game Info The McNairy Central varsity basketball team has an away non-conference game @ Kossuth (MS) today @ 7p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Tuesday, Nov 24, 2026 7:00pm CST Non-District",
+          "subjects": [
+            "McNairy Central",
+            "Kossuth"
+          ]
+        }
+      },
+      {
+        "id": "records-9",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Gulfport Boys Varsity Basketball @ Wayne County Gulfport Admirals 4-0 Tuesday, Nov 24, 2026 7:30pm CST Wayne County War Eagles 1-3 Gulfport Boys Varsity Basketball @ Wayne County",
+        "game_indexes": [
+          9
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/gulfport-vs-wayne-county-war-eagleslady-war-eagles-waynesboro/11-24-2026/?c=0b02187f-ace1-4702-b51d-8cb8d23fa2b4",
+          "excerpt": "High School Basketball Mississippi High School Basketball Gulfport Boys Varsity Basketball @ Wayne County Gulfport Admirals 4-0 Tuesday, Nov 24, 2026 7:30pm CST Wayne County War Eagles 1-3 Gulfport Boys Varsity Basketball @ Wayne County",
+          "subjects": [
+            "Gulfport",
+            "Wayne County"
+          ]
+        }
+      },
+      {
+        "id": "context-9",
+        "kind": "context",
+        "claim": "Game Info The Gulfport varsity basketball team has an away non-conference game @ Wayne County (Waynesboro, MS) today @ 7:30p. Scorekeeper No Scorekeeper Sign Up to Score Game M. Hodgens GHS Scorekeeper Matchup Roster Game Details Tuesday, Nov 24, 2026 7:30pm CST Non-District Wayne County (Waynesboro)",
+        "game_indexes": [
+          9
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/gulfport-vs-wayne-county-war-eagleslady-war-eagles-waynesboro/11-24-2026/?c=0b02187f-ace1-4702-b51d-8cb8d23fa2b4",
+          "excerpt": "Game Info The Gulfport varsity basketball team has an away non-conference game @ Wayne County (Waynesboro, MS) today @ 7:30p. Scorekeeper No Scorekeeper Sign Up to Score Game M. Hodgens GHS Scorekeeper Matchup Roster Game Details Tuesday, Nov 24, 2026 7:30pm CST Non-District Wayne County (Waynesboro)",
+          "subjects": [
+            "Gulfport",
+            "Wayne County"
+          ]
+        }
+      },
+      {
+        "id": "records-10",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Brookhaven Boys Varsity Basketball @ Lawrence County Brookhaven Panthers 6-0 Tuesday, Nov 24, 2026 8:30pm CST Lawrence County Cougars 6-2 Brookhaven Boys Varsity Basketball @ Lawrence County",
+        "game_indexes": [
+          10
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/brookhaven-vs-lawrence-county-monticello/11-24-2026/?c=856792b4-b3dc-4a26-813b-dcf2bca769ff",
+          "excerpt": "High School Basketball Mississippi High School Basketball Brookhaven Boys Varsity Basketball @ Lawrence County Brookhaven Panthers 6-0 Tuesday, Nov 24, 2026 8:30pm CST Lawrence County Cougars 6-2 Brookhaven Boys Varsity Basketball @ Lawrence County",
+          "subjects": [
+            "Brookhaven",
+            "Lawrence County"
+          ]
+        }
+      },
+      {
+        "id": "context-10",
+        "kind": "context",
+        "claim": "Game Info The Brookhaven varsity basketball team has an away non-conference game @ Lawrence County (Monticello, MS) today @ 8:30p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Videos Roster Game Details Tuesday, Nov 24, 2026 8:30pm CST Non-District Brookhaven",
+        "game_indexes": [
+          10
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/brookhaven-vs-lawrence-county-monticello/11-24-2026/?c=856792b4-b3dc-4a26-813b-dcf2bca769ff",
+          "excerpt": "Game Info The Brookhaven varsity basketball team has an away non-conference game @ Lawrence County (Monticello, MS) today @ 8:30p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Videos Roster Game Details Tuesday, Nov 24, 2026 8:30pm CST Non-District Brookhaven",
+          "subjects": [
+            "Brookhaven",
+            "Lawrence County"
+          ]
+        }
+      },
+      {
+        "id": "records-11",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Falkner Boys Varsity Basketball vs. Potts Camp Falkner Eagles 0-5 Tuesday, Nov 24, 2026 8:45pm CST Potts Camp Cardinals 6-0 Falkner Boys Varsity Basketball vs. Potts Camp",
+        "game_indexes": [
+          11
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/falkner-vs-potts-camp/11-24-2026/?c=7c9974cc-c6fe-448f-9c31-1d6fe0b53c0f",
+          "excerpt": "High School Basketball Mississippi High School Basketball Falkner Boys Varsity Basketball vs. Potts Camp Falkner Eagles 0-5 Tuesday, Nov 24, 2026 8:45pm CST Potts Camp Cardinals 6-0 Falkner Boys Varsity Basketball vs. Potts Camp",
+          "subjects": [
+            "Falkner",
+            "Potts Camp"
+          ]
+        }
+      },
+      {
+        "id": "context-11",
+        "kind": "context",
+        "claim": "Game Info The Falkner varsity basketball team has a neutral non-conference game vs. Potts Camp (MS) today @ 8:45p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Tuesday, Nov 24, 2026 8:45pm CST Non-District Hickory Flat Thanksgiving Tournament Falkner",
+        "game_indexes": [
+          11
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/falkner-vs-potts-camp/11-24-2026/?c=7c9974cc-c6fe-448f-9c31-1d6fe0b53c0f",
+          "excerpt": "Game Info The Falkner varsity basketball team has a neutral non-conference game vs. Potts Camp (MS) today @ 8:45p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Tuesday, Nov 24, 2026 8:45pm CST Non-District Hickory Flat Thanksgiving Tournament Falkner",
+          "subjects": [
+            "Falkner",
+            "Potts Camp"
+          ]
+        }
+      },
+      {
+        "id": "records-12",
+        "kind": "record",
+        "claim": "High School Girls Soccer Mississippi High School Soccer West Point Girls Varsity Soccer @ Shannon West Point Green Wave 1-2 Tuesday, Nov 24, 2026 5:30pm CST Shannon Red Raiders 2-0 West Point Girls Varsity Soccer @ Shannon",
+        "game_indexes": [
+          12
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/shannon-vs-west-point/11-24-2026/?c=b9018c6c-6e8a-45a3-b4e1-71486b7b4bdb",
+          "excerpt": "High School Girls Soccer Mississippi High School Soccer West Point Girls Varsity Soccer @ Shannon West Point Green Wave 1-2 Tuesday, Nov 24, 2026 5:30pm CST Shannon Red Raiders 2-0 West Point Girls Varsity Soccer @ Shannon",
+          "subjects": [
+            "West Point",
+            "Shannon"
+          ]
+        }
+      },
+      {
+        "id": "context-12",
+        "kind": "context",
+        "claim": "Game Info The West Point varsity soccer team has an away non-conference match @ Shannon (MS) today @ 5:30p. Matchup Roster Game Details Tuesday, Nov 24, 2026 5:30pm CST Non-District",
+        "game_indexes": [
+          12
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/girls/match/shannon-vs-west-point/11-24-2026/?c=b9018c6c-6e8a-45a3-b4e1-71486b7b4bdb",
+          "excerpt": "Game Info The West Point varsity soccer team has an away non-conference match @ Shannon (MS) today @ 5:30p. Matchup Roster Game Details Tuesday, Nov 24, 2026 5:30pm CST Non-District",
+          "subjects": [
+            "West Point",
+            "Shannon"
+          ]
+        }
+      },
+      {
+        "id": "records-13",
+        "kind": "record",
+        "claim": "High School Soccer Mississippi High School Soccer West Point Boys Varsity Soccer @ Shannon West Point Green Wave 0-1-2 Tuesday, Nov 24, 2026 7:00pm CST Shannon Red Raiders 2-0 West Point Boys Varsity Soccer @ Shannon",
+        "game_indexes": [
+          13
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/shannon-vs-west-point/11-24-2026/?c=1fed7d4a-81ca-45ba-965e-b67f59744f88",
+          "excerpt": "High School Soccer Mississippi High School Soccer West Point Boys Varsity Soccer @ Shannon West Point Green Wave 0-1-2 Tuesday, Nov 24, 2026 7:00pm CST Shannon Red Raiders 2-0 West Point Boys Varsity Soccer @ Shannon",
+          "subjects": [
+            "West Point",
+            "Shannon"
+          ]
+        }
+      },
+      {
+        "id": "context-13",
+        "kind": "context",
+        "claim": "Game Info The West Point varsity soccer team has an away non-conference match @ Shannon (MS) today @ 7p. Matchup Roster Game Details Tuesday, Nov 24, 2026 7:00pm CST Non-District",
+        "game_indexes": [
+          13
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/soccer/match/shannon-vs-west-point/11-24-2026/?c=1fed7d4a-81ca-45ba-965e-b67f59744f88",
+          "excerpt": "Game Info The West Point varsity soccer team has an away non-conference match @ Shannon (MS) today @ 7p. Matchup Roster Game Details Tuesday, Nov 24, 2026 7:00pm CST Non-District",
+          "subjects": [
+            "West Point",
+            "Shannon"
+          ]
+        }
+      },
+      {
+        "id": "history-1",
+        "kind": "history",
+        "claim": "Oxford girls lost 43-35 to Jackson Prep on November 23, 2026.",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-24",
+        "fact_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/jackson-prep-vs-oxford/11-23-2026/?c=84af49d4-028e-434f-8b2c-9933bd967c6d",
+          "excerpt": "Jackson Prep vs Oxford | Basketball | 11/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Jackson Prep Girls Varsity Basketball @ Oxford Jackson Prep 6-2 Patriots 43 Final 35 Oxford 6-1 Chargers Jackson Prep Girls Varsity Basketball @ Oxford Game Info On 11/23, the Jackson Prep varsity basketball team won their away tournament game against Oxford (MS) by a score of 43-35.",
+          "date_excerpt": "11/23/2026",
+          "subjects": [
+            "Oxford",
+            "Jackson Prep"
+          ]
+        }
+      },
+      {
+        "id": "history-5",
+        "kind": "history",
+        "claim": "Booneville girls beat Center Hill 58-25 on November 23, 2026.",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-24",
+        "fact_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/booneville-vs-center-hill-olive-branch/11-23-2026/?c=b54ada9f-ecd5-4053-b5b5-e5499eb54c30",
+          "excerpt": "Center Hill vs Booneville | Basketball | 11/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Center Hill Girls Varsity Basketball @ Booneville Center Hill 3-3 Mustangs 25 Final 58 Booneville 3-0 Blue Devils Center Hill Girls Varsity Basketball @ Booneville Game Info On 11/23, the Center Hill varsity basketball team lost their away non-conference game against Booneville (MS) by a score of 58-25.",
+          "date_excerpt": "11/23/2026",
+          "subjects": [
+            "Booneville",
+            "Center Hill"
+          ]
+        }
+      },
+      {
+        "id": "history-11",
+        "kind": "history",
+        "claim": "Potts Camp boys beat East Union 79-53 on November 23, 2026.",
+        "game_indexes": [
+          11
+        ],
+        "as_of_date": "2026-11-24",
+        "fact_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/east-union-blue-springs-vs-potts-camp/11-23-2026/?c=573a487a-925b-4cb9-9c15-9d81c89f101c",
+          "excerpt": "Potts Camp vs East Union | Basketball | 11/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Potts Camp Boys Varsity Basketball vs. East Union Potts Camp 6-0 Cardinals 79 Final 53 East Union 1-4 Urchins Potts Camp Boys Varsity Basketball vs. East Union Game Info On 11/23, the Potts Camp varsity basketball team won their neutral non-conference game against East Union (Blue Springs, MS) by a score of 79-53.",
+          "date_excerpt": "11/23/2026",
+          "subjects": [
+            "East Union",
+            "Potts Camp"
+          ]
+        }
+      },
+      {
+        "id": "history-0",
+        "kind": "history",
+        "claim": "South Pontotoc girls beat Shannon 63-31 on November 23, 2026.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-24",
+        "fact_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/shannon-vs-south-pontotoc/11-23-2026/?c=96139472-0f8c-4488-aa66-1fd9fa615ac5",
+          "excerpt": "South Pontotoc vs Shannon | Basketball | 11/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball South Pontotoc Girls Varsity Basketball @ Shannon South Pontotoc 7-0 Cougars 63 Final 31 Shannon 1-4 Red Raiders South Pontotoc Girls Varsity Basketball @ Shannon Game Info On 11/23, the South Pontotoc varsity basketball team won their away non-conference game against Shannon (MS) by a score of 63-31.",
+          "date_excerpt": "11/23/2026",
+          "subjects": [
+            "Shannon",
+            "South Pontotoc"
+          ]
+        }
+      },
+      {
+        "id": "history-7",
+        "kind": "history",
+        "claim": "South Pontotoc boys lost 48-41 to Alcorn Central on November 23, 2026.",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-24",
+        "fact_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-south-pontotoc/11-23-2026/?c=90b397ca-b081-4b4f-9b23-f4e124916611",
+          "excerpt": "Alcorn Central vs South Pontotoc | Basketball | 11/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Alcorn Central Boys Varsity Basketball vs. South Pontotoc Alcorn Central 3-3 Golden Bears 48 Final 41 South Pontotoc 4-3 Cougars Alcorn Central Boys Varsity Basketball vs. South Pontotoc Game Info On 11/23, the Alcorn Central varsity basketball team won their neutral tournament game against South Pontotoc (Pontotoc, MS) by a score of 48-41.",
+          "date_excerpt": "11/23/2026",
+          "subjects": [
+            "South Pontotoc",
+            "Alcorn Central"
+          ]
+        }
+      },
+      {
+        "id": "history-3",
+        "kind": "history",
+        "claim": "Hancock girls beat Tupelo 50-41 on November 23, 2026.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-24",
+        "fact_date": "2026-11-23",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/hancock-kiln-vs-tupelo/11-23-2026/?c=bd540886-2d94-4e9d-b22b-8c6cc3de5bfa",
+          "excerpt": "Tupelo vs Hancock | Basketball | 11/23/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Tupelo Girls Varsity Basketball @ Hancock Tupelo 1-3 Golden Wave 41 Final 50 Hancock 7-0 Hawks Tupelo Girls Varsity Basketball @ Hancock Game Info On 11/23, the Tupelo varsity basketball team lost their away non-conference game against Hancock (Kiln, MS) by a score of 50-41.",
+          "date_excerpt": "11/23/2026",
+          "subjects": [
+            "Hancock",
+            "Tupelo"
+          ]
+        }
+      }
+    ]
+  }
+}
