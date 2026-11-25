@@ -1,0 +1,1169 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-11-24",
+  "verified_at": "2026-11-25T14:06:46.539500+00:00",
+  "publish": true,
+  "checked_sports": [
+    "basketball",
+    "soccer",
+    "football",
+    "volleyball",
+    "bowling",
+    "wrestling"
+  ],
+  "games": [
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "West Union",
+      "away": "Ripley",
+      "status": "final",
+      "home_score": 45,
+      "away_score": 63,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/ripley-vs-west-union-myrtle/11-24-2026/?c=1eefb88d-53c0-4097-ad1f-b1128e68be41",
+        "excerpt": "Ripley vs West Union | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Ripley Boys Varsity Basketball @ West Union Ripley 5-1 Tigers 63 Final 45 West Union 7-1 Eagles Ripley Boys Varsity Basketball @ West Union Game Info On 11/24, the Ripley varsity basketball team won their away tournament game against West Union (Myrtle, MS) by a score of 63-45.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "West Union",
+        "away_name": "Ripley"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Lawrence County",
+      "away": "Brookhaven",
+      "status": "final",
+      "home_score": 46,
+      "away_score": 45,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/brookhaven-vs-lawrence-county-monticello/11-24-2026/?c=856792b4-b3dc-4a26-813b-dcf2bca769ff",
+        "excerpt": "Brookhaven vs Lawrence County | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Brookhaven Boys Varsity Basketball @ Lawrence County Brookhaven 6-1 Panthers 45 Final 46 Lawrence County 7-2 Cougars Brookhaven Boys Varsity Basketball @ Lawrence County Game Info On 11/24, the Brookhaven varsity basketball team lost their away non-conference game against Lawrence County (Monticello, MS) by a score of 46-45.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Lawrence County",
+        "away_name": "Brookhaven"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "South Pontotoc",
+      "away": "Mooreville",
+      "status": "final",
+      "home_score": 60,
+      "away_score": 51,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/mooreville-vs-south-pontotoc/11-24-2026/?c=4f26906b-ca2b-445e-b330-96e4bd97c837",
+        "excerpt": "Mooreville vs South Pontotoc | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Mooreville Girls Varsity Basketball vs. South Pontotoc Mooreville 5-4 Troopers 51 Final 60 South Pontotoc 8-0 Cougars Mooreville Girls Varsity Basketball vs. South Pontotoc Game Info On 11/24, the Mooreville varsity basketball team lost their neutral non-conference game against South Pontotoc (Pontotoc, MS) by a score of 60-51.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "South Pontotoc",
+        "away_name": "Mooreville"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Pontotoc",
+      "away": "Baldwyn",
+      "status": "final",
+      "home_score": 73,
+      "away_score": 41,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/baldwyn-vs-pontotoc/11-24-2026/?c=4819c8d1-e835-447f-adf0-09e223cba127",
+        "excerpt": "Baldwyn vs Pontotoc | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Baldwyn Boys Varsity Basketball vs. Pontotoc Baldwyn 1-1 Bearcats 41 Final 73 Pontotoc 5-1 Warriors Baldwyn Boys Varsity Basketball vs. Pontotoc Game Info On 11/24, the Baldwyn varsity basketball team lost their neutral non-conference game against Pontotoc (MS) by a score of 73-41.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Pontotoc",
+        "away_name": "Baldwyn"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Center Hill",
+      "away": "Pontotoc",
+      "status": "final",
+      "home_score": 7,
+      "away_score": 66,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/center-hill-olive-branch-vs-pontotoc/11-24-2026/?c=b08a6022-03b0-4ed0-bbe9-a0223de039cc",
+        "excerpt": "Pontotoc vs Center Hill | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Pontotoc Girls Varsity Basketball @ Center Hill Pontotoc 5-1 Warriors 66 Final 7 Center Hill 3-4 Mustangs Pontotoc Girls Varsity Basketball @ Center Hill Game Info On 11/24, the Pontotoc varsity basketball team won their away non-conference game against Center Hill (Olive Branch, MS) by a score of 66-7.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Center Hill",
+        "away_name": "Pontotoc"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Booneville",
+      "away": "Starkville",
+      "status": "final",
+      "home_score": 43,
+      "away_score": 37,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/booneville-vs-starkville/11-24-2026/?c=e20b6a69-483a-410c-8424-d31496b7b396",
+        "excerpt": "Starkville vs Booneville | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Starkville Girls Varsity Basketball @ Booneville Starkville 5-2 Yellowjackets 37 Final 43 Booneville 4-0 Blue Devils Starkville Girls Varsity Basketball @ Booneville Game Info On 11/24, the Starkville varsity basketball team lost their away non-conference game against Booneville (MS) by a score of 43-37.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Booneville",
+        "away_name": "Starkville"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Grenada",
+      "away": "Booneville",
+      "status": "final",
+      "home_score": 56,
+      "away_score": 77,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/booneville-vs-grenada/11-24-2026/?c=306c7101-c716-4515-9e49-ef4b711643ff",
+        "excerpt": "Booneville vs Grenada | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Booneville Boys Varsity Basketball vs. Grenada Booneville 3-0 Blue Devils 77 Final 56 Grenada 2-5 Chargers Booneville Boys Varsity Basketball vs. Grenada Game Info On 11/24, the Booneville varsity basketball team won their neutral tournament game against Grenada (MS) by a score of 77-56.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Grenada",
+        "away_name": "Booneville"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Hancock",
+      "away": "Northeast Jones",
+      "status": "final",
+      "home_score": 68,
+      "away_score": 46,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/hancock-kiln-vs-northeast-jones-laurel/11-24-2026/?c=462c961b-5551-453b-8b8e-e6fa4db7a7e4",
+        "excerpt": "Northeast Jones vs Hancock | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Northeast Jones Girls Varsity Basketball @ Hancock Northeast Jones 4-5 Tigers 46 Final 68 Hancock 8-0 Hawks Northeast Jones Girls Varsity Basketball @ Hancock Game Info On 11/24, the Northeast Jones varsity basketball team lost their away non-conference game against Hancock (Kiln, MS) by a score of 68-46.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Hancock",
+        "away_name": "Northeast Jones"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Belmont",
+      "away": "East Union",
+      "status": "final",
+      "home_score": 50,
+      "away_score": 63,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/belmont-vs-east-union-blue-springs/11-24-2026/?c=5783e487-dadd-4c69-b3b2-955d36e0a40f",
+        "excerpt": "East Union vs Belmont | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball East Union Girls Varsity Basketball @ Belmont East Union 6-0 Urchins 63 Final 50 Belmont 2-4 Cardinals East Union Girls Varsity Basketball @ Belmont Game Info On 11/24, the East Union varsity basketball team won their away non-conference game against Belmont (MS) by a score of 63-50.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Belmont",
+        "away_name": "East Union"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Wayne County",
+      "away": "Gulfport",
+      "status": "final",
+      "home_score": 46,
+      "away_score": 64,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/gulfport-vs-wayne-county-war-eagleslady-war-eagles-waynesboro/11-24-2026/?c=0b02187f-ace1-4702-b51d-8cb8d23fa2b4",
+        "excerpt": "Gulfport vs Wayne County | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Gulfport Boys Varsity Basketball @ Wayne County Gulfport 5-0 Admirals 64 Final 46 Wayne County 1-4 War Eagles Gulfport Boys Varsity Basketball @ Wayne County Game Info On 11/24, the Gulfport varsity basketball team won their away non-conference game against Wayne County (Waynesboro, MS) by a score of 64-46.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Wayne County",
+        "away_name": "Gulfport"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Potts Camp",
+      "away": "Falkner",
+      "status": "final",
+      "home_score": 72,
+      "away_score": 9,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/falkner-vs-potts-camp/11-24-2026/?c=7c9974cc-c6fe-448f-9c31-1d6fe0b53c0f",
+        "excerpt": "Falkner vs Potts Camp | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Falkner Boys Varsity Basketball @ Potts Camp Falkner 0-6 Eagles 9 Final 72 Potts Camp 7-0 Cardinals Falkner Boys Varsity Basketball @ Potts Camp Game Info On 11/24, the Falkner varsity basketball team lost their away non-conference game against Potts Camp (MS) by a score of 72-9.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Potts Camp",
+        "away_name": "Falkner"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Kossuth",
+      "away": "McNairy Central",
+      "status": "final",
+      "home_score": 67,
+      "away_score": 56,
+      "evidence": {
+        "url": "https://www.maxpreps.com/inter-state/basketball/girls/game/kossuth-ms-vs-mcnairy-central-selmer-tn/11-24-2026/?c=631edbee-0c27-424a-8e0e-be454da80d81",
+        "excerpt": "McNairy Central vs Kossuth | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball McNairy Central Girls Varsity Basketball @ Kossuth McNairy Central 3-1 Bobcats 56 Final 67 Kossuth 4-2 Aggies McNairy Central Girls Varsity Basketball @ Kossuth Game Info On 11/24, the McNairy Central varsity basketball team lost their away non-conference game against Kossuth (MS) by a score of 67-56.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Kossuth",
+        "away_name": "McNairy Central"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Kossuth",
+      "away": "McNairy Central",
+      "status": "final",
+      "home_score": 70,
+      "away_score": 56,
+      "evidence": {
+        "url": "https://www.maxpreps.com/inter-state/basketball/game/kossuth-ms-vs-mcnairy-central-selmer-tn/11-24-2026/?c=868ee33d-b0ef-4d5b-99d4-2f1b7892a3e2",
+        "excerpt": "McNairy Central vs Kossuth | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball McNairy Central Boys Varsity Basketball @ Kossuth McNairy Central 2-2 Bobcats 56 Final 70 Kossuth 3-1 Aggies McNairy Central Boys Varsity Basketball @ Kossuth Game Info On 11/24, the McNairy Central varsity basketball team lost their away non-conference game against Kossuth (MS) by a score of 70-56.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Kossuth",
+        "away_name": "McNairy Central"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Corinth",
+      "away": "Tunica Academy",
+      "status": "final",
+      "home_score": 62,
+      "away_score": 27,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-tunica-academy/11-24-2026/?c=7e320d1c-4eee-469b-b208-05469ece790d",
+        "excerpt": "Tunica Academy vs Corinth | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Tunica Academy Girls Varsity Basketball vs. Corinth Tunica Academy 1-1 Blue Devils 27 Final 62 Corinth 6-1 Warriors Tunica Academy Girls Varsity Basketball vs. Corinth Game Info On 11/24, the Tunica Academy varsity basketball team lost their neutral non-conference game against Corinth (MS) by a score of 62-27.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Corinth",
+        "away_name": "Tunica Academy"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Itawamba Agricultural",
+      "away": "Alcorn Central",
+      "status": "final",
+      "home_score": 44,
+      "away_score": 51,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-itawamba-agricultural-fulton/11-24-2026/?c=b5ffed6d-d731-4fa4-9bff-65ec2c3d3ef1",
+        "excerpt": "Alcorn Central vs Itawamba Agricultural | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Alcorn Central Boys Varsity Basketball @ IAHS Alcorn Central 3-3 Golden Bears 51 Final 44 Itawamba Agricultural 2-5 Indians Alcorn Central Boys Varsity Basketball @ IAHS Game Info On 11/24, the Alcorn Central varsity basketball team won their away non-conference game against Itawamba Agricultural (Fulton, MS) by a score of 51-44.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Itawamba Agricultural",
+        "away_name": "Alcorn Central"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Lafayette",
+      "away": "Walnut",
+      "status": "final",
+      "home_score": 26,
+      "away_score": 61,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/lafayette-oxford-vs-walnut/11-24-2026/?c=644e260c-649e-4ea3-aa6f-91c4d2eed578",
+        "excerpt": "Walnut vs Lafayette | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Walnut Girls Varsity Basketball @ Lafayette Walnut 8-2 Wildcats 61 Final 26 Lafayette 2-5 Commodores Walnut Girls Varsity Basketball @ Lafayette Game Info On 11/24, the Walnut varsity basketball team won their away tournament game against Lafayette (Oxford, MS) by a score of 61-26.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Lafayette",
+        "away_name": "Walnut"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Walnut",
+      "away": "Jumpertown",
+      "status": "final",
+      "home_score": 64,
+      "away_score": 51,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/jumpertown-booneville-vs-walnut/11-24-2026/?c=8570d7a8-90f4-4a16-b1bd-9faf6ee43628",
+        "excerpt": "Jumpertown vs Walnut | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Jumpertown Boys Varsity Basketball @ Walnut Jumpertown 4-4 Cardinals 51 Final 64 Walnut 6-1 Wildcats Jumpertown Boys Varsity Basketball @ Walnut Game Info On 11/24, the Jumpertown varsity basketball team lost their away tournament game against Walnut (MS) by a score of 64-51.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Walnut",
+        "away_name": "Jumpertown"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Falkner",
+      "away": "Jumpertown",
+      "status": "final",
+      "home_score": 58,
+      "away_score": 19,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/falkner-vs-jumpertown-booneville/11-24-2026/?c=e212d1d0-3e5d-442c-9767-55abb7e6574c",
+        "excerpt": "Jumpertown vs Falkner | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Jumpertown Girls Varsity Basketball @ Falkner Jumpertown 0-8 Cardinals 19 Final 58 Falkner 4-3 Eagles Jumpertown Girls Varsity Basketball @ Falkner Game Info On 11/24, the Jumpertown varsity basketball team lost their away conference game against Falkner (MS) by a score of 58-19.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Falkner",
+        "away_name": "Jumpertown"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Hickory Flat",
+      "away": "Hatley",
+      "status": "final",
+      "home_score": 67,
+      "away_score": 63,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/hatley-amory-vs-hickory-flat/11-24-2026/?c=db9c3f1d-0bdc-45e1-ad03-76c092432f8d",
+        "excerpt": "Hatley vs Hickory Flat | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Hatley Boys Varsity Basketball @ Hickory Flat Hatley 1-5 Tigers 63 Final 67 Hickory Flat 5-5 Rebels Hatley Boys Varsity Basketball @ Hickory Flat Game Info On 11/24, the Hatley varsity basketball team lost their away tournament game against Hickory Flat (MS) by a score of 67-63.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Hickory Flat",
+        "away_name": "Hatley"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Oxford",
+      "away": "Bayou Academy",
+      "status": "final",
+      "home_score": 62,
+      "away_score": 28,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/bayou-academy-cleveland-vs-oxford/11-24-2026/?c=797943b8-1dff-47be-9e44-8bca4f6cd659",
+        "excerpt": "Bayou Academy vs Oxford | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Bayou Academy Girls Varsity Basketball @ Oxford Bayou Academy 3-7 Colts 28 Final 62 Oxford 7-1 Chargers Bayou Academy Girls Varsity Basketball @ Oxford Game Info On 11/24, the Bayou Academy varsity basketball team lost their away tournament game against Oxford (MS) by a score of 62-28.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Oxford",
+        "away_name": "Bayou Academy"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Oxford",
+      "away": "Bayou Academy",
+      "status": "final",
+      "home_score": 73,
+      "away_score": 49,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/bayou-academy-cleveland-vs-oxford/11-24-2026/?c=ba334d55-0254-4283-ae36-f0adaea3d826",
+        "excerpt": "Bayou Academy vs Oxford | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Bayou Academy Boys Varsity Basketball @ Oxford Bayou Academy 2-4 Colts 49 Final 73 Oxford 2-2 Chargers Bayou Academy Boys Varsity Basketball @ Oxford Game Info On 11/24, the Bayou Academy varsity basketball team lost their away non-conference game against Oxford (MS) by a score of 73-49.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Oxford",
+        "away_name": "Bayou Academy"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "DeSoto Central",
+      "away": "Independence",
+      "status": "final",
+      "home_score": 65,
+      "away_score": 45,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/desoto-central-southaven-vs-independence/11-24-2026/?c=f5c340e9-bc5f-495c-9a34-730b397bd34b",
+        "excerpt": "Independence vs DeSoto Central | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Independence Boys Varsity Basketball vs. DeSoto Central Independence 4-5 Wildcats 45 Final 65 DeSoto Central 4-2 Jaguars Independence Boys Varsity Basketball vs. DeSoto Central Game Info On 11/24, the Independence varsity basketball team lost their neutral non-conference game against DeSoto Central (Southaven, MS) by a score of 65-45.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "DeSoto Central",
+        "away_name": "Independence"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Senatobia",
+      "away": "Hernando",
+      "status": "final",
+      "home_score": 58,
+      "away_score": 65,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/hernando-vs-senatobia/11-24-2026/?c=d04f3cc8-0a54-4936-b978-5a0bdc4fa145",
+        "excerpt": "Hernando vs Senatobia | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Hernando Boys Varsity Basketball @ Senatobia Hernando 8-1 Tigers 65 Final 58 Senatobia 0-3 Warriors Hernando Boys Varsity Basketball @ Senatobia Game Info On 11/24, the Hernando varsity basketball team won their away non-conference game against Senatobia (MS) by a score of 65-58.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Senatobia",
+        "away_name": "Hernando"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Lewisburg",
+      "away": "Ashland",
+      "status": "final",
+      "home_score": 91,
+      "away_score": 49,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/ashland-vs-lewisburg-olive-branch/11-24-2026/?c=14af4b21-93aa-4dae-a711-2c025be54e16",
+        "excerpt": "Ashland vs Lewisburg | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Ashland Boys Varsity Basketball vs. Lewisburg Ashland 1-9 Blue Devils 49 Final 91 Lewisburg 4-3 Patriots Ashland Boys Varsity Basketball vs. Lewisburg Game Info On 11/24, the Ashland varsity basketball team lost their neutral non-conference game against Lewisburg (Olive Branch, MS) by a score of 91-49.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Lewisburg",
+        "away_name": "Ashland"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Jackson Prep",
+      "away": "Ingomar",
+      "status": "final",
+      "home_score": 37,
+      "away_score": 38,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/ingomar-new-albany-vs-jackson-prep/11-24-2026/?c=e26f73e2-bfe4-40c8-a53a-05e0c73943da",
+        "excerpt": "Ingomar vs Jackson Prep | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Ingomar Girls Varsity Basketball @ Jackson Prep Ingomar 9-1 Falcons 38 Final 37 Jackson Prep 6-3 Patriots Ingomar Girls Varsity Basketball @ Jackson Prep Game Info On 11/24, the Ingomar varsity basketball team won their away non-conference game against Jackson Prep (Jackson, MS) by a score of 38-37.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Jackson Prep",
+        "away_name": "Ingomar"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Our Lady Academy",
+      "away": "Tupelo",
+      "status": "final",
+      "home_score": 53,
+      "away_score": 57,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/our-lady-academy-bay-st-louis-vs-tupelo/11-24-2026/?c=a3bacc09-3b73-4905-9d3f-b4583c727539",
+        "excerpt": "Tupelo vs Our Lady Academy | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Tupelo Girls Varsity Basketball @ Our Lady Academy Tupelo 2-3 Golden Wave 57 Final 53 Our Lady Academy 5-4 Crescents Tupelo Girls Varsity Basketball @ Our Lady Academy Game Info On 11/24, the Tupelo varsity basketball team won their away non-conference game against Our Lady Academy (Bay St. Louis, MS) by a score of 57-53.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Our Lady Academy",
+        "away_name": "Tupelo"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Mooreville",
+      "away": "South Pontotoc",
+      "status": "final",
+      "home_score": 47,
+      "away_score": 20,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/mooreville-vs-south-pontotoc/11-24-2026/?c=782e8279-13a6-4ffb-b78f-887cecf511cf",
+        "excerpt": "South Pontotoc vs Mooreville | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball South Pontotoc Boys Varsity Basketball vs. Mooreville South Pontotoc 4-4 Cougars 20 Final 47 Mooreville 6-3 Troopers South Pontotoc Boys Varsity Basketball vs. Mooreville Game Info On 11/24, the South Pontotoc varsity basketball team lost their neutral tournament game against Mooreville (MS) by a score of 47-20.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Mooreville",
+        "away_name": "South Pontotoc"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Gulf Shores",
+      "away": "Ocean Springs",
+      "status": "final",
+      "home_score": 45,
+      "away_score": 69,
+      "evidence": {
+        "url": "https://www.maxpreps.com/inter-state/basketball/game/gulf-shores-al-vs-ocean-springs-ms/11-24-2026/?c=83ae524f-d40f-4fd9-a673-293d9ee436dd",
+        "excerpt": "Ocean Springs vs Gulf Shores | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Alabama High School Basketball Ocean Springs Boys Varsity Basketball @ Gulf Shores Ocean Springs 8-1 Greyhounds 69 Final 45 Gulf Shores 1-6 Dolphins Ocean Springs Boys Varsity Basketball @ Gulf Shores Game Info On 11/24, the Ocean Springs varsity basketball team won their away non-conference game against Gulf Shores (AL) by a score of 69-45.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Gulf Shores",
+        "away_name": "Ocean Springs"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-24",
+      "home": "Long Beach",
+      "away": "D'Iberville",
+      "status": "final",
+      "home_score": 5,
+      "away_score": 44,
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/diberville-vs-long-beach/11-24-2026/?c=4c1a50ef-360f-4c3b-ac72-6592c8c57ba2",
+        "excerpt": "D'Iberville vs Long Beach | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball D'Iberville Girls Varsity Basketball @ Long Beach D'Iberville 1-7 Warriors 44 Final 5 Long Beach 0-6 Bearcats D'Iberville Girls Varsity Basketball @ Long Beach Game Info On 11/24, the D'Iberville varsity basketball team won their away non-conference game against Long Beach (MS) by a score of 44-5.",
+        "date_excerpt": "11/24/2026",
+        "home_name": "Long Beach",
+        "away_name": "D'Iberville"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-preview-2026-11-24/",
+      "title": "Tuesday Games To Watch preview"
+    },
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-23/",
+      "title": "Monday varsity results"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Scores from last Night: Ripley ends West Union’s perfect start; South Pontotoc reaches 8–0",
+    "headline_fact_ids": [
+      "game-0",
+      "records-0",
+      "game-2",
+      "records-2"
+    ],
+    "html": "<p data-facts=\"game-0 records-0 game-1 records-1 game-2 records-2\">Ripley handed West Union its first reported boys basketball loss Tuesday, while Lawrence County edged Brookhaven by a point to end another perfect start. South Pontotoc’s girls stayed unbeaten, beating Mooreville to reach a listed 8–0 in one of the day’s notable North Mississippi results.</p>\n<p data-facts=\"game-3 game-4 game-5 game-6\">Pontotoc won comfortably in both basketball divisions, and Booneville protected unbeaten records for its girls and boys. These are selected verified varsity finals from November 24, 2026, with postgame records as listed on the completed matchup reports. They follow the matchups highlighted in our <a href=\"https://sportsmississippi.com/sports/sportsms-preview-2026-11-24/\">Tuesday Games To Watch preview</a>.</p>\n<h2 data-facts=\"game-0 records-0\">Ripley stops West Union’s unbeaten start</h2>\n<p data-facts=\"game-0 records-0\">Ripley <a href=\"https://www.maxpreps.com/ms/basketball/game/ripley-vs-west-union-myrtle/11-24-2026/?c=1eefb88d-53c0-4097-ad1f-b1128e68be41\">beat West Union 63–45</a>, moving the Tigers to a listed 5–1 and leaving the Eagles at 7–1. The result ended West Union’s loss-free opening and gave Ripley a win over a team that had yet to lose.</p>\n<h2 data-facts=\"game-1 records-1\">Lawrence County wins a one-point game against Brookhaven</h2>\n<p data-facts=\"game-1 records-1\">Lawrence County <a href=\"https://www.maxpreps.com/ms/basketball/game/brookhaven-vs-lawrence-county-monticello/11-24-2026/?c=856792b4-b3dc-4a26-813b-dcf2bca769ff\">edged Brookhaven 46–45</a>. The Cougars are listed at 7–2 after the victory, while Brookhaven is 6–1 after its first reported defeat. A single point separated teams that both came into the meeting with several wins, turning one of Tuesday’s stronger record-based matchups into one of its closest verified finals.</p>\n<h2 data-facts=\"game-2 game-26 records-2\">South Pontotoc girls reach 8–0; Mooreville wins the boys game</h2>\n<p data-facts=\"game-2 records-2\">South Pontotoc’s girls <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/mooreville-vs-south-pontotoc/11-24-2026/?c=4f26906b-ca2b-445e-b330-96e4bd97c837\">beat Mooreville 60–51</a> and are listed at 8–0. The Troopers are 5–4. The Cougars protected their perfect start against an opponent with a winning record, keeping their opening record free of defeats.</p>\n<p data-facts=\"game-26 records-26\">Mooreville <a href=\"https://www.maxpreps.com/ms/basketball/game/mooreville-vs-south-pontotoc/11-24-2026/?c=782e8279-13a6-4ffb-b78f-887cecf511cf\">won the boys matchup 47–20</a>. The Troopers are listed at 6–3 and South Pontotoc at 4–4. The schools therefore split the reported varsity results, with the Cougars’ girls preserving an unbeaten opening and Mooreville’s boys improving their winning record.</p>\n<h2 data-facts=\"game-3 game-4 records-3 records-4\">Pontotoc wins in both divisions</h2>\n<p data-facts=\"game-3 records-3\">Pontotoc’s boys <a href=\"https://www.maxpreps.com/ms/basketball/game/baldwyn-vs-pontotoc/11-24-2026/?c=4819c8d1-e835-447f-adf0-09e223cba127\">defeated Baldwyn 73–41</a> and are listed at 5–1. The Bearcats are 1–1. The Warriors’ winning start continued with a wide final margin, giving them another victory in their strong early start.</p>\n<p data-facts=\"game-4 records-4\">The Pontotoc girls <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/center-hill-olive-branch-vs-pontotoc/11-24-2026/?c=b08a6022-03b0-4ed0-bbe9-a0223de039cc\">beat Center Hill 66–7</a>. The Warriors are also listed at 5–1, while the Mustangs are 3–4. Both Pontotoc teams finished their reported Tuesday games with comfortable wins; the girls allowed just seven points in the completed game.</p>\n<h2 data-facts=\"game-5 game-6 records-5 records-6\">Booneville keeps both basketball records perfect</h2>\n<p data-facts=\"game-5 records-5\">Booneville’s girls <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/booneville-vs-starkville/11-24-2026/?c=e20b6a69-483a-410c-8424-d31496b7b396\">beat Starkville 43–37</a> to reach a listed 4–0. Starkville is 5–2. The Blue Devils protected their unbeaten record against another winning team in a game decided by a narrow final margin.</p>\n<p data-facts=\"game-6 records-6\">The Booneville boys <a href=\"https://www.maxpreps.com/ms/basketball/game/booneville-vs-grenada/11-24-2026/?c=306c7101-c716-4515-9e49-ef4b711643ff\">won 77–56 against Grenada</a> and are listed at 3–0; the Chargers are 2–5. For Booneville, the two results extended successful openings in both divisions.</p>\n<h2 data-facts=\"game-7 game-8 game-9 records-7 records-8 records-9\">Hancock, East Union and Gulfport stay unbeaten</h2>\n<p data-facts=\"game-7 records-7 game-8 records-8\">Hancock’s girls <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/hancock-kiln-vs-northeast-jones-laurel/11-24-2026/?c=462c961b-5551-453b-8b8e-e6fa4db7a7e4\">beat Northeast Jones 68–46</a> and remain perfect at a listed 8–0. The Tigers are 4–5. East Union’s girls also kept a loss-free record, defeating Belmont 63–50 to reach 6–0. Belmont is 2–4 after the game.</p>\n<p data-facts=\"game-9 records-9 game-6 records-6 game-10 records-10\">Gulfport’s boys <a href=\"https://www.maxpreps.com/ms/basketball/game/gulfport-vs-wayne-county-war-eagleslady-war-eagles-waynesboro/11-24-2026/?c=0b02187f-ace1-4702-b51d-8cb8d23fa2b4\">defeated Wayne County 64–46</a>. The Admirals are listed at 5–0 and the War Eagles at 1–4. Gulfport joined Booneville and Potts Camp among the boys teams that protected unbeaten records in these verified finals.</p>\n<h2 data-facts=\"game-11 game-12 records-11 records-12\">Kossuth sweeps McNairy Central</h2>\n<p data-facts=\"game-11 records-11\">Kossuth’s girls <a href=\"https://www.maxpreps.com/inter-state/basketball/girls/game/kossuth-ms-vs-mcnairy-central-selmer-tn/11-24-2026/?c=631edbee-0c27-424a-8e0e-be454da80d81\">beat McNairy Central 67–56</a>, improving to a listed 4–2. McNairy Central is 3–1 after its first reported loss. The Aggies stopped the visitors’ unbeaten start while strengthening a winning record of their own.</p>\n<p data-facts=\"game-12 records-12\">Kossuth <a href=\"https://www.maxpreps.com/inter-state/basketball/game/kossuth-ms-vs-mcnairy-central-selmer-tn/11-24-2026/?c=868ee33d-b0ef-4d5b-99d4-2f1b7892a3e2\">won the boys game 70–56</a>, leaving the Aggies listed at 3–1 and McNairy Central at 2–2. Both Kossuth teams finished ahead of the same opponent, with the boys and girls each adding to a winning opening record.</p>\n<h2 data-facts=\"game-13 game-14 records-13 records-14\">Corinth girls win again; Alcorn Central closes at an even record</h2>\n<p data-facts=\"game-13 records-13\">Corinth’s girls <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-tunica-academy/11-24-2026/?c=7e320d1c-4eee-469b-b208-05469ece790d\">beat Tunica Academy 62–27</a> and are listed at 6–1. Tunica Academy is 1–1. The Warriors added another decisive result to an opening in which they have lost only once.</p>\n<p data-facts=\"game-14 records-14 box-14\">Alcorn Central’s boys <a href=\"https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-itawamba-agricultural-fulton/11-24-2026/?c=b5ffed6d-d731-4fa4-9bff-65ec2c3d3ef1\">beat Itawamba Agricultural 51–44</a> and are listed at 3–3; the Indians are 2–5. The Golden Bears won the first quarter 16–11 and the second 15–13. Itawamba took the third 12–10, but Central won the fourth 10–8 to finish ahead. Those closing points preserved the advantage built before halftime.</p>\n<h2 data-facts=\"game-15 game-16 records-15 records-16\">Walnut wins twice; Falkner girls beat Jumpertown</h2>\n<p data-facts=\"game-15 records-15 game-16 records-16 box-16\">Walnut’s girls <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/lafayette-oxford-vs-walnut/11-24-2026/?c=644e260c-649e-4ea3-aa6f-91c4d2eed578\">beat Lafayette 61–26</a> and are listed at 8–2. The Wildcats’ boys defeated Jumpertown 64–51 and are 6–1. Walnut outscored Jumpertown 20–9 in the second quarter and 15–11 in the fourth; the Cardinals are listed at 4–4 after the loss.</p>\n<p data-facts=\"game-17 records-17 box-17\">Falkner’s girls <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/falkner-vs-jumpertown-booneville/11-24-2026/?c=e212d1d0-3e5d-442c-9767-55abb7e6574c\">defeated Jumpertown 58–19</a>. The Eagles are listed at 4–3, while the Cardinals are 0–8. Falkner won every quarter, including a 20–7 opening period and a 17–4 second, building the early advantage that shaped the final.</p>\n<p data-facts=\"game-10 records-10 box-10\">Potts Camp’s boys <a href=\"https://www.maxpreps.com/ms/basketball/game/falkner-vs-potts-camp/11-24-2026/?c=7c9974cc-c6fe-448f-9c31-1d6fe0b53c0f\">beat Falkner 72–9</a> and remain unbeaten at a listed 7–0. The Eagles are 0–6. Potts Camp opened with a 35–1 first quarter and held Falkner scoreless in the second and fourth. The Cardinals’ perfect start continued with another large-margin result.</p>\n<p data-facts=\"game-18 records-18\">Hickory Flat’s boys <a href=\"https://www.maxpreps.com/ms/basketball/game/hatley-amory-vs-hickory-flat/11-24-2026/?c=db9c3f1d-0bdc-45e1-ad03-76c092432f8d\">edged Hatley 67–63</a>. The Rebels are listed at 5–5 and the Tigers at 1–5. Hickory Flat finished on the winning side of a much closer final than the other reported area boys games in this section.</p>\n<h2 data-facts=\"game-19 game-20 game-21 game-22 game-23\">Oxford sweeps Bayou; DeSoto Central wins with a strong second half</h2>\n<p data-facts=\"game-19 records-19 game-20 records-20\">Oxford’s girls <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/bayou-academy-cleveland-vs-oxford/11-24-2026/?c=797943b8-1dff-47be-9e44-8bca4f6cd659\">beat Bayou Academy 62–28</a> and are listed at 7–1. The Charger boys won 73–49 against Bayou and are 2–2. Bayou’s corresponding records are 3–7 for the girls and 2–4 for the boys. The sweep gave both Oxford teams a win in the reported Tuesday games.</p>\n<p data-facts=\"game-21 records-21 box-21\">DeSoto Central’s boys <a href=\"https://www.maxpreps.com/ms/basketball/game/desoto-central-southaven-vs-independence/11-24-2026/?c=f5c340e9-bc5f-495c-9a34-730b397bd34b\">defeated Independence 65–45</a> and are listed at 4–2, with the Wildcats at 4–5. The Jaguars took the third quarter 21–10 and the fourth 20–14. Those two periods opened the separation after Independence had won the second quarter 9–7.</p>\n<p data-facts=\"game-22 records-22 game-23 records-23\">Hernando’s boys <a href=\"https://www.maxpreps.com/ms/basketball/game/hernando-vs-senatobia/11-24-2026/?c=d04f3cc8-0a54-4936-b978-5a0bdc4fa145\">beat Senatobia 65–58</a> to reach a listed 8–1; Senatobia is 0–3. Lewisburg defeated Ashland 91–49, leaving the Patriots at 4–3 and the Blue Devils at 1–9.</p>\n<h2 data-facts=\"game-24 game-25 game-27 game-28\">Ingomar wins by one; Tupelo and Ocean Springs add victories</h2>\n<p data-facts=\"game-24 records-24 game-25 records-25\">Ingomar’s girls <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/ingomar-new-albany-vs-jackson-prep/11-24-2026/?c=e26f73e2-bfe4-40c8-a53a-05e0c73943da\">edged Jackson Prep 38–37</a>. The Falcons are listed at 9–1 and the Patriots at 6–3. Tupelo’s girls won another close game, beating Our Lady Academy 57–53 to move to 2–3; the Crescents are 5–4.</p>\n<p data-facts=\"game-27 records-27 game-28 records-28\">Ocean Springs’ boys <a href=\"https://www.maxpreps.com/inter-state/basketball/game/gulf-shores-al-vs-ocean-springs-ms/11-24-2026/?c=83ae524f-d40f-4fd9-a673-293d9ee436dd\">beat Gulf Shores, Alabama, 69–45</a> and are listed at 8–1. D’Iberville’s girls won 44–5 against Long Beach, with the Warriors listed at 1–7 and the Bearcats at 0–6. For the preceding night’s results and context, see our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-11-23/\">Monday varsity recap</a>.</p>",
+    "facts": [
+      {
+        "id": "records-0",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Ripley Boys Varsity Basketball @ West Union Ripley 5-1 Tigers 63 Final 45 West Union 7-1 Eagles Ripley Boys Varsity Basketball @ West Union",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/ripley-vs-west-union-myrtle/11-24-2026/?c=1eefb88d-53c0-4097-ad1f-b1128e68be41",
+          "excerpt": "High School Basketball Mississippi High School Basketball Ripley Boys Varsity Basketball @ West Union Ripley 5-1 Tigers 63 Final 45 West Union 7-1 Eagles Ripley Boys Varsity Basketball @ West Union",
+          "subjects": [
+            "Ripley",
+            "West Union"
+          ]
+        }
+      },
+      {
+        "id": "records-1",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Brookhaven Boys Varsity Basketball @ Lawrence County Brookhaven 6-1 Panthers 45 Final 46 Lawrence County 7-2 Cougars Brookhaven Boys Varsity Basketball @ Lawrence County",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/brookhaven-vs-lawrence-county-monticello/11-24-2026/?c=856792b4-b3dc-4a26-813b-dcf2bca769ff",
+          "excerpt": "High School Basketball Mississippi High School Basketball Brookhaven Boys Varsity Basketball @ Lawrence County Brookhaven 6-1 Panthers 45 Final 46 Lawrence County 7-2 Cougars Brookhaven Boys Varsity Basketball @ Lawrence County",
+          "subjects": [
+            "Brookhaven",
+            "Lawrence County"
+          ]
+        }
+      },
+      {
+        "id": "records-2",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball Mooreville Girls Varsity Basketball vs. South Pontotoc Mooreville 5-4 Troopers 51 Final 60 South Pontotoc 8-0 Cougars Mooreville Girls Varsity Basketball vs. South Pontotoc",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/mooreville-vs-south-pontotoc/11-24-2026/?c=4f26906b-ca2b-445e-b330-96e4bd97c837",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Mooreville Girls Varsity Basketball vs. South Pontotoc Mooreville 5-4 Troopers 51 Final 60 South Pontotoc 8-0 Cougars Mooreville Girls Varsity Basketball vs. South Pontotoc",
+          "subjects": [
+            "Mooreville",
+            "South Pontotoc"
+          ]
+        }
+      },
+      {
+        "id": "records-3",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Baldwyn Boys Varsity Basketball vs. Pontotoc Baldwyn 1-1 Bearcats 41 Final 73 Pontotoc 5-1 Warriors Baldwyn Boys Varsity Basketball vs. Pontotoc",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/baldwyn-vs-pontotoc/11-24-2026/?c=4819c8d1-e835-447f-adf0-09e223cba127",
+          "excerpt": "High School Basketball Mississippi High School Basketball Baldwyn Boys Varsity Basketball vs. Pontotoc Baldwyn 1-1 Bearcats 41 Final 73 Pontotoc 5-1 Warriors Baldwyn Boys Varsity Basketball vs. Pontotoc",
+          "subjects": [
+            "Baldwyn",
+            "Pontotoc"
+          ]
+        }
+      },
+      {
+        "id": "records-4",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball Pontotoc Girls Varsity Basketball @ Center Hill Pontotoc 5-1 Warriors 66 Final 7 Center Hill 3-4 Mustangs Pontotoc Girls Varsity Basketball @ Center Hill",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/center-hill-olive-branch-vs-pontotoc/11-24-2026/?c=b08a6022-03b0-4ed0-bbe9-a0223de039cc",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Pontotoc Girls Varsity Basketball @ Center Hill Pontotoc 5-1 Warriors 66 Final 7 Center Hill 3-4 Mustangs Pontotoc Girls Varsity Basketball @ Center Hill",
+          "subjects": [
+            "Pontotoc",
+            "Center Hill"
+          ]
+        }
+      },
+      {
+        "id": "records-5",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball Starkville Girls Varsity Basketball @ Booneville Starkville 5-2 Yellowjackets 37 Final 43 Booneville 4-0 Blue Devils Starkville Girls Varsity Basketball @ Booneville",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/booneville-vs-starkville/11-24-2026/?c=e20b6a69-483a-410c-8424-d31496b7b396",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Starkville Girls Varsity Basketball @ Booneville Starkville 5-2 Yellowjackets 37 Final 43 Booneville 4-0 Blue Devils Starkville Girls Varsity Basketball @ Booneville",
+          "subjects": [
+            "Starkville",
+            "Booneville"
+          ]
+        }
+      },
+      {
+        "id": "records-6",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Booneville Boys Varsity Basketball vs. Grenada Booneville 3-0 Blue Devils 77 Final 56 Grenada 2-5 Chargers Booneville Boys Varsity Basketball vs. Grenada",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/booneville-vs-grenada/11-24-2026/?c=306c7101-c716-4515-9e49-ef4b711643ff",
+          "excerpt": "High School Basketball Mississippi High School Basketball Booneville Boys Varsity Basketball vs. Grenada Booneville 3-0 Blue Devils 77 Final 56 Grenada 2-5 Chargers Booneville Boys Varsity Basketball vs. Grenada",
+          "subjects": [
+            "Booneville",
+            "Grenada"
+          ]
+        }
+      },
+      {
+        "id": "records-7",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball Northeast Jones Girls Varsity Basketball @ Hancock Northeast Jones 4-5 Tigers 46 Final 68 Hancock 8-0 Hawks Northeast Jones Girls Varsity Basketball @ Hancock",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/hancock-kiln-vs-northeast-jones-laurel/11-24-2026/?c=462c961b-5551-453b-8b8e-e6fa4db7a7e4",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Northeast Jones Girls Varsity Basketball @ Hancock Northeast Jones 4-5 Tigers 46 Final 68 Hancock 8-0 Hawks Northeast Jones Girls Varsity Basketball @ Hancock",
+          "subjects": [
+            "Northeast Jones",
+            "Hancock"
+          ]
+        }
+      },
+      {
+        "id": "records-8",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball East Union Girls Varsity Basketball @ Belmont East Union 6-0 Urchins 63 Final 50 Belmont 2-4 Cardinals East Union Girls Varsity Basketball @ Belmont",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/belmont-vs-east-union-blue-springs/11-24-2026/?c=5783e487-dadd-4c69-b3b2-955d36e0a40f",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball East Union Girls Varsity Basketball @ Belmont East Union 6-0 Urchins 63 Final 50 Belmont 2-4 Cardinals East Union Girls Varsity Basketball @ Belmont",
+          "subjects": [
+            "East Union",
+            "Belmont"
+          ]
+        }
+      },
+      {
+        "id": "records-9",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Gulfport Boys Varsity Basketball @ Wayne County Gulfport 5-0 Admirals 64 Final 46 Wayne County 1-4 War Eagles Gulfport Boys Varsity Basketball @ Wayne County",
+        "game_indexes": [
+          9
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/gulfport-vs-wayne-county-war-eagleslady-war-eagles-waynesboro/11-24-2026/?c=0b02187f-ace1-4702-b51d-8cb8d23fa2b4",
+          "excerpt": "High School Basketball Mississippi High School Basketball Gulfport Boys Varsity Basketball @ Wayne County Gulfport 5-0 Admirals 64 Final 46 Wayne County 1-4 War Eagles Gulfport Boys Varsity Basketball @ Wayne County",
+          "subjects": [
+            "Gulfport",
+            "Wayne County"
+          ]
+        }
+      },
+      {
+        "id": "records-10",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Falkner Boys Varsity Basketball @ Potts Camp Falkner 0-6 Eagles 9 Final 72 Potts Camp 7-0 Cardinals Falkner Boys Varsity Basketball @ Potts Camp",
+        "game_indexes": [
+          10
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/falkner-vs-potts-camp/11-24-2026/?c=7c9974cc-c6fe-448f-9c31-1d6fe0b53c0f",
+          "excerpt": "High School Basketball Mississippi High School Basketball Falkner Boys Varsity Basketball @ Potts Camp Falkner 0-6 Eagles 9 Final 72 Potts Camp 7-0 Cardinals Falkner Boys Varsity Basketball @ Potts Camp",
+          "subjects": [
+            "Falkner",
+            "Potts Camp"
+          ]
+        }
+      },
+      {
+        "id": "box-10",
+        "kind": "result",
+        "claim": "Boxscore Q1 Q2 Q3 Q4 Final Falkner 1 0 8 0 9 Potts Camp 35 16 7 14 72",
+        "game_indexes": [
+          10
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/falkner-vs-potts-camp/11-24-2026/?c=7c9974cc-c6fe-448f-9c31-1d6fe0b53c0f",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Falkner 1 0 8 0 9 Potts Camp 35 16 7 14 72",
+          "subjects": [
+            "Falkner",
+            "Potts Camp"
+          ]
+        }
+      },
+      {
+        "id": "records-11",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball McNairy Central Girls Varsity Basketball @ Kossuth McNairy Central 3-1 Bobcats 56 Final 67 Kossuth 4-2 Aggies McNairy Central Girls Varsity Basketball @ Kossuth",
+        "game_indexes": [
+          11
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/girls/game/kossuth-ms-vs-mcnairy-central-selmer-tn/11-24-2026/?c=631edbee-0c27-424a-8e0e-be454da80d81",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball McNairy Central Girls Varsity Basketball @ Kossuth McNairy Central 3-1 Bobcats 56 Final 67 Kossuth 4-2 Aggies McNairy Central Girls Varsity Basketball @ Kossuth",
+          "subjects": [
+            "McNairy Central",
+            "Kossuth"
+          ]
+        }
+      },
+      {
+        "id": "records-12",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball McNairy Central Boys Varsity Basketball @ Kossuth McNairy Central 2-2 Bobcats 56 Final 70 Kossuth 3-1 Aggies McNairy Central Boys Varsity Basketball @ Kossuth",
+        "game_indexes": [
+          12
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/game/kossuth-ms-vs-mcnairy-central-selmer-tn/11-24-2026/?c=868ee33d-b0ef-4d5b-99d4-2f1b7892a3e2",
+          "excerpt": "High School Basketball Mississippi High School Basketball McNairy Central Boys Varsity Basketball @ Kossuth McNairy Central 2-2 Bobcats 56 Final 70 Kossuth 3-1 Aggies McNairy Central Boys Varsity Basketball @ Kossuth",
+          "subjects": [
+            "McNairy Central",
+            "Kossuth"
+          ]
+        }
+      },
+      {
+        "id": "records-13",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball Tunica Academy Girls Varsity Basketball vs. Corinth Tunica Academy 1-1 Blue Devils 27 Final 62 Corinth 6-1 Warriors Tunica Academy Girls Varsity Basketball vs. Corinth",
+        "game_indexes": [
+          13
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/corinth-vs-tunica-academy/11-24-2026/?c=7e320d1c-4eee-469b-b208-05469ece790d",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Tunica Academy Girls Varsity Basketball vs. Corinth Tunica Academy 1-1 Blue Devils 27 Final 62 Corinth 6-1 Warriors Tunica Academy Girls Varsity Basketball vs. Corinth",
+          "subjects": [
+            "Tunica Academy",
+            "Corinth"
+          ]
+        }
+      },
+      {
+        "id": "records-14",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Alcorn Central Boys Varsity Basketball @ IAHS Alcorn Central 3-3 Golden Bears 51 Final 44 Itawamba Agricultural 2-5 Indians Alcorn Central Boys Varsity Basketball @ IAHS",
+        "game_indexes": [
+          14
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-itawamba-agricultural-fulton/11-24-2026/?c=b5ffed6d-d731-4fa4-9bff-65ec2c3d3ef1",
+          "excerpt": "High School Basketball Mississippi High School Basketball Alcorn Central Boys Varsity Basketball @ IAHS Alcorn Central 3-3 Golden Bears 51 Final 44 Itawamba Agricultural 2-5 Indians Alcorn Central Boys Varsity Basketball @ IAHS",
+          "subjects": [
+            "Alcorn Central",
+            "Itawamba Agricultural"
+          ]
+        }
+      },
+      {
+        "id": "box-14",
+        "kind": "result",
+        "claim": "Boxscore Q1 Q2 Q3 Q4 Final Alcorn Central 16 15 10 10 51 Itawamba Agricultural 11 13 12 8 44",
+        "game_indexes": [
+          14
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/alcorn-central-glen-vs-itawamba-agricultural-fulton/11-24-2026/?c=b5ffed6d-d731-4fa4-9bff-65ec2c3d3ef1",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Alcorn Central 16 15 10 10 51 Itawamba Agricultural 11 13 12 8 44",
+          "subjects": [
+            "Alcorn Central",
+            "Itawamba Agricultural"
+          ]
+        }
+      },
+      {
+        "id": "records-15",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball Walnut Girls Varsity Basketball @ Lafayette Walnut 8-2 Wildcats 61 Final 26 Lafayette 2-5 Commodores Walnut Girls Varsity Basketball @ Lafayette",
+        "game_indexes": [
+          15
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/lafayette-oxford-vs-walnut/11-24-2026/?c=644e260c-649e-4ea3-aa6f-91c4d2eed578",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Walnut Girls Varsity Basketball @ Lafayette Walnut 8-2 Wildcats 61 Final 26 Lafayette 2-5 Commodores Walnut Girls Varsity Basketball @ Lafayette",
+          "subjects": [
+            "Walnut",
+            "Lafayette"
+          ]
+        }
+      },
+      {
+        "id": "records-16",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Jumpertown Boys Varsity Basketball @ Walnut Jumpertown 4-4 Cardinals 51 Final 64 Walnut 6-1 Wildcats Jumpertown Boys Varsity Basketball @ Walnut",
+        "game_indexes": [
+          16
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/jumpertown-booneville-vs-walnut/11-24-2026/?c=8570d7a8-90f4-4a16-b1bd-9faf6ee43628",
+          "excerpt": "High School Basketball Mississippi High School Basketball Jumpertown Boys Varsity Basketball @ Walnut Jumpertown 4-4 Cardinals 51 Final 64 Walnut 6-1 Wildcats Jumpertown Boys Varsity Basketball @ Walnut",
+          "subjects": [
+            "Jumpertown",
+            "Walnut"
+          ]
+        }
+      },
+      {
+        "id": "box-16",
+        "kind": "result",
+        "claim": "Boxscore Q1 Q2 Q3 Q4 Final Jumpertown 19 9 12 11 51 Walnut 15 20 14 15 64",
+        "game_indexes": [
+          16
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/jumpertown-booneville-vs-walnut/11-24-2026/?c=8570d7a8-90f4-4a16-b1bd-9faf6ee43628",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Jumpertown 19 9 12 11 51 Walnut 15 20 14 15 64",
+          "subjects": [
+            "Jumpertown",
+            "Walnut"
+          ]
+        }
+      },
+      {
+        "id": "records-17",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball Jumpertown Girls Varsity Basketball @ Falkner Jumpertown 0-8 Cardinals 19 Final 58 Falkner 4-3 Eagles Jumpertown Girls Varsity Basketball @ Falkner",
+        "game_indexes": [
+          17
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/falkner-vs-jumpertown-booneville/11-24-2026/?c=e212d1d0-3e5d-442c-9767-55abb7e6574c",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Jumpertown Girls Varsity Basketball @ Falkner Jumpertown 0-8 Cardinals 19 Final 58 Falkner 4-3 Eagles Jumpertown Girls Varsity Basketball @ Falkner",
+          "subjects": [
+            "Jumpertown",
+            "Falkner"
+          ]
+        }
+      },
+      {
+        "id": "box-17",
+        "kind": "result",
+        "claim": "Boxscore Q1 Q2 Q3 Q4 Final Jumpertown 7 4 2 6 19 Falkner 20 17 14 7 58",
+        "game_indexes": [
+          17
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/falkner-vs-jumpertown-booneville/11-24-2026/?c=e212d1d0-3e5d-442c-9767-55abb7e6574c",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Jumpertown 7 4 2 6 19 Falkner 20 17 14 7 58",
+          "subjects": [
+            "Jumpertown",
+            "Falkner"
+          ]
+        }
+      },
+      {
+        "id": "records-18",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Hatley Boys Varsity Basketball @ Hickory Flat Hatley 1-5 Tigers 63 Final 67 Hickory Flat 5-5 Rebels Hatley Boys Varsity Basketball @ Hickory Flat",
+        "game_indexes": [
+          18
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/hatley-amory-vs-hickory-flat/11-24-2026/?c=db9c3f1d-0bdc-45e1-ad03-76c092432f8d",
+          "excerpt": "High School Basketball Mississippi High School Basketball Hatley Boys Varsity Basketball @ Hickory Flat Hatley 1-5 Tigers 63 Final 67 Hickory Flat 5-5 Rebels Hatley Boys Varsity Basketball @ Hickory Flat",
+          "subjects": [
+            "Hatley",
+            "Hickory Flat"
+          ]
+        }
+      },
+      {
+        "id": "records-19",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball Bayou Academy Girls Varsity Basketball @ Oxford Bayou Academy 3-7 Colts 28 Final 62 Oxford 7-1 Chargers Bayou Academy Girls Varsity Basketball @ Oxford",
+        "game_indexes": [
+          19
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/bayou-academy-cleveland-vs-oxford/11-24-2026/?c=797943b8-1dff-47be-9e44-8bca4f6cd659",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Bayou Academy Girls Varsity Basketball @ Oxford Bayou Academy 3-7 Colts 28 Final 62 Oxford 7-1 Chargers Bayou Academy Girls Varsity Basketball @ Oxford",
+          "subjects": [
+            "Bayou Academy",
+            "Oxford"
+          ]
+        }
+      },
+      {
+        "id": "records-20",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Bayou Academy Boys Varsity Basketball @ Oxford Bayou Academy 2-4 Colts 49 Final 73 Oxford 2-2 Chargers Bayou Academy Boys Varsity Basketball @ Oxford",
+        "game_indexes": [
+          20
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/bayou-academy-cleveland-vs-oxford/11-24-2026/?c=ba334d55-0254-4283-ae36-f0adaea3d826",
+          "excerpt": "High School Basketball Mississippi High School Basketball Bayou Academy Boys Varsity Basketball @ Oxford Bayou Academy 2-4 Colts 49 Final 73 Oxford 2-2 Chargers Bayou Academy Boys Varsity Basketball @ Oxford",
+          "subjects": [
+            "Bayou Academy",
+            "Oxford"
+          ]
+        }
+      },
+      {
+        "id": "records-21",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Independence Boys Varsity Basketball vs. DeSoto Central Independence 4-5 Wildcats 45 Final 65 DeSoto Central 4-2 Jaguars Independence Boys Varsity Basketball vs. DeSoto Central",
+        "game_indexes": [
+          21
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/desoto-central-southaven-vs-independence/11-24-2026/?c=f5c340e9-bc5f-495c-9a34-730b397bd34b",
+          "excerpt": "High School Basketball Mississippi High School Basketball Independence Boys Varsity Basketball vs. DeSoto Central Independence 4-5 Wildcats 45 Final 65 DeSoto Central 4-2 Jaguars Independence Boys Varsity Basketball vs. DeSoto Central",
+          "subjects": [
+            "Independence",
+            "DeSoto Central"
+          ]
+        }
+      },
+      {
+        "id": "box-21",
+        "kind": "result",
+        "claim": "Boxscore Q1 Q2 Q3 Q4 Final Independence 12 9 10 14 45 DeSoto Central 17 7 21 20 65",
+        "game_indexes": [
+          21
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/desoto-central-southaven-vs-independence/11-24-2026/?c=f5c340e9-bc5f-495c-9a34-730b397bd34b",
+          "excerpt": "Boxscore Q1 Q2 Q3 Q4 Final Independence 12 9 10 14 45 DeSoto Central 17 7 21 20 65",
+          "subjects": [
+            "Independence",
+            "DeSoto Central"
+          ]
+        }
+      },
+      {
+        "id": "records-22",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Hernando Boys Varsity Basketball @ Senatobia Hernando 8-1 Tigers 65 Final 58 Senatobia 0-3 Warriors Hernando Boys Varsity Basketball @ Senatobia",
+        "game_indexes": [
+          22
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/hernando-vs-senatobia/11-24-2026/?c=d04f3cc8-0a54-4936-b978-5a0bdc4fa145",
+          "excerpt": "High School Basketball Mississippi High School Basketball Hernando Boys Varsity Basketball @ Senatobia Hernando 8-1 Tigers 65 Final 58 Senatobia 0-3 Warriors Hernando Boys Varsity Basketball @ Senatobia",
+          "subjects": [
+            "Hernando",
+            "Senatobia"
+          ]
+        }
+      },
+      {
+        "id": "records-23",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Ashland Boys Varsity Basketball vs. Lewisburg Ashland 1-9 Blue Devils 49 Final 91 Lewisburg 4-3 Patriots Ashland Boys Varsity Basketball vs. Lewisburg",
+        "game_indexes": [
+          23
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/ashland-vs-lewisburg-olive-branch/11-24-2026/?c=14af4b21-93aa-4dae-a711-2c025be54e16",
+          "excerpt": "High School Basketball Mississippi High School Basketball Ashland Boys Varsity Basketball vs. Lewisburg Ashland 1-9 Blue Devils 49 Final 91 Lewisburg 4-3 Patriots Ashland Boys Varsity Basketball vs. Lewisburg",
+          "subjects": [
+            "Ashland",
+            "Lewisburg"
+          ]
+        }
+      },
+      {
+        "id": "records-24",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball Ingomar Girls Varsity Basketball @ Jackson Prep Ingomar 9-1 Falcons 38 Final 37 Jackson Prep 6-3 Patriots Ingomar Girls Varsity Basketball @ Jackson Prep",
+        "game_indexes": [
+          24
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/ingomar-new-albany-vs-jackson-prep/11-24-2026/?c=e26f73e2-bfe4-40c8-a53a-05e0c73943da",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Ingomar Girls Varsity Basketball @ Jackson Prep Ingomar 9-1 Falcons 38 Final 37 Jackson Prep 6-3 Patriots Ingomar Girls Varsity Basketball @ Jackson Prep",
+          "subjects": [
+            "Ingomar",
+            "Jackson Prep"
+          ]
+        }
+      },
+      {
+        "id": "records-25",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball Tupelo Girls Varsity Basketball @ Our Lady Academy Tupelo 2-3 Golden Wave 57 Final 53 Our Lady Academy 5-4 Crescents Tupelo Girls Varsity Basketball @ Our Lady Academy",
+        "game_indexes": [
+          25
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/our-lady-academy-bay-st-louis-vs-tupelo/11-24-2026/?c=a3bacc09-3b73-4905-9d3f-b4583c727539",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Tupelo Girls Varsity Basketball @ Our Lady Academy Tupelo 2-3 Golden Wave 57 Final 53 Our Lady Academy 5-4 Crescents Tupelo Girls Varsity Basketball @ Our Lady Academy",
+          "subjects": [
+            "Tupelo",
+            "Our Lady Academy"
+          ]
+        }
+      },
+      {
+        "id": "records-26",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball South Pontotoc Boys Varsity Basketball vs. Mooreville South Pontotoc 4-4 Cougars 20 Final 47 Mooreville 6-3 Troopers South Pontotoc Boys Varsity Basketball vs. Mooreville",
+        "game_indexes": [
+          26
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/mooreville-vs-south-pontotoc/11-24-2026/?c=782e8279-13a6-4ffb-b78f-887cecf511cf",
+          "excerpt": "High School Basketball Mississippi High School Basketball South Pontotoc Boys Varsity Basketball vs. Mooreville South Pontotoc 4-4 Cougars 20 Final 47 Mooreville 6-3 Troopers South Pontotoc Boys Varsity Basketball vs. Mooreville",
+          "subjects": [
+            "South Pontotoc",
+            "Mooreville"
+          ]
+        }
+      },
+      {
+        "id": "records-27",
+        "kind": "record",
+        "claim": "High School Basketball Alabama High School Basketball Ocean Springs Boys Varsity Basketball @ Gulf Shores Ocean Springs 8-1 Greyhounds 69 Final 45 Gulf Shores 1-6 Dolphins Ocean Springs Boys Varsity Basketball @ Gulf Shores",
+        "game_indexes": [
+          27
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/game/gulf-shores-al-vs-ocean-springs-ms/11-24-2026/?c=83ae524f-d40f-4fd9-a673-293d9ee436dd",
+          "excerpt": "High School Basketball Alabama High School Basketball Ocean Springs Boys Varsity Basketball @ Gulf Shores Ocean Springs 8-1 Greyhounds 69 Final 45 Gulf Shores 1-6 Dolphins Ocean Springs Boys Varsity Basketball @ Gulf Shores",
+          "subjects": [
+            "Ocean Springs",
+            "Gulf Shores"
+          ]
+        }
+      },
+      {
+        "id": "records-28",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball D'Iberville Girls Varsity Basketball @ Long Beach D'Iberville 1-7 Warriors 44 Final 5 Long Beach 0-6 Bearcats D'Iberville Girls Varsity Basketball @ Long Beach",
+        "game_indexes": [
+          28
+        ],
+        "as_of_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/diberville-vs-long-beach/11-24-2026/?c=4c1a50ef-360f-4c3b-ac72-6592c8c57ba2",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball D'Iberville Girls Varsity Basketball @ Long Beach D'Iberville 1-7 Warriors 44 Final 5 Long Beach 0-6 Bearcats D'Iberville Girls Varsity Basketball @ Long Beach",
+          "subjects": [
+            "D'Iberville",
+            "Long Beach"
+          ]
+        }
+      }
+    ]
+  }
+}
