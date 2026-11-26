@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-11-25",
+  "verified_at": "2026-11-26T14:02:53.829294+00:00",
+  "publish": true,
+  "checked_sports": [
+    "basketball",
+    "soccer",
+    "football",
+    "volleyball",
+    "bowling",
+    "wrestling"
+  ],
+  "games": [
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-25",
+      "home": "Carter",
+      "away": "Jim Hill",
+      "status": "final",
+      "home_score": 70,
+      "away_score": 42,
+      "evidence": {
+        "url": "https://www.maxpreps.com/inter-state/basketball/game/carter-dallas-tx-vs-jim-hill-jackson-ms/11-25-2026/?c=282aeb3e-f9e7-4c05-bc79-685db56d6b06",
+        "excerpt": "Jim Hill vs Carter | Basketball | 11/25/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Texas High School Basketball Jim Hill Boys Varsity Basketball @ Carter Jim Hill 4-3 Tigers 42 Final 70 Carter 5-0 Cowboys Jim Hill Boys Varsity Basketball @ Carter Game Info On 11/25, the Jim Hill varsity basketball team lost their away non-conference game against Carter (Dallas, TX) by a score of 70-42.",
+        "date_excerpt": "11/25/2026",
+        "home_name": "Carter",
+        "away_name": "Jim Hill"
+      }
+    }
+  ],
+  "related_links": [],
+  "article": {
+    "reviewed": true,
+    "headline": "Scores from last Night: Jim Hill falls 70–42 to unbeaten Carter",
+    "headline_fact_ids": [
+      "game-0",
+      "postgame-records"
+    ],
+    "html": "<p data-facts=\"game-0 postgame-records event-context school-identity\">Jim Hill’s boys basketball team lost 70–42 to unbeaten Carter of Dallas on Wednesday, November 25, at the Denton Ryan Showcase. The Jackson school fell to a listed 4–3, while Carter improved to 5–0, leaving the Cowboys unbeaten after the interstate matchup.</p>\n<p data-facts=\"game-0 postgame-records current-form\">The result extended Jim Hill’s losing streak to three games after a winning opening to the season. The Tigers’ current schedule lists victories over Germantown, Natchez, Provine and Starkville before consecutive defeats against Canton, Episcopal School of Dallas and Carter.</p>\n<p data-facts=\"game-0 previous-result\">Wednesday’s defeat followed Jim Hill’s 61–55 loss to Episcopal School of Dallas on Tuesday, November 24. The Tigers finished behind Dallas opponents on consecutive days, scoring 55 points in the first game and 42 against Carter. The <a href=\"https://www.maxpreps.com/inter-state/basketball/game/carter-dallas-tx-vs-jim-hill-jackson-ms/11-25-2026/?c=282aeb3e-f9e7-4c05-bc79-685db56d6b06\">completed Carter matchup report</a> confirms the final, with the Tigers taking their third loss of the season.</p>\n<p data-facts=\"game-0 next-game\">Jim Hill’s next listed game is at Lanier on December 1.</p>",
+    "facts": [
+      {
+        "id": "postgame-records",
+        "kind": "record",
+        "claim": "High School Basketball Texas High School Basketball Jim Hill Boys Varsity Basketball @ Carter Jim Hill 4-3 Tigers 42 Final 70 Carter 5-0 Cowboys Jim Hill Boys Varsity Basketball @ Carter",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-25",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/game/carter-dallas-tx-vs-jim-hill-jackson-ms/11-25-2026/?c=282aeb3e-f9e7-4c05-bc79-685db56d6b06",
+          "excerpt": "High School Basketball Texas High School Basketball Jim Hill Boys Varsity Basketball @ Carter Jim Hill 4-3 Tigers 42 Final 70 Carter 5-0 Cowboys Jim Hill Boys Varsity Basketball @ Carter",
+          "subjects": [
+            "Jim Hill",
+            "Carter"
+          ]
+        }
+      },
+      {
+        "id": "current-form",
+        "kind": "record",
+        "claim": "Jim Hill is 4-3 with a three-game losing streak. Its schedule lists opening wins against Germantown, Natchez, Provine and Starkville, followed by losses to Canton, Episcopal School of Dallas and Carter.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-25",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/jackson/jim-hill-tigers/basketball/schedule/",
+          "excerpt": "High School Basketball Basketball Schedule Jim Hill Basketball Schedule 2026-27 Last Game Away • Non-District Jim Hill 4-3 42 Carter 5-0 70 Jim Hill 4-3 42 11/25 Final Carter 5-0 70 Box Score Overall 4-3 0.571 Win Pct District 0-0 1st 6A Region 3 Home 2-1 Away 2-1 Neutral 0-1 PF 428 PA 379 Streak 3L * District ** Playoffs *** Tournament Date/Time Opponent Result Game Info 11/3 7:30pm vs Germantown W 60-43 Box Score 11/6 7:30pm @ Natchez W 73-25 Box Score 11/12 7:30pm @ Provine W 86-70 Box Score 11/17 7:30pm vs Starkville W 56-50 Box Score 11/19 7:30pm vs Canton L 60-56 Box Score 11/24 4:00pm vs ESD L 61-55 Box Score 11/25 12:50pm @ Carter L 70-42 Box Score",
+          "subjects": [
+            "Jim Hill",
+            "Germantown",
+            "Natchez",
+            "Provine",
+            "Starkville",
+            "Canton",
+            "Carter"
+          ]
+        }
+      },
+      {
+        "id": "event-context",
+        "kind": "context",
+        "claim": "Jim Hill lost its November 25, 2026 Denton Ryan Showcase game against Carter 42-70.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-25",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/jackson/jim-hill-tigers/basketball/",
+          "excerpt": "On Wednesday, Nov 25, 2026, the Jim Hill Varsity Boys Basketball team lost their Denton Ryan Showcase game against Carter High School by a score of 42-70 .",
+          "subjects": [
+            "Jim Hill",
+            "Carter",
+            "Denton Ryan Showcase"
+          ]
+        }
+      },
+      {
+        "id": "school-identity",
+        "kind": "context",
+        "claim": "Jim Hill High School is in Jackson, Mississippi.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-25",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/jackson/jim-hill-tigers/basketball/schedule/",
+          "excerpt": "Jim Hill High School 2185 Fortune Ave Jackson, MS 39204-2333",
+          "subjects": [
+            "Jim Hill",
+            "Jackson, MS"
+          ]
+        }
+      },
+      {
+        "id": "previous-result",
+        "kind": "history",
+        "claim": "Jim Hill lost 61-55 to Episcopal School of Dallas on November 24, 2026.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-25",
+        "fact_date": "2026-11-24",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/game/episcopal-school-of-dallas-tx-vs-jim-hill-jackson-ms/11-24-2026/?c=02a3ca39-5432-4f3a-a4a8-b9e4c42b2228",
+          "excerpt": "Jim Hill vs Episcopal School of Dallas | Basketball | 11/24/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Texas High School Basketball Jim Hill Boys Varsity Basketball vs. ESD Jim Hill 4-3 Tigers 55 Final 61 Episcopal School of Dallas 4-2 Eagles Jim Hill Boys Varsity Basketball vs. ESD Game Info On 11/24, the Jim Hill varsity basketball team lost their neutral non-conference game against Episcopal School of Dallas (Dallas, TX) by a score of 61-55.",
+          "date_excerpt": "11/24/2026",
+          "subjects": [
+            "Jim Hill",
+            "Episcopal School of Dallas"
+          ]
+        }
+      },
+      {
+        "id": "next-game",
+        "kind": "schedule",
+        "claim": "Jim Hill next lists a game at Lanier on December 1.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-25",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/jackson/jim-hill-tigers/basketball/schedule/",
+          "excerpt": "High School Basketball Basketball Schedule Jim Hill Basketball Schedule 2026-27 Last Game Away • Non-District Jim Hill 4-3 42 Carter 5-0 70 Jim Hill 4-3 42 11/25 Final Carter 5-0 70 Box Score Overall 4-3 0.571 Win Pct District 0-0 1st 6A Region 3 Home 2-1 Away 2-1 Neutral 0-1 PF 428 PA 379 Streak 3L * District ** Playoffs *** Tournament Date/Time Opponent Result Game Info 11/3 7:30pm vs Germantown W 60-43 Box Score 11/6 7:30pm @ Natchez W 73-25 Box Score 11/12 7:30pm @ Provine W 86-70 Box Score 11/17 7:30pm vs Starkville W 56-50 Box Score 11/19 7:30pm vs Canton L 60-56 Box Score 11/24 4:00pm vs ESD L 61-55 Box Score 11/25 12:50pm @ Carter L 70-42 Box Score Date/Time Opponent Tickets Game Info 12/1 7:30pm @ Lanier Preview Game",
+          "subjects": [
+            "Jim Hill",
+            "Lanier"
+          ]
+        }
+      }
+    ]
+  }
+}
