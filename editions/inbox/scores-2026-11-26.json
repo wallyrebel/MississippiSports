@@ -1,0 +1,215 @@
+{
+  "version": 1,
+  "edition": "scores",
+  "date": "2026-11-26",
+  "verified_at": "2026-11-27T14:03:08.652255+00:00",
+  "publish": true,
+  "checked_sports": [
+    "basketball",
+    "soccer",
+    "football",
+    "volleyball",
+    "bowling",
+    "wrestling"
+  ],
+  "games": [
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-26",
+      "home": "Southwind",
+      "away": "Water Valley",
+      "status": "final",
+      "home_score": 83,
+      "away_score": 48,
+      "evidence": {
+        "url": "https://www.maxpreps.com/inter-state/basketball/game/southwind-memphis-tn-vs-water-valley-ms/11-26-2026/?c=c1f14de5-3aff-4013-916e-b0b5c1780a4e",
+        "excerpt": "Water Valley vs Southwind | Basketball | 11/26/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Tennessee High School Basketball Water Valley Boys Varsity Basketball @ Southwind Water Valley 1-5 Blue Devils 48 Final 83 Southwind 4-0 Jaguars Water Valley Boys Varsity Basketball @ Southwind Game Info On 11/26, the Water Valley varsity basketball team lost their away tournament game against Southwind (Memphis, TN) by a score of 83-48.",
+        "date_excerpt": "11/26/2026",
+        "home_name": "Southwind",
+        "away_name": "Water Valley"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-19/",
+      "title": "Earlier Water Valley basketball results"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Scores from last Night: Southwind stays unbeaten with 83–48 win over Water Valley",
+    "headline_fact_ids": [
+      "game-0",
+      "postgame-records"
+    ],
+    "html": "<p data-facts=\"game-0 postgame-records event-context mississippi-identity southwind-identity\">Water Valley’s boys basketball team lost 83–48 to Southwind in the Rumble On The Ridge on Thursday, November 26, as the Memphis program kept its unbeaten start intact.</p>\n<p data-facts=\"game-0 postgame-records previous-result season-form\">Southwind is listed at 4–0 after the victory, while Water Valley is 1–5. The Jaguars preserved their perfect record with a comfortable final margin; the Blue Devils were unable to follow their previous victory with another win.</p>\n<p data-facts=\"game-0 dyson-points dyson-game-award\">London Dyson scored 17 points for Southwind. MaxPreps’ <a href=\"https://www.maxpreps.com/inter-state/basketball/game/southwind-memphis-tn-vs-water-valley-ms/11-26-2026/?c=c1f14de5-3aff-4013-916e-b0b5c1780a4e\">matchup page</a> also lists Dyson as the Jaguars’ Player of the Game.</p>\n<p data-facts=\"game-0 previous-result season-form\">Water Valley had beaten Houlka 74–41 on November 20. That remains the Blue Devils’ only listed victory through Thursday’s game. Their current schedule also records earlier losses to Winona, Rosa Fort, Independence and North Pontotoc, giving the Southwind result its place in a difficult opening stretch.</p>\n<p data-facts=\"earlier-coverage\">For background on the Blue Devils’ earlier basketball results, our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-11-19/\">previous varsity recap</a> includes North Pontotoc’s sweep of Water Valley.</p>",
+    "facts": [
+      {
+        "id": "postgame-records",
+        "kind": "record",
+        "claim": "High School Basketball Tennessee High School Basketball Water Valley Boys Varsity Basketball @ Southwind Water Valley 1-5 Blue Devils 48 Final 83 Southwind 4-0 Jaguars Water Valley Boys Varsity Basketball @ Southwind",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/game/southwind-memphis-tn-vs-water-valley-ms/11-26-2026/?c=c1f14de5-3aff-4013-916e-b0b5c1780a4e",
+          "excerpt": "High School Basketball Tennessee High School Basketball Water Valley Boys Varsity Basketball @ Southwind Water Valley 1-5 Blue Devils 48 Final 83 Southwind 4-0 Jaguars Water Valley Boys Varsity Basketball @ Southwind",
+          "subjects": [
+            "Water Valley",
+            "Southwind"
+          ]
+        }
+      },
+      {
+        "id": "event-context",
+        "kind": "context",
+        "claim": "Water Valley lost its Rumble On The Ridge game against Southwind on November 26, 2026, 48-83.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/water-valley/water-valley-blue-devils/basketball/",
+          "excerpt": "On Thursday, Nov 26, 2026, the Water Valley Varsity Boys Basketball team lost their Rumble On The Ridge game against Southwind High School by a score of 48-83 .",
+          "subjects": [
+            "Water Valley",
+            "Southwind",
+            "Rumble On The Ridge"
+          ]
+        }
+      },
+      {
+        "id": "mississippi-identity",
+        "kind": "context",
+        "claim": "The covered school is Water Valley High School in Water Valley, Mississippi.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/water-valley/water-valley-blue-devils/basketball/",
+          "excerpt": "Water Valley High School 550 Market St Water Valley, MS 38965-2305",
+          "subjects": [
+            "Water Valley",
+            "Water Valley, MS"
+          ]
+        }
+      },
+      {
+        "id": "southwind-identity",
+        "kind": "context",
+        "claim": "Southwind High School is in Memphis, Tennessee.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tn/memphis/southwind-jaguars/basketball/",
+          "excerpt": "Southwind High School 7900 E Shelby Dr Memphis, TN 38125",
+          "subjects": [
+            "Southwind",
+            "Memphis, TN"
+          ]
+        }
+      },
+      {
+        "id": "dyson-points",
+        "kind": "result",
+        "claim": "Southwind player London Dyson scored 17 points in the win over Water Valley on November 26, 2026.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tn/memphis/southwind-jaguars/athletes/london-dyson/?careerid=hdae8637e1mcc",
+          "excerpt": "TN Southwind London Dyson London Dyson Player of the Game Friday, Nov 27, 2026 Congratulations to #2 London Dyson for being selected as the Southwind Player player of the game. Box Score London's Awards Stats Updated Thursday, Nov 26, 2026 London's stats have been entered for the win vs. Water Valley on Thursday, Nov. 26, 2026. 17 Points",
+          "subjects": [
+            "Southwind",
+            "London Dyson",
+            "Water Valley"
+          ]
+        }
+      },
+      {
+        "id": "previous-result",
+        "kind": "history",
+        "claim": "Water Valley beat Houlka 74-41 on November 20, 2026.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-26",
+        "fact_date": "2026-11-20",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/houlka-vs-water-valley/11-20-2026/?c=eff2ece3-3502-41c6-8208-06999e324c37#tab=box-score&schoolid=d8fd7bc0-4b37-4bb9-8b38-ceb94faa0607",
+          "excerpt": "Houlka vs Water Valley | Basketball | 11/20/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Houlka Boys Varsity Basketball @ Water Valley Houlka 3-5 Wildcats 41 Final 74 Water Valley 1-5 Blue Devils Houlka Boys Varsity Basketball @ Water Valley Game Info On 11/20, the Houlka varsity basketball team lost their away non-conference game against Water Valley (MS) by a score of 74-41.",
+          "date_excerpt": "11/20/2026",
+          "subjects": [
+            "Water Valley",
+            "Houlka"
+          ]
+        }
+      },
+      {
+        "id": "season-form",
+        "kind": "record",
+        "claim": "Water Valley has a 1-5 record. Its six completed games include losses to Winona, Rosa Fort, Independence and North Pontotoc, a 74-41 win over Houlka, and the 83-48 loss to Southwind.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/water-valley/water-valley-blue-devils/basketball/schedule/",
+          "excerpt": "High School Basketball Basketball Schedule Water Valley Basketball Schedule 2026-27 Next Game Home • Tournament Water Valley 1-5 Hot Springs 1-1 Water Valley 1-5 Fri, 11/27 @ 12:30pm Preview Game Hot Springs 1-1 Preview Game Going to the game? Provide score updates Overall 1-5 0.167 Win Pct District 0-0 1st 2A Region 2 Home 1-3 Away 0-2 Neutral 0-0 PF 270 PA 338 Streak 1L * District ** Playoffs *** Tournament Date/Time Opponent Result Watch Game Info 11/3 7:00pm vs Winona L 35-29 Box Score 11/7 1:30pm vs Rosa Fort L 61-32 Box Score 11/10 7:30pm @ Independence L 65-39 Box Score 11/19 7:00pm vs North Pontotoc L 53-48 Box Score 11/20 7:30pm vs Houlka W 74-41 Box Score 11/26 2:30pm @ Southwind*** L 83-48 Box Score",
+          "subjects": [
+            "Water Valley",
+            "Winona",
+            "Rosa Fort",
+            "Independence",
+            "North Pontotoc",
+            "Houlka",
+            "Southwind"
+          ]
+        }
+      },
+      {
+        "id": "earlier-coverage",
+        "kind": "context",
+        "claim": "Our earlier varsity recap covers North Pontotoc’s basketball sweep against Water Valley.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-26",
+        "evidence": {
+          "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-19/",
+          "excerpt": "North Pontotoc completed the countyâs run of basketball sweeps at Water Valley. The Viking girls won 51â26 to reach 6â2, while the boys won 53â48 and are listed at 6â1. Water Valley fell to 1â2 in girls basketball and 0â4 in boys basketball.",
+          "subjects": [
+            "North Pontotoc",
+            "Water Valley"
+          ]
+        }
+      },
+      {
+        "id": "dyson-game-award",
+        "kind": "result",
+        "claim": "MaxPreps lists London Dyson as Southwind’s Player of the Game for the Water Valley matchup.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-26",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/game/southwind-memphis-tn-vs-water-valley-ms/11-26-2026/?c=c1f14de5-3aff-4013-916e-b0b5c1780a4e",
+          "excerpt": "Player of the Game Jaguars Congratulations to #2 London Dyson for being selected the Southwind Basketball Player of the Game.",
+          "subjects": [
+            "London Dyson",
+            "Southwind"
+          ]
+        }
+      }
+    ]
+  }
+}
