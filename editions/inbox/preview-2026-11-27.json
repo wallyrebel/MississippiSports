@@ -1,0 +1,894 @@
+{
+  "version": 1,
+  "edition": "preview",
+  "date": "2026-11-27",
+  "verified_at": "2026-11-27T21:07:00+00:00",
+  "publish": true,
+  "checked_sports": [
+    "football",
+    "basketball",
+    "soccer",
+    "volleyball",
+    "bowling",
+    "wrestling"
+  ],
+  "games": [
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-27",
+      "home": "Tupelo",
+      "away": "Germantown",
+      "status": "scheduled",
+      "start_time": "2026-11-27T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/germantown-madison-vs-tupelo/11-27-2026/?c=ecf50399-372a-4e49-9938-c286fb4a69b8",
+        "excerpt": "Germantown vs Tupelo | Football | 11/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Germantown Varsity Football @ Tupelo Germantown Mavericks 8-4 Friday, Nov 27, 2026 7:00pm CST Tupelo Golden Wave 13-0 Germantown Varsity Football @ Tupelo Streaming & Ticketing Purchase Tickets Game Info The Germantown varsity football team has an away playoff game @ Tupelo (MS) today @ 7p.",
+        "date_excerpt": "11/27/2026",
+        "home_name": "Tupelo",
+        "away_name": "Germantown",
+        "time_excerpt": "7:00pm CST"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-27",
+      "home": "Oak Grove",
+      "away": "Brandon",
+      "status": "scheduled",
+      "start_time": "2026-11-27T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/brandon-vs-oak-grove-hattiesburg/11-27-2026/?c=3d46deb0-6f62-4887-aedd-2074541024ae",
+        "excerpt": "Brandon vs Oak Grove | Football | 11/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Brandon Varsity Football @ Oak Grove Brandon Bulldogs 9-3 Friday, Nov 27, 2026 7:00pm CST Oak Grove Warriors 10-2 Brandon Varsity Football @ Oak Grove Streaming & Ticketing Purchase Tickets Game Info The Brandon varsity football team has an away playoff game @ Oak Grove (Hattiesburg, MS) today @ 7p.",
+        "date_excerpt": "11/27/2026",
+        "home_name": "Oak Grove",
+        "away_name": "Brandon",
+        "time_excerpt": "7:00pm CST"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-27",
+      "home": "Warren Central",
+      "away": "South Panola",
+      "status": "scheduled",
+      "start_time": "2026-11-27T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/south-panola-batesville-vs-warren-central-vicksburg/11-27-2026/?c=14964f0f-7691-4d61-ad96-66fb535f693b",
+        "excerpt": "South Panola vs Warren Central | Football | 11/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football South Panola Varsity Football @ Warren Central South Panola Tigers 7-4 Friday, Nov 27, 2026 7:00pm CST Warren Central Vikings 12-0 South Panola Varsity Football @ Warren Central Game Info The South Panola varsity football team has an away playoff game @ Warren Central (Vicksburg, MS) today @ 7p.",
+        "date_excerpt": "11/27/2026",
+        "home_name": "Warren Central",
+        "away_name": "South Panola",
+        "time_excerpt": "7:00pm CST"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-27",
+      "home": "New Hope",
+      "away": "West Point",
+      "status": "scheduled",
+      "start_time": "2026-11-27T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/new-hope-columbus-vs-west-point/11-27-2026/?c=36e5ff28-d1bf-4890-8432-90f7c7016cb9",
+        "excerpt": "West Point vs New Hope | Football | 11/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football West Point Varsity Football @ New Hope West Point Green Wave 5-7 Friday, Nov 27, 2026 7:00pm CST New Hope Trojans 9-3 West Point Varsity Football @ New Hope Game Info The West Point varsity football team has an away playoff game @ New Hope (Columbus, MS) today @ 7p.",
+        "date_excerpt": "11/27/2026",
+        "home_name": "New Hope",
+        "away_name": "West Point",
+        "time_excerpt": "7:00pm CST"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-27",
+      "home": "Louisville",
+      "away": "Kosciusko",
+      "status": "scheduled",
+      "start_time": "2026-11-27T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/kosciusko-vs-louisville/11-27-2026/?c=79f16593-d8ce-4a2a-8fba-aa4a24447838",
+        "excerpt": "Kosciusko vs Louisville | Football | 11/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Kosciusko Varsity Football @ Louisville Kosciusko Whippets 12-1 Friday, Nov 27, 2026 7:00pm CST Louisville Wildcats 11-2 Kosciusko Varsity Football @ Louisville Game Info The Kosciusko varsity football team has an away playoff game @ Louisville (MS) today @ 7p.",
+        "date_excerpt": "11/27/2026",
+        "home_name": "Louisville",
+        "away_name": "Kosciusko",
+        "time_excerpt": "7:00pm CST"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-27",
+      "home": "Winona",
+      "away": "Noxubee County",
+      "status": "scheduled",
+      "start_time": "2026-11-27T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/noxubee-county-macon-vs-winona/11-27-2026/?c=ca3426d1-753a-4f53-9ef3-64adde5ecc88",
+        "excerpt": "Noxubee County vs Winona | Football | 11/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Noxubee County Varsity Football @ Winona Noxubee County Tigers 11-2 Friday, Nov 27, 2026 7:00pm CST Winona Tigers 13-0 Noxubee County Varsity Football @ Winona Game Info The Noxubee County varsity football team has an away playoff game @ Winona (MS) today @ 7p.",
+        "date_excerpt": "11/27/2026",
+        "home_name": "Winona",
+        "away_name": "Noxubee County",
+        "time_excerpt": "7:00pm CST"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-27",
+      "home": "Picayune",
+      "away": "Hattiesburg",
+      "status": "scheduled",
+      "start_time": "2026-11-27T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/hattiesburg-vs-picayune/11-27-2026/?c=8bad2bf9-348b-43d7-986d-4224198ebdea",
+        "excerpt": "Hattiesburg vs Picayune | Football | 11/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Hattiesburg Varsity Football @ Picayune Hattiesburg Tigers 9-3 Friday, Nov 27, 2026 7:00pm CST Picayune Maroon Tide 9-3 Hattiesburg Varsity Football @ Picayune Game Info The Hattiesburg varsity football team has an away playoff game @ Picayune (MS) today @ 7p.",
+        "date_excerpt": "11/27/2026",
+        "home_name": "Picayune",
+        "away_name": "Hattiesburg",
+        "time_excerpt": "7:00pm CST"
+      }
+    },
+    {
+      "sport": "football",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-27",
+      "home": "Poplarville",
+      "away": "Mendenhall",
+      "status": "scheduled",
+      "start_time": "2026-11-27T19:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/football/game/mendenhall-vs-poplarville/11-27-2026/?c=4b4cf9eb-3e89-475a-b4db-e650b729137d",
+        "excerpt": "Mendenhall vs Poplarville | Football | 11/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Football Mississippi High School Football Mendenhall Varsity Football @ Poplarville M Mendenhall Tigers 11-2 Friday, Nov 27, 2026 7:00pm CST Poplarville Hornets 12-0 Mendenhall Varsity Football @ Poplarville Streaming & Ticketing Purchase Tickets Game Info The Mendenhall varsity football team has an away playoff game @ Poplarville (MS) today @ 7p.",
+        "date_excerpt": "11/27/2026",
+        "home_name": "Poplarville",
+        "away_name": "Mendenhall",
+        "time_excerpt": "7:00pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-27",
+      "home": "Madison-Ridgeland Academy",
+      "away": "Benton",
+      "status": "scheduled",
+      "start_time": "2026-11-27T16:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/inter-state/basketball/game/benton-ar-vs-madison-ridgeland-academy-ms/11-27-2026/?c=34ee96bb-844a-47e9-9d93-23019219e6e7",
+        "excerpt": "Benton vs Madison-Ridgeland Academy | Basketball | 11/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Benton Boys Varsity Basketball vs. MRA Benton Panthers 5-0 Friday, Nov 27, 2026 4:00pm CST Madison-Ridgeland Academy Patriots 4-1 Benton Boys Varsity Basketball vs. MRA Game Info The Benton varsity basketball team has a neutral non-conference game vs. Madison-Ridgeland Academy (Madison, MS) today @ 4p.",
+        "date_excerpt": "11/27/2026",
+        "home_name": "Madison-Ridgeland Academy",
+        "away_name": "Benton",
+        "time_excerpt": "4:00pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-27",
+      "home": "Kirkwood",
+      "away": "Jackson Academy",
+      "status": "scheduled",
+      "start_time": "2026-11-27T17:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/inter-state/basketball/game/jackson-academy-ms-vs-kirkwood-clarksville-tn/11-27-2026/?c=aa1ace32-3183-434e-90fb-3239d73e5e74",
+        "excerpt": "Jackson Academy vs Kirkwood | Basketball | 11/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Tennessee High School Basketball Jackson Academy Boys Varsity Basketball vs. Kirkwood Jackson Academy Raiders 2-2 Friday, Nov 27, 2026 5:30pm CST K Kirkwood Cobras 3-0 Jackson Academy Boys Varsity Basketball vs. Kirkwood Game Info The Jackson Academy varsity basketball team has a neutral non-conference game vs. Kirkwood (Clarksville, TN) today @ 5:30p.",
+        "date_excerpt": "11/27/2026",
+        "home_name": "Kirkwood",
+        "away_name": "Jackson Academy",
+        "time_excerpt": "5:30pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-27",
+      "home": "Olive Branch",
+      "away": "Memphis East",
+      "status": "scheduled",
+      "start_time": "2026-11-27T17:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/inter-state/basketball/girls/game/memphis-east-tn-vs-olive-branch-ms/11-27-2026/?c=af683892-9171-47e1-85d8-ed84baa3082a",
+        "excerpt": "Memphis East vs Olive Branch | Basketball | 11/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Memphis East Girls Varsity Basketball @ Olive Branch Memphis East Mustangs 1-4 Friday, Nov 27, 2026 5:30pm CST Olive Branch Conquistadors 3-0 Memphis East Girls Varsity Basketball @ Olive Branch Game Info The Memphis East varsity basketball team has an away non-conference game @ Olive Branch (MS) today @ 5:30p.",
+        "date_excerpt": "11/27/2026",
+        "home_name": "Olive Branch",
+        "away_name": "Memphis East",
+        "time_excerpt": "5:30pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "girls",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-27",
+      "home": "Gentry",
+      "away": "Horn Lake",
+      "status": "scheduled",
+      "start_time": "2026-11-27T18:00:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/girls/game/gentry-indianola-vs-horn-lake/11-27-2026/?c=e5a6adf4-305e-48e4-91f9-933222cbc556",
+        "excerpt": "Horn Lake vs Gentry | Basketball | 11/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Girls Basketball Mississippi High School Basketball Horn Lake Girls Varsity Basketball @ Gentry Horn Lake Eagles 6-2 Friday, Nov 27, 2026 6:00pm CST Gentry Rams 2-2 Horn Lake Girls Varsity Basketball @ Gentry Game Info The Horn Lake varsity basketball team has an away non-conference game @ Gentry (Indianola, MS) today @ 6p.",
+        "date_excerpt": "11/27/2026",
+        "home_name": "Gentry",
+        "away_name": "Horn Lake",
+        "time_excerpt": "6:00pm CST"
+      }
+    },
+    {
+      "sport": "basketball",
+      "division": "boys",
+      "state": "MS",
+      "level": "high school varsity",
+      "date": "2026-11-27",
+      "home": "Gentry",
+      "away": "Horn Lake",
+      "status": "scheduled",
+      "start_time": "2026-11-27T19:30:00-06:00",
+      "evidence": {
+        "url": "https://www.maxpreps.com/ms/basketball/game/gentry-indianola-vs-horn-lake/11-27-2026/?c=b51c3c0b-0d9c-46ee-b73b-73ff15fb7e39",
+        "excerpt": "Horn Lake vs Gentry | Basketball | 11/27/2026 MaxPreps GoFan Ticketing NFHS Network Streaming MaxPreps Advantage Coach Tools Football Football Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams Baseball Baseball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams B. Basketball B. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Basketball G. Basketball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Videos Record Book News Live Streams G. Volleyball G. Volleyball Home Teams Players States Scores Rankings Stat leaders Photos Playoffs Record Book News Live Streams POPULAR SPORTS All Sports Boys Baseball Basketball Beach Volleyball Cross Country Football Golf Ice Hockey Lacrosse Soccer Swimming Tennis Track & Field Volleyball Water Polo Wrestling Girls Basketball Beach Volleyball Cross Country Field Hockey Flag Football Golf Ice Hockey Lacrosse Soccer Softball Swimming Tennis Track & Field Volleyball Water Polo Apps MaxPreps Follow your favorite high school teams and players MP Stats for iPad Stat keeping for basketball teams Pro Photography Photo Galleries Explore and purchase photos of your local teams and players Watch Video Center See top plays & highlights of the best high school sports Live Streams & Replays Get access to live game streams and full replays for 8000+ schools Content Contributors Coaches Set up your high school team GoFan Ticketing Digital Tickets Don't miss the action – Get Official Tickets Sign in High School Basketball Mississippi High School Basketball Horn Lake Boys Varsity Basketball @ Gentry Horn Lake Eagles 4-3 Friday, Nov 27, 2026 7:30pm CST Gentry Rams 4-2 Horn Lake Boys Varsity Basketball @ Gentry Game Info The Horn Lake varsity basketball team has an away non-conference game @ Gentry (Indianola, MS) today @ 7:30p.",
+        "date_excerpt": "11/27/2026",
+        "home_name": "Gentry",
+        "away_name": "Horn Lake",
+        "time_excerpt": "7:30pm CST"
+      }
+    }
+  ],
+  "related_links": [
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-20/",
+      "title": "Previous Friday varsity playoff results"
+    },
+    {
+      "url": "https://sportsmississippi.com/sports/sportsms-scores-2026-11-23/",
+      "title": "Earlier MRA and Horn Lake basketball results"
+    }
+  ],
+  "article": {
+    "reviewed": true,
+    "headline": "Games To Watch: State-final spots await as Tupelo and Warren Central defend perfect runs",
+    "headline_fact_ids": [
+      "game-0",
+      "records-0",
+      "game-2",
+      "records-2",
+      "class-7a",
+      "stakes-7a",
+      "class-6a",
+      "stakes-6a"
+    ],
+    "html": "<p data-facts=\"game-0 records-0 game-2 records-2 class-7a stakes-7a class-6a stakes-6a\">Tupelo and Warren Central carry perfect football records into home games with state-championship berths on the line Friday night. Germantown visits the 13–0 Golden Wave, while South Panola travels to face the 12–0 Vikings. Both games kick off at 7 p.m. Central.</p>\n<p data-facts=\"game-0 game-8 records-8 game-9 game-10 records-10 game-11 game-12\">The remaining November 27, 2026, varsity slate also offers an unbeaten Benton team against Madison-Ridgeland Academy at the Lighthouse Classic, Olive Branch’s unbeaten girls at home, and a Horn Lake basketball doubleheader in Indianola. These are selected upcoming games, with entering records checked on their matchup pages. All times below are Central Standard Time.</p>\n<h2 data-facts=\"game-0 game-1 class-7a stakes-7a\">Class 7A: Tupelo’s perfect run meets a winning road team</h2>\n<p data-facts=\"game-0 records-0 germantown-form class-7a stakes-7a\">Germantown brings an 8–4 record to <a href=\"https://www.maxpreps.com/ms/football/game/germantown-madison-vs-tupelo/11-27-2026/?c=ecf50399-372a-4e49-9938-c286fb4a69b8\">the 7 p.m. playoff game at Tupelo</a>. The Mavericks’ current schedule also lists a four-game winning streak and a 5–2 away record. That makes the visitor’s recent form a meaningful part of this matchup: Tupelo is protecting a perfect season, while Germantown has been winning and has a successful road record of its own.</p>\n<p data-facts=\"game-1 records-1 class-7a stakes-7a\">In the other 7A state-final qualifier, <a href=\"https://www.maxpreps.com/ms/football/game/brandon-vs-oak-grove-hattiesburg/11-27-2026/?c=3d46deb0-6f62-4887-aedd-2074541024ae\">Brandon visits Oak Grove at 7 p.m. in Hattiesburg</a>. Oak Grove enters 10–2 and Brandon 9–3. The class bracket places the winners of these two games opposite each other in the championship, so Friday’s results will settle both sides of that final. Earlier playoff coverage is available in our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-11-20/\">previous Friday varsity recap</a>.</p>\n<h2 data-facts=\"game-2 game-6 class-6a stakes-6a\">Class 6A: Warren Central defends a perfect record; Hattiesburg visits Picayune</h2>\n<p data-facts=\"game-2 records-2 class-6a stakes-6a\">South Panola is listed at 7–4 ahead of <a href=\"https://www.maxpreps.com/ms/football/game/south-panola-batesville-vs-warren-central-vicksburg/11-27-2026/?c=14964f0f-7691-4d61-ad96-66fb535f693b\">its 7 p.m. trip to Warren Central in Vicksburg</a>. The Vikings have won all their reported games and now have a state-final place to secure at home. South Panola has reached the same stage with a different overall record, giving the Tigers a chance to end Warren Central’s unbeaten run while extending their own postseason.</p>\n<p data-facts=\"game-6 records-6 class-6a stakes-6a\">The other 6A semifinal pairs <a href=\"https://www.maxpreps.com/ms/football/game/hattiesburg-vs-picayune/11-27-2026/?c=8bad2bf9-348b-43d7-986d-4224198ebdea\">Hattiesburg and host Picayune at 7 p.m.</a>, with both teams listed at 9–3. Their matching records give the Maroon Tide and Tigers an even comparison in wins and losses entering the game. The winner advances to meet either South Panola or Warren Central. The <a href=\"https://www.maxpreps.com/tournament/7Qe55DhJ3U-Et2Lh98aBLQ/RW2Ies307EKaFHfUoXsnYA/football-26/2026-football-championships-6a.htm\">6A bracket</a> also lists viewing links for both semifinal matchups.</p>\n<h2 data-facts=\"game-3 class-5a stakes-5a\">Class 5A: West Point and New Hope play for a championship berth</h2>\n<p data-facts=\"game-3 records-3 class-5a stakes-5a\"><a href=\"https://www.maxpreps.com/ms/football/game/new-hope-columbus-vs-west-point/11-27-2026/?c=36e5ff28-d1bf-4890-8432-90f7c7016cb9\">West Point visits New Hope at 7 p.m. in Columbus</a>. The Green Wave are listed at 5–7 and the Trojans at 9–3, but both have reached the North-South round of the class bracket. That postseason position is the key to this game: New Hope can turn its home semifinal into a championship appearance, while West Point can advance despite an overall losing record. The <a href=\"https://www.maxpreps.com/tournament/7Qe55DhJ3U-Et2Lh98aBLQ/9s_OuAQucUaEHpSVtfiygA/football-26/2026-football-championships-5a.htm\">5A bracket</a> includes a stream listing for the matchup.</p>\n<h2 data-facts=\"game-4 game-7 class-4a stakes-4a\">Class 4A: Kosciusko–Louisville and Mendenhall–Poplarville set the final</h2>\n<p data-facts=\"game-4 records-4 class-4a stakes-4a\">Kosciusko enters <a href=\"https://www.maxpreps.com/ms/football/game/kosciusko-vs-louisville/11-27-2026/?c=79f16593-d8ce-4a2a-8fba-aa4a24447838\">the 7 p.m. game at Louisville</a> at 12–1, with the Wildcats listed at 11–2. Both have double-digit wins and only a small number of defeats, making this one of the strongest record-based pairings in the selection. Their place in the North-South round adds the decisive stake: the winner moves into the state championship.</p>\n<p data-facts=\"game-7 records-7 class-4a stakes-4a\"><a href=\"https://www.maxpreps.com/ms/football/game/mendenhall-vs-poplarville/11-27-2026/?c=4b4cf9eb-3e89-475a-b4db-e650b729137d\">Poplarville hosts Mendenhall at 7 p.m.</a> in the other 4A semifinal. The Hornets are 12–0 and the Tigers 11–2. Poplarville has a perfect season to protect against a visitor with a substantial winning record; the winner will face either Kosciusko or Louisville in the class final. The <a href=\"https://www.maxpreps.com/tournament/7Qe55DhJ3U-Et2Lh98aBLQ/6LZ-gI65Bk2RLnuB92Ndsg/football-26/2026-football-championships-4a.htm\">4A bracket</a> has the connected matchups and a viewing listing for Kosciusko–Louisville.</p>\n<h2 data-facts=\"game-5 records-5 context-5\">Winona puts a 13–0 record against Noxubee County</h2>\n<p data-facts=\"game-5 records-5 context-5\">Winona is also unbeaten at 13–0 ahead of <a href=\"https://www.maxpreps.com/ms/football/game/noxubee-county-macon-vs-winona/11-27-2026/?c=ca3426d1-753a-4f53-9ef3-64adde5ecc88\">the 7 p.m. home game against Noxubee County</a>. The visiting Tigers are listed at 11–2, and the matchup page explicitly identifies the game as the 3A North Half Championship. Winona’s perfect record and Noxubee County’s winning season therefore meet with a half-state title at stake.</p>\n<h2 data-facts=\"game-8 game-9 context-8 context-9\">Lighthouse Classic: MRA faces unbeaten Benton; Jackson Academy meets Kirkwood</h2>\n<p data-facts=\"game-8 records-8 context-8 context-9\">Madison-Ridgeland Academy meets <a href=\"https://www.maxpreps.com/inter-state/basketball/game/benton-ar-vs-madison-ridgeland-academy-ms/11-27-2026/?c=34ee96bb-844a-47e9-9d93-23019219e6e7\">Benton at 4 p.m.</a> in a neutral-site Lighthouse Classic game. Benton is 5–0 and MRA 4–1. The Patriots have a strong opening record and an opportunity to challenge a team without a reported loss. This is an early remaining tipoff in the selection, ahead of the evening football games.</p>\n<p data-facts=\"game-9 records-9 context-9 game-8 context-8\"><a href=\"https://www.maxpreps.com/inter-state/basketball/game/jackson-academy-ms-vs-kirkwood-clarksville-tn/11-27-2026/?c=aa1ace32-3183-434e-90fb-3239d73e5e74\">Jackson Academy faces Kirkwood at 5:30 p.m.</a> in the Lighthouse Classic in Corinth. The Raiders are 2–2 and Kirkwood, from Clarksville, Tennessee, is 3–0. Jackson Academy can move above an even record by handing the Cobras their first reported defeat. Both basketball games are listed as neutral-site matchups.</p>\n<h2 data-facts=\"game-10 game-11 game-12\">Olive Branch hosts Memphis East; Horn Lake travels to Gentry</h2>\n<p data-facts=\"game-10 records-10 context-10\">Olive Branch’s girls bring a 3–0 record to <a href=\"https://www.maxpreps.com/inter-state/basketball/girls/game/memphis-east-tn-vs-olive-branch-ms/11-27-2026/?c=af683892-9171-47e1-85d8-ed84baa3082a\">the 5:30 p.m. home game against Memphis East</a>. The visiting Mustangs are listed at 1–4. The Conquistadors have a perfect start to defend at home, while Memphis East has an opportunity to improve its opening against an unbeaten opponent.</p>\n<p data-facts=\"game-11 records-11 context-11\">Horn Lake’s girls are 6–2 ahead of <a href=\"https://www.maxpreps.com/ms/basketball/girls/game/gentry-indianola-vs-horn-lake/11-27-2026/?c=e5a6adf4-305e-48e4-91f9-933222cbc556\">their 6 p.m. game at Gentry in Indianola</a>. The Rams enter 2–2. Horn Lake has a winning start to build on, while Gentry can move above an even record with a home victory.</p>\n<p data-facts=\"game-12 records-12 context-12\">The <a href=\"https://www.maxpreps.com/ms/basketball/game/gentry-indianola-vs-horn-lake/11-27-2026/?c=b51c3c0b-0d9c-46ee-b73b-73ff15fb7e39\">boys game follows at 7:30 p.m.</a>, with Horn Lake listed at 4–3 and Gentry at 4–2. Both teams have winning records entering the matchup, giving the later game a different balance from the girls opener. Our <a href=\"https://sportsmississippi.com/sports/sportsms-scores-2026-11-23/\">earlier basketball recap</a> provides background on recent MRA and Horn Lake results.</p>",
+    "facts": [
+      {
+        "id": "records-0",
+        "kind": "record",
+        "claim": "High School Football Mississippi High School Football Germantown Varsity Football @ Tupelo Germantown Mavericks 8-4 Friday, Nov 27, 2026 7:00pm CST Tupelo Golden Wave 13-0 Germantown Varsity Football @ Tupelo Streaming & Ticketing Purchase Tickets",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/germantown-madison-vs-tupelo/11-27-2026/?c=ecf50399-372a-4e49-9938-c286fb4a69b8",
+          "excerpt": "High School Football Mississippi High School Football Germantown Varsity Football @ Tupelo Germantown Mavericks 8-4 Friday, Nov 27, 2026 7:00pm CST Tupelo Golden Wave 13-0 Germantown Varsity Football @ Tupelo Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "Germantown",
+            "Tupelo"
+          ]
+        }
+      },
+      {
+        "id": "context-0",
+        "kind": "context",
+        "claim": "Game Info The Germantown varsity football team has an away playoff game @ Tupelo (MS) today @ 7p. Scorekeeper J. Newell THS Scorekeeper No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Friday, Nov 27, 2026 7:00pm CST Playoff 2026 Football Championships",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/germantown-madison-vs-tupelo/11-27-2026/?c=ecf50399-372a-4e49-9938-c286fb4a69b8",
+          "excerpt": "Game Info The Germantown varsity football team has an away playoff game @ Tupelo (MS) today @ 7p. Scorekeeper J. Newell THS Scorekeeper No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Friday, Nov 27, 2026 7:00pm CST Playoff 2026 Football Championships",
+          "subjects": [
+            "Germantown",
+            "Tupelo"
+          ]
+        }
+      },
+      {
+        "id": "records-1",
+        "kind": "record",
+        "claim": "High School Football Mississippi High School Football Brandon Varsity Football @ Oak Grove Brandon Bulldogs 9-3 Friday, Nov 27, 2026 7:00pm CST Oak Grove Warriors 10-2 Brandon Varsity Football @ Oak Grove Streaming & Ticketing Purchase Tickets",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/brandon-vs-oak-grove-hattiesburg/11-27-2026/?c=3d46deb0-6f62-4887-aedd-2074541024ae",
+          "excerpt": "High School Football Mississippi High School Football Brandon Varsity Football @ Oak Grove Brandon Bulldogs 9-3 Friday, Nov 27, 2026 7:00pm CST Oak Grove Warriors 10-2 Brandon Varsity Football @ Oak Grove Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "Brandon",
+            "Oak Grove"
+          ]
+        }
+      },
+      {
+        "id": "context-1",
+        "kind": "context",
+        "claim": "Game Info The Brandon varsity football team has an away playoff game @ Oak Grove (Hattiesburg, MS) today @ 7p. Scorekeeper B. Coleman OGHS Scorekeeper No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Friday, Nov 27, 2026 7:00pm CST Playoff 2026 Football Championships Brandon",
+        "game_indexes": [
+          1
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/brandon-vs-oak-grove-hattiesburg/11-27-2026/?c=3d46deb0-6f62-4887-aedd-2074541024ae",
+          "excerpt": "Game Info The Brandon varsity football team has an away playoff game @ Oak Grove (Hattiesburg, MS) today @ 7p. Scorekeeper B. Coleman OGHS Scorekeeper No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Friday, Nov 27, 2026 7:00pm CST Playoff 2026 Football Championships Brandon",
+          "subjects": [
+            "Brandon",
+            "Oak Grove"
+          ]
+        }
+      },
+      {
+        "id": "records-2",
+        "kind": "record",
+        "claim": "High School Football Mississippi High School Football South Panola Varsity Football @ Warren Central South Panola Tigers 7-4 Friday, Nov 27, 2026 7:00pm CST Warren Central Vikings 12-0 South Panola Varsity Football @ Warren Central",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/south-panola-batesville-vs-warren-central-vicksburg/11-27-2026/?c=14964f0f-7691-4d61-ad96-66fb535f693b",
+          "excerpt": "High School Football Mississippi High School Football South Panola Varsity Football @ Warren Central South Panola Tigers 7-4 Friday, Nov 27, 2026 7:00pm CST Warren Central Vikings 12-0 South Panola Varsity Football @ Warren Central",
+          "subjects": [
+            "South Panola",
+            "Warren Central"
+          ]
+        }
+      },
+      {
+        "id": "context-2",
+        "kind": "context",
+        "claim": "Game Info The South Panola varsity football team has an away playoff game @ Warren Central (Vicksburg, MS) today @ 7p. Scorekeeper No Scorekeeper Sign Up to Score Game K. Farmer SPHS Scorekeeper Matchup Videos Roster Game Details Friday, Nov 27, 2026 7:00pm CST Playoff 2026 Football Championships Warren Central (Vicksburg)",
+        "game_indexes": [
+          2
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/south-panola-batesville-vs-warren-central-vicksburg/11-27-2026/?c=14964f0f-7691-4d61-ad96-66fb535f693b",
+          "excerpt": "Game Info The South Panola varsity football team has an away playoff game @ Warren Central (Vicksburg, MS) today @ 7p. Scorekeeper No Scorekeeper Sign Up to Score Game K. Farmer SPHS Scorekeeper Matchup Videos Roster Game Details Friday, Nov 27, 2026 7:00pm CST Playoff 2026 Football Championships Warren Central (Vicksburg)",
+          "subjects": [
+            "South Panola",
+            "Warren Central"
+          ]
+        }
+      },
+      {
+        "id": "records-3",
+        "kind": "record",
+        "claim": "High School Football Mississippi High School Football West Point Varsity Football @ New Hope West Point Green Wave 5-7 Friday, Nov 27, 2026 7:00pm CST New Hope Trojans 9-3 West Point Varsity Football @ New Hope",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/new-hope-columbus-vs-west-point/11-27-2026/?c=36e5ff28-d1bf-4890-8432-90f7c7016cb9",
+          "excerpt": "High School Football Mississippi High School Football West Point Varsity Football @ New Hope West Point Green Wave 5-7 Friday, Nov 27, 2026 7:00pm CST New Hope Trojans 9-3 West Point Varsity Football @ New Hope",
+          "subjects": [
+            "West Point",
+            "New Hope"
+          ]
+        }
+      },
+      {
+        "id": "context-3",
+        "kind": "context",
+        "claim": "Game Info The West Point varsity football team has an away playoff game @ New Hope (Columbus, MS) today @ 7p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Videos Roster Game Details Friday, Nov 27, 2026 7:00pm CST Playoff 2026 Football Championships New Hope (Columbus)",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/new-hope-columbus-vs-west-point/11-27-2026/?c=36e5ff28-d1bf-4890-8432-90f7c7016cb9",
+          "excerpt": "Game Info The West Point varsity football team has an away playoff game @ New Hope (Columbus, MS) today @ 7p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Videos Roster Game Details Friday, Nov 27, 2026 7:00pm CST Playoff 2026 Football Championships New Hope (Columbus)",
+          "subjects": [
+            "West Point",
+            "New Hope"
+          ]
+        }
+      },
+      {
+        "id": "records-4",
+        "kind": "record",
+        "claim": "High School Football Mississippi High School Football Kosciusko Varsity Football @ Louisville Kosciusko Whippets 12-1 Friday, Nov 27, 2026 7:00pm CST Louisville Wildcats 11-2 Kosciusko Varsity Football @ Louisville",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/kosciusko-vs-louisville/11-27-2026/?c=79f16593-d8ce-4a2a-8fba-aa4a24447838",
+          "excerpt": "High School Football Mississippi High School Football Kosciusko Varsity Football @ Louisville Kosciusko Whippets 12-1 Friday, Nov 27, 2026 7:00pm CST Louisville Wildcats 11-2 Kosciusko Varsity Football @ Louisville",
+          "subjects": [
+            "Kosciusko",
+            "Louisville"
+          ]
+        }
+      },
+      {
+        "id": "context-4",
+        "kind": "context",
+        "claim": "Game Info The Kosciusko varsity football team has an away playoff game @ Louisville (MS) today @ 7p. Scorekeeper No Scorekeeper Sign Up to Score Game J. Parks KHS Scorekeeper Matchup Videos Roster Game Details Friday, Nov 27, 2026 7:00pm CST Playoff 2026 Football Championships Louisville",
+        "game_indexes": [
+          4
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/kosciusko-vs-louisville/11-27-2026/?c=79f16593-d8ce-4a2a-8fba-aa4a24447838",
+          "excerpt": "Game Info The Kosciusko varsity football team has an away playoff game @ Louisville (MS) today @ 7p. Scorekeeper No Scorekeeper Sign Up to Score Game J. Parks KHS Scorekeeper Matchup Videos Roster Game Details Friday, Nov 27, 2026 7:00pm CST Playoff 2026 Football Championships Louisville",
+          "subjects": [
+            "Kosciusko",
+            "Louisville"
+          ]
+        }
+      },
+      {
+        "id": "records-5",
+        "kind": "record",
+        "claim": "High School Football Mississippi High School Football Noxubee County Varsity Football @ Winona Noxubee County Tigers 11-2 Friday, Nov 27, 2026 7:00pm CST Winona Tigers 13-0 Noxubee County Varsity Football @ Winona",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/noxubee-county-macon-vs-winona/11-27-2026/?c=ca3426d1-753a-4f53-9ef3-64adde5ecc88",
+          "excerpt": "High School Football Mississippi High School Football Noxubee County Varsity Football @ Winona Noxubee County Tigers 11-2 Friday, Nov 27, 2026 7:00pm CST Winona Tigers 13-0 Noxubee County Varsity Football @ Winona",
+          "subjects": [
+            "Noxubee County",
+            "Winona"
+          ]
+        }
+      },
+      {
+        "id": "context-5",
+        "kind": "context",
+        "claim": "Game Info The Noxubee County varsity football team has an away playoff game @ Winona (MS) today @ 7p. Scorekeeper M. Walker WHS Scorekeeper No Scorekeeper Sign Up to Score Game Matchup Videos Roster Game Details Friday, Nov 27, 2026 7:00pm CST Playoff 2026 Football Championships 3A North Half Championship Winona",
+        "game_indexes": [
+          5
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/noxubee-county-macon-vs-winona/11-27-2026/?c=ca3426d1-753a-4f53-9ef3-64adde5ecc88",
+          "excerpt": "Game Info The Noxubee County varsity football team has an away playoff game @ Winona (MS) today @ 7p. Scorekeeper M. Walker WHS Scorekeeper No Scorekeeper Sign Up to Score Game Matchup Videos Roster Game Details Friday, Nov 27, 2026 7:00pm CST Playoff 2026 Football Championships 3A North Half Championship Winona",
+          "subjects": [
+            "Noxubee County",
+            "Winona"
+          ]
+        }
+      },
+      {
+        "id": "records-6",
+        "kind": "record",
+        "claim": "High School Football Mississippi High School Football Hattiesburg Varsity Football @ Picayune Hattiesburg Tigers 9-3 Friday, Nov 27, 2026 7:00pm CST Picayune Maroon Tide 9-3 Hattiesburg Varsity Football @ Picayune",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/hattiesburg-vs-picayune/11-27-2026/?c=8bad2bf9-348b-43d7-986d-4224198ebdea",
+          "excerpt": "High School Football Mississippi High School Football Hattiesburg Varsity Football @ Picayune Hattiesburg Tigers 9-3 Friday, Nov 27, 2026 7:00pm CST Picayune Maroon Tide 9-3 Hattiesburg Varsity Football @ Picayune",
+          "subjects": [
+            "Hattiesburg",
+            "Picayune"
+          ]
+        }
+      },
+      {
+        "id": "context-6",
+        "kind": "context",
+        "claim": "Game Info The Hattiesburg varsity football team has an away playoff game @ Picayune (MS) today @ 7p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Videos Roster Game Details Friday, Nov 27, 2026 7:00pm CST Playoff 2026 Football Championships Hattiesburg",
+        "game_indexes": [
+          6
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/hattiesburg-vs-picayune/11-27-2026/?c=8bad2bf9-348b-43d7-986d-4224198ebdea",
+          "excerpt": "Game Info The Hattiesburg varsity football team has an away playoff game @ Picayune (MS) today @ 7p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Videos Roster Game Details Friday, Nov 27, 2026 7:00pm CST Playoff 2026 Football Championships Hattiesburg",
+          "subjects": [
+            "Hattiesburg",
+            "Picayune"
+          ]
+        }
+      },
+      {
+        "id": "records-7",
+        "kind": "record",
+        "claim": "High School Football Mississippi High School Football Mendenhall Varsity Football @ Poplarville M Mendenhall Tigers 11-2 Friday, Nov 27, 2026 7:00pm CST Poplarville Hornets 12-0 Mendenhall Varsity Football @ Poplarville Streaming & Ticketing Purchase Tickets",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/mendenhall-vs-poplarville/11-27-2026/?c=4b4cf9eb-3e89-475a-b4db-e650b729137d",
+          "excerpt": "High School Football Mississippi High School Football Mendenhall Varsity Football @ Poplarville M Mendenhall Tigers 11-2 Friday, Nov 27, 2026 7:00pm CST Poplarville Hornets 12-0 Mendenhall Varsity Football @ Poplarville Streaming & Ticketing Purchase Tickets",
+          "subjects": [
+            "Mendenhall",
+            "Poplarville"
+          ]
+        }
+      },
+      {
+        "id": "context-7",
+        "kind": "context",
+        "claim": "Game Info The Mendenhall varsity football team has an away playoff game @ Poplarville (MS) today @ 7p. Scorekeeper J. WELLS PHS Scorekeeper M L. SEVEN MHS Scorekeeper Matchup Roster Game Details Friday, Nov 27, 2026 7:00pm CST Playoff 2026 Football Championships",
+        "game_indexes": [
+          7
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/football/game/mendenhall-vs-poplarville/11-27-2026/?c=4b4cf9eb-3e89-475a-b4db-e650b729137d",
+          "excerpt": "Game Info The Mendenhall varsity football team has an away playoff game @ Poplarville (MS) today @ 7p. Scorekeeper J. WELLS PHS Scorekeeper M L. SEVEN MHS Scorekeeper Matchup Roster Game Details Friday, Nov 27, 2026 7:00pm CST Playoff 2026 Football Championships",
+          "subjects": [
+            "Mendenhall",
+            "Poplarville"
+          ]
+        }
+      },
+      {
+        "id": "records-8",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Benton Boys Varsity Basketball vs. MRA Benton Panthers 5-0 Friday, Nov 27, 2026 4:00pm CST Madison-Ridgeland Academy Patriots 4-1 Benton Boys Varsity Basketball vs. MRA",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/game/benton-ar-vs-madison-ridgeland-academy-ms/11-27-2026/?c=34ee96bb-844a-47e9-9d93-23019219e6e7",
+          "excerpt": "High School Basketball Mississippi High School Basketball Benton Boys Varsity Basketball vs. MRA Benton Panthers 5-0 Friday, Nov 27, 2026 4:00pm CST Madison-Ridgeland Academy Patriots 4-1 Benton Boys Varsity Basketball vs. MRA",
+          "subjects": [
+            "Benton",
+            "Madison-Ridgeland Academy"
+          ]
+        }
+      },
+      {
+        "id": "context-8",
+        "kind": "context",
+        "claim": "Game Info The Benton varsity basketball team has a neutral non-conference game vs. Madison-Ridgeland Academy (Madison, MS) today @ 4p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Friday, Nov 27, 2026 4:00pm CST Non-District Lighthouse Classic Madison-Ridgeland Academy (Madison)",
+        "game_indexes": [
+          8
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/game/benton-ar-vs-madison-ridgeland-academy-ms/11-27-2026/?c=34ee96bb-844a-47e9-9d93-23019219e6e7",
+          "excerpt": "Game Info The Benton varsity basketball team has a neutral non-conference game vs. Madison-Ridgeland Academy (Madison, MS) today @ 4p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Friday, Nov 27, 2026 4:00pm CST Non-District Lighthouse Classic Madison-Ridgeland Academy (Madison)",
+          "subjects": [
+            "Benton",
+            "Madison-Ridgeland Academy"
+          ]
+        }
+      },
+      {
+        "id": "records-9",
+        "kind": "record",
+        "claim": "High School Basketball Tennessee High School Basketball Jackson Academy Boys Varsity Basketball vs. Kirkwood Jackson Academy Raiders 2-2 Friday, Nov 27, 2026 5:30pm CST K Kirkwood Cobras 3-0 Jackson Academy Boys Varsity Basketball vs. Kirkwood",
+        "game_indexes": [
+          9
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/game/jackson-academy-ms-vs-kirkwood-clarksville-tn/11-27-2026/?c=aa1ace32-3183-434e-90fb-3239d73e5e74",
+          "excerpt": "High School Basketball Tennessee High School Basketball Jackson Academy Boys Varsity Basketball vs. Kirkwood Jackson Academy Raiders 2-2 Friday, Nov 27, 2026 5:30pm CST K Kirkwood Cobras 3-0 Jackson Academy Boys Varsity Basketball vs. Kirkwood",
+          "subjects": [
+            "Jackson Academy",
+            "Kirkwood"
+          ]
+        }
+      },
+      {
+        "id": "context-9",
+        "kind": "context",
+        "claim": "Game Info The Jackson Academy varsity basketball team has a neutral non-conference game vs. Kirkwood (Clarksville, TN) today @ 5:30p. Scorekeeper K No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Friday, Nov 27, 2026 5:30pm CST Non-District Lighthouse Classic, Corinth MS Kirkwood (Clarksville)",
+        "game_indexes": [
+          9
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/game/jackson-academy-ms-vs-kirkwood-clarksville-tn/11-27-2026/?c=aa1ace32-3183-434e-90fb-3239d73e5e74",
+          "excerpt": "Game Info The Jackson Academy varsity basketball team has a neutral non-conference game vs. Kirkwood (Clarksville, TN) today @ 5:30p. Scorekeeper K No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Friday, Nov 27, 2026 5:30pm CST Non-District Lighthouse Classic, Corinth MS Kirkwood (Clarksville)",
+          "subjects": [
+            "Jackson Academy",
+            "Kirkwood"
+          ]
+        }
+      },
+      {
+        "id": "records-10",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball Memphis East Girls Varsity Basketball @ Olive Branch Memphis East Mustangs 1-4 Friday, Nov 27, 2026 5:30pm CST Olive Branch Conquistadors 3-0 Memphis East Girls Varsity Basketball @ Olive Branch",
+        "game_indexes": [
+          10
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/girls/game/memphis-east-tn-vs-olive-branch-ms/11-27-2026/?c=af683892-9171-47e1-85d8-ed84baa3082a",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Memphis East Girls Varsity Basketball @ Olive Branch Memphis East Mustangs 1-4 Friday, Nov 27, 2026 5:30pm CST Olive Branch Conquistadors 3-0 Memphis East Girls Varsity Basketball @ Olive Branch",
+          "subjects": [
+            "Memphis East",
+            "Olive Branch"
+          ]
+        }
+      },
+      {
+        "id": "context-10",
+        "kind": "context",
+        "claim": "Game Info The Memphis East varsity basketball team has an away non-conference game @ Olive Branch (MS) today @ 5:30p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Friday, Nov 27, 2026 5:30pm CST Non-District",
+        "game_indexes": [
+          10
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/inter-state/basketball/girls/game/memphis-east-tn-vs-olive-branch-ms/11-27-2026/?c=af683892-9171-47e1-85d8-ed84baa3082a",
+          "excerpt": "Game Info The Memphis East varsity basketball team has an away non-conference game @ Olive Branch (MS) today @ 5:30p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Friday, Nov 27, 2026 5:30pm CST Non-District",
+          "subjects": [
+            "Memphis East",
+            "Olive Branch"
+          ]
+        }
+      },
+      {
+        "id": "records-11",
+        "kind": "record",
+        "claim": "High School Girls Basketball Mississippi High School Basketball Horn Lake Girls Varsity Basketball @ Gentry Horn Lake Eagles 6-2 Friday, Nov 27, 2026 6:00pm CST Gentry Rams 2-2 Horn Lake Girls Varsity Basketball @ Gentry",
+        "game_indexes": [
+          11
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/gentry-indianola-vs-horn-lake/11-27-2026/?c=e5a6adf4-305e-48e4-91f9-933222cbc556",
+          "excerpt": "High School Girls Basketball Mississippi High School Basketball Horn Lake Girls Varsity Basketball @ Gentry Horn Lake Eagles 6-2 Friday, Nov 27, 2026 6:00pm CST Gentry Rams 2-2 Horn Lake Girls Varsity Basketball @ Gentry",
+          "subjects": [
+            "Horn Lake",
+            "Gentry"
+          ]
+        }
+      },
+      {
+        "id": "context-11",
+        "kind": "context",
+        "claim": "Game Info The Horn Lake varsity basketball team has an away non-conference game @ Gentry (Indianola, MS) today @ 6p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Friday, Nov 27, 2026 6:00pm CST Non-District",
+        "game_indexes": [
+          11
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/girls/game/gentry-indianola-vs-horn-lake/11-27-2026/?c=e5a6adf4-305e-48e4-91f9-933222cbc556",
+          "excerpt": "Game Info The Horn Lake varsity basketball team has an away non-conference game @ Gentry (Indianola, MS) today @ 6p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Friday, Nov 27, 2026 6:00pm CST Non-District",
+          "subjects": [
+            "Horn Lake",
+            "Gentry"
+          ]
+        }
+      },
+      {
+        "id": "records-12",
+        "kind": "record",
+        "claim": "High School Basketball Mississippi High School Basketball Horn Lake Boys Varsity Basketball @ Gentry Horn Lake Eagles 4-3 Friday, Nov 27, 2026 7:30pm CST Gentry Rams 4-2 Horn Lake Boys Varsity Basketball @ Gentry",
+        "game_indexes": [
+          12
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/gentry-indianola-vs-horn-lake/11-27-2026/?c=b51c3c0b-0d9c-46ee-b73b-73ff15fb7e39",
+          "excerpt": "High School Basketball Mississippi High School Basketball Horn Lake Boys Varsity Basketball @ Gentry Horn Lake Eagles 4-3 Friday, Nov 27, 2026 7:30pm CST Gentry Rams 4-2 Horn Lake Boys Varsity Basketball @ Gentry",
+          "subjects": [
+            "Horn Lake",
+            "Gentry"
+          ]
+        }
+      },
+      {
+        "id": "context-12",
+        "kind": "context",
+        "claim": "Game Info The Horn Lake varsity basketball team has an away non-conference game @ Gentry (Indianola, MS) today @ 7:30p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Friday, Nov 27, 2026 7:30pm CST Non-District Kirk Price Classic",
+        "game_indexes": [
+          12
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/basketball/game/gentry-indianola-vs-horn-lake/11-27-2026/?c=b51c3c0b-0d9c-46ee-b73b-73ff15fb7e39",
+          "excerpt": "Game Info The Horn Lake varsity basketball team has an away non-conference game @ Gentry (Indianola, MS) today @ 7:30p. Scorekeeper No Scorekeeper Sign Up to Score Game No Scorekeeper Sign Up to Score Game Matchup Roster Game Details Friday, Nov 27, 2026 7:30pm CST Non-District Kirk Price Classic",
+          "subjects": [
+            "Horn Lake",
+            "Gentry"
+          ]
+        }
+      },
+      {
+        "id": "class-7a",
+        "kind": "context",
+        "claim": "This is the 7A bracket in the 2026 Football Championships.",
+        "game_indexes": [
+          0,
+          1
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/7Qe55DhJ3U-Et2Lh98aBLQ/CNwRYYOM7EO7I6nYYiA5Qw/football-26/2026-football-championships-7a.htm",
+          "excerpt": "2026 Football Championships Search Tournaments MS Football Playoffs 2026 MS Brackets Stat Leaders Scoreboard 7A Location Various Cities, MS",
+          "subjects": [
+            "7A"
+          ]
+        }
+      },
+      {
+        "id": "stakes-7a",
+        "kind": "stakes",
+        "claim": "The Tupelo, Germantown, Oak Grove, Brandon matchups are in the November 27 North-South round; their winners advance to the class championship.",
+        "game_indexes": [
+          0,
+          1
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/7Qe55DhJ3U-Et2Lh98aBLQ/CNwRYYOM7EO7I6nYYiA5Qw/football-26/2026-football-championships-7a.htm",
+          "excerpt": "Nov 27 North-South G13 11/27 @ 7p H Tupelo Germantown Tickets Preview Details G14 11/27 @ 7p H Oak Grove Brandon Tickets Preview Details Dec 4 Championship Championship G15 12/4 @ 7:30p Winner G13 Winner G14",
+          "subjects": [
+            "Tupelo",
+            "Germantown",
+            "Oak Grove",
+            "Brandon"
+          ]
+        }
+      },
+      {
+        "id": "class-6a",
+        "kind": "context",
+        "claim": "This is the 6A bracket in the 2026 Football Championships.",
+        "game_indexes": [
+          2,
+          6
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/7Qe55DhJ3U-Et2Lh98aBLQ/RW2Ies307EKaFHfUoXsnYA/football-26/2026-football-championships-6a.htm",
+          "excerpt": "2026 Football Championships Search Tournaments MS Football Playoffs 2026 MS Brackets Stat Leaders Scoreboard 6A Location Various Cities, MS",
+          "subjects": [
+            "6A"
+          ]
+        }
+      },
+      {
+        "id": "stakes-6a",
+        "kind": "stakes",
+        "claim": "The Warren Central, South Panola, Picayune, Hattiesburg matchups are in the November 27 North-South round; their winners advance to the class championship. The bracket includes live-stream listings for the referenced semifinal matchups.",
+        "game_indexes": [
+          2,
+          6
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/7Qe55DhJ3U-Et2Lh98aBLQ/RW2Ies307EKaFHfUoXsnYA/football-26/2026-football-championships-6a.htm",
+          "excerpt": "Nov 27 North-South G13 11/27 @ 7p South Panola H Warren Central Watch Live Stream | Tickets Preview Details G14 11/27 @ 7p Hattiesburg H Picayune Watch Live Stream | Tickets Preview Details Dec 3 Championship Championship G15 12/3 @ 7:30p Winner G13 Winner G14",
+          "subjects": [
+            "Warren Central",
+            "South Panola",
+            "Picayune",
+            "Hattiesburg"
+          ]
+        }
+      },
+      {
+        "id": "class-5a",
+        "kind": "context",
+        "claim": "This is the 5A bracket in the 2026 Football Championships.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/7Qe55DhJ3U-Et2Lh98aBLQ/9s_OuAQucUaEHpSVtfiygA/football-26/2026-football-championships-5a.htm",
+          "excerpt": "2026 Football Championships Search Tournaments MS Football Playoffs 2026 MS Brackets Stat Leaders Scoreboard 5A Location Various Cities, MS",
+          "subjects": [
+            "5A"
+          ]
+        }
+      },
+      {
+        "id": "stakes-5a",
+        "kind": "stakes",
+        "claim": "The New Hope, West Point matchups are in the November 27 North-South round; their winners advance to the class championship. The bracket includes live-stream listings for the referenced semifinal matchups.",
+        "game_indexes": [
+          3
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/7Qe55DhJ3U-Et2Lh98aBLQ/9s_OuAQucUaEHpSVtfiygA/football-26/2026-football-championships-5a.htm",
+          "excerpt": "Nov 27 North-South G13 11/27 @ 7p H New Hope West Point Watch Live Stream | Tickets Preview Details G14 11/27 @ 7p Brookhaven H Wayne County Tickets Preview Details Dec 5 Championship Championship G15 12/5 @ 7p Winner G13 Winner G14",
+          "subjects": [
+            "New Hope",
+            "West Point"
+          ]
+        }
+      },
+      {
+        "id": "class-4a",
+        "kind": "context",
+        "claim": "This is the 4A bracket in the 2026 Football Championships.",
+        "game_indexes": [
+          4,
+          7
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/7Qe55DhJ3U-Et2Lh98aBLQ/6LZ-gI65Bk2RLnuB92Ndsg/football-26/2026-football-championships-4a.htm",
+          "excerpt": "2026 Football Championships Search Tournaments MS Football Playoffs 2026 MS Brackets Stat Leaders Scoreboard 4A Location Various Cities, MS",
+          "subjects": [
+            "4A"
+          ]
+        }
+      },
+      {
+        "id": "stakes-4a",
+        "kind": "stakes",
+        "claim": "The Louisville, Kosciusko, Poplarville, Mendenhall matchups are in the November 27 North-South round; their winners advance to the class championship. The bracket includes a live-stream listing for Kosciusko versus Louisville.",
+        "game_indexes": [
+          4,
+          7
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/tournament/7Qe55DhJ3U-Et2Lh98aBLQ/6LZ-gI65Bk2RLnuB92Ndsg/football-26/2026-football-championships-4a.htm",
+          "excerpt": "Nov 27 North-South G29 11/27 @ 7p Kosciusko H Louisville Watch Live Stream | Tickets Preview Details G30 11/27 @ 7p H Poplarville Mendenhall Tickets Preview Details Dec 3 Championship Championship G31 12/3 @ 4p Winner G29 Winner G30",
+          "subjects": [
+            "Louisville",
+            "Kosciusko",
+            "Poplarville",
+            "Mendenhall"
+          ]
+        }
+      },
+      {
+        "id": "germantown-form",
+        "kind": "record",
+        "claim": "Germantown is 8-4 overall with a 5-2 away record and a four-game winning streak.",
+        "game_indexes": [
+          0
+        ],
+        "as_of_date": "2026-11-27",
+        "evidence": {
+          "url": "https://www.maxpreps.com/ms/madison/germantown-mavericks/football/schedule/",
+          "excerpt": "Football Schedule Germantown Football Schedule 2026-27 Next Game Away • Playoff 2026 Football Championships Germantown 8-4 Tupelo 13-0 Germantown 8-4 Fri, 11/27 @ 7:00pm Preview Game Tupelo 13-0 Buy Tickets Preview Game Going to the game? Provide score updates Overall 8-4 0.667 Win Pct District 3-2 3rd 7A Region 2 Home 3-2 Away 5-2 Neutral 0-0 PF 499 PA 364 Streak 4W * District ** Playoffs *** Tournament",
+          "subjects": [
+            "Germantown",
+            "Tupelo"
+          ]
+        }
+      }
+    ]
+  }
+}
