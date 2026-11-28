@@ -53,6 +53,14 @@ def normalized(value):
     return " ".join(html.unescape(str(value)).split()).casefold()
 
 
+def display_date(day):
+    return f"{day:%B} {day.day}, {day:%Y}"
+
+
+def display_time(start):
+    return start.strftime("%I:%M %p %Z").lstrip("0")
+
+
 def require(condition, message):
     if not condition:
         raise EditionError(message)
@@ -170,7 +178,7 @@ def validate(data, now):
         date_formats = {data["date"], date.fromisoformat(data["date"]).strftime("%m/%d/%Y"),
                         date.fromisoformat(data["date"]).strftime("%m/%d/%y"),
                         date.fromisoformat(data["date"]).strftime("%B %d, %Y"),
-                        date.fromisoformat(data["date"]).strftime("%B %-d, %Y")}
+                        display_date(date.fromisoformat(data["date"]))}
         require(any(normalized(fmt) in normalized(date_quote) for fmt in date_formats),
                 "Source date evidence must explicitly identify covered date and year")
         if edition == "scores":
@@ -227,7 +235,7 @@ def article_facts(data):
         claim += " " + data["date"]
         if game.get("start_time"):
             claim += " " + game["start_time"]
-            claim += " " + datetime.fromisoformat(game["start_time"]).astimezone(CENTRAL).strftime("%-I:%M %p %Z")
+            claim += " " + display_time(datetime.fromisoformat(game["start_time"]).astimezone(CENTRAL))
         facts[f"game-{index}"] = {"claim": claim, "evidence": game["evidence"], "game_indexes": [index]}
     facts.update({fact["id"]: fact for fact in data.get("article", {}).get("facts", [])})
     return facts
@@ -317,7 +325,7 @@ def validate_article(data):
             require(historical_date <= date.fromisoformat(data["date"]), "Future historical fact")
             date_excerpt = text_field(evidence.get("date_excerpt"), "historical date excerpt", 200)
             formats = {historical_date.isoformat(), historical_date.strftime("%m/%d/%Y"),
-                       historical_date.strftime("%B %-d, %Y"), historical_date.strftime("%m/%d/%y")}
+                       display_date(historical_date), historical_date.strftime("%m/%d/%y")}
             require(normalized(date_excerpt) in normalized(excerpt)
                     and any(normalized(fmt) in normalized(date_excerpt) for fmt in formats),
                     "Historical event date absent from evidence")
@@ -432,7 +440,7 @@ def identity(data):
 
 def render(data):
     covered = date.fromisoformat(data["date"])
-    day = covered.strftime("%B %-d, %Y")
+    day = display_date(covered)
     if "article" in data:
         body = [f"<!-- {identity(data)} -->"]
         if "revision" in data:
@@ -465,7 +473,7 @@ def render(data):
             if data["edition"] == "preview":
                 if game.get("start_time"):
                     start = datetime.fromisoformat(game["start_time"]).astimezone(CENTRAL)
-                    line += f" — {start.strftime('%-I:%M %p %Z')}"
+                    line += f" — {display_time(start)}"
                 else:
                     line += " — start time not verified"
             if game.get("game_no", 1) > 1:
@@ -497,6 +505,8 @@ def featured_image(data):
     draw = ImageDraw.Draw(image)
     font_paths = ["/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
                   "/System/Library/Fonts/Supplemental/Arial Bold.ttf"]
+    if os.name == "nt":
+        font_paths.append(Path(os.environ["WINDIR"]) / "Fonts" / "arialbd.ttf")
     def font(size):
         for path in font_paths:
             if Path(path).exists():
@@ -509,7 +519,7 @@ def featured_image(data):
     lines = ["Scores from", "last Night"] if data["edition"] == "scores" else ["Games To Watch"]
     for index, line in enumerate(lines):
         draw.text((90, 258 + index * 120), line, font=font(96), fill="white")
-    day = date.fromisoformat(data["date"]).strftime("%B %-d, %Y")
+    day = display_date(date.fromisoformat(data["date"]))
     draw.text((94, 560), day, font=font(56), fill="#efb441")
     draw.line((90, 714, 1510, 714), fill="#3d586b", width=3)
     draw.text((94, 772), "SPORTSMISSISSIPPI.COM", font=font(32), fill="#bcd1df")
