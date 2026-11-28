@@ -3,7 +3,8 @@
 from __future__ import annotations
 
 from rss_to_wp.rewriter.model_options import create_model_completion, resolve_retired_model
-from rss_to_wp.rewriter.depth import DEFAULT_DEPTH_POLICY, article_depth_problem
+from rss_to_wp.rewriter.depth import DEFAULT_DEPTH_POLICY, article_depth_problem, article_depth_report
+from rss_to_wp.rewriter.repair import repair_feedback
 
 import json
 import re
@@ -94,6 +95,7 @@ class OpenAIRewriter:
         max_input_chars: int = 24000,
         depth_policy=DEFAULT_DEPTH_POLICY,
         verify_facts: bool = False,
+        max_repairs: int = 1,
     ):
         """Initialize OpenAI rewriter.
 
@@ -110,6 +112,12 @@ class OpenAIRewriter:
         self.max_input_chars = max_input_chars
         self.depth_policy = depth_policy
         self.verify_facts = verify_facts
+        # Repair requests per rewrite for drafts held by deterministic checks.
+        self.max_repairs = max(0, int(max_repairs))
+        # Why the latest rewrite() returned None for content reasons (not API
+        # errors). The caller uses it for the audit trail and the attempt limit.
+        self.last_rejection = None
+        self.last_fact_issues = []
         self._last_request_time = 0.0
 
     def _rate_limit(self) -> None:
@@ -140,6 +148,7 @@ class OpenAIRewriter:
         """
         # Clean HTML from content for better processing
         clean_content = self._strip_html(content)
+        self.last_rejection = None
 
         problem = source_problem(clean_content, original_title)
         if problem:
@@ -186,64 +195,24 @@ Remember to respond with valid JSON containing headline, excerpt, and body."""
                 ],
                 "temperature": 0.7,
             }
-            
+
             # Newer models (gpt-5, gpt-4.1, gpt-4o, etc.) use max_completion_tokens
             # Older models use max_tokens
             if any(x in self.model.lower() for x in ["5", "4.1", "4o", "o1", "o3", "o4"]):
                 api_params["max_completion_tokens"] = self.max_tokens
             else:
                 api_params["max_tokens"] = self.max_tokens
-            
+
             # Only add response_format for models that support it
             if "o1" not in self.model.lower():
                 api_params["response_format"] = {"type": "json_object"}
-            
-            response = create_model_completion(self.client, api_params)
 
-            if getattr(response, "usage", None):
-                usage = response.usage
-                logger.info("rewrite_usage", input_tokens=usage.prompt_tokens,
-                            output_tokens=usage.completion_tokens,
-                            reasoning_tokens=getattr(usage.completion_tokens_details,
-                                                     "reasoning_tokens", None))
-
-            if response.choices[0].finish_reason != "stop":
-                logger.warning("rewrite_incomplete", finish_reason=response.choices[0].finish_reason)
-                return None
-
-            # Parse response
-            response_text = response.choices[0].message.content
-            result = self._parse_response(response_text)
-
-            if result:
-                # Override headline if requested
-                if use_original_title:
-                    result["headline"] = original_title
-
-                problem = article_problem(result, content, original_title)
-                problem = problem or article_depth_problem(result, clean_content, original_title,
-                                                            self.depth_policy)
-                if problem:
-                    logger.warning("rewrite_content_rejected", reason=problem)
-                    return None
-
-                if self.verify_facts and not self._facts_supported(result, clean_content, original_title,
-                                                                   self.model, reference_time, source_published):
-                    return None
-
-                logger.info(
-                    "rewrite_complete",
-                    headline=result["headline"][:50],
-                    body_length=len(result["body"]),
-                )
-
-                return result
-
-            return None
+            return self._generate(api_params, self.model, content, clean_content, original_title,
+                                  use_original_title, reference_time, source_published)
 
         except Exception as e:
             logger.error("openai_rewrite_error", error=str(e), model=self.model)
-            
+
             # Try fallback model if primary fails
             if self.fallback_model and self.model != self.fallback_model:
                 logger.info("trying_fallback_model", fallback=self.fallback_model)
@@ -253,33 +222,104 @@ Remember to respond with valid JSON containing headline, excerpt, and body."""
                     if "5" in self.fallback_model or "4.1" in self.fallback_model:
                         api_params.pop("max_tokens", None)
                         api_params["max_completion_tokens"] = self.max_tokens
-                    
-                    response = create_model_completion(self.client, api_params)
-                    if response.choices[0].finish_reason != "stop":
-                        logger.warning("fallback_rewrite_incomplete", finish_reason=response.choices[0].finish_reason)
-                        return None
-                    response_text = response.choices[0].message.content
-                    result = self._parse_response(response_text)
-                    
-                    if result:
-                        if use_original_title:
-                            result["headline"] = original_title
-                        problem = article_problem(result, content, original_title)
-                        problem = problem or article_depth_problem(result, clean_content, original_title,
-                                                                    self.depth_policy)
-                        if problem:
-                            logger.warning("fallback_content_rejected", reason=problem)
-                            return None
-                        if self.verify_facts and not self._facts_supported(result, clean_content,
-                                                                          original_title, self.fallback_model,
-                                                                          reference_time, source_published):
-                            return None
-                        logger.info("fallback_rewrite_complete", headline=result["headline"][:50])
-                        return result
+
+                    return self._generate(api_params, self.fallback_model, content, clean_content,
+                                          original_title, use_original_title, reference_time,
+                                          source_published, fallback=True)
                 except Exception as fallback_error:
                     logger.error("fallback_rewrite_error", error=str(fallback_error))
-            
+
             return None
+
+    def _gate(self, result, content, clean_content, original_title):
+        """Deterministic publication checks. Returns ``(problem, details)``."""
+        problem = article_problem(result, content, original_title)
+        if problem:
+            return problem, {}
+        return article_depth_report(result, clean_content, original_title, self.depth_policy)
+
+    def _reject(self, reason, details=None, draft=None):
+        self.last_rejection = {
+            "reason": reason,
+            "details": details or {},
+            "headline": (draft or {}).get("headline") if isinstance(draft, dict) else None,
+        }
+        return None
+
+    def _generate(self, api_params, model, content, clean_content, original_title,
+                  use_original_title, reference_time, source_published, fallback=False):
+        """Draft, check, repair at most ``max_repairs`` times, then verify facts.
+
+        API and transport errors propagate to the caller's fallback handling.
+        Content holds return None and record ``last_rejection``.
+        """
+        incomplete_event = "fallback_rewrite_incomplete" if fallback else "rewrite_incomplete"
+        rejected_event = "fallback_content_rejected" if fallback else "rewrite_content_rejected"
+        complete_event = "fallback_rewrite_complete" if fallback else "rewrite_complete"
+        base_messages = list(api_params["messages"])
+        repairs_used = 0
+
+        response = create_model_completion(self.client, api_params)
+        while True:
+            if getattr(response, "usage", None):
+                usage = response.usage
+                logger.info("rewrite_usage", input_tokens=usage.prompt_tokens,
+                            output_tokens=usage.completion_tokens,
+                            reasoning_tokens=getattr(usage.completion_tokens_details,
+                                                     "reasoning_tokens", None))
+
+            if response.choices[0].finish_reason != "stop":
+                logger.warning(incomplete_event, finish_reason=response.choices[0].finish_reason)
+                return self._reject("incomplete_response",
+                                    {"finish_reason": str(response.choices[0].finish_reason)})
+
+            # Parse response
+            response_text = response.choices[0].message.content
+            result = self._parse_response(response_text)
+            if not result:
+                return self._reject("unusable_response")
+
+            # Override headline if requested
+            if use_original_title:
+                result["headline"] = original_title
+
+            problem, details = self._gate(result, content, clean_content, original_title)
+            if not problem:
+                break
+
+            logger.warning(rejected_event, reason=problem, details=details,
+                           headline=result["headline"][:80], repair=repairs_used)
+            feedback = repair_feedback(problem, details)
+            if not feedback or repairs_used >= self.max_repairs:
+                return self._reject(problem, details, result)
+
+            # One bounded repair: name the exact problem instead of re-rolling the
+            # same prompt on the next scheduled run.
+            repairs_used += 1
+            self._rate_limit()
+            logger.info("rewrite_repair_requested", reason=problem, attempt=repairs_used)
+            repair_params = dict(api_params)
+            repair_params["messages"] = base_messages + [
+                {"role": "assistant", "content": response_text},
+                {"role": "user", "content": feedback},
+            ]
+            try:
+                response = create_model_completion(self.client, repair_params)
+            except Exception as repair_error:
+                logger.warning("rewrite_repair_error", error=str(repair_error))
+                return self._reject(problem, details, result)
+
+        # The independent comparison is never repaired or retried.
+        if self.verify_facts and not self._facts_supported(result, clean_content, original_title,
+                                                           model, reference_time, source_published):
+            return self._reject("fact_check_rejected", {"issues": self.last_fact_issues}, result)
+
+        if fallback:
+            logger.info(complete_event, headline=result["headline"][:50], repairs=repairs_used)
+        else:
+            logger.info(complete_event, headline=result["headline"][:50],
+                        body_length=len(result["body"]), repairs=repairs_used)
+        return result
 
     def _facts_supported(self, article, source, title, model, reference_time=None, source_published=None):
         """One bounded independent source comparison; uncertain/malformed = hold.
@@ -327,8 +367,10 @@ Remember to respond with valid JSON containing headline, excerpt, and body."""
                      and verdict.get("supported") is True and verdict.get("issues") == [])
         except (ValueError, TypeError, IndexError, AttributeError):
             valid = False
+        self.last_fact_issues = []
         if not valid:
             issues = verdict.get("issues", []) if isinstance(verdict, dict) else []
+            self.last_fact_issues = issues if isinstance(issues, list) else []
             logger.warning("article_fact_check_rejected", issues=issues)
         return valid
 

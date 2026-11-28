@@ -52,6 +52,20 @@ class DedupeStore:
                 CREATE INDEX IF NOT EXISTS idx_feed_url
                 ON processed_entries(feed_url)
             """)
+            # Content holds per entry. Kept apart from processed_entries so a
+            # held story is never counted or reported as published.
+            conn.execute("""
+                CREATE TABLE IF NOT EXISTS rewrite_rejections (
+                    entry_key TEXT PRIMARY KEY,
+                    feed_url TEXT,
+                    entry_title TEXT,
+                    entry_link TEXT,
+                    attempts INTEGER NOT NULL DEFAULT 0,
+                    last_reason TEXT,
+                    last_details TEXT,
+                    updated_at TIMESTAMP
+                )
+            """)
             conn.commit()
 
         logger.debug("database_initialized", path=str(self.db_path))
@@ -86,6 +100,48 @@ class DedupeStore:
             logger.debug("entry_already_processed", key=entry_key)
 
         return result
+
+    def rejection_state(self, entry_key: str) -> tuple[int, Optional[str]]:
+        """Return ``(attempts, last_reason)`` for content holds on an entry."""
+        with self._get_connection() as conn:
+            row = conn.execute(
+                "SELECT attempts, last_reason FROM rewrite_rejections WHERE entry_key = ?",
+                (entry_key,),
+            ).fetchone()
+        return (int(row["attempts"]), row["last_reason"]) if row else (0, None)
+
+    def record_rejection(
+        self,
+        entry_key: str,
+        feed_url: str,
+        entry_title: str,
+        entry_link: str,
+        reason: str,
+        details: str = "",
+    ) -> int:
+        """Count one more content hold for an entry and return the new total."""
+        with self._get_connection() as conn:
+            conn.execute(
+                """
+                INSERT INTO rewrite_rejections
+                (entry_key, feed_url, entry_title, entry_link, attempts, last_reason,
+                 last_details, updated_at)
+                VALUES (?, ?, ?, ?, 1, ?, ?, ?)
+                ON CONFLICT(entry_key) DO UPDATE SET
+                    attempts = attempts + 1,
+                    last_reason = excluded.last_reason,
+                    last_details = excluded.last_details,
+                    updated_at = excluded.updated_at
+                """,
+                (entry_key, feed_url, entry_title, entry_link, reason, details,
+                 datetime.utcnow().isoformat()),
+            )
+            conn.commit()
+            attempts = conn.execute(
+                "SELECT attempts FROM rewrite_rejections WHERE entry_key = ?", (entry_key,)
+            ).fetchone()["attempts"]
+        logger.info("entry_rejection_recorded", key=entry_key, attempts=attempts, reason=reason)
+        return int(attempts)
 
     def mark_processed(
         self,
