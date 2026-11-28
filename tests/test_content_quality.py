@@ -189,6 +189,15 @@ def test_source_holds_do_not_block_another_game():
     assert source_hold_problem("https://bmcusports.com/news/2026/10/3/womens-volleyball-another-game.aspx") is None
 
 
+def test_penn_state_source_accepts_corrected_score_only_for_affected_recap():
+    url = "https://hailstate.com/news/2026/11/27/mens-basketball-msu-falls-to-penn-state-in-battle-4-atlantis-finale"
+    title = "Battle 4 Atlantis finale"
+    assert source_problem("Penn State won 66-61.", title, url)
+    assert source_problem("Penn State won 68–63 after a 37–25 second half.", title, url)
+    assert source_problem("Penn State won 68–63 after a 39–27 second half.", title, url) is None
+    assert source_problem("Penn State won 66-61.", title, url+"-another-game") is None
+
+
 def response(html, url="https://example.com/story"):
     return SimpleNamespace(content=html.encode(), url=url, headers={}, raise_for_status=Mock())
 

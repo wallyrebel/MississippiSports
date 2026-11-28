@@ -139,10 +139,16 @@ def volleyball_problem(source: str, original_title: str, article: dict) -> Optio
     return None
 
 
-def source_problem(content: str, title: str) -> Optional[str]:
+def source_problem(content: str, title: str, url: str = "") -> Optional[str]:
     problem = content_problem(content)
     if problem:
         return problem
+    source = urlparse(url)
+    # MSU box score 27754 and Penn State's game book agree on 68–63, with a 39–27 second half.
+    if ((source.hostname or "").removeprefix("www.") == "hailstate.com"
+            and source.path.rstrip("/") == "/news/2026/11/27/mens-basketball-msu-falls-to-penn-state-in-battle-4-atlantis-finale"
+            and re.search(r"\b(?:66\s*[-–—]\s*61|37\s*[-–—]\s*25)\b", plain_text(content))):
+        return "source_conflict_penn_state_final_box_27754"
     return volleyball_problem(content, title, {"headline": title, "body": content})
 
 

@@ -381,7 +381,7 @@ def process_entry(
 
     logger.info("processing_entry", title=title[:50])
 
-    problem = source_problem(content, title)
+    problem = source_problem(content, title, link or "")
     if problem:
         logger.warning("entry_content_rejected", title=title[:50], reason=problem)
         return None
